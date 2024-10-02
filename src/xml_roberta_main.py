@@ -7,7 +7,7 @@ import logging
 from utils.misc import set_seed
 from dataset import bio_xml_roberta_whole
 from utils.xml_roberta_evaluation import xml_roberta_eval
-from utils.total_xml_roberta_training import total_xml_roberta_train
+from utils.xml_roberta_training import xml_roberta_train
 from model.xml_roberta import XML_RoBERTa
 from transformers import AutoTokenizer
 
