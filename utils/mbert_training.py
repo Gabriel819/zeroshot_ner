@@ -13,7 +13,7 @@ import evaluate
 import torch.nn as nn
 import copy
 
-def total_mbert_train(args, english_dataset, zeroshot_dataset, model, device, f):
+def mbert_train(args, english_dataset, zeroshot_dataset, model, device, f):
     train_dataset = english_dataset['train']
     train_sampler = RandomSampler(train_dataset)
     train_dataloader = DataLoader(
@@ -48,10 +48,7 @@ def total_mbert_train(args, english_dataset, zeroshot_dataset, model, device, f)
     logging.info("***** Running training *****")
     logging.info("  Num examples = %d", len(train_dataset))
     logging.info("  Num Epochs = %d", args.num_train_epochs)
-    logging.info(
-        "  Total train batch size = %d",
-        args.train_batch_size
-    )
+    logging.info("  Total train batch size = %d", args.train_batch_size)
     logging.info("  Total optimization steps = %d", n_train_steps)
     logging.info("  Using linear warmup (ratio=%s)", args.warmup_ratio)
     logging.info("  Using weight decay (value=%s)", args.weight_decay)
