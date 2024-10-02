@@ -19,6 +19,7 @@ data
 
 # Data
 <img width="748" alt="image" src="https://github.com/user-attachments/assets/e23687ea-1a2a-40c8-a28a-4b282b4391a8">
+
 - M: mBERT, C: CANINE, X: XPhoneBERT
 
 # Train
