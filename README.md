@@ -36,7 +36,7 @@ python src/mbert_main.py --task mbert --model bio_mbert --train_language english
 2. CANINE train
 python src/canine_c_main.py --task canine_c --model bio_canine_ch --train_language english --max_seq_len 128 --do_train --train_batch_size 128 --eval_batch_size 128 --num_train_epochs 10
 
-3. xPhoneBERT train
+3. XPhoneBERT train
 python src/xphonebert_main.py --task phoneme_xphonebert --model bio_xphonebert --train_language english --max_seq_len 128 --do_train --train_batch_size 128 --eval_batch_size 128 --num_train_epochs 10
 
 4. BORT train
@@ -53,7 +53,7 @@ python src/mbert_main.py --task mbert --model bio_mbert --max_seq_len 128 --do_p
 2. CANINE inference
 python src/canine_c_main.py --task canine_c --model bio_canine_ch --max_seq_len 128 --do_predict --eval_batch_size 128 --model_ckpt_path 'canine c model checkpoint path'
 
-3. xPhoneBERT inference
+3. XPhoneBERT inference
 python src/xphonebert_main.py --task phoneme_xphonebert --model bio_xphonebert --max_seq_len 128 --do_predict --eval_batch_size 128 --model_ckpt_path 'xphonebert model checkpoint path'
 
 4. BORT inference
