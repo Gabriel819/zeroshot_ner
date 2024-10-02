@@ -153,31 +153,11 @@ def main(args):
     for k, v in vars(args).items():
         logging.info("* %s: %s", k, v)
     if args.do_train:
-        ##### Train Dataset Loading #####
-        if args.model == 'bio_xml_roberta' and args.train_language == 'english':
-            ##### BIO Tagging XML RoBERTa WikiAnn English Dataset #####
-            logging.info('Loading BIO Tagging XML RoBERTa WikiAnn English Dataset')
-            train_dataset = {}
-            train_dataset['train'] = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('english', 'train', args.max_seq_len)
-            train_dataset['validation'] = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('english', 'validation', args.max_seq_len)
-            train_dataset['test'] = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('english', 'test', args.max_seq_len)
-        else:
-            print(f"{args.train_language} is not defined!")
-            
-        ########## Zero-shot Validation Dataset loading ##########
-        if args.model == 'bio_xml_roberta':
-            ##### BIO Epi WikiAnn Korean Dataset #####
-            logging.info('Loading BIO XML RoBERTa Epi WikiAnn Korean Dataset')
-            validation_dataset = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('korean', 'validation', args.max_seq_len)
-        else:
-            print(f"{args.model} with {args.val_language} doesn't exist!")
-            raise NotImplementedError
-
         f = open(args.task + '_log.txt', 'a')
         global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = xml_roberta_train(
             args=args,
-            conll_dataset = train_dataset,
-            kor_dataset  = validation_dataset,
+            english_dataset = train_dataset,
+            zeroshot_dataset  = train_dataset['test'],
             model=model,
             device=device,
             f=f
