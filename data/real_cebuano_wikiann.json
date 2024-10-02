@@ -1,0 +1,11721 @@
+{
+	"id_mapping": {
+		"0": "O",
+		"1": "B-PER",
+		"2": "I-PER",
+		"3": "B-ORG",
+		"4": "I-ORG",
+		"5": "B-LOC",
+		"6": "I-LOC"
+	},
+	"validation": [
+		{
+			"tokens": [
+				"Heneral",
+				"sa",
+				"Kapunongan",
+				"ni",
+				"Jesus"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"heneɾal",
+				"sa",
+				"kapunoŋan",
+				"ni",
+				"d͡ʒesus"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Departamento",
+				"de",
+				"Avellaneda",
+				"(",
+				"munisipyo",
+				"sa",
+				"Arhentina",
+				",",
+				"Provincia",
+				"de",
+				"Río",
+				"Negro",
+				")",
+				","
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"depaɾtamento",
+				"de",
+				"avellaneda",
+				"(",
+				"munisipjo",
+				"sa",
+				"aɾhentina",
+				",",
+				"pɾovinkia",
+				"de",
+				"ɾío",
+				"neɡɾo",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Unyon",
+				"sa",
+				"mga",
+				"Nasod",
+				"nga",
+				"Habagatang-Amerikanhon"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"unjon",
+				"sa",
+				"mɡa",
+				"nasod",
+				"ŋa",
+				"habaɡataŋʔameɾikanhon"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Awstralya",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awstɾalja",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Cordillera",
+				"de",
+				"Quimsa",
+				"Cruz"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"koɾdilleɾa",
+				"de",
+				"quimsa",
+				"kɾuz"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Esteban",
+				"I",
+				"(",
+				"papa",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"esteban",
+				"i",
+				"(",
+				"papa",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"maong",
+				"paglayag",
+				"maoy",
+				"unang",
+				"higayon",
+				"nga",
+				"pagtuyok-layag",
+				"sa",
+				"Kalibotan",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"maoŋ",
+				"paɡlajaɡ",
+				"maoj",
+				"unaŋ",
+				"hiɡajon",
+				"ŋa",
+				"paɡtujokʔlajaɡ",
+				"sa",
+				"kalibotan",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Préfecture",
+				"de",
+				"la",
+				"Nana-Mambéré"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pɾéfektuɾe",
+				"de",
+				"la",
+				"nanaʔmambéɾé"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Sterkels-Berg",
+				"mao",
+				"ang",
+				"bahin",
+				"sa",
+				"Knüll",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"steɾkelsʔbeɾɡ",
+				"mao",
+				"aŋ",
+				"bahin",
+				"sa",
+				"knüll",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sacred",
+				"Heart",
+				"School",
+				"–",
+				"Ateneo",
+				"de",
+				"Cebu"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sakɾed",
+				"heaɾt",
+				"st͡ʃool",
+				"–",
+				"ateneo",
+				"de",
+				"kebu"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"amihanan-sidlakang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan-sidlakan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Beirut",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"amihananʔsidlakaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihananʔsidlakan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"beiɾut",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Likasi",
+				"(",
+				"lungsod",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"likasi",
+				"(",
+				"luŋsod",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ar",
+				"Raqqah",
+				"(",
+				"kapital",
+				"sa",
+				"lalawigan",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"aɾ",
+				"ɾaqqah",
+				"(",
+				"kapital",
+				"sa",
+				"lalawiɡan",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Harianong",
+				"Obserbatoryo",
+				"(",
+				"Greenwich",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"haɾianoŋ",
+				"obseɾbatoɾjo",
+				"(",
+				"ɡɾeenwit͡ʃ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Juan",
+				"Diego",
+				"Cuauhtlatoatzin"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒuan",
+				"dieɡo",
+				"kuauhtlatoatzin"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Metropolitanong",
+				"Katedral-Basilika",
+				"sa",
+				"Manila"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"metɾopolitanoŋ",
+				"katedɾalʔbasilika",
+				"sa",
+				"manila"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Juan",
+				"Diego",
+				"Cuauhtlatoatzin"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒuan",
+				"dieɡo",
+				"kuauhtlatoatzin"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Jamalūl",
+				"Kirām",
+				"III"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒamalūl",
+				"kiɾām",
+				"iii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"José",
+				"sa",
+				"Nazaret"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒosé",
+				"sa",
+				"nazaɾet"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Unibersidad",
+				"sa",
+				"Ateneo",
+				"de",
+				"Manila"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"unibeɾsidad",
+				"sa",
+				"ateneo",
+				"de",
+				"manila"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"amihanan-kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Porto-Novo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"amihananʔkasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"poɾtoʔnovo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan-sidlakan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Ouagadougou",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatanʔsidlakan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"ouaɡadouɡou",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Juan",
+				"Diego",
+				"Cuauhtlatoatzin"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒuan",
+				"dieɡo",
+				"kuauhtlatoatzin"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Cà",
+				"phê",
+				"sữa",
+				"đá"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kà",
+				"pheʔ",
+				"sữa",
+				"đá"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Bolsa",
+				"sa",
+				"Pilipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"bolsa",
+				"sa",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Alejandro",
+				"ang",
+				"Bantogan"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"aled͡ʒandɾo",
+				"aŋ",
+				"bantoɡan"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Sadd",
+				"al",
+				"Furāt"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sadd",
+				"al",
+				"fuɾāt"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Baħar",
+				"iċ-Ċagħaq",
+				"(",
+				"lungsod",
+				"sa",
+				"Malta",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"baħaɾ",
+				"ik̇ʔk̇aɡħaq",
+				"(",
+				"luŋsod",
+				"sa",
+				"malta",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Fernando",
+				"de",
+				"Magallanes"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"feɾnando",
+				"de",
+				"maɡallanes"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Klemens",
+				"Wenzel",
+				"von",
+				"Metternich"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"klemens",
+				"wenzel",
+				"von",
+				"metteɾnit͡ʃ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kepulauan",
+				"Bangka",
+				"Belitung"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kepulauan",
+				"baŋka",
+				"belituŋ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Infanta",
+				",",
+				"Quezon"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"infanta",
+				",",
+				"quezon"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Parque",
+				"Nacional",
+				"del",
+				"Chaco"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɾque",
+				"nakional",
+				"del",
+				"t͡ʃako"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Awstralya",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awstɾalja",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Arhentina",
+				",",
+				"Chile",
+				",",
+				"ug",
+				"Hiniusang",
+				"Gingharian",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aɾhentina",
+				",",
+				"t͡ʃile",
+				",",
+				"uɡ",
+				"hiniusaŋ",
+				"ɡiŋhaɾian",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-Bajja",
+				"tal-Ġnejna",
+				"(",
+				"luuk",
+				"sa",
+				"Malta",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ilʔbad͡ʒd͡ʒa",
+				"talʔɡ̇ned͡ʒna",
+				"(",
+				"luuk",
+				"sa",
+				"malta",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Corpus",
+				"(",
+				"lungsod",
+				"sa",
+				"Arhentina",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"koɾpus",
+				"(",
+				"luŋsod",
+				"sa",
+				"aɾhentina",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Centro",
+				"Federal",
+				"de",
+				"Educação",
+				"Tecnológica",
+				"de",
+				"Minas",
+				"Gerais"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kentɾo",
+				"fedeɾal",
+				"de",
+				"edukaķão",
+				"teknolóɡika",
+				"de",
+				"minas",
+				"ɡeɾais"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Mukobwabo",
+				"nahimutang",
+				"sa",
+				"lalawigan",
+				"sa",
+				"Cankuzo",
+				"Province",
+				",",
+				"sa",
+				"sidlakang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"sidlakan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Bujumbura",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"mukobwabo",
+				"nahimutaŋ",
+				"sa",
+				"lalawiɡan",
+				"sa",
+				"kankuzo",
+				"pɾovinke",
+				",",
+				"sa",
+				"sidlakaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"sidlakan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"bud͡ʒumbuɾa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Manila",
+				"Bulletin",
+				"Publishing",
+				"Corporation"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"manila",
+				"bulletin",
+				"publishiŋ",
+				"koɾpoɾation"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Estasyong",
+				"Anonas",
+				"(",
+				"Lineyang",
+				"Murado",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"estasjoŋ",
+				"anonas",
+				"(",
+				"linejaŋ",
+				"muɾado",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Luxembourg",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"luxembouɾɡ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Departamento",
+				"de",
+				"General",
+				"Alvear",
+				"(",
+				"munisipyo",
+				"sa",
+				"Arhentina",
+				",",
+				"Provincia",
+				"de",
+				"Corrientes",
+				")",
+				","
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"depaɾtamento",
+				"de",
+				"ɡeneɾal",
+				"alveaɾ",
+				"(",
+				"munisipjo",
+				"sa",
+				"aɾhentina",
+				",",
+				"pɾovinkia",
+				"de",
+				"koɾɾientes",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kapellet",
+				"(",
+				"walog",
+				")",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"kapellet",
+				"(",
+				"waloɡ",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Epifanio",
+				"de",
+				"los",
+				"Santos"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"epifanio",
+				"de",
+				"los",
+				"santos"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"habagatan-sidlakang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"sidlakan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Kinshasa",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"habaɡatanʔsidlakaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"sidlakan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"kinshasa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fabián",
+				"(",
+				"papa",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"fabián",
+				"(",
+				"papa",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Arhentina",
+				",",
+				"Chile",
+				",",
+				"ug",
+				"Hiniusang",
+				"Gingharian",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aɾhentina",
+				",",
+				"t͡ʃile",
+				",",
+				"uɡ",
+				"hiniusaŋ",
+				"ɡiŋhaɾian",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siegfried",
+				"&",
+				"Roy"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"sieɡfɾied",
+				"&",
+				"ɾoj"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Basahon",
+				"sa",
+				"mga",
+				"Pagbangotan"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"basahon",
+				"sa",
+				"mɡa",
+				"paɡbaŋotan"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Sacred",
+				"Heart",
+				"School",
+				"–",
+				"Ateneo",
+				"de",
+				"Cebu"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sakɾed",
+				"heaɾt",
+				"st͡ʃool",
+				"–",
+				"ateneo",
+				"de",
+				"kebu"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Abellanosa",
+				",",
+				"Ramon",
+				"D",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"abellanosa",
+				",",
+				"ɾamon",
+				"d",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Dawélgué",
+				"nahimutang",
+				"sa",
+				"lalawigan",
+				"sa",
+				"Bazega",
+				"Province",
+				"ug",
+				"rehiyon",
+				"sa",
+				"Centre-Sud",
+				",",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Ouagadougou",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"dawélɡué",
+				"nahimutaŋ",
+				"sa",
+				"lalawiɡan",
+				"sa",
+				"bazeɡa",
+				"pɾovinke",
+				"uɡ",
+				"ɾehijon",
+				"sa",
+				"kentɾeʔsud",
+				",",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"ouaɡadouɡou",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"University",
+				"of",
+				"San",
+				"Carlos"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"univeɾsit͡ʃ",
+				"of",
+				"san",
+				"kaɾlos"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Basahon",
+				"ni",
+				"Isaías"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"basahon",
+				"ni",
+				"isaías"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Abanil",
+				",",
+				"Ceres",
+				"Yap",
+				"Chai"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"abanil",
+				",",
+				"keɾes",
+				"jap",
+				"t͡ʃai"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umm",
+				"an",
+				"Na‘sān",
+				"(",
+				"pulo",
+				"sa",
+				"Bareyn",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"umm",
+				"an",
+				"na‘sān",
+				"(",
+				"pulo",
+				"sa",
+				"baɾejn",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"State",
+				"University",
+				"of",
+				"Campinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"state",
+				"univeɾsit͡ʃ",
+				"of",
+				"kampinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Schönhausen",
+				"(",
+				"munisipyo",
+				"sa",
+				"Alemanya",
+				",",
+				"Mecklenburg-Western",
+				"Pomerania",
+				",",
+				"lat",
+				"53,55",
+				",",
+				"long",
+				"13,70",
+				")",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"st͡ʃönhausen",
+				"(",
+				"munisipjo",
+				"sa",
+				"alemanja",
+				",",
+				"mekklenbuɾɡʔwesteɾn",
+				"pomeɾania",
+				",",
+				"lat",
+				"53,55",
+				",",
+				"loŋ",
+				"13,70",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Estasyong",
+				"Katipunan",
+				"(",
+				"Lineyang",
+				"Murado",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"estasjoŋ",
+				"katipunan",
+				"(",
+				"linejaŋ",
+				"muɾado",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Hiniusang",
+				"mga",
+				"Nasod"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"hiniusaŋ",
+				"mɡa",
+				"nasod"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Deïr",
+				"el",
+				"Qamar"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"deïɾ",
+				"el",
+				"qamaɾ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Arhentina",
+				",",
+				"Chile",
+				",",
+				"ug",
+				"Hiniusang",
+				"Gingharian",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aɾhentina",
+				",",
+				"t͡ʃile",
+				",",
+				"uɡ",
+				"hiniusaŋ",
+				"ɡiŋhaɾian",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hasenkopf",
+				"mao",
+				"ang",
+				"bahin",
+				"sa",
+				"Knüll",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"hasenkopf",
+				"mao",
+				"aŋ",
+				"bahin",
+				"sa",
+				"knüll",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"José",
+				"sa",
+				"Nazaret"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒosé",
+				"sa",
+				"nazaɾet"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Estasyong",
+				"Legarda",
+				"(",
+				"Lineyang",
+				"Murado",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"estasjoŋ",
+				"leɡaɾda",
+				"(",
+				"linejaŋ",
+				"muɾado",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Eichwalds-Kopf",
+				"mao",
+				"ang",
+				"bahin",
+				"sa",
+				"Knüll",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"eit͡ʃwaldsʔkopf",
+				"mao",
+				"aŋ",
+				"bahin",
+				"sa",
+				"knüll",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Unyon",
+				"sa",
+				"mga",
+				"Nasod",
+				"nga",
+				"Habagatang-Amerikanhon"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"unjon",
+				"sa",
+				"mɡa",
+				"nasod",
+				"ŋa",
+				"habaɡataŋʔameɾikanhon"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Arhentina",
+				",",
+				"Chile",
+				",",
+				"ug",
+				"Hiniusang",
+				"Gingharian",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aɾhentina",
+				",",
+				"t͡ʃile",
+				",",
+				"uɡ",
+				"hiniusaŋ",
+				"ɡiŋhaɾian",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Lakas",
+				"Kampi",
+				"CMD"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"lakas",
+				"kampi",
+				"kmd"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Sacred",
+				"Heart",
+				"School",
+				"–",
+				"Ateneo",
+				"de",
+				"Cebu"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sakɾed",
+				"heaɾt",
+				"st͡ʃool",
+				"–",
+				"ateneo",
+				"de",
+				"kebu"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ṭikka-masālā",
+				"nga",
+				"manok"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ṭikkaʔmasālā",
+				"ŋa",
+				"manok"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Luxembourg",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"luxembouɾɡ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Mikungu",
+				"nahimutang",
+				"sa",
+				"lalawigan",
+				"sa",
+				"Cibitoke",
+				"Province",
+				",",
+				"sa",
+				"amihanan-kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Bujumbura",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"mikuŋu",
+				"nahimutaŋ",
+				"sa",
+				"lalawiɡan",
+				"sa",
+				"kibitoke",
+				"pɾovinke",
+				",",
+				"sa",
+				"amihananʔkasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"bud͡ʒumbuɾa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kapunongan",
+				"sa",
+				"mga",
+				"Nasod",
+				"sa",
+				"Habagatang-sidlakang",
+				"Asya"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kapunoŋan",
+				"sa",
+				"mɡa",
+				"nasod",
+				"sa",
+				"habaɡataŋʔsidlakaŋ",
+				"asja"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Departamento",
+				"de",
+				"Rivadavia",
+				"(",
+				"munisipyo",
+				"sa",
+				"Arhentina",
+				",",
+				"Provincia",
+				"de",
+				"San",
+				"Juan",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"depaɾtamento",
+				"de",
+				"ɾivadavia",
+				"(",
+				"munisipjo",
+				"sa",
+				"aɾhentina",
+				",",
+				"pɾovinkia",
+				"de",
+				"san",
+				"d͡ʒuan",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"North",
+				"Sydney",
+				"(",
+				"bahin",
+				"nga",
+				"lungsod",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"noɾth",
+				"sjdnej",
+				"(",
+				"bahin",
+				"ŋa",
+				"luŋsod",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan-sidlakan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Luxembourg",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihananʔsidlakan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"luxembouɾɡ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"F.",
+				"Sionil",
+				"José"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"f.",
+				"sionil",
+				"d͡ʒosé"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Abellanosa",
+				",",
+				"Victorina",
+				"A",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"abellanosa",
+				",",
+				"viktoɾina",
+				"a",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"White",
+				"Island",
+				"(",
+				"pulo",
+				"sa",
+				"Antarctica",
+				",",
+				"lat",
+				"-66,73",
+				",",
+				"long",
+				"48,58",
+				")",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"white",
+				"island",
+				"(",
+				"pulo",
+				"sa",
+				"antaɾktika",
+				",",
+				"lat",
+				"ʔ66,73",
+				",",
+				"loŋ",
+				"48,58",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Khisarya",
+				"(",
+				"lungsod",
+				"sa",
+				"Bulgaria",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"khisaɾja",
+				"(",
+				"luŋsod",
+				"sa",
+				"bulɡaɾia",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan-kasadpan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Skopje",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"kasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatanʔkasadpan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"skopd͡ʒe",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nöll",
+				"mao",
+				"ang",
+				"bahin",
+				"sa",
+				"Knüll",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"nöll",
+				"mao",
+				"aŋ",
+				"bahin",
+				"sa",
+				"knüll",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sýgkrasi",
+				"(",
+				"lungsod",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"sj́ɡkɾasi",
+				"(",
+				"luŋsod",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Basahon",
+				"ni",
+				"Isaías"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"basahon",
+				"ni",
+				"isaías"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Zósimo",
+				"(",
+				"papa",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"zósimo",
+				"(",
+				"papa",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Anak",
+				"niya",
+				"si",
+				"Sergio",
+				"R.",
+				"Alfafara",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"anak",
+				"nija",
+				"si",
+				"seɾɡio",
+				"ɾ.",
+				"alfafaɾa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Smrdeljac",
+				"nahimutang",
+				"sa",
+				"entidad",
+				"sa",
+				"Republika",
+				"Srpska",
+				",",
+				"sa",
+				"amihanan-kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan-kasadpan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Sarajevo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"smɾdeld͡ʒak",
+				"nahimutaŋ",
+				"sa",
+				"entidad",
+				"sa",
+				"ɾepublika",
+				"sɾpska",
+				",",
+				"sa",
+				"amihananʔkasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihananʔkasadpan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"saɾad͡ʒevo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ignacio",
+				"de",
+				"Loyola"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"iɡnakio",
+				"de",
+				"lojola"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Isperikh",
+				"(",
+				"lungsod",
+				"sa",
+				"Bulgaria",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ispeɾikh",
+				"(",
+				"luŋsod",
+				"sa",
+				"bulɡaɾia",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Wülknitz",
+				"(",
+				"munisipyo",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"wülknitz",
+				"(",
+				"munisipjo",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Tetovo",
+				"(",
+				"kapital",
+				"sa",
+				"munisipyo",
+				")",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"tetovo",
+				"(",
+				"kapital",
+				"sa",
+				"munisipjo",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"La",
+				"Montagne",
+				",",
+				"Haute-Saône"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"la",
+				"montaɡne",
+				",",
+				"hauteʔsaoʔne"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Lán-nâng",
+				"ang",
+				"diyalektong",
+				"Pilipinhon",
+				"niini",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"lánʔnaʔŋ",
+				"aŋ",
+				"dijalektoŋ",
+				"pilipinhon",
+				"niini",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		}
+	],
+	"test": [
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"amihanan-kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Porto-Novo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"amihananʔkasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"poɾtoʔnovo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"São",
+				"Francisco",
+				"do",
+				"Pará"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"são",
+				"fɾankisko",
+				"do",
+				"paɾá"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Skopje",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"skopd͡ʒe",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Departamento",
+				"de",
+				"Junín",
+				"(",
+				"munisipyo",
+				"sa",
+				"Arhentina",
+				",",
+				"Provincia",
+				"de",
+				"Mendoza",
+				")",
+				","
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"depaɾtamento",
+				"de",
+				"d͡ʒunín",
+				"(",
+				"munisipjo",
+				"sa",
+				"aɾhentina",
+				",",
+				"pɾovinkia",
+				"de",
+				"mendoza",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Roxas",
+				",",
+				"Capiz"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɾoxas",
+				",",
+				"kapiz"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Basahon",
+				"ni",
+				"Nehemías"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"basahon",
+				"ni",
+				"nehemías"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Stavnja",
+				"nahimutang",
+				"sa",
+				"entidad",
+				"sa",
+				"Federation",
+				"of",
+				"Bosnia",
+				"and",
+				"Herzegovina",
+				",",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan-kasadpan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Sarajevo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"stavnd͡ʒa",
+				"nahimutaŋ",
+				"sa",
+				"entidad",
+				"sa",
+				"fedeɾation",
+				"of",
+				"bosnia",
+				"and",
+				"heɾzeɡovina",
+				",",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihananʔkasadpan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"saɾad͡ʒevo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"F.",
+				"Sionil",
+				"José"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"f.",
+				"sionil",
+				"d͡ʒosé"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Dóbro",
+				"Pólie",
+				"(",
+				"tumoy",
+				"sa",
+				"bukid",
+				"sa",
+				"Macedonia",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"dóbɾo",
+				"pólie",
+				"(",
+				"tumoj",
+				"sa",
+				"bukid",
+				"sa",
+				"makedonia",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Juan",
+				"Pablo",
+				"II"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒuan",
+				"pablo",
+				"ii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Concepción",
+				"del",
+				"Uruguay",
+				"(",
+				"kapital",
+				"sa",
+				"munisipyo",
+				"sa",
+				"Arhentina",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"konkepkión",
+				"del",
+				"uɾuɡuaj",
+				"(",
+				"kapital",
+				"sa",
+				"munisipjo",
+				"sa",
+				"aɾhentina",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Arhentina",
+				",",
+				"Chile",
+				",",
+				"ug",
+				"Hiniusang",
+				"Gingharian",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aɾhentina",
+				",",
+				"t͡ʃile",
+				",",
+				"uɡ",
+				"hiniusaŋ",
+				"ɡiŋhaɾian",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"habagatang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Sucre",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"habaɡataŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"sukɾe",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Haibach",
+				"(",
+				"munisipyo",
+				"sa",
+				"Alemanya",
+				",",
+				"Lower",
+				"Bavaria",
+				",",
+				"lat",
+				"49,02",
+				",",
+				"long",
+				"12,71",
+				")",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"haibat͡ʃ",
+				"(",
+				"munisipjo",
+				"sa",
+				"alemanja",
+				",",
+				"loweɾ",
+				"bavaɾia",
+				",",
+				"lat",
+				"49,02",
+				",",
+				"loŋ",
+				"12,71",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Korçë",
+				"(",
+				"kapital",
+				"sa",
+				"prepektura",
+				"sa",
+				"Albanya",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"koɾķë",
+				"(",
+				"kapital",
+				"sa",
+				"pɾepektuɾa",
+				"sa",
+				"albanja",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Gunung",
+				"Leuser",
+				"National",
+				"Park"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡunuŋ",
+				"leuseɾ",
+				"national",
+				"paɾk"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Naschbütte",
+				"mao",
+				"ang",
+				"bahin",
+				"sa",
+				"Knüll",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"nast͡ʃbütte",
+				"mao",
+				"aŋ",
+				"bahin",
+				"sa",
+				"knüll",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bigo",
+				"(",
+				"bukid",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"biɡo",
+				"(",
+				"bukid",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Kykkos",
+				"(",
+				"arkiyolohiyang",
+				"dapit",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kjkkos",
+				"(",
+				"aɾkijolohijaŋ",
+				"dapit",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ilha",
+				"de",
+				"Maracá",
+				"(",
+				"pulo",
+				"sa",
+				"Brasil",
+				",",
+				"Amapá",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ilha",
+				"de",
+				"maɾaká",
+				"(",
+				"pulo",
+				"sa",
+				"bɾasil",
+				",",
+				"amapá",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Niederwald",
+				"(",
+				"lasang",
+				"sa",
+				"Alemanya",
+				",",
+				"Hessen",
+				",",
+				"lat",
+				"49,98",
+				",",
+				"long",
+				"7,90",
+				")",
+				","
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"niedeɾwald",
+				"(",
+				"lasaŋ",
+				"sa",
+				"alemanja",
+				",",
+				"hessen",
+				",",
+				"lat",
+				"49,98",
+				",",
+				"loŋ",
+				"7,90",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Arhentina",
+				",",
+				"Chile",
+				",",
+				"ug",
+				"Hiniusang",
+				"Gingharian",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aɾhentina",
+				",",
+				"t͡ʃile",
+				",",
+				"uɡ",
+				"hiniusaŋ",
+				"ɡiŋhaɾian",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Makassar",
+				"Strait",
+				"(",
+				"estretso",
+				"sa",
+				"Indonesia",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"makassaɾ",
+				"stɾait",
+				"(",
+				"estɾet͡ʃo",
+				"sa",
+				"indonesia",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Federal",
+				"University",
+				"of",
+				"Rio",
+				"de",
+				"Janeiro"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"fedeɾal",
+				"univeɾsit͡ʃ",
+				"of",
+				"ɾio",
+				"de",
+				"d͡ʒaneiɾo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Bornhügel",
+				"mao",
+				"ang",
+				"bahin",
+				"sa",
+				"Thüringer",
+				"Schiefergebirge",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"boɾnhüɡel",
+				"mao",
+				"aŋ",
+				"bahin",
+				"sa",
+				"thüɾiŋeɾ",
+				"st͡ʃiefeɾɡebiɾɡe",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mostar",
+				"International",
+				"Airport"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mostaɾ",
+				"inteɾnational",
+				"aiɾpoɾt"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Estasyong",
+				"Pureza",
+				"(",
+				"Lineyang",
+				"Murado",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"estasjoŋ",
+				"puɾeza",
+				"(",
+				"linejaŋ",
+				"muɾado",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Bombon",
+				",",
+				"Camarines",
+				"Sur"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"bombon",
+				",",
+				"kamaɾines",
+				"suɾ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Balamban",
+				",",
+				"Sugbo"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"balamban",
+				",",
+				"suɡbo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Elizabeth",
+				"II",
+				"sa",
+				"Hiniusang",
+				"Gingharian"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"elizabeth",
+				"ii",
+				"sa",
+				"hiniusaŋ",
+				"ɡiŋhaɾian"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Café",
+				"con",
+				"leche"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kafé",
+				"kon",
+				"let͡ʃe"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Arhentina",
+				",",
+				"Chile",
+				",",
+				"ug",
+				"Hiniusang",
+				"Gingharian",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aɾhentina",
+				",",
+				"t͡ʃile",
+				",",
+				"uɡ",
+				"hiniusaŋ",
+				"ɡiŋhaɾian",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Füssener",
+				"Jöchl",
+				"mao",
+				"ang",
+				"bahin",
+				"sa",
+				"Tannheimer",
+				"Gebirge",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"füsseneɾ",
+				"d͡ʒöt͡ʃl",
+				"mao",
+				"aŋ",
+				"bahin",
+				"sa",
+				"tannheimeɾ",
+				"ɡebiɾɡe",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"F.",
+				"Sionil",
+				"José"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"f.",
+				"sionil",
+				"d͡ʒosé"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Departamento",
+				"de",
+				"Sarmiento",
+				"(",
+				"munisipyo",
+				"sa",
+				"Arhentina",
+				",",
+				"Provincia",
+				"de",
+				"San",
+				"Juan",
+				")",
+				","
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"depaɾtamento",
+				"de",
+				"saɾmiento",
+				"(",
+				"munisipjo",
+				"sa",
+				"aɾhentina",
+				",",
+				"pɾovinkia",
+				"de",
+				"san",
+				"d͡ʒuan",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Unibersidad",
+				"Šahid",
+				"Camrān",
+				"sa",
+				"Ahvāz"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"unibeɾsidad",
+				"šahid",
+				"kamɾān",
+				"sa",
+				"ahvāz"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Parque",
+				"Nacional",
+				"de",
+				"Itatiáia",
+				"(",
+				"parke",
+				"sa",
+				"Brasil",
+				",",
+				"lat",
+				"-22,33",
+				",",
+				"long",
+				"-44,58",
+				")",
+				","
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"paɾque",
+				"nakional",
+				"de",
+				"itatiáia",
+				"(",
+				"paɾke",
+				"sa",
+				"bɾasil",
+				",",
+				"lat",
+				"ʔ22,33",
+				",",
+				"loŋ",
+				"ʔ44,58",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kolbermoor",
+				"(",
+				"lungsod",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"kolbeɾmooɾ",
+				"(",
+				"luŋsod",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Awstralya",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awstɾalja",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Parque",
+				"Nacional",
+				"do",
+				"Iona"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɾque",
+				"nakional",
+				"do",
+				"iona"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan-kasadpan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Skopje",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"kasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatanʔkasadpan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"skopd͡ʒe",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"León",
+				"II",
+				"(",
+				"papa",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"león",
+				"ii",
+				"(",
+				"papa",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Namatay",
+				"si",
+				"George",
+				"Washington"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"namataj",
+				"si",
+				"ɡeoɾɡe",
+				"washiŋton"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Raimundo",
+				"sa",
+				"Peñafort"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɾaimundo",
+				"sa",
+				"peñafoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ismā‘īl",
+				"bin",
+				"an-Naghrīlah"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ismā‘īl",
+				"bin",
+				"anʔnaɡhɾīlah"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"amihanan-kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Oranjestad",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"amihananʔkasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"oɾand͡ʒestad",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hanskühnenburgklippe",
+				"nahimutang",
+				"sa",
+				"Auf",
+				"dem",
+				"Acker",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"hanskühnenbuɾɡklippe",
+				"nahimutaŋ",
+				"sa",
+				"auf",
+				"dem",
+				"akkeɾ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Oldenburg",
+				"(",
+				"kapital",
+				"sa",
+				"distrito",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"oldenbuɾɡ",
+				"(",
+				"kapital",
+				"sa",
+				"distɾito",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pwersa",
+				"ng",
+				"Masang",
+				"Pilipino"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pweɾsa",
+				"ŋ",
+				"masaŋ",
+				"pilipino"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"habagatan-sidlakang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan-sidlakan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Tirana",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"habaɡatanʔsidlakaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatanʔsidlakan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"tiɾana",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mindanao",
+				"State",
+				"University"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mindanao",
+				"state",
+				"univeɾsit͡ʃ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Osama",
+				"bin",
+				"Laden"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"osama",
+				"bin",
+				"laden"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"habagatan-kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Beirut",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"habaɡatanʔkasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"beiɾut",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"José",
+				"sa",
+				"Nazaret"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒosé",
+				"sa",
+				"nazaɾet"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Arhentina",
+				",",
+				"Chile",
+				",",
+				"ug",
+				"Hiniusang",
+				"Gingharian",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aɾhentina",
+				",",
+				"t͡ʃile",
+				",",
+				"uɡ",
+				"hiniusaŋ",
+				"ɡiŋhaɾian",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Hommandsjord",
+				"nahimutang",
+				"sa",
+				"rehiyon",
+				"sa",
+				"Region",
+				"Syddanmark",
+				",",
+				"sa",
+				"habagatan-kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"kasadpan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Copenhagen",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"hommandsd͡ʒoɾd",
+				"nahimutaŋ",
+				"sa",
+				"ɾehijon",
+				"sa",
+				"ɾeɡion",
+				"sjddanmaɾk",
+				",",
+				"sa",
+				"habaɡatanʔkasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"kasadpan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"kopenhaɡen",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wardak",
+				"(",
+				"lalawigan",
+				")",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"waɾdak",
+				"(",
+				"lalawiɡan",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan-kasadpan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Willemstad",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"kasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihananʔkasadpan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"willemstad",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Departamento",
+				"de",
+				"Graneros"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"depaɾtamento",
+				"de",
+				"ɡɾaneɾos"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Iracema",
+				"do",
+				"Oeste"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"iɾakema",
+				"do",
+				"oeste"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Juan",
+				"Pablo",
+				"II"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒuan",
+				"pablo",
+				"ii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan-sidlakan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Kinshasa",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihananʔsidlakan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"kinshasa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Estasyong",
+				"Blumentritt",
+				"(",
+				"Lineyang",
+				"Dalag",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"estasjoŋ",
+				"blumentɾitt",
+				"(",
+				"linejaŋ",
+				"dalaɡ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Noruwega",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"noɾuweɡa",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Vöcklamarkt",
+				"(",
+				"kapital",
+				"sa",
+				"munisipyo",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"vökklamaɾkt",
+				"(",
+				"kapital",
+				"sa",
+				"munisipjo",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nueve",
+				"de",
+				"Julio",
+				"(",
+				"kapital",
+				"sa",
+				"munisipyo",
+				"sa",
+				"Arhentina",
+				",",
+				"Provincia",
+				"de",
+				"Buenos",
+				"Aires",
+				")",
+				","
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"nueve",
+				"de",
+				"d͡ʒulio",
+				"(",
+				"kapital",
+				"sa",
+				"munisipjo",
+				"sa",
+				"aɾhentina",
+				",",
+				"pɾovinkia",
+				"de",
+				"buenos",
+				"aiɾes",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Departamento",
+				"de",
+				"Concepción",
+				"(",
+				"munisipyo",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"depaɾtamento",
+				"de",
+				"konkepkión",
+				"(",
+				"munisipjo",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Estasyong",
+				"United",
+				"Nations",
+				"(",
+				"Lineyang",
+				"Dalag",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"estasjoŋ",
+				"united",
+				"nations",
+				"(",
+				"linejaŋ",
+				"dalaɡ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Ramshøj",
+				"nahimutang",
+				"sa",
+				"rehiyon",
+				"sa",
+				"Region",
+				"Syddanmark",
+				",",
+				"sa",
+				"habagatang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan-kasadpan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Copenhagen",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"ɾamshød͡ʒ",
+				"nahimutaŋ",
+				"sa",
+				"ɾehijon",
+				"sa",
+				"ɾeɡion",
+				"sjddanmaɾk",
+				",",
+				"sa",
+				"habaɡataŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatanʔkasadpan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"kopenhaɡen",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mariano",
+				"Acosta",
+				"(",
+				"lungsod",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"maɾiano",
+				"akosta",
+				"(",
+				"luŋsod",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Comandante",
+				"Luis",
+				"Piedra",
+				"Buena"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"komandante",
+				"luis",
+				"piedɾa",
+				"buena"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dóbro",
+				"Pólie",
+				"(",
+				"tumoy",
+				"sa",
+				"bukid",
+				"sa",
+				"Macedonia",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"dóbɾo",
+				"pólie",
+				"(",
+				"tumoj",
+				"sa",
+				"bukid",
+				"sa",
+				"makedonia",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Mga",
+				"pinulongan",
+				"sa",
+				"Pilipinas"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"mɡa",
+				"pinuloŋan",
+				"sa",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kahadlok",
+				"sa",
+				"Ginuo"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kahadlok",
+				"sa",
+				"ɡinuo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Departamento",
+				"de",
+				"Independencia",
+				"(",
+				"munisipyo",
+				"sa",
+				"Arhentina",
+				",",
+				"Provincia",
+				"del",
+				"Chaco",
+				")",
+				","
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"depaɾtamento",
+				"de",
+				"independenkia",
+				"(",
+				"munisipjo",
+				"sa",
+				"aɾhentina",
+				",",
+				"pɾovinkia",
+				"del",
+				"t͡ʃako",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fernando",
+				"de",
+				"Magallanes"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"feɾnando",
+				"de",
+				"maɡallanes"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Yusef",
+				"Hamadāni",
+				"Cohen"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"jusef",
+				"hamadāni",
+				"kohen"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Río",
+				"Chiar",
+				"Joko"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɾío",
+				"t͡ʃiaɾ",
+				"d͡ʒoko"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Unyon",
+				"sa",
+				"mga",
+				"Nasod",
+				"nga",
+				"Habagatang-Amerikanhon"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"unjon",
+				"sa",
+				"mɡa",
+				"nasod",
+				"ŋa",
+				"habaɡataŋʔameɾikanhon"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Elizabeth",
+				"II",
+				"sa",
+				"Hiniusang",
+				"Gingharian"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"elizabeth",
+				"ii",
+				"sa",
+				"hiniusaŋ",
+				"ɡiŋhaɾian"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Barreiras",
+				"do",
+				"Piauí"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"baɾɾeiɾas",
+				"do",
+				"piauí"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Chavanne",
+				"(",
+				"punta",
+				")",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"t͡ʃavanne",
+				"(",
+				"punta",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Luxembourg",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"luxembouɾɡ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"kasadpan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Dhaka",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"kasadpan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"dhaka",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nasodnong",
+				"Komisyon",
+				"sa",
+				"mga",
+				"Pilipinhong",
+				"Muslim"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"nasodnoŋ",
+				"komisjon",
+				"sa",
+				"mɡa",
+				"pilipinhoŋ",
+				"muslim"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Awit",
+				"sa",
+				"mga",
+				"Awit"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				1
+			],
+			"epi_tokens": [
+				"awit",
+				"sa",
+				"mɡa",
+				"awit"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Brian",
+				"(",
+				"pulo",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"bɾian",
+				"(",
+				"pulo",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Apollo",
+				"Island",
+				"(",
+				"pulo",
+				"sa",
+				"Antarctica",
+				")",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"apollo",
+				"island",
+				"(",
+				"pulo",
+				"sa",
+				"antaɾktika",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mga",
+				"Mosunod",
+				"nga",
+				"Napulog-usa"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mɡa",
+				"mosunod",
+				"ŋa",
+				"napuloɡʔusa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Juan",
+				"Pablo",
+				"II"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒuan",
+				"pablo",
+				"ii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"*kay",
+				"José",
+				"Rizal",
+				";",
+				"ug"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"*kaj",
+				"d͡ʒosé",
+				"ɾizal",
+				";",
+				"uɡ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Vasco",
+				"da",
+				"Gama"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"vasko",
+				"da",
+				"ɡama"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kolehiyo",
+				"sa",
+				"mga",
+				"Kardenal"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kolehijo",
+				"sa",
+				"mɡa",
+				"kaɾdenal"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Duisburg",
+				"(",
+				"kapital",
+				"sa",
+				"distrito",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"duisbuɾɡ",
+				"(",
+				"kapital",
+				"sa",
+				"distɾito",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Porto-Novo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"poɾtoʔnovo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Provincia",
+				"de",
+				"Tierra",
+				"del",
+				"Fuego",
+				"(",
+				"lalawigan",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pɾovinkia",
+				"de",
+				"tieɾɾa",
+				"del",
+				"fueɡo",
+				"(",
+				"lalawiɡan",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		}
+	],
+	"train": [
+		{
+			"tokens": [
+				"Bolsa",
+				"sa",
+				"Pilipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"bolsa",
+				"sa",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dionisio",
+				"(",
+				"papa",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"dionisio",
+				"(",
+				"papa",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kantára",
+				"(",
+				"kastilyo",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kantáɾa",
+				"(",
+				"kastiljo",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Arhentina",
+				",",
+				"Chile",
+				",",
+				"ug",
+				"Hiniusang",
+				"Gingharian",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aɾhentina",
+				",",
+				"t͡ʃile",
+				",",
+				"uɡ",
+				"hiniusaŋ",
+				"ɡiŋhaɾian",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Henry",
+				"Otley",
+				"Beyer"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"henɾj",
+				"otlej",
+				"bejeɾ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Obelisco",
+				"(",
+				"bantayog",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"obelisko",
+				"(",
+				"bantajoɡ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Schnegels-Berg",
+				"mao",
+				"ang",
+				"bahin",
+				"sa",
+				"Knüll",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"st͡ʃneɡelsʔbeɾɡ",
+				"mao",
+				"aŋ",
+				"bahin",
+				"sa",
+				"knüll",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Didto",
+				"niya",
+				"naka-ila",
+				"si",
+				"Cleopatra",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"didto",
+				"nija",
+				"nakaʔila",
+				"si",
+				"kleopatɾa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wardak",
+				"(",
+				"lalawigan",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"waɾdak",
+				"(",
+				"lalawiɡan",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Basahon",
+				"ni",
+				"Josué"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"basahon",
+				"ni",
+				"d͡ʒosué"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Johann",
+				"Sebastian",
+				"Bach"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒohann",
+				"sebastian",
+				"bat͡ʃ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kooperasyong",
+				"Ekonomikanhong",
+				"Asya-Pasipiko"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"koopeɾasjoŋ",
+				"ekonomikanhoŋ",
+				"asjaʔpasipiko"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kepulauan",
+				"Bangka",
+				"Belitung"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kepulauan",
+				"baŋka",
+				"belituŋ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Simbahang",
+				"Katoliko",
+				"sa",
+				"Pilipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"simbahaŋ",
+				"katoliko",
+				"sa",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Limasawa",
+				",",
+				"Habagatang",
+				"Leyte"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"limasawa",
+				",",
+				"habaɡataŋ",
+				"lejte"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Chile",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t͡ʃile",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Lino",
+				"(",
+				"papa",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"lino",
+				"(",
+				"papa",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ah",
+				"!",
+				"Akong",
+				"Diosa"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ah",
+				"!",
+				"akoŋ",
+				"diosa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Ljubnić",
+				"nahimutang",
+				"sa",
+				"entidad",
+				"sa",
+				"Federation",
+				"of",
+				"Bosnia",
+				"and",
+				"Herzegovina",
+				",",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"kasadpan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Sarajevo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"ld͡ʒubniḱ",
+				"nahimutaŋ",
+				"sa",
+				"entidad",
+				"sa",
+				"fedeɾation",
+				"of",
+				"bosnia",
+				"and",
+				"heɾzeɡovina",
+				",",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"kasadpan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"saɾad͡ʒevo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Technische",
+				"Universität",
+				"München"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tet͡ʃnist͡ʃe",
+				"univeɾsität",
+				"münt͡ʃen"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Juan",
+				"Diego",
+				"Cuauhtlatoatzin"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒuan",
+				"dieɡo",
+				"kuauhtlatoatzin"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"amihanan-sidlakang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan-sidlakan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Bandar",
+				"Seri",
+				"Begawan",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"amihananʔsidlakaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatanʔsidlakan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"bandaɾ",
+				"seɾi",
+				"beɡawan",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Alejandro",
+				"ang",
+				"Bantogan"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"aled͡ʒandɾo",
+				"aŋ",
+				"bantoɡan"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Vösendorf",
+				"(",
+				"kapital",
+				"sa",
+				"munisipyo",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"vösendoɾf",
+				"(",
+				"kapital",
+				"sa",
+				"munisipjo",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Awstralya",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awstɾalja",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Noruwega",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"noɾuweɡa",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Arhentina",
+				",",
+				"Chile",
+				",",
+				"ug",
+				"Hiniusang",
+				"Gingharian",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aɾhentina",
+				",",
+				"t͡ʃile",
+				",",
+				"uɡ",
+				"hiniusaŋ",
+				"ɡiŋhaɾian",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan-sidlakan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Kinshasa",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"kasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihananʔsidlakan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"kinshasa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kardenal",
+				"(",
+				"Katolisismo",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"kaɾdenal",
+				"(",
+				"katolisismo",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Sacred",
+				"Heart",
+				"School",
+				"–",
+				"Ateneo",
+				"de",
+				"Cebu"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sakɾed",
+				"heaɾt",
+				"st͡ʃool",
+				"–",
+				"ateneo",
+				"de",
+				"kebu"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mga",
+				"pinulongan",
+				"sa",
+				"Pilipinas"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"mɡa",
+				"pinuloŋan",
+				"sa",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bolsa",
+				"sa",
+				"Pilipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"bolsa",
+				"sa",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Luxembourg",
+				"(",
+				"ulohang",
+				"dakbayan",
+				"sa",
+				"Luksemburgo",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"luxembouɾɡ",
+				"(",
+				"ulohaŋ",
+				"dakbajan",
+				"sa",
+				"luksembuɾɡo",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Totenkuppe",
+				"mao",
+				"ang",
+				"bahin",
+				"sa",
+				"Knüll",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"totenkuppe",
+				"mao",
+				"aŋ",
+				"bahin",
+				"sa",
+				"knüll",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Estasyong",
+				"Araneta",
+				"Center–Cubao",
+				"(",
+				"Lineyang",
+				"Bughaw",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"estasjoŋ",
+				"aɾaneta",
+				"kenteɾ–kubao",
+				"(",
+				"linejaŋ",
+				"buɡhaw",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Hiiumaa",
+				"(",
+				"pulo",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"hiiumaa",
+				"(",
+				"pulo",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Kykkos",
+				"(",
+				"arkiyolohiyang",
+				"dapit",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kjkkos",
+				"(",
+				"aɾkijolohijaŋ",
+				"dapit",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Vicente",
+				"Blasco",
+				"Ibáñez"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"vikente",
+				"blasko",
+				"ibáñez"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"María",
+				"(",
+				"inahan",
+				"ni",
+				"Jesús",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"maɾía",
+				"(",
+				"inahan",
+				"ni",
+				"d͡ʒesús",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Koúris",
+				"(",
+				"alihan",
+				"sa",
+				"tubig",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"koúɾis",
+				"(",
+				"alihan",
+				"sa",
+				"tubiɡ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Vicente",
+				"Blasco",
+				"Ibáñez"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"vikente",
+				"blasko",
+				"ibáñez"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Siget",
+				"nahimutang",
+				"sa",
+				"entidad",
+				"sa",
+				"Republika",
+				"Srpska",
+				",",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan-kasadpan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Sarajevo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"siɡet",
+				"nahimutaŋ",
+				"sa",
+				"entidad",
+				"sa",
+				"ɾepublika",
+				"sɾpska",
+				",",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihananʔkasadpan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"saɾad͡ʒevo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Usa",
+				"kanila",
+				"mao",
+				"si",
+				"Julius",
+				"Caesar",
+				",",
+				"human",
+				"sa",
+				"iyang",
+				"kamatayon",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"usa",
+				"kanila",
+				"mao",
+				"si",
+				"d͡ʒulius",
+				"kaesaɾ",
+				",",
+				"human",
+				"sa",
+				"ijaŋ",
+				"kamatajon",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Basahon",
+				"ni",
+				"Isaías"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"basahon",
+				"ni",
+				"isaías"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"amihanan-kasadpang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Luxembourg",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"amihananʔkasadpaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"luxembouɾɡ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bolsa",
+				"sa",
+				"Pilipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"bolsa",
+				"sa",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mariano",
+				"Acosta",
+				"(",
+				"lungsod",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"maɾiano",
+				"akosta",
+				"(",
+				"luŋsod",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Tuvelj",
+				"nahimutang",
+				"sa",
+				"entidad",
+				"sa",
+				"Republika",
+				"Srpska",
+				",",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan-sidlakan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Sarajevo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"tuveld͡ʒ",
+				"nahimutaŋ",
+				"sa",
+				"entidad",
+				"sa",
+				"ɾepublika",
+				"sɾpska",
+				",",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatanʔsidlakan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"saɾad͡ʒevo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Parque",
+				"Nacional",
+				"Los",
+				"Alerces"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɾque",
+				"nakional",
+				"los",
+				"aleɾkes"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nenterberg",
+				"mao",
+				"ang",
+				"bahin",
+				"sa",
+				"Knüll",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"nenteɾbeɾɡ",
+				"mao",
+				"aŋ",
+				"bahin",
+				"sa",
+				"knüll",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Awstralya",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awstɾalja",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Castañuelas",
+				"(",
+				"lungsod",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"kastañuelas",
+				"(",
+				"luŋsod",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"José",
+				"sa",
+				"Nazaret"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒosé",
+				"sa",
+				"nazaɾet"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Staviš",
+				"nahimutang",
+				"sa",
+				"entidad",
+				"sa",
+				"Federation",
+				"of",
+				"Bosnia",
+				"and",
+				"Herzegovina",
+				",",
+				"sa",
+				"habagatang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habagatan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Sarajevo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"staviš",
+				"nahimutaŋ",
+				"sa",
+				"entidad",
+				"sa",
+				"fedeɾation",
+				"of",
+				"bosnia",
+				"and",
+				"heɾzeɡovina",
+				",",
+				"sa",
+				"habaɡataŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"habaɡatan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"saɾad͡ʒevo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Basahon",
+				"ni",
+				"Nehemías"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"basahon",
+				"ni",
+				"nehemías"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nasodnong",
+				"Pamasahonan",
+				"(",
+				"Pilipinas",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"nasodnoŋ",
+				"pamasahonan",
+				"(",
+				"pilipinas",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Basahon",
+				"ni",
+				"Isaías"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"basahon",
+				"ni",
+				"isaías"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Mga",
+				"pinulongan",
+				"sa",
+				"Pilipinas"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"mɡa",
+				"pinuloŋan",
+				"sa",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Estasyong",
+				"Ika-5",
+				"Abenida",
+				"(",
+				"Lineyang",
+				"Dalag",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"estasjoŋ",
+				"ikaʔ5",
+				"abenida",
+				"(",
+				"linejaŋ",
+				"dalaɡ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Juan",
+				"Pablo",
+				"II"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒuan",
+				"pablo",
+				"ii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Unyon",
+				"sa",
+				"mga",
+				"Nasod",
+				"nga",
+				"Habagatang-Amerikanhon"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"unjon",
+				"sa",
+				"mɡa",
+				"nasod",
+				"ŋa",
+				"habaɡataŋʔameɾikanhon"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"amihanan-sidlakang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Gaborone",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"amihananʔsidlakaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"ɡaboɾone",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Globasnitz",
+				"(",
+				"kapital",
+				"sa",
+				"munisipyo",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɡlobasnitz",
+				"(",
+				"kapital",
+				"sa",
+				"munisipjo",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mga",
+				"Mosunod",
+				"nga",
+				"Napulog-usa"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mɡa",
+				"mosunod",
+				"ŋa",
+				"napuloɡʔusa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Awstralya",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awstɾalja",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Departamento",
+				"de",
+				"Chimbas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"depaɾtamento",
+				"de",
+				"t͡ʃimbas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pransiya",
+				"nag-angkon",
+				"sa",
+				"maong",
+				"dapit",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"pɾansija",
+				"naɡʔaŋkon",
+				"sa",
+				"maoŋ",
+				"dapit",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bechhofen",
+				"(",
+				"munisipyo",
+				"sa",
+				"Alemanya",
+				",",
+				"Rheinland-Pfalz",
+				",",
+				"lat",
+				"49,35",
+				",",
+				"long",
+				"7,40",
+				")",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"bet͡ʃhofen",
+				"(",
+				"munisipjo",
+				"sa",
+				"alemanja",
+				",",
+				"ɾheinlandʔpfalz",
+				",",
+				"lat",
+				"49,35",
+				",",
+				"loŋ",
+				"7,40",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Raimundo",
+				"sa",
+				"Peñafort"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɾaimundo",
+				"sa",
+				"peñafoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Basahon",
+				"ni",
+				"Jonás"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"basahon",
+				"ni",
+				"d͡ʒonás"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Guadalupe",
+				"(",
+				"lungsod",
+				"sa",
+				"Bolivia",
+				",",
+				"Departamento",
+				"de",
+				"Potosí",
+				",",
+				"lat",
+				"-21,85",
+				",",
+				"long",
+				"-66,51",
+				")",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"ɡuadalupe",
+				"(",
+				"luŋsod",
+				"sa",
+				"bolivia",
+				",",
+				"depaɾtamento",
+				"de",
+				"potosí",
+				",",
+				"lat",
+				"ʔ21,85",
+				",",
+				"loŋ",
+				"ʔ66,51",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fernando",
+				"de",
+				"Magallanes"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"feɾnando",
+				"de",
+				"maɡallanes"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Estasyong",
+				"Gil",
+				"Puyat",
+				"(",
+				"Lineyang",
+				"Dalag",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"estasjoŋ",
+				"ɡil",
+				"pujat",
+				"(",
+				"linejaŋ",
+				"dalaɡ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Salomon",
+				"Juda",
+				"Rappoport"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"salomon",
+				"d͡ʒuda",
+				"ɾappopoɾt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siya",
+				"nahimutang",
+				"sa",
+				"sentro",
+				"nga",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Porto-Novo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sija",
+				"nahimutaŋ",
+				"sa",
+				"sentɾo",
+				"ŋa",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"poɾtoʔnovo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mga",
+				"Mosunod",
+				"nga",
+				"Napulog-usa"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mɡa",
+				"mosunod",
+				"ŋa",
+				"napuloɡʔusa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Inés",
+				"sa",
+				"Bohemia"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"inés",
+				"sa",
+				"bohemia"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Café",
+				"con",
+				"leche"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kafé",
+				"kon",
+				"let͡ʃe"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Basahon",
+				"ni",
+				"Nehemías"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"basahon",
+				"ni",
+				"nehemías"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Zósimo",
+				"(",
+				"papa",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"zósimo",
+				"(",
+				"papa",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ziethen",
+				"(",
+				"munisipyo",
+				"sa",
+				"Alemanya",
+				",",
+				"Schleswig-Holstein",
+				",",
+				"lat",
+				"53,70",
+				",",
+				"long",
+				"10,82",
+				")",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"ziethen",
+				"(",
+				"munisipjo",
+				"sa",
+				"alemanja",
+				",",
+				"st͡ʃleswiɡʔholstein",
+				",",
+				"lat",
+				"53,70",
+				",",
+				"loŋ",
+				"10,82",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Departamento",
+				"de",
+				"Guaymallén"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"depaɾtamento",
+				"de",
+				"ɡuajmallén"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Komuna",
+				"e",
+				"Grykë",
+				"Çajës"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"komuna",
+				"e",
+				"ɡɾjkë",
+				"ķad͡ʒës"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Todenbüttel",
+				"(",
+				"munisipyo",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"todenbüttel",
+				"(",
+				"munisipjo",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Carlos",
+				"P.",
+				"García"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"kaɾlos",
+				"p.",
+				"ɡaɾkía"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Elizabeth",
+				"II",
+				"sa",
+				"Hiniusang",
+				"Gingharian"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"elizabeth",
+				"ii",
+				"sa",
+				"hiniusaŋ",
+				"ɡiŋhaɾian"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Franz",
+				"Ferdinand",
+				"sa",
+				"Awstriya"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"fɾanz",
+				"feɾdinand",
+				"sa",
+				"awstɾija"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Departamento",
+				"de",
+				"Pilcomayo"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"depaɾtamento",
+				"de",
+				"pilkomajo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"José",
+				"sa",
+				"Nazaret"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒosé",
+				"sa",
+				"nazaɾet"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Mga",
+				"pinulongan",
+				"sa",
+				"Pilipinas"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"mɡa",
+				"pinuloŋan",
+				"sa",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Schmitte-Berg",
+				"mao",
+				"ang",
+				"bahin",
+				"sa",
+				"Knüll",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"st͡ʃmitteʔbeɾɡ",
+				"mao",
+				"aŋ",
+				"bahin",
+				"sa",
+				"knüll",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Mukibungo",
+				"nahimutang",
+				"sa",
+				"lalawigan",
+				"sa",
+				"Cankuzo",
+				"Province",
+				",",
+				"sa",
+				"amihanan-sidlakang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"sidlakan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Bujumbura",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"mukibuŋo",
+				"nahimutaŋ",
+				"sa",
+				"lalawiɡan",
+				"sa",
+				"kankuzo",
+				"pɾovinke",
+				",",
+				"sa",
+				"amihananʔsidlakaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"sidlakan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"bud͡ʒumbuɾa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"Čelerac",
+				"nahimutang",
+				"sa",
+				"entidad",
+				"sa",
+				"Republika",
+				"Srpska",
+				",",
+				"sa",
+				"amihanang",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohang",
+				"dakbayan",
+				"Sarajevo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"ǩeleɾak",
+				"nahimutaŋ",
+				"sa",
+				"entidad",
+				"sa",
+				"ɾepublika",
+				"sɾpska",
+				",",
+				"sa",
+				"amihanaŋ",
+				"bahin",
+				"sa",
+				"nasod",
+				",",
+				"km",
+				"sa",
+				"amihanan",
+				"sa",
+				"ulohaŋ",
+				"dakbajan",
+				"saɾad͡ʒevo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ang",
+				"'",
+				"''",
+				"''Goofy",
+				"''",
+				"'",
+				"''",
+				"ug",
+				"sa",
+				"Disney",
+				"ang",
+				"Walt",
+				"Disney",
+				"kini",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"aŋ",
+				"ʔ",
+				"ʔʔ",
+				"ʔʔɡoofj",
+				"ʔʔ",
+				"ʔ",
+				"ʔʔ",
+				"uɡ",
+				"sa",
+				"disnej",
+				"aŋ",
+				"walt",
+				"disnej",
+				"kini",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tomás",
+				"N.",
+				"Alonso"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"tomás",
+				"n.",
+				"alonso"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Marcos",
+				"sa",
+				"Ostia"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"maɾkos",
+				"sa",
+				"ostia"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ubos",
+				"Balay-Balaoranan",
+				"sa",
+				"Pilipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ubos",
+				"balajʔbalaoɾanan",
+				"sa",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Zacarías",
+				"(",
+				"papa",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"zakaɾías",
+				"(",
+				"papa",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		}
+	]
+}
