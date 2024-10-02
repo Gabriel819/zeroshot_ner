@@ -13,8 +13,8 @@ import evaluate
 import torch.nn as nn
 import copy
 
-def total_xml_roberta_train(args, conll_dataset, zeroshot_dataset, model, device, f):
-    train_dataset = conll_dataset['train']
+def total_xml_roberta_train(args, english_dataset, zeroshot_dataset, model, device, f):
+    train_dataset = english_dataset['train']
     train_sampler = RandomSampler(train_dataset)
     train_dataloader = DataLoader(
         train_dataset,
@@ -116,7 +116,7 @@ def total_xml_roberta_train(args, conll_dataset, zeroshot_dataset, model, device
         ##### English Validation set Evaluation #####
         eval_results, _ = xml_roberta_eval(
                 args=args,
-                eval_dataset=conll_dataset["validation"],
+                eval_dataset=english_dataset["validation"],
                 model=model,
                 device=device
         )
