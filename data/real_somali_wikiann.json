@@ -1,0 +1,11885 @@
+{
+	"id_mapping": {
+		"0": "O",
+		"1": "B-PER",
+		"2": "I-PER",
+		"3": "B-ORG",
+		"4": "I-ORG",
+		"5": "B-LOC",
+		"6": "I-LOC"
+	},
+	"validation": [
+		{
+			"tokens": [
+				"UNICEF"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"uniʕef"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Sunanka",
+				"Abii",
+				"Daawuud",
+				"(",
+				"Carabi",
+				":",
+				"سنن",
+				"أبي",
+				"داود",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sunænkæ",
+				"æbiː",
+				"dæːwuːd",
+				"(",
+				"ʕæræbi",
+				":",
+				"سنن",
+				"أبي",
+				"داود",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Kroashia"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"krɔæʃiæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Bankiga",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"bænkiɡæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Cali",
+				"Yabaal",
+				"''",
+				"'",
+				"waa",
+				"tuulo",
+				"oo",
+				"ku",
+				"taalo",
+				"gobolka",
+				"Galguduud"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"ʕæli",
+				"jæbæːl",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"tuːlɔ",
+				"ɔː",
+				"ku",
+				"tæːlɔ",
+				"ɡɔbɔlkæ",
+				"ɡælɡuduːd"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Kambodiya"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"kæmbɔdijæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Bahamas"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"bæhæmæs"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Saalax"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"sæːlæħ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ururka",
+				"Caafimaadka",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ururkæ",
+				"ʕæːfimæːdkæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Lamadegaanka",
+				"Saxara"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"læmædeɡæːnkæ",
+				"sæħæræ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Komoros"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"kɔmɔrɔs"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Aadan",
+				"Cabdulle",
+				"Cusmaan",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"æːdæn",
+				"ʕæbdulle",
+				"ʕusmæːn",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sidoo",
+				"kale",
+				",",
+				"wadanka",
+				"Bakistaan",
+				"ayaa",
+				"noqonaya",
+				"midka",
+				"labaad",
+				"ee",
+				"haya",
+				"qoxooti",
+				"badan",
+				"kuwaasi",
+				"oo",
+				"dhan",
+				"1.6",
+				"milyan",
+				"qaxoori",
+				"reer",
+				"Afgaanistaan",
+				"ah",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sidɔː",
+				"kæle",
+				",",
+				"wædænkæ",
+				"bækistæːn",
+				"æjæː",
+				"nɔqɔnæjæ",
+				"midkæ",
+				"læbæːd",
+				"eː",
+				"hæjæ",
+				"qɔħɔːti",
+				"bædæn",
+				"kuwæːsi",
+				"ɔː",
+				"ɖæn",
+				"1.6",
+				"miljæn",
+				"qæħɔːri",
+				"reːr",
+				"æfɡæːnistæːn",
+				"æh",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Magaalada",
+				"Jabuuti"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"mæɡæːlædæ",
+				"d͡ʒæbuːti"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Malaysiya"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"mælæjsijæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Qaramada",
+				"Midoobay"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"qæræmædæ",
+				"midɔːbæj"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"+297",
+				":",
+				"'",
+				"''",
+				"AW"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"+297",
+				":",
+				"ʔ",
+				"ʔʔ",
+				"æw"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Nabi",
+				"Huud"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"**",
+				"næbi",
+				"huːd"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Masar"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"mæsær"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Luksemborg",
+				"''",
+				"'",
+				"waa",
+				"wadan",
+				"yar",
+				"oo",
+				"ku",
+				"yaalo",
+				"galbeedka",
+				"Yurub",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"luksembɔrɡ",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"wædæn",
+				"jær",
+				"ɔː",
+				"ku",
+				"jæːlɔ",
+				"ɡælbeːdkæ",
+				"jurub",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Ibraahiim",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"ibræːhiːm",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Maryam"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"mærjæm"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Qaramada",
+				"Midoobay"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"qæræmædæ",
+				"midɔːbæj"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"UNICEF"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"uniʕef"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Soomaaliya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"sɔːmæːlijæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Marka",
+				"la",
+				"tixraaco",
+				"dhaqanka",
+				"dadka",
+				"Soomaalida",
+				",",
+				"qadadu",
+				"waa",
+				"cuntada",
+				"ugu",
+				"muhiimsan",
+				"sadexda",
+				"wakhti",
+				"ee",
+				"dadku",
+				"wax",
+				"cuno",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mærkæ",
+				"læ",
+				"tiħræːʕɔ",
+				"ɖæqænkæ",
+				"dædkæ",
+				"sɔːmæːlidæ",
+				",",
+				"qædædu",
+				"wæː",
+				"ʕuntædæ",
+				"uɡu",
+				"muhiːmsæn",
+				"sædeħdæ",
+				"wæχti",
+				"eː",
+				"dædku",
+				"wæħ",
+				"ʕunɔ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hayada",
+				"Cuntada",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"hæjædæ",
+				"ʕuntædæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Bariiska",
+				"waxa",
+				"laga",
+				"cunaa",
+				"meelo",
+				"badan",
+				"oo",
+				"dunida",
+				"ah",
+				"haba",
+				"u",
+				"sii",
+				"bataan",
+				"wadanada",
+				"dunida",
+				"sadexaad",
+				"ee",
+				"qaarada",
+				"Afrika",
+				"iyo",
+				"qaarada",
+				"Aasiya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"bæriːskæ",
+				"wæħæ",
+				"læɡæ",
+				"ʕunæː",
+				"meːlɔ",
+				"bædæn",
+				"ɔː",
+				"dunidæ",
+				"æh",
+				"hæbæ",
+				"u",
+				"siː",
+				"bætæːn",
+				"wædænædæ",
+				"dunidæ",
+				"sædeħæːd",
+				"eː",
+				"qæːrædæ",
+				"æfrikæ",
+				"ijɔ",
+				"qæːrædæ",
+				"æːsijæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Nelson",
+				"Rolihlahla",
+				"Mandela",
+				"''",
+				"'",
+				",",
+				"(",
+				"Carabiga.روليهلالا",
+				"'نيلسون",
+				"'",
+				"مانديلا",
+				")",
+				"waa",
+				"madaxwaynihii",
+				"hore",
+				"ee",
+				"Koonfur",
+				"Afrika",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"nelsɔn",
+				"rɔlihlæhlæ",
+				"mændelæ",
+				"ʔʔ",
+				"ʔ",
+				",",
+				"(",
+				"ʕæræbiɡæ.روليهلالا",
+				"ʔنيلسون",
+				"ʔ",
+				"مانديلا",
+				")",
+				"wæː",
+				"mædæħwæjnihiː",
+				"hɔre",
+				"eː",
+				"kɔːnfur",
+				"æfrikæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ukrain",
+				"''",
+				"'",
+				"waa",
+				"wadan",
+				"ku",
+				"yaalo",
+				"bariga",
+				"Yurub",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"ukræin",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"wædæn",
+				"ku",
+				"jæːlɔ",
+				"bæriɡæ",
+				"jurub",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Carabi"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ʕæræbi"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Gerald",
+				"Ford"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɡeræld",
+				"fɔrd"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Gobolada",
+				"Isku",
+				"Tegay",
+				"ee",
+				"Ameerika"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɡɔbɔlædæ",
+				"isku",
+				"teɡæj",
+				"eː",
+				"æmeːrikæ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Abwaanku",
+				"wuxuu",
+				"ku",
+				"dhashay",
+				"magaalada",
+				"qadiimiga",
+				"ah",
+				"ee",
+				"Saylac",
+				"goor",
+				"lagu",
+				"qiyaaso",
+				"1931kii",
+				"wuxuuna",
+				"ku",
+				"geeriyooday",
+				"magaalada",
+				"Oslo",
+				"ee",
+				"wadanka",
+				"Norway",
+				"sanadkii",
+				"2008dii",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"æbwæːnku",
+				"wuħuː",
+				"ku",
+				"ɖæʃæj",
+				"mæɡæːlædæ",
+				"qædiːmiɡæ",
+				"æh",
+				"eː",
+				"sæjlæʕ",
+				"ɡɔːr",
+				"læɡu",
+				"qijæːsɔ",
+				"1931kiː",
+				"wuħuːnæ",
+				"ku",
+				"ɡeːrijɔːdæj",
+				"mæɡæːlædæ",
+				"ɔslɔ",
+				"eː",
+				"wædænkæ",
+				"nɔrwæj",
+				"sænædkiː",
+				"2008diː",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Surinam"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"surinæm"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Mirahaan",
+				"waxa",
+				"uu",
+				"ka",
+				"baxaa",
+				"jidadka",
+				"geesaskooda",
+				"amd",
+				"dhinacooda",
+				",",
+				"gaar",
+				"ahaan",
+				"agagaarka",
+				"magaalada",
+				"Jowhar",
+				"dhinaca",
+				"wabiga",
+				"shabeele",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"miræhæːn",
+				"wæħæ",
+				"uː",
+				"kæ",
+				"bæħæː",
+				"d͡ʒidædkæ",
+				"ɡeːsæskɔːdæ",
+				"æmd",
+				"ɖinæʕɔːdæ",
+				",",
+				"ɡæːr",
+				"æhæːn",
+				"æɡæɡæːrkæ",
+				"mæɡæːlædæ",
+				"d͡ʒɔwhær",
+				"ɖinæʕæ",
+				"wæbiɡæ",
+				"ʃæbeːle",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Maqaalo",
+				"kale",
+				"fiiri",
+				"Geeri"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1
+			],
+			"epi_tokens": [
+				"mæqæːlɔ",
+				"kæle",
+				"fiːri",
+				"ɡeːri"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Dong",
+				"Hoi"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"dɔnɡ",
+				"hɔi"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Dagaalkan",
+				"Beder",
+				"jab",
+				"lama",
+				"filaan",
+				"iyo",
+				"lama",
+				"ilaawaan",
+				"ku",
+				"noqday",
+				"ayaa",
+				"ka",
+				"raacay",
+				"ciidamadii",
+				"reer",
+				"Quraysheed",
+				"ee",
+				"ku",
+				"soo",
+				"duuley",
+				"si",
+				"eey",
+				"u",
+				"tirtiraan",
+				"diinta",
+				"Islaamka",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"dæɡæːlkæn",
+				"beder",
+				"d͡ʒæb",
+				"læmæ",
+				"filæːn",
+				"ijɔ",
+				"læmæ",
+				"ilæːwæːn",
+				"ku",
+				"nɔqdæj",
+				"æjæː",
+				"kæ",
+				"ræːʕæj",
+				"ʕiːdæmædiː",
+				"reːr",
+				"quræjʃeːd",
+				"eː",
+				"ku",
+				"sɔː",
+				"duːlej",
+				"si",
+				"eːj",
+				"u",
+				"tirtiræːn",
+				"diːntæ",
+				"islæːmkæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Adnan",
+				"Abdo",
+				"al-Sukhni",
+				"(",
+				"dhashay",
+				"1961",
+				")",
+				",",
+				"siyaasi",
+				"reer",
+				"Suuriya",
+				"ah"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ædnæn",
+				"æbdɔ",
+				"æl-suχni",
+				"(",
+				"ɖæʃæj",
+				"1961",
+				")",
+				",",
+				"sijæːsi",
+				"reːr",
+				"suːrijæ",
+				"æh"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Makaroone"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"mækærɔːne"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"UNICEF"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"uniʕef"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Lusaka",
+				"''",
+				"'",
+				"waa",
+				"caasimada",
+				"dalka",
+				"Saambiya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"lusækæ",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"ʕæːsimædæ",
+				"dælkæ",
+				"sæːmbijæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hayada",
+				"Cuntada",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"hæjædæ",
+				"ʕuntædæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"UNESCO"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"unesʕɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Soomaaliya",
+				"markaa",
+				"waxa",
+				"ay",
+				"ku",
+				"jirtaa",
+				"dagaal",
+				"abaabulkiisa",
+				"oo",
+				"ay",
+				"rabto",
+				"in",
+				"ay",
+				"ku",
+				"qaado",
+				"Etopia"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sɔːmæːlijæ",
+				"mærkæː",
+				"wæħæ",
+				"æj",
+				"ku",
+				"d͡ʒirtæː",
+				"dæɡæːl",
+				"æbæːbulkiːsæ",
+				"ɔː",
+				"æj",
+				"ræbtɔ",
+				"in",
+				"æj",
+				"ku",
+				"qæːdɔ",
+				"etɔpiæ"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Maryama",
+				"al-Qibtiyya",
+				"waxay",
+				"ahayd",
+				"adoon",
+				"laga",
+				"soo",
+				"diray",
+				"wadanka",
+				"Masar",
+				"hadiyad",
+				"ahaan",
+				"ku",
+				"soo",
+				"gaadhay",
+				"nebiga",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mærjæmæ",
+				"æl-qibtijjæ",
+				"wæħæj",
+				"æhæjd",
+				"ædɔːn",
+				"læɡæ",
+				"sɔː",
+				"diræj",
+				"wædænkæ",
+				"mæsær",
+				"hædijæd",
+				"æhæːn",
+				"ku",
+				"sɔː",
+				"ɡæːɖæj",
+				"nebiɡæ",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kacbada"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"kæʕbædæ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"CABDULLAHI",
+				"CABDI",
+				",",
+				"ABDULLAHI",
+				"DHEERE",
+				",",
+				"MUXUDIINN",
+				"DERBA",
+				"WEYNE",
+				",",
+				"CABAAS",
+				"AXMED",
+				"YACQUUB",
+				",",
+				"BASHIR",
+				"JEENYO",
+				",",
+				"GAABSHE",
+				",",
+				"KHAALID",
+				",",
+				"CAMOORE",
+				",",
+				"KUUKAAY",
+				",",
+				"MAXAMED",
+				"AXMED",
+				"WARSAME",
+				",",
+				"MADAXEEY",
+				",",
+				"CABAAS",
+				"AXMED",
+				"DIIRIYE",
+				",",
+				"DHOOTEEYE",
+				",",
+				"IYO",
+				"KUWA",
+				"KALE",
+				"OO",
+				"AAN",
+				"HADDA",
+				"SOO",
+				"KOOBI",
+				"KARIN",
+				",",
+				"heerka",
+				"koowaad",
+				"marka",
+				"loo",
+				"fiirsho",
+				"xaafadaha",
+				"kale",
+				",",
+				"warta",
+				"waa",
+				"xaafadii",
+				"ugu",
+				"horeeysay",
+				"ee",
+				"lagu",
+				"aas",
+				"aasay",
+				"SYL",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"ʕæbdullæhi",
+				"ʕæbdi",
+				",",
+				"æbdullæhi",
+				"ɖeːre",
+				",",
+				"muħudiːnn",
+				"derbæ",
+				"wejne",
+				",",
+				"ʕæbæːs",
+				"æħmed",
+				"jæʕquːb",
+				",",
+				"bæʃir",
+				"d͡ʒeːnjɔ",
+				",",
+				"ɡæːbʃe",
+				",",
+				"χæːlid",
+				",",
+				"ʕæmɔːre",
+				",",
+				"kuːkæːj",
+				",",
+				"mæħæmed",
+				"æħmed",
+				"wærsæme",
+				",",
+				"mædæħeːj",
+				",",
+				"ʕæbæːs",
+				"æħmed",
+				"diːrije",
+				",",
+				"ɖɔːteːje",
+				",",
+				"ijɔ",
+				"kuwæ",
+				"kæle",
+				"ɔː",
+				"æːn",
+				"hæddæ",
+				"sɔː",
+				"kɔːbi",
+				"kærin",
+				",",
+				"heːrkæ",
+				"kɔːwæːd",
+				"mærkæ",
+				"lɔː",
+				"fiːrʃɔ",
+				"ħæːfædæhæ",
+				"kæle",
+				",",
+				"wærtæ",
+				"wæː",
+				"ħæːfædiː",
+				"uɡu",
+				"hɔreːjsæj",
+				"eː",
+				"læɡu",
+				"æːs",
+				"æːsæj",
+				"sjl",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Buraan",
+				"''",
+				"'",
+				"waa",
+				"degmo",
+				"ka",
+				"tirsan",
+				"degmooyinka",
+				"gobolka",
+				"Sanaag",
+				",",
+				"waxeena",
+				"ka",
+				"midtahay",
+				"degmooyinkii",
+				"ugu",
+				"da",
+				",",
+				"da",
+				"weyn",
+				"sanaag",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"buræːn",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"deɡmɔ",
+				"kæ",
+				"tirsæn",
+				"deɡmɔːjinkæ",
+				"ɡɔbɔlkæ",
+				"sænæːɡ",
+				",",
+				"wæħeːnæ",
+				"kæ",
+				"midtæhæj",
+				"deɡmɔːjinkiː",
+				"uɡu",
+				"dæ",
+				",",
+				"dæ",
+				"wejn",
+				"sænæːɡ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ururka",
+				"Dalxiiska",
+				"Dunida"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ururkæ",
+				"dælħiːskæ",
+				"dunidæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"SoomaaliyaMalaayin",
+				"Fuusto",
+				"Maalintiiba"
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"25pħ",
+				"sɔːmæːlijæmælæːjin",
+				"fuːstɔ",
+				"mæːlintiːbæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Soomaaliya",
+				"Waxay",
+				"kamid",
+				"tahay",
+				"Dalalka",
+				"ugu",
+				"Faqrisan",
+				"aduunka",
+				",",
+				"Ma",
+				"jiro",
+				"Fayo-dhawr",
+				"guud",
+				"oo",
+				"kafaala",
+				"qaadaya",
+				"caafimaadka",
+				"asaasiga",
+				"ah",
+				"ee",
+				"Muwaadinka",
+				"Soomaaliyeed",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sɔːmæːlijæ",
+				"wæħæj",
+				"kæmid",
+				"tæhæj",
+				"dælælkæ",
+				"uɡu",
+				"fæqrisæn",
+				"æduːnkæ",
+				",",
+				"mæ",
+				"d͡ʒirɔ",
+				"fæjɔ-ɖæwr",
+				"ɡuːd",
+				"ɔː",
+				"kæfæːlæ",
+				"qæːdæjæ",
+				"ʕæːfimæːdkæ",
+				"æsæːsiɡæ",
+				"æh",
+				"eː",
+				"muwæːdinkæ",
+				"sɔːmæːlijeːd",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Xaasaska",
+				"Nebi",
+				"Muxamed",
+				"waxay",
+				"ahaayeen",
+				"sadex-iyo-toban",
+				"(",
+				"13",
+				")",
+				"kuwaasi",
+				"oo",
+				"uu",
+				"guursaday",
+				"wakhtiyo",
+				"kala",
+				"duwan",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ħæːsæskæ",
+				"nebi",
+				"muħæmed",
+				"wæħæj",
+				"æhæːjeːn",
+				"sædeħ-ijɔ-tɔbæn",
+				"(",
+				"13",
+				")",
+				"kuwæːsi",
+				"ɔː",
+				"uː",
+				"ɡuːrsædæj",
+				"wæχtijɔ",
+				"kælæ",
+				"duwæn",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Badweyn",
+				"Qaramada",
+				"Midoobay"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"bædwejn",
+				"qæræmædæ",
+				"midɔːbæj"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Cabdullaahi",
+				"Ciise"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ʕæbdullæːhi",
+				"ʕiːse"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Dominika"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"dɔminikæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Caynaba"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ʕæjnæbæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Cabdulaahi",
+				"Muxamed"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"**",
+				"ʕæbdulæːhi",
+				"muħæmed"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Huulaaku",
+				"Khan"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"huːlæːku",
+				"χæn"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Muxamed",
+				"(",
+				"c.s.w",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"muħæmed",
+				"(",
+				"ʕ.s.w",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ciyaartii",
+				"ugu",
+				"danbeesay",
+				"ee",
+				"gobolada",
+				"soomaaliya",
+				"waxee",
+				"dhacday",
+				"23sano",
+				"ka",
+				"hor",
+				",",
+				"waxaana",
+				"lagu",
+				"qabtay",
+				"garoonka",
+				"weyn",
+				"oo",
+				"ku",
+				"yaalo",
+				"magaalada",
+				"Muqdisho",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʕijæːrtiː",
+				"uɡu",
+				"dænbeːsæj",
+				"eː",
+				"ɡɔbɔlædæ",
+				"sɔːmæːlijæ",
+				"wæħeː",
+				"ɖæʕdæj",
+				"23sænɔ",
+				"kæ",
+				"hɔr",
+				",",
+				"wæħæːnæ",
+				"læɡu",
+				"qæbtæj",
+				"ɡærɔːnkæ",
+				"wejn",
+				"ɔː",
+				"ku",
+				"jæːlɔ",
+				"mæɡæːlædæ",
+				"muqdiʃɔ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Ibraahiim",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"ibræːhiːm",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ruqiya"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"ruqijæ"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Ibraahim",
+				"bin",
+				"Muxamed"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ibræːhim",
+				"bin",
+				"muħæmed"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"sida",
+				"ay7",
+				"cadaynayaan",
+				"calaamado",
+				"laga",
+				"helay",
+				"goobo",
+				"wadankaa",
+				"kuyaalaa",
+				"dadkii",
+				"ugu",
+				"horeeyaya",
+				"ee",
+				"halkaas",
+				"lugohooda",
+				"dhigay",
+				"waxaa",
+				"lacadeeyay",
+				"in",
+				"ay",
+				"kayimaadeen",
+				"wadanka",
+				"Indunisiya"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"sidæ",
+				"æj7",
+				"ʕædæjnæjæːn",
+				"ʕælæːmædɔ",
+				"læɡæ",
+				"helæj",
+				"ɡɔːbɔ",
+				"wædænkæː",
+				"kujæːlæː",
+				"dædkiː",
+				"uɡu",
+				"hɔreːjæjæ",
+				"eː",
+				"hælkæːs",
+				"luɡɔhɔːdæ",
+				"ɖiɡæj",
+				"wæħæː",
+				"læʕædeːjæj",
+				"in",
+				"æj",
+				"kæjimæːdeːn",
+				"wædænkæ",
+				"indunisijæ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ra'iisul",
+				"wasaarayaashii",
+				"soo",
+				"maray",
+				"dalka",
+				"Soomaaliya",
+				".",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"ræʔiːsul",
+				"wæsæːræjæːʃiː",
+				"sɔː",
+				"mæræj",
+				"dælkæ",
+				"sɔːmæːlijæ",
+				".",
+				"ʔʔ",
+				"ʔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ingiriiska"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"inɡiriːskæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Faatima"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"fæːtimæ"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Bankiga",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"bænkiɡæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Daahir",
+				"Rayaale",
+				"Kaahin",
+				"oo",
+				"ahaa",
+				"madaxweynihii",
+				"3aad",
+				"ahna",
+				"aabaha",
+				"dimuqraadiyada",
+				"Somaliland",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"dæːhir",
+				"ræjæːle",
+				"kæːhin",
+				"ɔː",
+				"æhæː",
+				"mædæħwejnihiː",
+				"3æːd",
+				"æhnæ",
+				"æːbæhæ",
+				"dimuqræːdijædæ",
+				"sɔmælilænd",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Shaax"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ʃæːħ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Bankiga",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"bænkiɡæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Hormuud",
+				"waxaa",
+				"ka",
+				"shaqeeya",
+				"in",
+				"ka",
+				"badan",
+				"8000",
+				"oo",
+				"shaqaale",
+				"Soomaali",
+				"ah",
+				",",
+				"Xarumaha",
+				"Hormuud",
+				"ee",
+				"Magaalada",
+				"Muqdisho",
+				"iyo",
+				"gobollada",
+				"kale",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"hɔrmuːd",
+				"wæħæː",
+				"kæ",
+				"ʃæqeːjæ",
+				"in",
+				"kæ",
+				"bædæn",
+				"8000",
+				"ɔː",
+				"ʃæqæːle",
+				"sɔːmæːli",
+				"æh",
+				",",
+				"ħærumæhæ",
+				"hɔrmuːd",
+				"eː",
+				"mæɡæːlædæ",
+				"muqdiʃɔ",
+				"ijɔ",
+				"ɡɔbɔllædæ",
+				"kæle",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Ibraahiim",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"ibræːhiːm",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"UNICEF"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"uniʕef"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Tunis",
+				"waa",
+				"caasimada",
+				"dalka",
+				"Tunisiya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"tunis",
+				"wæː",
+				"ʕæːsimædæ",
+				"dælkæ",
+				"tunisijæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"UNICEF"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"uniʕef"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Marka",
+				"la",
+				"tixraaco",
+				"dhaqanka",
+				"dadka",
+				"Soomaalida",
+				",",
+				"qadadu",
+				"waa",
+				"cuntada",
+				"ugu",
+				"muhiimsan",
+				"sadexda",
+				"wakhti",
+				"ee",
+				"dadku",
+				"wax",
+				"cuno",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mærkæ",
+				"læ",
+				"tiħræːʕɔ",
+				"ɖæqænkæ",
+				"dædkæ",
+				"sɔːmæːlidæ",
+				",",
+				"qædædu",
+				"wæː",
+				"ʕuntædæ",
+				"uɡu",
+				"muhiːmsæn",
+				"sædeħdæ",
+				"wæχti",
+				"eː",
+				"dædku",
+				"wæħ",
+				"ʕunɔ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Yuusuf",
+				"Islaam"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"juːsuf",
+				"islæːm"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Xeebta",
+				"Foolmaroodi"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"ħeːbtæ",
+				"fɔːlmærɔːdi"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Dadka",
+				"Madoow"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"dædkæ",
+				"mædɔːw"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Cufisjiidad"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ʕufisd͡ʒiːdæd"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Estoniya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"estɔnijæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Habkaas",
+				"oo",
+				"kale",
+				",",
+				"Ingiriisku",
+				"wuxuu",
+				"ku",
+				"wareejiyay",
+				"NFD",
+				"taasoo",
+				"ay",
+				"degaan",
+				"Soomaalida",
+				"Kiinya",
+				"waxayna",
+				"dhegaha",
+				"ka",
+				"furaysatay",
+				"aftidii",
+				"horay",
+				"looga",
+				"qaaday",
+				"gobolkaas",
+				"taasoo",
+				"cadaynaysay",
+				"ku",
+				"biirista",
+				"Jamhuuriyadda",
+				"Soomaaliya",
+				"ee",
+				"cusub",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"hæbkæːs",
+				"ɔː",
+				"kæle",
+				",",
+				"inɡiriːsku",
+				"wuħuː",
+				"ku",
+				"wæreːd͡ʒijæj",
+				"nfd",
+				"tæːsɔː",
+				"æj",
+				"deɡæːn",
+				"sɔːmæːlidæ",
+				"kiːnjæ",
+				"wæħæjnæ",
+				"ɖeɡæhæ",
+				"kæ",
+				"furæjsætæj",
+				"æftidiː",
+				"hɔræj",
+				"lɔːɡæ",
+				"qæːdæj",
+				"ɡɔbɔlkæːs",
+				"tæːsɔː",
+				"ʕædæjnæjsæj",
+				"ku",
+				"biːristæ",
+				"d͡ʒæmhuːrijæddæ",
+				"sɔːmæːlijæ",
+				"eː",
+				"ʕusub",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Imaaraatka",
+				"Carabta"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"imæːræːtkæ",
+				"ʕæræbtæ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ramla",
+				"bint",
+				"Abi",
+				"Sufyan"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ræmlæ",
+				"bint",
+				"æbi",
+				"sufjæn"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Qaramada",
+				"Midoobay"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"qæræmædæ",
+				"midɔːbæj"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Puntland"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"puntlænd"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Muxamed",
+				"(",
+				"c.s.w",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"muħæmed",
+				"(",
+				"ʕ.s.w",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"UNICEF"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"uniʕef"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Murshid",
+				"abad",
+				"''",
+				"'",
+				",",
+				"Hindiya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"murʃid",
+				"æbæd",
+				"ʔʔ",
+				"ʔ",
+				",",
+				"hindijæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ilaahay"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ilæːhæj"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Salaad",
+				"Gabeyre",
+				"Kediye",
+				",",
+				"Father",
+				"of",
+				"the",
+				"1969",
+				"revolution"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sælæːd",
+				"ɡæbejre",
+				"kedije",
+				",",
+				"fæther",
+				"ɔf",
+				"the",
+				"1969",
+				"revɔlutiɔn"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Erayadii",
+				"Astaanta",
+				"Calanka",
+				"Jabuuti",
+				"'",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"eræjædiː",
+				"æstæːntæ",
+				"ʕælænkæ",
+				"d͡ʒæbuːti",
+				"ʔ",
+				"ʔʔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Nabi",
+				"Ibraahiim",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"**",
+				"næbi",
+				"ibræːhiːm",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Islaamku",
+				"waxa",
+				"uu",
+				"Sinigaal",
+				"galy",
+				"qarnigii",
+				"11aad",
+				"waxa",
+				"islamka",
+				"wadanka",
+				"Sinigaal",
+				"soogaadhsiiyay",
+				"qabiilada",
+				"looyaqaano[sanaahija]]",
+				"oo",
+				"kudhaqan",
+				"galbeedka",
+				"Afrika",
+				"gaar",
+				"ahaan",
+				"Mauritania",
+				"magaca",
+				"Sinigaal",
+				"waxaa",
+				"lagasoo",
+				"qaatay",
+				"luqada",
+				"walaf",
+				"ee",
+				"sida",
+				"aadka",
+				"ah",
+				"loogaga",
+				"hadlo",
+				"wadamo",
+				"badan",
+				"oo",
+				"kamida",
+				"galbeedka",
+				"Afrika"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"islæːmku",
+				"wæħæ",
+				"uː",
+				"siniɡæːl",
+				"ɡælj",
+				"qærniɡiː",
+				"11æːd",
+				"wæħæ",
+				"islæmkæ",
+				"wædænkæ",
+				"siniɡæːl",
+				"sɔːɡæːɖsiːjæj",
+				"qæbiːlædæ",
+				"lɔːjæqæːnɔ[sænæːhid͡ʒæ]]",
+				"ɔː",
+				"kuɖæqæn",
+				"ɡælbeːdkæ",
+				"æfrikæ",
+				"ɡæːr",
+				"æhæːn",
+				"mæuritæniæ",
+				"mæɡæʕæ",
+				"siniɡæːl",
+				"wæħæː",
+				"læɡæsɔː",
+				"qæːtæj",
+				"luqædæ",
+				"wælæf",
+				"eː",
+				"sidæ",
+				"æːdkæ",
+				"æh",
+				"lɔːɡæɡæ",
+				"hædlɔ",
+				"wædæmɔ",
+				"bædæn",
+				"ɔː",
+				"kæmidæ",
+				"ɡælbeːdkæ",
+				"æfrikæ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Qaramada",
+				"Midoobay"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"qæræmædæ",
+				"midɔːbæj"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Luud",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"luːd",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Yamoussoukro",
+				"''",
+				"'",
+				"Waa",
+				"casimda",
+				"dalka",
+				"Xeebta",
+				"Foolmaroodi",
+				"waana",
+				"magada",
+				"labad",
+				"ee",
+				"wadankaas",
+				"ugu",
+				"wayn"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"jæmɔussɔukrɔ",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"ʕæsimdæ",
+				"dælkæ",
+				"ħeːbtæ",
+				"fɔːlmærɔːdi",
+				"wæːnæ",
+				"mæɡædæ",
+				"læbæd",
+				"eː",
+				"wædænkæːs",
+				"uɡu",
+				"wæjn"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"test": [
+		{
+			"tokens": [
+				"Hayada",
+				"Cuntada",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"hæjædæ",
+				"ʕuntædæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Laakiin",
+				"waxaa",
+				"jira",
+				"noocyo",
+				"badan",
+				"oo",
+				"awooda",
+				"ka",
+				"mid",
+				"ah",
+				"oon",
+				"la",
+				"bedeli",
+				"karin",
+				",",
+				"sida",
+				"awooda",
+				"awooda",
+				"cufisjiidadka",
+				"lama",
+				"bedeli",
+				"karo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"læːkiːn",
+				"wæħæː",
+				"d͡ʒiræ",
+				"nɔːʕjɔ",
+				"bædæn",
+				"ɔː",
+				"æwɔːdæ",
+				"kæ",
+				"mid",
+				"æh",
+				"ɔːn",
+				"læ",
+				"bedeli",
+				"kærin",
+				",",
+				"sidæ",
+				"æwɔːdæ",
+				"æwɔːdæ",
+				"ʕufisd͡ʒiːdædkæ",
+				"læmæ",
+				"bedeli",
+				"kærɔ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bankiga",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"bænkiɡæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Diin"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"diːn"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Sind",
+				"''",
+				"'",
+				",",
+				"'",
+				"''",
+				"Sindhi",
+				"''",
+				"'",
+				"(",
+				"Urduu",
+				":",
+				"سندھ‎",
+				";",
+				"Sindhi",
+				":",
+				"سنڌ‎",
+				";",
+				";",
+				")",
+				"waa",
+				"mid",
+				"ka",
+				"mida",
+				"afarta",
+				"gobol",
+				"ee",
+				"ugu",
+				"waawayn",
+				"wadanka",
+				"Bakistaan",
+				"kaasi",
+				"oo",
+				"dhaca",
+				"koofur",
+				"bari",
+				"wadankaasi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"sind",
+				"ʔʔ",
+				"ʔ",
+				",",
+				"ʔ",
+				"ʔʔ",
+				"sinɖi",
+				"ʔʔ",
+				"ʔ",
+				"(",
+				"urduː",
+				":",
+				"سندھ‎",
+				";",
+				"sinɖi",
+				":",
+				"سنڌ‎",
+				";",
+				";",
+				")",
+				"wæː",
+				"mid",
+				"kæ",
+				"midæ",
+				"æfærtæ",
+				"ɡɔbɔl",
+				"eː",
+				"uɡu",
+				"wæːwæjn",
+				"wædænkæ",
+				"bækistæːn",
+				"kæːsi",
+				"ɔː",
+				"ɖæʕæ",
+				"kɔːfur",
+				"bæri",
+				"wædænkæːsi",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Muuse",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"muːse",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Nuux",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"nuːħ",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Burtuqaal"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"burtuqæːl"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Drenthe",
+				"''",
+				"'",
+				"waa",
+				"gobol",
+				"ka",
+				"mid",
+				"ah",
+				"12",
+				"gobol",
+				"ee",
+				"dalka",
+				"Nederland",
+				"/",
+				"Holland",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"drenthe",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"ɡɔbɔl",
+				"kæ",
+				"mid",
+				"æh",
+				"12",
+				"ɡɔbɔl",
+				"eː",
+				"dælkæ",
+				"nederlænd",
+				"/",
+				"hɔllænd",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Degmada",
+				"Boorama"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"deɡmædæ",
+				"bɔːræmæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Sidoo",
+				"kale",
+				"magaalada",
+				"Borama",
+				"waa",
+				"hoyga",
+				"Jaamacadda",
+				"Camuud",
+				"oo",
+				"ah",
+				"jaamacadii",
+				"ugu",
+				"horeeysay",
+				"ee",
+				"laga",
+				"aasaaso",
+				"cariga",
+				"Soomaaliyeed",
+				"burburkii",
+				"dowladii",
+				"Siyaad",
+				"Bare",
+				"ka",
+				"dib",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sidɔː",
+				"kæle",
+				"mæɡæːlædæ",
+				"bɔræmæ",
+				"wæː",
+				"hɔjɡæ",
+				"d͡ʒæːmæʕæddæ",
+				"ʕæmuːd",
+				"ɔː",
+				"æh",
+				"d͡ʒæːmæʕædiː",
+				"uɡu",
+				"hɔreːjsæj",
+				"eː",
+				"læɡæ",
+				"æːsæːsɔ",
+				"ʕæriɡæ",
+				"sɔːmæːlijeːd",
+				"burburkiː",
+				"dɔwlædiː",
+				"sijæːd",
+				"bære",
+				"kæ",
+				"dib",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Gabay"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ɡæbæj"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Ciise"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"ʕiːse"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Ayuub",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"æjuːb",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Huud"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"huːd"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Faatima"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"fæːtimæ"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Bankiga",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"bænkiɡæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Cabdulaahi",
+				"Muxamed"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ʕæbdulæːhi",
+				"muħæmed"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"UNICEF"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"uniʕef"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Waxaa",
+				"mara",
+				"Wabiga",
+				"Shabeelle",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"wæħæː",
+				"mæræ",
+				"wæbiɡæ",
+				"ʃæbeːlle",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Swasiland"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"swæsilænd"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"``",
+				"Hobolada",
+				"Waaberi",
+				"ee",
+				"hogaanka",
+				"u",
+				"ahaa",
+				"fanka",
+				"iyo",
+				"suugaanta",
+				"Soomaaliyeed",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"``",
+				"hɔbɔlædæ",
+				"wæːberi",
+				"eː",
+				"hɔɡæːnkæ",
+				"u",
+				"æhæː",
+				"fænkæ",
+				"ijɔ",
+				"suːɡæːntæ",
+				"sɔːmæːlijeːd",
+				"ʔʔ"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Urur",
+				"Siyaasadeedka",
+				"Horseed",
+				"''",
+				"'",
+				"Waa",
+				"urur",
+				"ka",
+				"jiro",
+				"Somaliland",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"urur",
+				"sijæːsædeːdkæ",
+				"hɔrseːd",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"urur",
+				"kæ",
+				"d͡ʒirɔ",
+				"sɔmælilænd",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Saynab",
+				"bint",
+				"Khuzayma"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"**",
+				"sæjnæb",
+				"bint",
+				"χuzæjmæ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Abaayo"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"æbæːjɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Aboowe"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"æbɔːwe"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Lacey",
+				"Duvalle",
+				"-",
+				"Twitter"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"læʕej",
+				"duvælle",
+				"-",
+				"twitter"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Malta"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"mæltæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Maxkamada",
+				"Cadaalada",
+				"Caalamka"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mæħkæmædæ",
+				"ʕædæːlædæ",
+				"ʕæːlæmkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Qatar"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"qætær"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Luud",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"luːd",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"magaca",
+				"Beijing",
+				"micnihiisa",
+				"waa",
+				"(",
+				"waqooyiga",
+				"Caasimada",
+				")",
+				",",
+				"micnaha",
+				"``",
+				"Nanjing",
+				"''",
+				"(",
+				"南京",
+				")",
+				"neh",
+				"waa",
+				"(",
+				"Koonfurta",
+				"caasimada",
+				")",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mæɡæʕæ",
+				"beid͡ʒinɡ",
+				"miʕnihiːsæ",
+				"wæː",
+				"(",
+				"wæqɔːjiɡæ",
+				"ʕæːsimædæ",
+				")",
+				",",
+				"miʕnæhæ",
+				"``",
+				"nænd͡ʒinɡ",
+				"ʔʔ",
+				"(",
+				"南京",
+				")",
+				"neh",
+				"wæː",
+				"(",
+				"kɔːnfurtæ",
+				"ʕæːsimædæ",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"kooxdani",
+				"waa",
+				"tan",
+				"ugu",
+				"guulaha",
+				"iyo",
+				"koobabka",
+				"badan",
+				"kooxaha",
+				"kubadda",
+				"ee",
+				"dalka",
+				"Turkiga",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"kɔːħdæni",
+				"wæː",
+				"tæn",
+				"uɡu",
+				"ɡuːlæhæ",
+				"ijɔ",
+				"kɔːbæbkæ",
+				"bædæn",
+				"kɔːħæhæ",
+				"kubæddæ",
+				"eː",
+				"dælkæ",
+				"turkiɡæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Gerald",
+				"Ford"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɡeræld",
+				"fɔrd"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Yahoo"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"jæhɔː"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Hayada",
+				"Cuntada",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"hæjædæ",
+				"ʕuntædæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Robin",
+				"van",
+				"Persie"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"rɔbin",
+				"væn",
+				"persie"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Laascaanood",
+				",",
+				"Soomaaliya"
+			],
+			"ner_tags": [
+				5,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"læːsʕæːnɔːd",
+				",",
+				"sɔːmæːlijæ"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Xaasaska",
+				"Nebi",
+				"Muxamed",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"ħæːsæskæ",
+				"nebi",
+				"muħæmed",
+				"ʔʔ",
+				"ʔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Umm",
+				"Kaltuum",
+				"bint",
+				"Muxamed"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"umm",
+				"kæltuːm",
+				"bint",
+				"muħæmed"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ibraahim"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"ibræːhim"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Abu",
+				"Bakr"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"æbu",
+				"bækr"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kanada"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kænædæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Hindiya",
+				"''",
+				"'",
+				"ama",
+				"'",
+				"''",
+				"Jamhuuriyadda",
+				"Hindiya",
+				"''",
+				"'",
+				"waa",
+				"wadan",
+				"ku",
+				"yaala",
+				"Aasiya",
+				"waana",
+				"wadanka",
+				"Aduunka",
+				"ugu",
+				"dadka",
+				"tirada",
+				"badan",
+				"marka",
+				"laga",
+				"reebo",
+				"Shiinaha",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"hindijæ",
+				"ʔʔ",
+				"ʔ",
+				"æmæ",
+				"ʔ",
+				"ʔʔ",
+				"d͡ʒæmhuːrijæddæ",
+				"hindijæ",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"wædæn",
+				"ku",
+				"jæːlæ",
+				"æːsijæ",
+				"wæːnæ",
+				"wædænkæ",
+				"æduːnkæ",
+				"uɡu",
+				"dædkæ",
+				"tirædæ",
+				"bædæn",
+				"mærkæ",
+				"læɡæ",
+				"reːbɔ",
+				"ʃiːnæhæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Barasiil"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"bæræsiːl"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Faaranhaayt"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"fæːrænhæːjt"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Maryama",
+				"al-Qibtiyya",
+				"waxay",
+				"ahayd",
+				"adoon",
+				"laga",
+				"soo",
+				"diray",
+				"wadanka",
+				"Masar",
+				"hadiyad",
+				"ahaan",
+				"ku",
+				"soo",
+				"gaadhay",
+				"nebiga",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mærjæmæ",
+				"æl-qibtijjæ",
+				"wæħæj",
+				"æhæjd",
+				"ædɔːn",
+				"læɡæ",
+				"sɔː",
+				"diræj",
+				"wædænkæ",
+				"mæsær",
+				"hædijæd",
+				"æhæːn",
+				"ku",
+				"sɔː",
+				"ɡæːɖæj",
+				"nebiɡæ",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Huriwaa"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"huriwæː"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"File",
+				":",
+				"Aar",
+				"Aar",
+				"Maanta"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"file",
+				":",
+				"æːr",
+				"æːr",
+				"mæːntæ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Saalax"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"sæːlæħ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Sacad",
+				"bin",
+				"Abii",
+				"Waqaas"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"sæʕæd",
+				"bin",
+				"æbiː",
+				"wæqæːs"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Fiyena"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"fijenæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Diin"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"diːn"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Arizona"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ærizɔnæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Niamey",
+				"''",
+				"'",
+				"waa",
+				"caasimada",
+				"dalka",
+				"Nayjar"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"niæmej",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"ʕæːsimædæ",
+				"dælkæ",
+				"næjd͡ʒær"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Bankiga",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"bænkiɡæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Nabi",
+				"Ayuub",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"**",
+				"næbi",
+				"æjuːb",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Saynab",
+				"bint",
+				"Khuzayma"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"sæjnæb",
+				"bint",
+				"χuzæjmæ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"UNESCO"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"unesʕɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Image",
+				":",
+				"Daahir",
+				"Rayaale",
+				"Kaahin"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"imæɡe",
+				":",
+				"dæːhir",
+				"ræjæːle",
+				"kæːhin"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ismaaciil"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ismæːʕiːl"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"10",
+				"25px",
+				"Isbania"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"10",
+				"25pħ",
+				"isbæniæ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Yaxye",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"jæħje",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Lo'da",
+				"waxee",
+				"ku",
+				"nooshahay",
+				"Aduunka",
+				"oo",
+				"dhan",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"lɔʔdæ",
+				"wæħeː",
+				"ku",
+				"nɔːʃæhæj",
+				"æduːnkæ",
+				"ɔː",
+				"ɖæn",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Qaramada",
+				"Midoobay"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"qæræmædæ",
+				"midɔːbæj"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Abaayo"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"æbæːjɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"sanadkii",
+				"1568",
+				"markaas",
+				"oo",
+				"lagu",
+				"tuhunasanaa",
+				"in",
+				"ay",
+				"tahay",
+				"jasiiradii",
+				"nabi",
+				"suleemaan",
+				"ee",
+				"uu",
+				"dahabku",
+				"kabuuxay",
+				"qarniyadii",
+				"17",
+				"iyo",
+				"18",
+				"waxa",
+				"iskudady",
+				"in",
+				"uu",
+				"qabsado",
+				"wadanka",
+				"isbayn",
+				"laakiin",
+				"wuu",
+				"ku",
+				"guuldaraystay",
+				"dhinacyo",
+				"kamida",
+				"jasiiradaha",
+				"solaman",
+				"waxa",
+				"qabsaday",
+				"wadanka",
+				"jarmalka",
+				"sanadii",
+				"1899",
+				"sanadkii",
+				"1900",
+				"waxa",
+				"halmaamul",
+				"loosameeyay",
+				"dhamaan",
+				"jasiirada",
+				"solomon",
+				"halkaas",
+				"oo",
+				"ay",
+				"hoostagyeen",
+				"jasiirada",
+				"Fiji",
+				"oo",
+				"xarun",
+				"u",
+				"noqotay",
+				"dhanaan",
+				"jasiiradihii",
+				"ku",
+				"yaalay",
+				"Ooshiyaaniya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sænædkiː",
+				"1568",
+				"mærkæːs",
+				"ɔː",
+				"læɡu",
+				"tuhunæsænæː",
+				"in",
+				"æj",
+				"tæhæj",
+				"d͡ʒæsiːrædiː",
+				"næbi",
+				"suleːmæːn",
+				"eː",
+				"uː",
+				"dæhæbku",
+				"kæbuːħæj",
+				"qærnijædiː",
+				"17",
+				"ijɔ",
+				"18",
+				"wæħæ",
+				"iskudædj",
+				"in",
+				"uː",
+				"qæbsædɔ",
+				"wædænkæ",
+				"isbæjn",
+				"læːkiːn",
+				"wuː",
+				"ku",
+				"ɡuːldæræjstæj",
+				"ɖinæʕjɔ",
+				"kæmidæ",
+				"d͡ʒæsiːrædæhæ",
+				"sɔlæmæn",
+				"wæħæ",
+				"qæbsædæj",
+				"wædænkæ",
+				"d͡ʒærmælkæ",
+				"sænædiː",
+				"1899",
+				"sænædkiː",
+				"1900",
+				"wæħæ",
+				"hælmæːmul",
+				"lɔːsæmeːjæj",
+				"ɖæmæːn",
+				"d͡ʒæsiːrædæ",
+				"sɔlɔmɔn",
+				"hælkæːs",
+				"ɔː",
+				"æj",
+				"hɔːstæɡjeːn",
+				"d͡ʒæsiːrædæ",
+				"fid͡ʒi",
+				"ɔː",
+				"ħærun",
+				"u",
+				"nɔqɔtæj",
+				"ɖænæːn",
+				"d͡ʒæsiːrædihiː",
+				"ku",
+				"jæːlæj",
+				"ɔːʃijæːnijæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Maqaalo",
+				"kale",
+				"fiiri",
+				"Saladh"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"mæqæːlɔ",
+				"kæle",
+				"fiːri",
+				"sælæɖ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Waajid"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"wæːd͡ʒid"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"arfakh-shad",
+				",",
+				"iram",
+				",",
+				"aashoor",
+				",",
+				"ciilaam",
+				",",
+				"iyo",
+				"laawid"
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ærfæχ-ʃæd",
+				",",
+				"iræm",
+				",",
+				"æːʃɔːr",
+				",",
+				"ʕiːlæːm",
+				",",
+				"ijɔ",
+				"læːwid"
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jaamacada",
+				"Muqdisho"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"d͡ʒæːmæʕædæ",
+				"muqdiʃɔ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Jasiirada",
+				"Qabrus"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"d͡ʒæsiːrædæ",
+				"qæbrus"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Haumea"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"hæumeæ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Cali",
+				"bin",
+				"Abi-Dalib"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʕæli",
+				"bin",
+				"æbi-dælib"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Xarunta",
+				"Sare",
+				"Qaramada",
+				"Midoobay"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ħæruntæ",
+				"sære",
+				"qæræmædæ",
+				"midɔːbæj"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Gaalkacyo"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ɡæːlkæʕjɔ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Bangkok",
+				"''",
+				"'",
+				"(",
+				"กรุงเทพ",
+				"ฯ",
+				")",
+				"waa",
+				"caasimada",
+				"dalka",
+				"Tayland",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"bænɡkɔk",
+				"ʔʔ",
+				"ʔ",
+				"(",
+				"กรุงเทพ",
+				"ฯ",
+				")",
+				"wæː",
+				"ʕæːsimædæ",
+				"dælkæ",
+				"tæjlænd",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"UNESCO"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"unesʕɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"UNICEF"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"uniʕef"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Hiliyaam"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"hilijæːm"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"UNESCO"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"unesʕɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Ciise"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"ʕiːse"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Ururka",
+				"Cuntada",
+				"iyo",
+				"Dalaga"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ururkæ",
+				"ʕuntædæ",
+				"ijɔ",
+				"dælæɡæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Fanaanadu",
+				"waxay",
+				"ka",
+				"tirsanayd",
+				"Hobolada",
+				"Waaberi",
+				"ee",
+				"hogaanka",
+				"u",
+				"ahaa",
+				"fanka",
+				"iyo",
+				"suugaanta",
+				"Soomaaliyeed",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"fænæːnædu",
+				"wæħæj",
+				"kæ",
+				"tirsænæjd",
+				"hɔbɔlædæ",
+				"wæːberi",
+				"eː",
+				"hɔɡæːnkæ",
+				"u",
+				"æhæː",
+				"fænkæ",
+				"ijɔ",
+				"suːɡæːntæ",
+				"sɔːmæːlijeːd",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ciilaam"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ʕiːlæːm"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Dugsiyada",
+				"Dadweynaha",
+				"Minneapolis"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"duɡsijædæ",
+				"dædwejnæhæ",
+				"minneæpɔlis"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Magaalo",
+				"madaxda",
+				"wadanka",
+				"waa",
+				"New",
+				"Delhi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"mæɡæːlɔ",
+				"mædæħdæ",
+				"wædænkæ",
+				"wæː",
+				"new",
+				"delhi",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hayada",
+				"Cuntada",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"hæjædæ",
+				"ʕuntædæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"(",
+				"Kolombiya",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"(",
+				"kɔlɔmbijæ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Waxa",
+				"iyaguna",
+				"meesha",
+				"ka",
+				"maqneyn",
+				"tiro",
+				"kuusan",
+				"oo",
+				"Aasiyaan",
+				"ah",
+				",",
+				"kuwaasi",
+				"oo",
+				"ayagu",
+				"inta",
+				"badan",
+				"ka",
+				"soo",
+				"jeeda",
+				"wadanada",
+				"Koonfurbari",
+				"Aasiya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"wæħæ",
+				"ijæɡunæ",
+				"meːʃæ",
+				"kæ",
+				"mæqnejn",
+				"tirɔ",
+				"kuːsæn",
+				"ɔː",
+				"æːsijæːn",
+				"æh",
+				",",
+				"kuwæːsi",
+				"ɔː",
+				"æjæɡu",
+				"intæ",
+				"bædæn",
+				"kæ",
+				"sɔː",
+				"d͡ʒeːdæ",
+				"wædænædæ",
+				"kɔːnfurbæri",
+				"æːsijæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Cumaan"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ʕumæːn"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Gacanka",
+				"Faarsiga"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"ɡæʕænkæ",
+				"fæːrsiɡæ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Iswiidhan"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"iswiːɖæn"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"UNESCO"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"unesʕɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Maxamed",
+				"Xaaji",
+				"Ibraahim",
+				"Cigaal"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"mæħæmed",
+				"ħæːd͡ʒi",
+				"ibræːhim",
+				"ʕiɡæːl"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Muxammad",
+				"S.C.W",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"muħæmmæd",
+				"s.ʕ.w",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Cali",
+				"binu",
+				"Abi",
+				"Daalib"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʕæli",
+				"binu",
+				"æbi",
+				"dæːlib"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Microsoft"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"miʕrɔsɔft"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Boorama",
+				"''",
+				"'",
+				",",
+				"'",
+				"''",
+				"Borama",
+				"''",
+				"'",
+				"(",
+				";",
+				")",
+				"sidoo",
+				"kale",
+				"loo",
+				"yaqaano",
+				"'",
+				"''",
+				"Borame",
+				"''",
+				"'",
+				"waa",
+				"magaalo",
+				"madaxda",
+				"gobolka",
+				"Awdal",
+				"ee",
+				"waqooyi-galbeed",
+				"Soomaaliya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"bɔːræmæ",
+				"ʔʔ",
+				"ʔ",
+				",",
+				"ʔ",
+				"ʔʔ",
+				"bɔræmæ",
+				"ʔʔ",
+				"ʔ",
+				"(",
+				";",
+				")",
+				"sidɔː",
+				"kæle",
+				"lɔː",
+				"jæqæːnɔ",
+				"ʔ",
+				"ʔʔ",
+				"bɔræme",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"mæɡæːlɔ",
+				"mædæħdæ",
+				"ɡɔbɔlkæ",
+				"æwdæl",
+				"eː",
+				"wæqɔːji-ɡælbeːd",
+				"sɔːmæːlijæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Amina",
+				"bint",
+				"Wahb"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"æminæ",
+				"bint",
+				"wæhb"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		}
+	],
+	"train": [
+		{
+			"tokens": [
+				"Magaalada",
+				"waa",
+				"magaalo",
+				"taariikh",
+				"leh",
+				",",
+				"waxaa",
+				"aasaasay",
+				"Sheekh",
+				"Xasan",
+				"Barsane",
+				"oo",
+				"ahaa",
+				"halgamaa",
+				"Soomaaliyeed",
+				"oo",
+				"la",
+				"dagaallamay",
+				"gumeystayaashii",
+				"Talyaaniga",
+				"iyo",
+				"Xabashida",
+				"ee",
+				"ku",
+				"soo",
+				"duulay",
+				"Soomaaliya",
+				",",
+				"waxay",
+				"ahayd",
+				"sidoo",
+				"kale",
+				"xaruntii",
+				"Sheekha",
+				"uu",
+				"ka",
+				"maamuli",
+				"jiray",
+				"Ciidamadiisa",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mæɡæːlædæ",
+				"wæː",
+				"mæɡæːlɔ",
+				"tæːriːχ",
+				"leh",
+				",",
+				"wæħæː",
+				"æːsæːsæj",
+				"ʃeːχ",
+				"ħæsæn",
+				"bærsæne",
+				"ɔː",
+				"æhæː",
+				"hælɡæmæː",
+				"sɔːmæːlijeːd",
+				"ɔː",
+				"læ",
+				"dæɡæːllæmæj",
+				"ɡumejstæjæːʃiː",
+				"tæljæːniɡæ",
+				"ijɔ",
+				"ħæbæʃidæ",
+				"eː",
+				"ku",
+				"sɔː",
+				"duːlæj",
+				"sɔːmæːlijæ",
+				",",
+				"wæħæj",
+				"æhæjd",
+				"sidɔː",
+				"kæle",
+				"ħæruntiː",
+				"ʃeːχæ",
+				"uː",
+				"kæ",
+				"mæːmuli",
+				"d͡ʒiræj",
+				"ʕiːdæmædiːsæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bankiga",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"bænkiɡæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Muuse",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"muːse",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Malaysiya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"mælæjsijæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Rede",
+				"Globo",
+				"''",
+				"'",
+				"(",
+				"'",
+				"''",
+				"''Organizações",
+				"Globo",
+				"''",
+				"'",
+				"''",
+				")",
+				"-",
+				"Barasiil",
+				"teleefishinka",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"rede",
+				"ɡlɔbɔ",
+				"ʔʔ",
+				"ʔ",
+				"(",
+				"ʔ",
+				"ʔʔ",
+				"ʔʔɔrɡænizæʕ̧ɔ̃es",
+				"ɡlɔbɔ",
+				"ʔʔ",
+				"ʔ",
+				"ʔʔ",
+				")",
+				"-",
+				"bæræsiːl",
+				"teleːfiʃinkæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wuu",
+				"xoreeyay",
+				"ka",
+				"dibna",
+				"uu",
+				"guursadey",
+				",",
+				"waxayna",
+				"u",
+				"dhashay",
+				"wiil",
+				"Ibraahim",
+				"''",
+				"Maryama",
+				"al-Qibtiyya",
+				"waxay",
+				"ahayd",
+				"adoon",
+				"laga",
+				"soo",
+				"diray",
+				"wadanka",
+				"Masar",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"wuː",
+				"ħɔreːjæj",
+				"kæ",
+				"dibnæ",
+				"uː",
+				"ɡuːrsædej",
+				",",
+				"wæħæjnæ",
+				"u",
+				"ɖæʃæj",
+				"wiːl",
+				"ibræːhim",
+				"ʔʔ",
+				"mærjæmæ",
+				"æl-qibtijjæ",
+				"wæħæj",
+				"æhæjd",
+				"ædɔːn",
+				"læɡæ",
+				"sɔː",
+				"diræj",
+				"wædænkæ",
+				"mæsær",
+				"ʔʔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Geedaha",
+				"liin",
+				"qarbooshta",
+				"waxaa",
+				"markii",
+				"ugu",
+				"horeeysay",
+				"ka",
+				"bixi",
+				"jirtey",
+				"deegaanada",
+				"cimilada",
+				"kulul",
+				"ee",
+				"wadanka",
+				"Ciraaq",
+				"iyo",
+				"Iiraan",
+				",",
+				"waxaana",
+				"la",
+				"dhaqan",
+				"jirey",
+				"geedkan",
+				"tan",
+				"ilaa",
+				"ilbaxnimadii",
+				"Baabiyloon",
+				"taasi",
+				"oo",
+				"hada",
+				"laga",
+				"joogo",
+				"dhowr",
+				"kun",
+				"oo",
+				"sano",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡeːdæhæ",
+				"liːn",
+				"qærbɔːʃtæ",
+				"wæħæː",
+				"mærkiː",
+				"uɡu",
+				"hɔreːjsæj",
+				"kæ",
+				"biħi",
+				"d͡ʒirtej",
+				"deːɡæːnædæ",
+				"ʕimilædæ",
+				"kulul",
+				"eː",
+				"wædænkæ",
+				"ʕiræːq",
+				"ijɔ",
+				"iːræːn",
+				",",
+				"wæħæːnæ",
+				"læ",
+				"ɖæqæn",
+				"d͡ʒirej",
+				"ɡeːdkæn",
+				"tæn",
+				"ilæː",
+				"ilbæħnimædiː",
+				"bæːbijlɔːn",
+				"tæːsi",
+				"ɔː",
+				"hædæ",
+				"læɡæ",
+				"d͡ʒɔːɡɔ",
+				"ɖɔwr",
+				"kun",
+				"ɔː",
+				"sænɔ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Huud"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"huːd"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Geeri"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"ɡeːri"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Jubbada-Dhexe",
+				"''",
+				"'",
+				"waa",
+				"gobol",
+				"ku",
+				"yaala",
+				"koonfurta",
+				"Soomaaliya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"d͡ʒubbædæ-ɖeħe",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"ɡɔbɔl",
+				"ku",
+				"jæːlæ",
+				"kɔːnfurtæ",
+				"sɔːmæːlijæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mesobotaamiya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"mesɔbɔtæːmijæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Caasimada",
+				"dalka",
+				"jamhuuriyada",
+				"Hungarya",
+				"waxa",
+				"la",
+				"yidhaa",
+				"Budapest",
+				"waxana",
+				"ay",
+				"ku",
+				"taalaa",
+				"badhtama",
+				"jamhuuriyada",
+				"Hungary",
+				"dadka",
+				"ku",
+				"dhana",
+				"waxa",
+				"ay",
+				"gaadhaan",
+				"1milyan",
+				"iyo",
+				"lix",
+				"boqol",
+				"oo",
+				"ruux",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʕæːsimædæ",
+				"dælkæ",
+				"d͡ʒæmhuːrijædæ",
+				"hunɡærjæ",
+				"wæħæ",
+				"læ",
+				"jiɖæː",
+				"budæpest",
+				"wæħænæ",
+				"æj",
+				"ku",
+				"tæːlæː",
+				"bæɖtæmæ",
+				"d͡ʒæmhuːrijædæ",
+				"hunɡærj",
+				"dædkæ",
+				"ku",
+				"ɖænæ",
+				"wæħæ",
+				"æj",
+				"ɡæːɖæːn",
+				"1miljæn",
+				"ijɔ",
+				"liħ",
+				"bɔqɔl",
+				"ɔː",
+				"ruːħ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Nabi",
+				"Saalax"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"**",
+				"næbi",
+				"sæːlæħ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bankiga",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"bænkiɡæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ismaaciil"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ismæːʕiːl"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Bariis"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"bæriːs"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Mesobotaamiya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"mesɔbɔtæːmijæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Boland",
+				"''",
+				"'",
+				"(",
+				")",
+				"ama",
+				"'",
+				"''",
+				"Jamhuuriyadda",
+				"Boland",
+				"''",
+				"'",
+				"(",
+				")",
+				"waa",
+				"wadan",
+				"ku",
+				"yaalo",
+				"bartamaha",
+				"Yurub",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"bɔlænd",
+				"ʔʔ",
+				"ʔ",
+				"(",
+				")",
+				"æmæ",
+				"ʔ",
+				"ʔʔ",
+				"d͡ʒæmhuːrijæddæ",
+				"bɔlænd",
+				"ʔʔ",
+				"ʔ",
+				"(",
+				")",
+				"wæː",
+				"wædæn",
+				"ku",
+				"jæːlɔ",
+				"bærtæmæhæ",
+				"jurub",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Togdheer"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"tɔɡɖeːr"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"İyadoo",
+				"markii",
+				"danabena",
+				"ka",
+				"qayb",
+				"qaadatay",
+				"hawl",
+				"galo",
+				"caawimeed",
+				"oo",
+				"wadamo",
+				"badan",
+				"sida",
+				"Soomaaliya",
+				",",
+				"Bakistaan",
+				",",
+				"Itoobiya",
+				",",
+				"Lubnaan",
+				",",
+				"Indunisiya",
+				",",
+				"Ciraaq",
+				",",
+				"Falastiin",
+				",",
+				"Suudaan",
+				",",
+				"Gaana",
+				",",
+				"Mongolia",
+				",",
+				"Barasiil",
+				",",
+				"Arjantiina",
+				"iyo",
+				"wadamo",
+				"kale",
+				"oo",
+				"fara",
+				"badan",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				3,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"i̇jædɔː",
+				"mærkiː",
+				"dænæbenæ",
+				"kæ",
+				"qæjb",
+				"qæːdætæj",
+				"hæwl",
+				"ɡælɔ",
+				"ʕæːwimeːd",
+				"ɔː",
+				"wædæmɔ",
+				"bædæn",
+				"sidæ",
+				"sɔːmæːlijæ",
+				",",
+				"bækistæːn",
+				",",
+				"itɔːbijæ",
+				",",
+				"lubnæːn",
+				",",
+				"indunisijæ",
+				",",
+				"ʕiræːq",
+				",",
+				"fælæstiːn",
+				",",
+				"suːdæːn",
+				",",
+				"ɡæːnæ",
+				",",
+				"mɔnɡɔliæ",
+				",",
+				"bæræsiːl",
+				",",
+				"ærd͡ʒæntiːnæ",
+				"ijɔ",
+				"wædæmɔ",
+				"kæle",
+				"ɔː",
+				"færæ",
+				"bædæn",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				3,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Yacquub",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"jæʕquːb",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Maxamed",
+				"Cusman",
+				"Jawaari"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"mæħæmed",
+				"ʕusmæn",
+				"d͡ʒæwæːri"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"UNESCO"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"unesʕɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Nabi",
+				"Huud"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"**",
+				"næbi",
+				"huːd"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Abu",
+				"Bakr"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"æbu",
+				"bækr"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Nabi",
+				"Huud"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"**",
+				"næbi",
+				"huːd"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Barasillia",
+				"''",
+				"'",
+				"waa",
+				"caasimada",
+				"wadanka",
+				"Barasiil"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"bæræsilliæ",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"ʕæːsimædæ",
+				"wædænkæ",
+				"bæræsiːl"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Makemake"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"mækemæke"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Bankiga",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"bænkiɡæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Yuunus",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"juːnus",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"UNESCO"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"unesʕɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Salaad"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"sælæːd"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Bakistaan"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"bækistæːn"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Faladimir",
+				"Lenin"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"fælædimir",
+				"lenin"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Aboowe"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"æbɔːwe"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Hindiya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"hindijæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Luul"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"luːl"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Ninkaan",
+				"ciidamadiisa",
+				"waxee",
+				"qabsadeen",
+				"wadamo",
+				"badan",
+				"oo",
+				"Yurub",
+				"ka",
+				"mid",
+				"ah",
+				",",
+				"isla",
+				"markaas",
+				"neh",
+				"woxoo",
+				"aad",
+				"uula",
+				"dagaali",
+				"jiray",
+				"wadan",
+				"kasto",
+				"oo",
+				"ka",
+				"hor",
+				"imaado.Dagaalkiisa",
+				"woxoo",
+				"gaaray",
+				"Aasiya",
+				",",
+				"woqooyiga",
+				"Afrika",
+				"ilaa",
+				"Ameerika",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ninkæːn",
+				"ʕiːdæmædiːsæ",
+				"wæħeː",
+				"qæbsædeːn",
+				"wædæmɔ",
+				"bædæn",
+				"ɔː",
+				"jurub",
+				"kæ",
+				"mid",
+				"æh",
+				",",
+				"islæ",
+				"mærkæːs",
+				"neh",
+				"wɔħɔː",
+				"æːd",
+				"uːlæ",
+				"dæɡæːli",
+				"d͡ʒiræj",
+				"wædæn",
+				"kæstɔ",
+				"ɔː",
+				"kæ",
+				"hɔr",
+				"imæːdɔ.dæɡæːlkiːsæ",
+				"wɔħɔː",
+				"ɡæːræj",
+				"æːsijæ",
+				",",
+				"wɔqɔːjiɡæ",
+				"æfrikæ",
+				"ilæː",
+				"æmeːrikæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wakaalada",
+				"Awooda",
+				"Atomik",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"wækæːlædæ",
+				"æwɔːdæ",
+				"ætɔmik",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Xarunta",
+				"Ganacsiga",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ħæruntæ",
+				"ɡænæʕsiɡæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Huud"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"huːd"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Geedka",
+				"Gobka",
+				"waxoo",
+				"ka",
+				"baxaa",
+				"wadamo",
+				"badan",
+				"oo",
+				"ku",
+				"yaalo",
+				"caalamka"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"ɡeːdkæ",
+				"ɡɔbkæ",
+				"wæħɔː",
+				"kæ",
+				"bæħæː",
+				"wædæmɔ",
+				"bædæn",
+				"ɔː",
+				"ku",
+				"jæːlɔ",
+				"ʕæːlæmkæ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Waxaa",
+				"ku",
+				"xigey",
+				"Maxamed",
+				"Xaaji",
+				"Ibraahim",
+				"Cigaaloo",
+				"noqdey",
+				"Madaxweynihii",
+				"Labaad",
+				"ee",
+				"Somaliland",
+				",",
+				"waxaana",
+				"ka",
+				"danbeeyay",
+				"Daahir",
+				"Rayaale",
+				"Kaahin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"wæħæː",
+				"ku",
+				"ħiɡej",
+				"mæħæmed",
+				"ħæːd͡ʒi",
+				"ibræːhim",
+				"ʕiɡæːlɔː",
+				"nɔqdej",
+				"mædæħwejnihiː",
+				"læbæːd",
+				"eː",
+				"sɔmælilænd",
+				",",
+				"wæħæːnæ",
+				"kæ",
+				"dænbeːjæj",
+				"dæːhir",
+				"ræjæːle",
+				"kæːhin",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Abu",
+				"Bakr"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"æbu",
+				"bækr"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Hindiya"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"hindijæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Guinea"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"ɡuineæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Aboowe"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"æbɔːwe"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Galdogob",
+				"''",
+				"'",
+				"waa",
+				"dagmo",
+				"ka",
+				"tirsan",
+				"Gobolka",
+				"Mudug",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"ɡældɔɡɔb",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"dæɡmɔ",
+				"kæ",
+				"tirsæn",
+				"ɡɔbɔlkæ",
+				"muduɡ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Idriis"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"idriːs"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Gambia"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"ɡæmbiæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Bankiga",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"bænkiɡæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Mali",
+				"''",
+				"'",
+				"waa",
+				"wadan",
+				"kamida",
+				"wadamada",
+				"kuyaala",
+				"galbeedeka",
+				"Afrika",
+				"xuduudaha",
+				"maali",
+				"waa",
+				"sidan",
+				"dhanka",
+				"waqooyi",
+				"waxa",
+				"kaga",
+				"aadan",
+				"wadanka",
+				"Aljeeriya",
+				"barigana",
+				"waxa",
+				"kaxiga",
+				"wadanka",
+				"Nayjar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"mæli",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"wædæn",
+				"kæmidæ",
+				"wædæmædæ",
+				"kujæːlæ",
+				"ɡælbeːdekæ",
+				"æfrikæ",
+				"ħuduːdæhæ",
+				"mæːli",
+				"wæː",
+				"sidæn",
+				"ɖænkæ",
+				"wæqɔːji",
+				"wæħæ",
+				"kæɡæ",
+				"æːdæn",
+				"wædænkæ",
+				"æld͡ʒeːrijæ",
+				"bæriɡænæ",
+				"wæħæ",
+				"kæħiɡæ",
+				"wædænkæ",
+				"næjd͡ʒær",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ibraahim",
+				"bin",
+				"Muxamed"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ibræːhim",
+				"bin",
+				"muħæmed"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Makaroone"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"mækærɔːne"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Luud",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"luːd",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Liverpool",
+				"Football",
+				"Club",
+				"''",
+				"'",
+				"ama",
+				"'",
+				"''",
+				"Liverpool",
+				"''",
+				"'",
+				"waa",
+				"''koox-banooni",
+				"''",
+				"oo",
+				"kuyaalo",
+				"magaalada",
+				"Liverpool",
+				"ee",
+				"dalka",
+				"Ingiriiska",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"liverpɔːl",
+				"fɔːtbæll",
+				"ʕlub",
+				"ʔʔ",
+				"ʔ",
+				"æmæ",
+				"ʔ",
+				"ʔʔ",
+				"liverpɔːl",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"ʔʔkɔːħ-bænɔːni",
+				"ʔʔ",
+				"ɔː",
+				"kujæːlɔ",
+				"mæɡæːlædæ",
+				"liverpɔːl",
+				"eː",
+				"dælkæ",
+				"inɡiriːskæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ururka",
+				"Caafimaadka",
+				"Aduunka"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ururkæ",
+				"ʕæːfimæːdkæ",
+				"æduːnkæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Idriis"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"idriːs"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Nabi",
+				"Nuux",
+				"C.S",
+				"."
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"**",
+				"næbi",
+				"nuːħ",
+				"ʕ.s",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Giriig"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ɡiriːɡ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Qaw",
+				"''",
+				"'",
+				"waa",
+				"degmo",
+				"ku",
+				"taalo",
+				"gobolka",
+				"Sanaag"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"qæw",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"deɡmɔ",
+				"ku",
+				"tæːlɔ",
+				"ɡɔbɔlkæ",
+				"sænæːɡ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Albert",
+				"Einstein"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ælbert",
+				"einstein"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Faatima"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"fæːtimæ"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Dhismaha",
+				"oo",
+				"socday",
+				"labo",
+				"sano",
+				"(",
+				"1949",
+				"ilaa",
+				"1950",
+				")",
+				"waxaa",
+				"la",
+				"furay",
+				"Xarunta",
+				"Sare",
+				"Qaramada",
+				"Midoobay",
+				"Janaayo",
+				"9",
+				",",
+				"1951",
+				",",
+				"inkastoo",
+				"la",
+				"dhamaystiray",
+				"dhismaha",
+				"bishii",
+				"Oktoobar",
+				"9",
+				",",
+				"1952",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɖismæhæ",
+				"ɔː",
+				"sɔʕdæj",
+				"læbɔ",
+				"sænɔ",
+				"(",
+				"1949",
+				"ilæː",
+				"1950",
+				")",
+				"wæħæː",
+				"læ",
+				"furæj",
+				"ħæruntæ",
+				"sære",
+				"qæræmædæ",
+				"midɔːbæj",
+				"d͡ʒænæːjɔ",
+				"9",
+				",",
+				"1951",
+				",",
+				"inkæstɔː",
+				"læ",
+				"ɖæmæjstiræj",
+				"ɖismæhæ",
+				"biʃiː",
+				"ɔktɔːbær",
+				"9",
+				",",
+				"1952",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jennifer",
+				"Lopez"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒennifer",
+				"lɔpez"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Qaramada",
+				"Midoobay"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"qæræmædæ",
+				"midɔːbæj"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Faatima"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"fæːtimæ"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"In",
+				"ka",
+				"badan",
+				"10",
+				"sano",
+				"oo",
+				"halgan",
+				"hubaysan",
+				"oo",
+				"ay",
+				"hogaaminayeen",
+				"xoogagii",
+				"jabhaddii",
+				"SNM",
+				"ka",
+				"dib",
+				",",
+				"waxay",
+				"waxgaradka",
+				",",
+				"siyaasiyiinta",
+				",",
+				"aqoonyahanka",
+				"iyo",
+				"hormuudka",
+				"qabaa’ilka",
+				"iyo",
+				"bulshada",
+				"Somaliland",
+				"ku",
+				"heshiiyeen",
+				"18kii",
+				"May",
+				"in",
+				"ay",
+				"la",
+				"soo",
+				"noqdaan",
+				"xorriyadii",
+				"luntay",
+				"26kii",
+				"June",
+				"1960",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"in",
+				"kæ",
+				"bædæn",
+				"10",
+				"sænɔ",
+				"ɔː",
+				"hælɡæn",
+				"hubæjsæn",
+				"ɔː",
+				"æj",
+				"hɔɡæːminæjeːn",
+				"ħɔːɡæɡiː",
+				"d͡ʒæbhæddiː",
+				"snm",
+				"kæ",
+				"dib",
+				",",
+				"wæħæj",
+				"wæħɡærædkæ",
+				",",
+				"sijæːsijiːntæ",
+				",",
+				"æqɔːnjæhænkæ",
+				"ijɔ",
+				"hɔrmuːdkæ",
+				"qæbæː’ilkæ",
+				"ijɔ",
+				"bulʃædæ",
+				"sɔmælilænd",
+				"ku",
+				"heʃiːjeːn",
+				"18kiː",
+				"mæj",
+				"in",
+				"æj",
+				"læ",
+				"sɔː",
+				"nɔqdæːn",
+				"ħɔrrijædiː",
+				"luntæj",
+				"26kiː",
+				"d͡ʒune",
+				"1960",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"waa",
+				"magaalada",
+				"Adelaide",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"wæː",
+				"mæɡæːlædæ",
+				"ædelæide",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Skandinafiyen",
+				"''",
+				"'",
+				"waxaa",
+				"ladhahaa",
+				"dhulka",
+				"ku",
+				"yaalo",
+				"woqooyiga",
+				"qaarada",
+				"Yurub",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"skændinæfijen",
+				"ʔʔ",
+				"ʔ",
+				"wæħæː",
+				"læɖæhæː",
+				"ɖulkæ",
+				"ku",
+				"jæːlɔ",
+				"wɔqɔːjiɡæ",
+				"qæːrædæ",
+				"jurub",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ingiriiska"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"inɡiriːskæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Ingiriiska"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"inɡiriːskæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"****",
+				"Qof",
+				"ahaanna",
+				"waa",
+				"Gabay",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"****",
+				"qɔf",
+				"æhæːnnæ",
+				"wæː",
+				"ɡæbæj",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"25px",
+				"Mauritania"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"25pħ",
+				"mæuritæniæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Siyaasiinta",
+				"Soomaaliya",
+				"''",
+				"'",
+				"waxee",
+				"la",
+				"qaribay",
+				"1991dii",
+				",",
+				"markii",
+				"la",
+				"riday",
+				"dowladii",
+				"dhaxe",
+				"ee",
+				"Maxamed",
+				"Siyaad",
+				"Barre",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"sijæːsiːntæ",
+				"sɔːmæːlijæ",
+				"ʔʔ",
+				"ʔ",
+				"wæħeː",
+				"læ",
+				"qæribæj",
+				"1991diː",
+				",",
+				"mærkiː",
+				"læ",
+				"ridæj",
+				"dɔwlædiː",
+				"ɖæħe",
+				"eː",
+				"mæħæmed",
+				"sijæːd",
+				"bærre",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Cabdiweli",
+				"Sheekh",
+				"Axmed"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʕæbdiweli",
+				"ʃeːχ",
+				"æħmed"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Las",
+				"Vegas"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"læs",
+				"veɡæs"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Booc",
+				"booca",
+				"waxoo",
+				"aad",
+				"uuga",
+				"baxaa",
+				"koonfurta",
+				"Soomaaliya",
+				"iyo",
+				"wadamada",
+				"caalamka",
+				"gaar",
+				"ahaan",
+				"dalalka",
+				"Aasiya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"bɔːʕ",
+				"bɔːʕæ",
+				"wæħɔː",
+				"æːd",
+				"uːɡæ",
+				"bæħæː",
+				"kɔːnfurtæ",
+				"sɔːmæːlijæ",
+				"ijɔ",
+				"wædæmædæ",
+				"ʕæːlæmkæ",
+				"ɡæːr",
+				"æhæːn",
+				"dælælkæ",
+				"æːsijæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Umm",
+				"Kaltuum"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"umm",
+				"kæltuːm"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nayjeeriya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"næjd͡ʒeːrijæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Gobolda",
+				"Somaliland"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ɡɔbɔldæ",
+				"sɔmælilænd"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Geeri"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"ɡeːri"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Suxufi",
+				"Ibraahim"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"**",
+				"suħufi",
+				"ibræːhim"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Baabiyloon"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"bæːbijlɔːn"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Qaasim"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"qæːsim"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Saalax"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"sæːlæħ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Diin"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"diːn"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Haddaba",
+				"aan",
+				"hollado",
+				"Bartilmaameedka",
+				"Maanta",
+				"oo",
+				"ah",
+				"Su’aal",
+				"iswaydiin",
+				"mudan",
+				"oo",
+				"isoo",
+				"hor",
+				"marta",
+				"Maalmahan",
+				"oo",
+				"kale",
+				",",
+				"Su’aashaasoo",
+				"ah",
+				":",
+				"Sida",
+				"la",
+				"Ogsoonayahay",
+				"Mujaahid",
+				"Lixle",
+				"Maalintii",
+				"uu",
+				"dhintay",
+				"waxa",
+				"uu",
+				"Hoggaaminayey",
+				"Guutadii",
+				"Burco-duurray",
+				"ka",
+				"dagaalantay",
+				"oo",
+				"ka",
+				"koobnayd",
+				"Saddex",
+				"Urur",
+				",",
+				"Haddaba",
+				"Dhimashaddiisii",
+				"kaddib",
+				"yaa",
+				"halkiisii",
+				"galay",
+				"oo",
+				"Calankii",
+				"iyo",
+				"taliskii",
+				"la",
+				"wareegay",
+				",",
+				"Hoggaankana",
+				"u",
+				"qabtay",
+				"Mujaahidiintii",
+				"SNM",
+				"?"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"hæddæbæ",
+				"æːn",
+				"hɔllædɔ",
+				"bærtilmæːmeːdkæ",
+				"mæːntæ",
+				"ɔː",
+				"æh",
+				"su’æːl",
+				"iswæjdiːn",
+				"mudæn",
+				"ɔː",
+				"isɔː",
+				"hɔr",
+				"mærtæ",
+				"mæːlmæhæn",
+				"ɔː",
+				"kæle",
+				",",
+				"su’æːʃæːsɔː",
+				"æh",
+				":",
+				"sidæ",
+				"læ",
+				"ɔɡsɔːnæjæhæj",
+				"mud͡ʒæːhid",
+				"liħle",
+				"mæːlintiː",
+				"uː",
+				"ɖintæj",
+				"wæħæ",
+				"uː",
+				"hɔɡɡæːminæjej",
+				"ɡuːtædiː",
+				"burʕɔ-duːrræj",
+				"kæ",
+				"dæɡæːlæntæj",
+				"ɔː",
+				"kæ",
+				"kɔːbnæjd",
+				"sæddeħ",
+				"urur",
+				",",
+				"hæddæbæ",
+				"ɖimæʃæddiːsiː",
+				"kæddib",
+				"jæː",
+				"hælkiːsiː",
+				"ɡælæj",
+				"ɔː",
+				"ʕælænkiː",
+				"ijɔ",
+				"tæliskiː",
+				"læ",
+				"wæreːɡæj",
+				",",
+				"hɔɡɡæːnkænæ",
+				"u",
+				"qæbtæj",
+				"mud͡ʒæːhidiːntiː",
+				"snm",
+				"?"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ciise"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"ʕiːse"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"waa",
+				"wadan",
+				"ku",
+				"yaalo",
+				"Aasiya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"wæː",
+				"wædæn",
+				"ku",
+				"jæːlɔ",
+				"æːsijæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Peru"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"peru"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Usher"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"uʃer"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Waaberi"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"wæːberi"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Xasan",
+				"Sheekh",
+				"Maxamuud"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ħæsæn",
+				"ʃeːχ",
+				"mæħæmuːd"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Jay-Z"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"d͡ʒæj-z"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"marka",
+				"ee",
+				"maryan",
+				"mursal",
+				"dhalinyaro",
+				"ahaan",
+				"jitay",
+				",",
+				"waxee",
+				"khatar",
+				"ku",
+				"ahaan",
+				"jirtay",
+				"heesaha",
+				",",
+				"waxayna",
+				"heeso",
+				"ku",
+				"samayn",
+				"jirtay",
+				"tiyaatarada",
+				"waaweyn",
+				"ee",
+				"Muqdisho.Heesaha",
+				"maryan",
+				"mursal",
+				"waa",
+				"heeso",
+				"mix",
+				"ah",
+				",",
+				"oo",
+				"isku",
+				"qasan",
+				"musik",
+				"somali",
+				"jazz",
+				"ah",
+				"iyo",
+				"heesaha",
+				"waabariga",
+				",",
+				"iyo",
+				"westernka",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mærkæ",
+				"eː",
+				"mærjæn",
+				"mursæl",
+				"ɖælinjærɔ",
+				"æhæːn",
+				"d͡ʒitæj",
+				",",
+				"wæħeː",
+				"χætær",
+				"ku",
+				"æhæːn",
+				"d͡ʒirtæj",
+				"heːsæhæ",
+				",",
+				"wæħæjnæ",
+				"heːsɔ",
+				"ku",
+				"sæmæjn",
+				"d͡ʒirtæj",
+				"tijæːtærædæ",
+				"wæːwejn",
+				"eː",
+				"muqdiʃɔ.heːsæhæ",
+				"mærjæn",
+				"mursæl",
+				"wæː",
+				"heːsɔ",
+				"miħ",
+				"æh",
+				",",
+				"ɔː",
+				"isku",
+				"qæsæn",
+				"musik",
+				"sɔmæli",
+				"d͡ʒæzz",
+				"æh",
+				"ijɔ",
+				"heːsæhæ",
+				"wæːbæriɡæ",
+				",",
+				"ijɔ",
+				"westernkæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nabi",
+				"Huud"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"næbi",
+				"huːd"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kanada"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kænædæ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"tasadexaad",
+				"dagaalada",
+				"lagu",
+				"hoobtay",
+				"ee",
+				"Irland",
+				"ay",
+				"soomartay.ta",
+				"afarad",
+				"waa",
+				"dhibaatooyinka",
+				"dhanka",
+				"diinta",
+				"ee",
+				"soogaadhay",
+				"shacabka",
+				"kunool",
+				"wadanka",
+				"irland",
+				"kaas",
+				"oo",
+				"kaga",
+				"imanyay",
+				"dhanka",
+				"kaniisadaha",
+				"waxa",
+				"intaa",
+				"u",
+				"dheer",
+				"dhibaatooyin",
+				"siyaasadeed",
+				"iyo",
+				"dhaqaale",
+				"oo",
+				"in",
+				"badan",
+				"oo",
+				"shacabka",
+				"Irland",
+				"ah",
+				"ku",
+				"kaliftay",
+				"in",
+				"ay",
+				"dabada",
+				"u",
+				"haajiraan",
+				",",
+				"markii",
+				"u",
+				"horaysay",
+				"ee",
+				"Irland",
+				"laga",
+				"haajiraa",
+				"waxa",
+				"ay",
+				"ahyd",
+				"6000",
+				"kahor",
+				"dhalashaddii",
+				"nabi",
+				"Ciise",
+				"markaas",
+				"oo",
+				"ay",
+				"wadanka",
+				"soo",
+				"galeen",
+				"dad",
+				"kayimi",
+				"xaga"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tæsædeħæːd",
+				"dæɡæːlædæ",
+				"læɡu",
+				"hɔːbtæj",
+				"eː",
+				"irlænd",
+				"æj",
+				"sɔːmærtæj.tæ",
+				"æfæræd",
+				"wæː",
+				"ɖibæːtɔːjinkæ",
+				"ɖænkæ",
+				"diːntæ",
+				"eː",
+				"sɔːɡæːɖæj",
+				"ʃæʕæbkæ",
+				"kunɔːl",
+				"wædænkæ",
+				"irlænd",
+				"kæːs",
+				"ɔː",
+				"kæɡæ",
+				"imænjæj",
+				"ɖænkæ",
+				"kæniːsædæhæ",
+				"wæħæ",
+				"intæː",
+				"u",
+				"ɖeːr",
+				"ɖibæːtɔːjin",
+				"sijæːsædeːd",
+				"ijɔ",
+				"ɖæqæːle",
+				"ɔː",
+				"in",
+				"bædæn",
+				"ɔː",
+				"ʃæʕæbkæ",
+				"irlænd",
+				"æh",
+				"ku",
+				"kæliftæj",
+				"in",
+				"æj",
+				"dæbædæ",
+				"u",
+				"hæːd͡ʒiræːn",
+				",",
+				"mærkiː",
+				"u",
+				"hɔræjsæj",
+				"eː",
+				"irlænd",
+				"læɡæ",
+				"hæːd͡ʒiræː",
+				"wæħæ",
+				"æj",
+				"æhjd",
+				"6000",
+				"kæhɔr",
+				"ɖælæʃæddiː",
+				"næbi",
+				"ʕiːse",
+				"mærkæːs",
+				"ɔː",
+				"æj",
+				"wædænkæ",
+				"sɔː",
+				"ɡæleːn",
+				"dæd",
+				"kæjimi",
+				"ħæɡæ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Riyaalu",
+				"Saalixiin",
+				"''",
+				"'",
+				"waa",
+				"kitaab",
+				"uu",
+				"qoray",
+				"Imaam",
+				"Nawawi",
+				"kaas",
+				"oo",
+				"ka",
+				"kooban",
+				"1896",
+				"Xadiis",
+				"oo",
+				"u",
+				"qeysama",
+				"372",
+				"Qeybood",
+				","
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ",
+				"ʔʔ",
+				"rijæːlu",
+				"sæːliħiːn",
+				"ʔʔ",
+				"ʔ",
+				"wæː",
+				"kitæːb",
+				"uː",
+				"qɔræj",
+				"imæːm",
+				"næwæwi",
+				"kæːs",
+				"ɔː",
+				"kæ",
+				"kɔːbæn",
+				"1896",
+				"ħædiːs",
+				"ɔː",
+				"u",
+				"qejsæmæ",
+				"372",
+				"qejbɔːd",
+				","
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	]
+}
