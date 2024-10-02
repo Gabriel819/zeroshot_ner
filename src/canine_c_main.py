@@ -172,7 +172,7 @@ def main(args):
         logging.info("global_step = %s, average training loss = %s", global_step, train_loss)
         logging.info("Best performance: Epoch=%d, Value=%s", best_val_epoch, best_val_metric)
     ##### Zero-shot Eval #####
-    elif args.do_predict:
+    if args.do_predict:
         model.load_state_dict(args.model_ckpt_path)
         model.eval()
 
