@@ -134,7 +134,8 @@ def main(args):
         raise NotImplementedError
     model.to(device)
 
-    n_parameters = sum(p.numel() for p in model.parameters() if p.requires_grad)  # whole model param#
+    ##### whole model parameter #####
+    n_parameters = sum(p.numel() for p in model.parameters() if p.requires_grad)
     print('Whole model number of params:', n_parameters)
 
     ##### Train #####
@@ -155,18 +156,12 @@ def main(args):
             print(f"Train language {args.train_language} is not implemented!")
             raise NotImplementedError
 
-        ##### Zero-shot Test Dataset Loading #####
-        ########## BIO tagging(7 classes) mBERT ##########
-        # 1. Korean
-        logging.info('Loading BIO mBERT Korean Dataset')
-        korean_dataset = bio_mbert_whole.BIOMbertWholeDataset('korean', 'validation', args.max_seq_len)
-
         f = open(args.task + '_eval_log.txt', 'w')
 
         global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = mbert_train(
             args=args,
-            eng_dataset = train_dataset,
-            kor_dataset  = korean_dataset,
+            english_dataset = train_dataset,
+            zeroshot_dataset  = train_dataset['test'],
             model=model,
             device=device,
             f=f
