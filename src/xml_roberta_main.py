@@ -154,7 +154,7 @@ def main(args):
         logging.info("* %s: %s", k, v)
     if args.do_train:
         ##### Train Dataset Loading #####
-        if args.model == 'bio_xml_roberta' and args.train_language == 'english':  # for now, just use eng wikiann for training
+        if args.model == 'bio_xml_roberta' and args.train_language == 'english':
             ##### BIO Tagging XML RoBERTa WikiAnn English Dataset #####
             logging.info('Loading BIO Tagging XML RoBERTa WikiAnn English Dataset')
             train_dataset = {}
@@ -163,9 +163,8 @@ def main(args):
             train_dataset['test'] = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('english', 'test', args.max_seq_len)
         else:
             print(f"{args.train_language} is not defined!")
-    if args.do_predict:
-        ##### Zero-shot Test Dataset Loading #####
-        ########## BIO XML RoBERTa ##########
+            
+        ########## Zero-shot Validation Dataset loading ##########
         if args.model == 'bio_xml_roberta':
             ##### BIO Epi WikiAnn Korean Dataset #####
             logging.info('Loading BIO XML RoBERTa Epi WikiAnn Korean Dataset')
@@ -175,7 +174,7 @@ def main(args):
             raise NotImplementedError
 
         f = open(args.task + '_log.txt', 'a')
-        global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = total_xml_roberta_train(
+        global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = xml_roberta_train(
             args=args,
             conll_dataset = train_dataset,
             kor_dataset  = validation_dataset,
@@ -186,6 +185,8 @@ def main(args):
         logging.info("global_step = %s, average training loss = %s", global_step, train_loss)
         logging.info("Best performance: Epoch=%d, Value=%s", best_val_epoch, best_val_metric)
 
+    ##### Zero-shot Validation #####
+    if args.do_predict:
         # Zero-shot evaluation
         model.load_state_dict(args.model_ckpt_path)
         model.eval()
