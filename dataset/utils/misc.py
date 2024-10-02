@@ -96,7 +96,7 @@ def get_epitran_map(lang):
     else:
         print(f"{lang} is not Implemented in ipa map")
         raise NotImplementedError
-    map_csv = pd.read_csv(f"../data/{file_code}.csv")
+    map_csv = pd.read_csv(f"./data/{file_code}.csv")
     return map_csv
 
 def get_phoneme_segmenter(lang):
@@ -106,7 +106,7 @@ def get_phoneme_segmenter(lang):
             ipas = list_all_output_ipas(get_epitran_map(lang))
             ipas = rm_nan_from_ipas(ipas)
             all_ipas += ipas
-        ipa_vocab = pd.read_csv("../data/ipa_all.csv")['ipa'].unique().tolist()
+        ipa_vocab = pd.read_csv("./data/ipa_all.csv")['ipa'].unique().tolist()
         add_chars = list("▁ ._-.,/?<>;:'\"\][|{}]!@#$%^&*()=+1234567890")
         graphemes = list(set(all_ipas + ipa_vocab + add_chars))
         graphemes = rm_nan_from_ipas(graphemes)
