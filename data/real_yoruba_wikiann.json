@@ -1,0 +1,9241 @@
+{
+	"id_mapping": {
+		"0": "O",
+		"1": "B-PER",
+		"2": "I-PER",
+		"3": "B-ORG",
+		"4": "I-ORG",
+		"5": "B-LOC",
+		"6": "I-LOC"
+	},
+	"validation": [
+		{
+			"tokens": [
+				"Ilé-ìgbìmọ̀",
+				"Aṣòfin",
+				"Oníbínibí",
+				"ilẹ̀",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ilé-ìɡ͡bìmɔ̀",
+				"aʃòfĩ",
+				"oníbínibí",
+				"ilɛ̀",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Adrian",
+				"1k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"adrian",
+				"1k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Orílẹ̀-èdè",
+				"Olómìnira",
+				"Àpapọ̀",
+				"Sófìẹ̀tì",
+				"Sósíálístì",
+				"Rọ́síà"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"orílɛ̀-èdè",
+				"olómìnira",
+				"àk͡pak͡pɔ̀",
+				"sófìɛ̀tì",
+				"sósíálístì",
+				"rɔ́síà"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Yunifásítì",
+				"ìlú",
+				"Benin"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"jũifásítì",
+				"ìlú",
+				"benĩ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Àmì",
+				"ọ̀pá",
+				"àṣẹ",
+				"ilẹ̀",
+				"Adygea"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àmì",
+				"ɔ̀k͡pá",
+				"àʃɛ",
+				"ilɛ̀",
+				"adjɡea"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Henri",
+				"ilẹ̀",
+				"Lúksẹ́mbọ̀rg"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"henri",
+				"ilɛ̀",
+				"lúksɛ́mbɔ̀rɡ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Bursari"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"bursari"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Àsìá",
+				"ilẹ̀",
+				"Ṣèíhẹ́lẹ́sì"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àsìá",
+				"ilɛ̀",
+				"ʃèíhɛ́lɛ́sì"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Ibaji"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ibad͡ʒi"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pápá",
+				"Eréìdárayá",
+				"Ellis",
+				"Park"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"k͡pák͡pá",
+				"eréìdárajá",
+				"ellis",
+				"k͡park"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ààrẹ",
+				"ilẹ̀",
+				"Ghánà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ààrɛ",
+				"ilɛ̀",
+				"ɡhánà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Oruk-Anam"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"oruk-anam"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"President]]",
+				"Cristina",
+				"Fernández",
+				"de",
+				"Kirchner"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡president]]",
+				"cristĩa",
+				"fernández",
+				"de",
+				"kirchner"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Adrian",
+				"4k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"adrian",
+				"4k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Ìlàòrùn",
+				"Gwer"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ìlàòrùn",
+				"ɡwer"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"The",
+				"Valley",
+				",",
+				"Àngúíllà"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"the",
+				"vallej",
+				",",
+				"ànɡúíllà"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"John",
+				"Boyd",
+				"Orr"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒohn",
+				"bojd",
+				"orr"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"John",
+				"Carew",
+				"Eccles"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒohn",
+				"carew",
+				"eccles"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"National",
+				"Basketball",
+				"League"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"national",
+				"basketball",
+				"leaɡue"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Tarauni"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"taraũi"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Gúúsù",
+				"Awka"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ɡúúsù",
+				"awka"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Àwọn",
+				"Ìpínlẹ̀",
+				"Àṣepapọ̀",
+				"ilẹ̀",
+				"Mikronésíà"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"àwɔ̃",
+				"ìk͡pínlɛ̀",
+				"àʃek͡pak͡pɔ̀",
+				"ilɛ̀",
+				"mikronésíà"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Adrian",
+				"1k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"adrian",
+				"1k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ẹgbẹ́",
+				"Olóṣèlúaráìlú",
+				"àwọn",
+				"Aráàlù",
+				"(",
+				"Nàìjíríà",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɛɡ͡bɛ́",
+				"olóʃèlúaráìlú",
+				"àwɔ̃",
+				"aráàlù",
+				"(",
+				"nàìd͡ʒíríà",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"William",
+				"D.",
+				"Coleman"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"william",
+				"d.",
+				"coleman"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ìgbìmọ̀",
+				"Òlímpíkì",
+				"Akáríayé"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ìɡ͡bìmɔ̀",
+				"òlímk͡píkì",
+				"akáríajé"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Kware"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"kware"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Àwọn",
+				"Erékùṣù",
+				"Spratly"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"àwɔ̃",
+				"erékùʃù",
+				"sk͡pratlj"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Open",
+				"Amẹ́ríkà",
+				"2012"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ok͡pen",
+				"amɛ́ríkà",
+				"2012"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pírámídì",
+				"Nínlá",
+				"ti",
+				"Gísà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"k͡pírámídì",
+				"nínlá",
+				"ti",
+				"ɡísà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Caroline",
+				"Wozniacki",
+				"(",
+				"10",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"carolĩe",
+				"wozniacki",
+				"(",
+				"10",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àgbàjọ",
+				"Tòkòwò",
+				"àwọn",
+				"Orílẹ̀-èdè",
+				"Ìwọòrùn",
+				"Áfríkà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àɡ͡bàd͡ʒɔ",
+				"tòkòwò",
+				"àwɔ̃",
+				"orílɛ̀-èdè",
+				"ìwɔòrùn",
+				"áfríkà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ilẹ̀",
+				"Ọmọ-ọba",
+				"Sealand"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ilɛ̀",
+				"ɔmɔ-ɔba",
+				"sealand"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Yaroslava",
+				"Shvedova",
+				"''",
+				"(",
+				"Second",
+				"round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"jaroslava",
+				"shvedova",
+				"''",
+				"(",
+				"second",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àgbájọ",
+				"Òṣìṣẹ́",
+				"Akáríayé"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àɡ͡bád͡ʒɔ",
+				"òʃìʃɛ́",
+				"akáríajé"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Àwọn",
+				"Ilé-iṣẹ́",
+				"Ológun",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àwɔ̃",
+				"ilé-iʃɛ́",
+				"olóɡũ",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Mohamed",
+				"Ahmed",
+				"''",
+				"'",
+				",",
+				"Co-Chairman",
+				"of",
+				"the",
+				"Directorate"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"mohamed",
+				"ahmed",
+				"''",
+				"'",
+				",",
+				"co-chairman",
+				"of",
+				"the",
+				"directorate"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Lucius",
+				"2k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"lucius",
+				"2k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pápá",
+				"Eréìdárayá",
+				"Free",
+				"State"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"k͡pák͡pá",
+				"eréìdárajá",
+				"free",
+				"state"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mohammad",
+				"Reza",
+				"Pahlavi"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"mohammad",
+				"reza",
+				"k͡pahlavi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Benedict",
+				"3k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"benedict",
+				"3k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ilé",
+				"Alàgbà",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ilé",
+				"alàɡ͡bà",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Jose",
+				",",
+				"Kalifọ́rníà"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"san",
+				"d͡ʒose",
+				",",
+				"kalifɔ́rníà"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ìwọ̀n",
+				"Ẹyọ",
+				"Akáríayé",
+				"SI"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ìwɔ̀n",
+				"ɛjɔ",
+				"akáríajé",
+				"si"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Benedict",
+				"9k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"benedict",
+				"9k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Bukkuyum"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"bukkujum"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Anwar",
+				"El",
+				"Sadat"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"anwar",
+				"el",
+				"sadat"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Dadra",
+				"àti",
+				"Nagar",
+				"Haveli"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"dadra",
+				"àti",
+				"naɡar",
+				"haveli"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mọ́ṣálásí",
+				"Olókìkí",
+				"Djenné"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mɔ́ʃálásí",
+				"olókìkí",
+				"dd͡ʒenné"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Àwọn",
+				"Ìpínlẹ̀",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"àwɔ̃",
+				"ìk͡pínlɛ̀",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Gregory",
+				"6k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"ɡreɡorj",
+				"6k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ìgbìmọ̀",
+				"Agbógunti",
+				"Ìwàọ̀daràn",
+				"Òkòwó",
+				"àti",
+				"Ìnáwó"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ìɡ͡bìmɔ̀",
+				"aɡ͡bóɡũti",
+				"ìwàɔ̀daràn",
+				"òkòwó",
+				"àti",
+				"ìnáwó"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nassau",
+				",",
+				"Àwọn",
+				"Bàhámà"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"nassau",
+				",",
+				"àwɔ̃",
+				"bàhámà"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Acting",
+				"Prime",
+				"Minister]]",
+				"Frank",
+				"Bainimarama"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"actĩɡ",
+				"k͡prime",
+				"mĩister]]",
+				"frank",
+				"baĩimarama"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ààrẹ",
+				"ilẹ̀",
+				"Kóstá",
+				"Rikà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ààrɛ",
+				"ilɛ̀",
+				"kóstá",
+				"rikà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Gabasawa"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ɡabasawa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"je",
+				"ìlú",
+				"ní",
+				"Nàìjíríà",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒe",
+				"ìlú",
+				"ní",
+				"nàìd͡ʒíríà",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àkójọ",
+				"àwọn",
+				"olórí",
+				"orílẹ̀-èdè",
+				"ilẹ̀",
+				"Benin"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àkód͡ʒɔ",
+				"àwɔ̃",
+				"olórí",
+				"orílɛ̀-èdè",
+				"ilɛ̀",
+				"benĩ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Adeodatus",
+				"2k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"adeodatus",
+				"2k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Akoko-Ẹdó"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"akoko-ɛdó"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Damasus",
+				"2k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"damasus",
+				"2k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ibi",
+				"Ọ̀ṣọ́",
+				"Àgbáyé"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ibi",
+				"ɔ̀ʃɔ́",
+				"àɡ͡bájé"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Leo",
+				"6k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"leo",
+				"6k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Action",
+				"Congress",
+				"of",
+				"Nigeria"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"action",
+				"conɡress",
+				"of",
+				"niɡeria"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Ola",
+				"Oluwa"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ola",
+				"oluwa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Charles",
+				"9k",
+				"ilẹ̀",
+				"Fránsì"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"charles",
+				"9k",
+				"ilɛ̀",
+				"fránsì"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ìrìnkánkán",
+				"àwọn",
+				"Ẹ̀tọ́",
+				"Aráàlú",
+				"ọmọ",
+				"Áfríkà",
+				"Amẹ́ríkà",
+				"(",
+				"1955–1968",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ìrìnkánkán",
+				"àwɔ̃",
+				"ɛ̀tɔ́",
+				"aráàlú",
+				"ɔmɔ",
+				"áfríkà",
+				"amɛ́ríkà",
+				"(",
+				"1955–1968",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Yunifásítì",
+				"Ọbáfẹ́mi",
+				"Awólọ́wọ̀"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"jũifásítì",
+				"ɔbáfɛ́mi",
+				"awólɔ́wɔ̀"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Udi"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"udi"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Àgbájọ",
+				"Òṣìṣẹ́",
+				"Akáríayé"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àɡ͡bád͡ʒɔ",
+				"òʃìʃɛ́",
+				"akáríajé"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Eugenie",
+				"Bouchard",
+				"''",
+				"(",
+				"Final",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"euɡenie",
+				"bouchard",
+				"''",
+				"(",
+				"fĩal",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Oriade"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"oriade"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"je",
+				"apa",
+				"kan",
+				"ninu",
+				"33",
+				"ni",
+				"orile-ede",
+				"Kòlómbìà",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒe",
+				"ak͡pa",
+				"kan",
+				"nĩu",
+				"33",
+				"ni",
+				"orile-ede",
+				"kòlómbìà",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Lucius",
+				"3k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"lucius",
+				"3k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Honorius",
+				"4k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"honorius",
+				"4k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nọ́mbà",
+				"tẹlifónù",
+				"ní",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"nɔ́mbà",
+				"tɛlifónù",
+				"ní",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Leo",
+				"5k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"leo",
+				"5k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Stephen",
+				"7k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"stek͡phen",
+				"7k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Àkójọ",
+				"àwọn",
+				"Ààrẹ",
+				"ilẹ̀",
+				"Dómíníkì",
+				"Olómìnira"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àkód͡ʒɔ",
+				"àwɔ̃",
+				"ààrɛ",
+				"ilɛ̀",
+				"dómíníkì",
+				"olómìnira"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Serena",
+				"Williams",
+				"is",
+				"the",
+				"champion",
+				";",
+				"others",
+				"show",
+				"the",
+				"round",
+				"in",
+				"which",
+				"they",
+				"were",
+				"eliminated",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"serena",
+				"williams",
+				"is",
+				"the",
+				"chamk͡pion",
+				";",
+				"others",
+				"show",
+				"the",
+				"roũd",
+				"ĩ",
+				"which",
+				"thej",
+				"were",
+				"elimĩated",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Johnson",
+				"Aguiyi-Ironsi",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"d͡ʒohnson",
+				"aɡuiji-ironsi",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Caroline",
+				"Wozniacki",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"carolĩe",
+				"wozniacki",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Gúúsù",
+				"Igbo-Eze"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ɡúúsù",
+				"iɡ͡bo-eze"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Consists",
+				"of",
+				"Svalbard",
+				"and",
+				"Jan",
+				"Mayen"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"consists",
+				"of",
+				"svalbard",
+				"and",
+				"d͡ʒan",
+				"majen"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Akwa",
+				"Ibom",
+				"State",
+				"University",
+				"of",
+				"Science",
+				"and",
+				"Technology"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"akwa",
+				"ibom",
+				"state",
+				"ũiversitj",
+				"of",
+				"science",
+				"and",
+				"technoloɡj"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Upper",
+				"Volta",
+				"Fránsì"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"uk͡pk͡per",
+				"volta",
+				"fránsì"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Charles",
+				"4k",
+				"ilẹ̀",
+				"Fránsì"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"charles",
+				"4k",
+				"ilɛ̀",
+				"fránsì"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"je",
+				"ìlú",
+				"ní",
+				"Nàìjíríà",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒe",
+				"ìlú",
+				"ní",
+				"nàìd͡ʒíríà",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Eleme"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"eleme"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Billie",
+				"Jean",
+				"King",
+				"''",
+				"(",
+				"Runner-up",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"billie",
+				"d͡ʒean",
+				"kĩɡ",
+				"''",
+				"(",
+				"rũner-uk͡p",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Àríwá",
+				"Aba"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"àríwá",
+				"aba"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"ni",
+				"Kánsílọ̀",
+				"orile-ede",
+				"Jẹ́mánì",
+				"tele",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"ni",
+				"kánsílɔ̀",
+				"orile-ede",
+				"d͡ʒɛ́mánì",
+				"tele",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"je",
+				"ìlú",
+				"ní",
+				"Nàìjíríà",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒe",
+				"ìlú",
+				"ní",
+				"nàìd͡ʒíríà",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Saint",
+				"Helena",
+				",",
+				"Ascension",
+				"àti",
+				"Tristan",
+				"da",
+				"Cunha"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"saĩt",
+				"helena",
+				",",
+				"ascension",
+				"àti",
+				"tristan",
+				"da",
+				"cũha"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Sérbíà",
+				"àti",
+				"Montenégrò"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sérbíà",
+				"àti",
+				"montenéɡrò"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Jẹ́ọ́gráfì",
+				"ilẹ̀",
+				"Kòmórò"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"d͡ʒɛ́ɔ́ɡráfì",
+				"ilɛ̀",
+				"kòmórò"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		}
+	],
+	"test": [
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Gúúsù-Ìwọòrùn",
+				"Akoko"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ɡúúsù-ìwɔòrùn",
+				"akoko"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"je",
+				"ìlú",
+				"ní",
+				"Nàìjíríà",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒe",
+				"ìlú",
+				"ní",
+				"nàìd͡ʒíríà",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Vaduz",
+				"''",
+				"'",
+				",",
+				"Líktẹ́nstáìnì"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"vaduz",
+				"''",
+				"'",
+				",",
+				"líktɛ́nstáìnì"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Sloane",
+				"Stephens",
+				"''",
+				"(",
+				"Fourth",
+				"round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sloane",
+				"stek͡phens",
+				"''",
+				"(",
+				"fourth",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Windows",
+				"XP",
+				"(",
+				"2001",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"**",
+				"wĩdows",
+				"xk͡p",
+				"(",
+				"2001",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àgbájọ",
+				"àwọn",
+				"Orílẹ̀-èdè",
+				"Aṣòkan"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àɡ͡bád͡ʒɔ",
+				"àwɔ̃",
+				"orílɛ̀-èdè",
+				"aʃòkan"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Martin",
+				"Luther",
+				"King",
+				",",
+				"Jr",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"martĩ",
+				"luther",
+				"kĩɡ",
+				",",
+				"d͡ʒr",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Yunifásítì",
+				"ìlú",
+				"Ilorin"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"jũifásítì",
+				"ìlú",
+				"ilorĩ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Innocent",
+				"5k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"ĩnocent",
+				"5k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Gúúsù",
+				"Mubi"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ɡúúsù",
+				"mubi"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àwọn",
+				"ìṣẹ̀lẹ̀",
+				"ìdánilóró",
+				"September",
+				"11",
+				",",
+				"2001"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àwɔ̃",
+				"ìʃɛ̀lɛ̀",
+				"ìdánilóró",
+				"sek͡ptember",
+				"11",
+				",",
+				"2001"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Sérbíà",
+				"àti",
+				"Montenégrò"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sérbíà",
+				"àti",
+				"montenéɡrò"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Paschal",
+				"2k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"k͡paschal",
+				"2k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"je",
+				"ìlú",
+				"ní",
+				"Nàìjíríà",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒe",
+				"ìlú",
+				"ní",
+				"nàìd͡ʒíríà",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Yunifásítì",
+				"ìlú",
+				"Ìbàdàn"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"jũifásítì",
+				"ìlú",
+				"ìbàdàn"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dáníẹ́l",
+				"O.",
+				"Fágúnwà"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"dáníɛ́l",
+				"o.",
+				"fáɡúnwà"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Muhammad",
+				"ibn",
+				"Mūsā",
+				"al-Khwārizmī"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"muhammad",
+				"ibn",
+				"mūsā",
+				"al-khwārizmī"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Yunifásítì",
+				"ìlú",
+				"Calabar"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"jũifásítì",
+				"ìlú",
+				"calabar"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ààrẹ",
+				"ilẹ̀",
+				"Gúúsù",
+				"Áfríkà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ààrɛ",
+				"ilɛ̀",
+				"ɡúúsù",
+				"áfríkà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Suara",
+				"Àlàní",
+				"Bánkọ́lé"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"suara",
+				"àlàní",
+				"bánkɔ́lé"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Gummi"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ɡummi"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Apáàríwá",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ak͡páàríwá",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Ajingi"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ad͡ʒĩɡi"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"je",
+				"ìlú",
+				"ní",
+				"Nàìjíríà",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒe",
+				"ìlú",
+				"ní",
+				"nàìd͡ʒíríà",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Bokkos"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"bokkos"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ilé-ìgbìmọ̀",
+				"Aṣòfin",
+				"Oníbínibí",
+				"ilẹ̀",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ilé-ìɡ͡bìmɔ̀",
+				"aʃòfĩ",
+				"oníbínibí",
+				"ilɛ̀",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ìpínlẹ̀",
+				"Akwa",
+				"Íbọm"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ìk͡pínlɛ̀",
+				"akwa",
+				"íbɔm"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Sixtus",
+				"1k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"sixtus",
+				"1k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Dange-Shuni"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"danɡe-shũi"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Ohaukwu"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ohaukwu"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Yunifásítì",
+				"ìlú",
+				"Ebute",
+				"Harcourt"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"jũifásítì",
+				"ìlú",
+				"ebute",
+				"harcourt"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ẹgbẹ́",
+				"agbábọ́ọ̀lù-ẹlẹ́sẹ̀",
+				"ọmọorílẹ̀-èdè",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɛɡ͡bɛ́",
+				"aɡ͡bábɔ́ɔ̀lù-ɛlɛ́sɛ̀",
+				"ɔmɔorílɛ̀-èdè",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Samantha",
+				"Stosur",
+				"''",
+				"(",
+				"First",
+				"round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"samantha",
+				"stosur",
+				"''",
+				"(",
+				"first",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Damban"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"damban"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ẹgbẹ́",
+				"Olóṣèlúaráìlú",
+				"àwọn",
+				"Aráàlù",
+				"(",
+				"Nàìjíríà",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɛɡ͡bɛ́",
+				"olóʃèlúaráìlú",
+				"àwɔ̃",
+				"aráàlù",
+				"(",
+				"nàìd͡ʒíríà",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ibi",
+				"Ọ̀ṣọ́",
+				"Àgbáyé"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ibi",
+				"ɔ̀ʃɔ́",
+				"àɡ͡bájé"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Okitipupa"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"okitik͡puk͡pa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pápá",
+				"Eréìdárayá",
+				"Mbombela"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"k͡pák͡pá",
+				"eréìdárajá",
+				"mbombela"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ààrẹ",
+				"ilẹ̀",
+				"Brasil"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ààrɛ",
+				"ilɛ̀",
+				"brasil"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Màríà",
+				"(",
+				"ìyá",
+				"Jésù",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"màríà",
+				"(",
+				"ìjá",
+				"d͡ʒésù",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ó",
+				"gboyè",
+				"Enjiníà",
+				"ní",
+				"Ilẹ̀gẹ̀ẹ́sì",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ó",
+				"ɡ͡bojè",
+				"end͡ʒĩíà",
+				"ní",
+				"ilɛ̀ɡɛ̀ɛ́sì",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àwọn",
+				"Ìpínlẹ̀",
+				"Orílẹ̀-èdè",
+				"Amẹ́ríkà"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"àwɔ̃",
+				"ìk͡pínlɛ̀",
+				"orílɛ̀-èdè",
+				"amɛ́ríkà"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Prime",
+				"Minister]]",
+				"Yousaf",
+				"Raza",
+				"Gillani"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡prime",
+				"mĩister]]",
+				"jousaf",
+				"raza",
+				"ɡillani"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Gbako"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ɡ͡bako"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ben",
+				"Okri",
+				"(",
+				"1959–",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ben",
+				"okri",
+				"(",
+				"1959–",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Louis",
+				"9k",
+				"ilẹ̀",
+				"Fránsì"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"louis",
+				"9k",
+				"ilɛ̀",
+				"fránsì"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Stanley",
+				"Cohen",
+				"(",
+				"aṣeògùn-alàyè",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"stanlej",
+				"cohen",
+				"(",
+				"aʃeòɡùn-alàjè",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Song"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"sonɡ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ignatius",
+				"Kutu",
+				"Acheampong"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"iɡnatius",
+				"kutu",
+				"acheamk͡ponɡ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Anastasia",
+				"Pavlyuchenkova",
+				"''",
+				"(",
+				"First",
+				"round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"anastasia",
+				"k͡pavljuchenkova",
+				"''",
+				"(",
+				"first",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Tenczynek",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"tenczjnek",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ààrẹ",
+				"ilẹ̀",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ààrɛ",
+				"ilɛ̀",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Tamarine",
+				"Tanasugarn",
+				"''",
+				"(",
+				"Third",
+				"Round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tamarĩe",
+				"tanasuɡarn",
+				"''",
+				"(",
+				"third",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Wudil"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"wudil"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Tamarine",
+				"Tanasugarn",
+				"''",
+				"(",
+				"Fourth",
+				"Round",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tamarĩe",
+				"tanasuɡarn",
+				"''",
+				"(",
+				"fourth",
+				"roũd",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Antonio",
+				"López",
+				"de",
+				"Santa",
+				"Anna"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"antonio",
+				"lók͡pez",
+				"de",
+				"santa",
+				"anna"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Àgbájọ",
+				"àwọn",
+				"Orílẹ̀-èdè",
+				"Aṣòkan"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àɡ͡bád͡ʒɔ",
+				"àwɔ̃",
+				"orílɛ̀-èdè",
+				"aʃòkan"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Venus",
+				"Williams",
+				"''",
+				"(",
+				"Final",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"venus",
+				"williams",
+				"''",
+				"(",
+				"fĩal",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Dala"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"dala"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Jelena",
+				"Janković",
+				"''",
+				"(",
+				"Fourth",
+				"round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d͡ʒelena",
+				"d͡ʒanković",
+				"''",
+				"(",
+				"fourth",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àmì",
+				"ọ̀pá",
+				"àṣẹ",
+				"ilẹ̀",
+				"Ingushetia"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àmì",
+				"ɔ̀k͡pá",
+				"àʃɛ",
+				"ilɛ̀",
+				"ĩɡushetia"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Gbọ̀ngàn",
+				"Òfurufú",
+				"Kennedy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡ͡bɔ̀nɡàn",
+				"òfurufú",
+				"kennedj"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Àkójọ",
+				"àwọn",
+				"Alákòóso",
+				"Àgbà",
+				"ilẹ̀",
+				"Tànsáníà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àkód͡ʒɔ",
+				"àwɔ̃",
+				"alákòóso",
+				"àɡ͡bà",
+				"ilɛ̀",
+				"tànsáníà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Anastasia",
+				"Pavlyuchenkova",
+				"''",
+				"(",
+				"Second",
+				"round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"anastasia",
+				"k͡pavljuchenkova",
+				"''",
+				"(",
+				"second",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àsìá",
+				"ilẹ̀",
+				"Tufalu"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"àsìá",
+				"ilɛ̀",
+				"tufalu"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Daniela",
+				"Hantuchová",
+				"''",
+				"(",
+				"Third",
+				"Round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"daniela",
+				"hantuchová",
+				"''",
+				"(",
+				"third",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Beijing",
+				"Pyongyang",
+				"Seoul",
+				"Taipei",
+				"Tokyo",
+				"Ulan",
+				"Bator"
+			],
+			"ner_tags": [
+				5,
+				5,
+				5,
+				5,
+				5,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"beid͡ʒĩɡ",
+				"k͡pjonɡjanɡ",
+				"seoul",
+				"taik͡pei",
+				"tokjo",
+				"ulan",
+				"bator"
+			],
+			"epi_ner_tags": [
+				5,
+				5,
+				5,
+				5,
+				5,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Angelique",
+				"Kerber",
+				"''",
+				"(",
+				"Quarterfinals",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"anɡelique",
+				"kerber",
+				"''",
+				"(",
+				"quarterfĩals",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àmì",
+				"ọ̀pá",
+				"àṣẹ",
+				"ilẹ̀",
+				"Bósníà",
+				"àti",
+				"Hẹrjẹgòfínà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àmì",
+				"ɔ̀k͡pá",
+				"àʃɛ",
+				"ilɛ̀",
+				"bósníà",
+				"àti",
+				"hɛrd͡ʒɛɡòfínà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Zheng",
+				"Jie",
+				"''",
+				"(",
+				"Second",
+				"Round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"zhenɡ",
+				"d͡ʒie",
+				"''",
+				"(",
+				"second",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Charles",
+				"8k",
+				"ilẹ̀",
+				"Fránsì"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"charles",
+				"8k",
+				"ilɛ̀",
+				"fránsì"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ptolemy",
+				"1k",
+				"Soter"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡ptolemj",
+				"1k",
+				"soter"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ilẹ̀",
+				"Ọbalúayé",
+				"Rómù",
+				"Mímọ́"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ilɛ̀",
+				"ɔbalúajé",
+				"rómù",
+				"mímɔ́"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"David",
+				"Mark",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"david",
+				"mark",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àkójọ",
+				"àwọn",
+				"olórí",
+				"ìjọba",
+				"ilẹ̀",
+				"Bùrkínà",
+				"Fasò"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àkód͡ʒɔ",
+				"àwɔ̃",
+				"olórí",
+				"ìd͡ʒɔba",
+				"ilɛ̀",
+				"bùrkínà",
+				"fasò"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ajagun",
+				"Ojúòfurufú",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ad͡ʒaɡũ",
+				"od͡ʒúòfurufú",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Orílẹ̀-èdè",
+				"Olómìnira",
+				"ilẹ̀",
+				"Makẹdóníà"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"orílɛ̀-èdè",
+				"olómìnira",
+				"ilɛ̀",
+				"makɛdóníà"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Benedict",
+				"15k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"benedict",
+				"15k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ibi",
+				"Ọ̀ṣọ́",
+				"Àgbáyé"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ibi",
+				"ɔ̀ʃɔ́",
+				"àɡ͡bájé"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Sara",
+				"Errani",
+				"''",
+				"(",
+				"Semifinals",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sara",
+				"errani",
+				"''",
+				"(",
+				"semifĩals",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Pelagius",
+				"2k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"k͡pelaɡius",
+				"2k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Orin-ìyìn",
+				"orílẹ̀-èdè",
+				"ilẹ̀",
+				"Tatarstan"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"orĩ-ìjìn",
+				"orílɛ̀-èdè",
+				"ilɛ̀",
+				"tatarstan"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Odo",
+				"Otin"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"odo",
+				"otĩ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ekaterina",
+				"Makarova",
+				"''",
+				"(",
+				"Quarterfinals",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ekaterĩa",
+				"makarova",
+				"''",
+				"(",
+				"quarterfĩals",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Abdulsalami",
+				"Abubakar",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"abdulsalami",
+				"abubakar",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Orílẹ̀-èdè",
+				"Olómìnira",
+				"Aṣọ̀kan",
+				"Árábù"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"orílɛ̀-èdè",
+				"olómìnira",
+				"aʃɔ̀kan",
+				"árábù"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Buruku"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"buruku"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Gúúsù-Ìwọòrùn",
+				"Èkìtì"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ɡúúsù-ìwɔòrùn",
+				"èkìtì"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ahmed",
+				"Sani",
+				"Yerima"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ahmed",
+				"sani",
+				"jerima"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Monica",
+				"Seles",
+				"''",
+				"(",
+				"Third",
+				"Round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"monica",
+				"seles",
+				"''",
+				"(",
+				"third",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Gúúsù",
+				"Onitsha"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ɡúúsù",
+				"onitsha"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ààrẹ",
+				"ilẹ̀",
+				"Jẹ́mánì"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ààrɛ",
+				"ilɛ̀",
+				"d͡ʒɛ́mánì"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"President]]",
+				"José",
+				"Eduardo",
+				"dos",
+				"Santos"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡president]]",
+				"d͡ʒosé",
+				"eduardo",
+				"dos",
+				"santos"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Gelasius",
+				"2k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"ɡelasius",
+				"2k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"116,096",
+				"km2",
+				"--",
+				"Ohio"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"116,096",
+				"km2",
+				"--",
+				"ohio"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5
+			]
+		}
+	],
+	"train": [
+		{
+			"tokens": [
+				"Ilé-Ẹjọ́",
+				"Ìwàọ̀daràn",
+				"Káríayé"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ilé-ɛd͡ʒɔ́",
+				"ìwàɔ̀daràn",
+				"káríajé"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Yunifásítì",
+				"Ọbáfẹ́mi",
+				"Awólọ́wọ̀"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"jũifásítì",
+				"ɔbáfɛ́mi",
+				"awólɔ́wɔ̀"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ìwo",
+				"Orí",
+				"ilẹ̀",
+				"Áfríkà"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ìwo",
+				"orí",
+				"ilɛ̀",
+				"áfríkà"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Eusebio",
+				"Ayala",
+				"(",
+				"2nd",
+				"presidency",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"eusebio",
+				"ajala",
+				"(",
+				"2nd",
+				"k͡presidencj",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Yunifásítì",
+				"ìlú",
+				"Ìbàdàn"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"jũifásítì",
+				"ìlú",
+				"ìbàdàn"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pápá",
+				"Eréìdárayá",
+				"Loftus",
+				"Versfeld"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"k͡pák͡pá",
+				"eréìdárajá",
+				"loftus",
+				"versfeld"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Ilaje"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ilad͡ʒe"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Prime",
+				"Minister]]",
+				"Mohamed",
+				"Said",
+				"Fofana"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡prime",
+				"mĩister]]",
+				"mohamed",
+				"said",
+				"fofana"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Àwọn",
+				"Erékùṣù",
+				"Fàróè"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"àwɔ̃",
+				"erékùʃù",
+				"fàróè"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Prime",
+				"Minister]]",
+				"José",
+				"Maria",
+				"Neves"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡prime",
+				"mĩister]]",
+				"d͡ʒosé",
+				"maria",
+				"neves"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Henry",
+				"2k",
+				"ilẹ̀",
+				"Fránsì"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"henrj",
+				"2k",
+				"ilɛ̀",
+				"fránsì"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Jòhánù",
+				"15k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"d͡ʒòhánù",
+				"15k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ladoke",
+				"Akintola",
+				"University",
+				"of",
+				"Technology",
+				"''Ogbomoso",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ladoke",
+				"akĩtola",
+				"ũiversitj",
+				"of",
+				"technoloɡj",
+				"''oɡ͡bomoso",
+				"''"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Maria",
+				"Sharapova",
+				"(",
+				"Champion",
+				")",
+				"'",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"maria",
+				"sharak͡pova",
+				"(",
+				"chamk͡pion",
+				")",
+				"'",
+				"''"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"je",
+				"ìlú",
+				"ní",
+				"Nàìjíríà",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒe",
+				"ìlú",
+				"ní",
+				"nàìd͡ʒíríà",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jelena",
+				"Janković",
+				"''",
+				"(",
+				"First",
+				"Round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d͡ʒelena",
+				"d͡ʒanković",
+				"''",
+				"(",
+				"first",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nítorí",
+				"náà",
+				"ni",
+				"Àjọ",
+				"Ìlera",
+				"Àgbáyé",
+				"kò",
+				"ṣe",
+				"gba",
+				"ni",
+				"nímọ̀ràn",
+				"láti",
+				"má",
+				"a",
+				"lò",
+				"wọ́n",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"nítorí",
+				"náà",
+				"ni",
+				"àd͡ʒɔ",
+				"ìlera",
+				"àɡ͡bájé",
+				"kò",
+				"ʃe",
+				"ɡ͡ba",
+				"ni",
+				"nímɔ̀ràn",
+				"láti",
+				"má",
+				"a",
+				"lò",
+				"wɔ́n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Benedict",
+				"15k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"benedict",
+				"15k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Àmì",
+				"ọ̀pá",
+				"àṣẹ",
+				"ilẹ̀",
+				"Udmurtia"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àmì",
+				"ɔ̀k͡pá",
+				"àʃɛ",
+				"ilɛ̀",
+				"udmurtia"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Páúlù",
+				"1k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"k͡páúlù",
+				"1k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Páùlù",
+				"ará",
+				"Társù"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡páùlù",
+				"ará",
+				"társù"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Louis",
+				"11k",
+				"ilẹ̀",
+				"Fránsì"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"louis",
+				"11k",
+				"ilɛ̀",
+				"fránsì"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Gurara"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ɡurara"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Lindsay",
+				"Davenport",
+				"''",
+				"(",
+				"Final",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"lĩdsaj",
+				"davenk͡port",
+				"''",
+				"(",
+				"fĩal",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Honorius",
+				"2k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"honorius",
+				"2k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Alexander",
+				"4k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"alexander",
+				"4k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Carla",
+				"Suárez",
+				"Navarro",
+				"''",
+				"(",
+				"Fourth",
+				"round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"carla",
+				"suárez",
+				"navarro",
+				"''",
+				"(",
+				"fourth",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Eugenie",
+				"Bouchard",
+				"''",
+				"(",
+				"Semifinals",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"euɡenie",
+				"bouchard",
+				"''",
+				"(",
+				"semifĩals",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ajagun",
+				"Ojúòfurufú",
+				"Amẹ́ríkà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ad͡ʒaɡũ",
+				"od͡ʒúòfurufú",
+				"amɛ́ríkà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pápá",
+				"Eréìdárayá",
+				"Royal",
+				"Bafokeng"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"k͡pák͡pá",
+				"eréìdárajá",
+				"rojal",
+				"bafokenɡ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Jòhánù",
+				"1k",
+				"ilẹ̀",
+				"Fránsì"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒòhánù",
+				"1k",
+				"ilɛ̀",
+				"fránsì"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Elena",
+				"Dementieva",
+				"''",
+				"(",
+				"Semifinals",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"elena",
+				"dementieva",
+				"''",
+				"(",
+				"semifĩals",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Venus",
+				"Williams",
+				"''",
+				"(",
+				"Semifinals",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"venus",
+				"williams",
+				"''",
+				"(",
+				"semifĩals",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àwọn",
+				"ọmọ",
+				"Áfríkà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àwɔ̃",
+				"ɔmɔ",
+				"áfríkà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Marcellus",
+				"1k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"marcellus",
+				"1k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Aláṣẹ",
+				"Ìjọba",
+				"Orílẹ̀-èdè",
+				"Palẹstínì"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aláʃɛ",
+				"ìd͡ʒɔba",
+				"orílɛ̀-èdè",
+				"k͡palɛstínì"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Gbọ̀ngàn",
+				"Òfurufú",
+				"Kennedy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡ͡bɔ̀nɡàn",
+				"òfurufú",
+				"kennedj"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Harald",
+				"5k",
+				"ilẹ̀",
+				"Nọ́rwèy"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"harald",
+				"5k",
+				"ilɛ̀",
+				"nɔ́rwèj"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Monica",
+				"Niculescu",
+				"''",
+				"(",
+				"First",
+				"Round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"monica",
+				"niculescu",
+				"''",
+				"(",
+				"first",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Birnin",
+				"Kudu"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"birnĩ",
+				"kudu"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Arantxa",
+				"Sánchez",
+				"Vicario"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"arantxa",
+				"sánchez",
+				"vicario"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Martina",
+				"Hingis",
+				"''",
+				"(",
+				"Third",
+				"Round",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"martĩa",
+				"hĩɡis",
+				"''",
+				"(",
+				"third",
+				"roũd",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àgbájọ",
+				"Akáríayé",
+				"Okun",
+				"Átọ́mù"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àɡ͡bád͡ʒɔ",
+				"akáríajé",
+				"okũ",
+				"átɔ́mù"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Àgbájọ",
+				"Káríayé",
+				"fún",
+				"Ìṣọ̀págun"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àɡ͡bád͡ʒɔ",
+				"káríajé",
+				"fún",
+				"ìʃɔ̀k͡páɡũ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Oladipo",
+				"Diya",
+				"(",
+				"Sani",
+				"Abacha",
+				"Military",
+				"regime",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"oladik͡po",
+				"dija",
+				"(",
+				"sani",
+				"abacha",
+				"militarj",
+				"reɡime",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"United",
+				"Nations",
+				"High",
+				"Commissioner",
+				"for",
+				"Refugees"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ũited",
+				"nations",
+				"hiɡh",
+				"commissioner",
+				"for",
+				"refuɡees"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"(",
+				"old",
+				")",
+				"Ìpínlẹ̀",
+				"Anámbra"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"(",
+				"old",
+				")",
+				"ìk͡pínlɛ̀",
+				"anámbra"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ajagun",
+				"Ojúòfurufú",
+				"Amẹ́ríkà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ad͡ʒaɡũ",
+				"od͡ʒúòfurufú",
+				"amɛ́ríkà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Jòhánù",
+				"12k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"d͡ʒòhánù",
+				"12k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Jòhánù",
+				"22k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"d͡ʒòhánù",
+				"22k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Svetlana",
+				"Kuznetsova",
+				"''",
+				"(",
+				"First",
+				"Round",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"svetlana",
+				"kuznetsova",
+				"''",
+				"(",
+				"first",
+				"roũd",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Onna"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"onna"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Afidimule",
+				"awon",
+				"Onimose-ero",
+				"Onitanna",
+				"ati",
+				"Ero-aloitanna"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"afidimule",
+				"awon",
+				"onimose-ero",
+				"onitanna",
+				"ati",
+				"ero-aloitanna"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Yunifásítì",
+				"ìlú",
+				"Abùjá"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"jũifásítì",
+				"ìlú",
+				"abùd͡ʒá"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Afidimule",
+				"awon",
+				"Onimose-ero",
+				"Onitanna",
+				"ati",
+				"Ero-aloitanna"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"afidimule",
+				"awon",
+				"onimose-ero",
+				"onitanna",
+				"ati",
+				"ero-aloitanna"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Ejigbo"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ed͡ʒiɡ͡bo"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Àwọn",
+				"ọmọ",
+				"Áfríkà",
+				"Amẹ́ríkà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àwɔ̃",
+				"ɔmɔ",
+				"áfríkà",
+				"amɛ́ríkà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Abdul",
+				"Mumini",
+				"Aminu"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"abdul",
+				"mumĩi",
+				"amĩu"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Robert",
+				"1k",
+				"ilẹ̀",
+				"Fránsì"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"robert",
+				"1k",
+				"ilɛ̀",
+				"fránsì"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Victor",
+				"1k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"victor",
+				"1k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"je",
+				"ìlú",
+				"ní",
+				"Nàìjíríà",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒe",
+				"ìlú",
+				"ní",
+				"nàìd͡ʒíríà",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Orin-ìyìn",
+				"Orílẹ̀-èdè",
+				"Ìsọ̀kan",
+				"Sófìẹ̀tì"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"orĩ-ìjìn",
+				"orílɛ̀-èdè",
+				"ìsɔ̀kan",
+				"sófìɛ̀tì"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ìrìnkánkán",
+				"àwọn",
+				"Ẹ̀tọ́",
+				"Aráàlú",
+				"ọmọ",
+				"Áfríkà",
+				"Amẹ́ríkà",
+				"(",
+				"1955–1968",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ìrìnkánkán",
+				"àwɔ̃",
+				"ɛ̀tɔ́",
+				"aráàlú",
+				"ɔmɔ",
+				"áfríkà",
+				"amɛ́ríkà",
+				"(",
+				"1955–1968",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Serena",
+				"Williams",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"serena",
+				"williams",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"ni",
+				"Kánsílọ̀",
+				"orile-ede",
+				"Jẹ́mánì",
+				"tele",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"ni",
+				"kánsílɔ̀",
+				"orile-ede",
+				"d͡ʒɛ́mánì",
+				"tele",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Egbé",
+				"Ọmọ",
+				"Odùduwà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"eɡ͡bé",
+				"ɔmɔ",
+				"odùduwà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Serena",
+				"Williams",
+				"lo",
+				"gba",
+				"ife-eye",
+				"yi",
+				"lodun",
+				"to",
+				"lo",
+				",",
+				"o",
+				"si",
+				"tun",
+				"tungba",
+				"lodun",
+				"yi",
+				"nigba",
+				"to",
+				"bori",
+				"Victoria",
+				"Azarenka",
+				"ni",
+				"ipari",
+				"7–5",
+				",",
+				"6–7",
+				"(",
+				"6–8",
+				")",
+				",",
+				"6–1",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"serena",
+				"williams",
+				"lo",
+				"ɡ͡ba",
+				"ife-eje",
+				"ji",
+				"lodũ",
+				"to",
+				"lo",
+				",",
+				"o",
+				"si",
+				"tũ",
+				"tũɡ͡ba",
+				"lodũ",
+				"ji",
+				"niɡ͡ba",
+				"to",
+				"bori",
+				"victoria",
+				"azarenka",
+				"ni",
+				"ik͡pari",
+				"7–5",
+				",",
+				"6–7",
+				"(",
+				"6–8",
+				")",
+				",",
+				"6–1",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Ìwọòrùn",
+				"Ahoada"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ìwɔòrùn",
+				"ahoada"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Gregory",
+				"3k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"ɡreɡorj",
+				"3k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Petra",
+				"Kvitová",
+				"(",
+				"Champion",
+				")",
+				"'",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"k͡petra",
+				"kvitová",
+				"(",
+				"chamk͡pion",
+				")",
+				"'",
+				"''"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"je",
+				"apa",
+				"kan",
+				"ninu",
+				"33",
+				"ni",
+				"orile-ede",
+				"Kòlómbìà",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒe",
+				"ak͡pa",
+				"kan",
+				"nĩu",
+				"33",
+				"ni",
+				"orile-ede",
+				"kòlómbìà",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Getúlio",
+				"Vargas",
+				"(",
+				"1st",
+				"time",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡetúlio",
+				"varɡas",
+				"(",
+				"1st",
+				"time",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Amélie",
+				"Mauresmo",
+				"lo",
+				"bori",
+				"Justine",
+				"Henin-Hardenne",
+				"ni",
+				"opin",
+				"pelu",
+				"ayo",
+				"2-6",
+				",",
+				"6-3",
+				",",
+				"6-4",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"amélie",
+				"mauresmo",
+				"lo",
+				"bori",
+				"d͡ʒustĩe",
+				"henĩ-hardenne",
+				"ni",
+				"ok͡pĩ",
+				"k͡pelu",
+				"ajo",
+				"2-6",
+				",",
+				"6-3",
+				",",
+				"6-4",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àwọn",
+				"Ìpínlẹ̀",
+				"Jẹ́mánì"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"àwɔ̃",
+				"ìk͡pínlɛ̀",
+				"d͡ʒɛ́mánì"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Ìlàòrùn",
+				"Ilesa"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ìlàòrùn",
+				"ilesa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ìkokò",
+				"àbàwọ́n",
+				"(",
+				"''Crocuta",
+				"crocuta",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ìkokò",
+				"àbàwɔ́n",
+				"(",
+				"''crocuta",
+				"crocuta",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ìgbìmọ̀",
+				"Òlímpíkì",
+				"Akáríayé"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ìɡ͡bìmɔ̀",
+				"òlímk͡píkì",
+				"akáríajé"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Girei"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"ɡirei"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Navy",
+				"Captain",
+				"Rasheed",
+				"Adisa",
+				"Raji"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"navj",
+				"cak͡ptaĩ",
+				"rasheed",
+				"adisa",
+				"rad͡ʒi"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Gregory",
+				"4k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"ɡreɡorj",
+				"4k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"je",
+				"ìlú",
+				"ní",
+				"Nàìjíríà",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒe",
+				"ìlú",
+				"ní",
+				"nàìd͡ʒíríà",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Àkójọ",
+				"àwọn",
+				"olúìlú",
+				"orílẹ̀-èdè",
+				"ní",
+				"Europe",
+				"gẹ́gẹ́",
+				"bíi",
+				"ààlà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àkód͡ʒɔ",
+				"àwɔ̃",
+				"olúìlú",
+				"orílɛ̀-èdè",
+				"ní",
+				"eurok͡pe",
+				"ɡɛ́ɡɛ́",
+				"bíi",
+				"ààlà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Nicholas",
+				"1k"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"nicholas",
+				"1k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Mobbar"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"mobbar"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Àgbájọ",
+				"àwọn",
+				"Orílẹ̀-èdè",
+				"Aṣòkan"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"àɡ͡bád͡ʒɔ",
+				"àwɔ̃",
+				"orílɛ̀-èdè",
+				"aʃòkan"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ajagun",
+				"Ojúòfurufú",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ad͡ʒaɡũ",
+				"od͡ʒúòfurufú",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Igbákejì",
+				"Ààrẹ",
+				"ilẹ̀",
+				"Nàìjíríà"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"iɡ͡báked͡ʒì",
+				"ààrɛ",
+				"ilɛ̀",
+				"nàìd͡ʒíríà"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Jelena",
+				"Janković",
+				"''",
+				"(",
+				"Fourth",
+				"Round",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d͡ʒelena",
+				"d͡ʒanković",
+				"''",
+				"(",
+				"fourth",
+				"roũd",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ààrẹ",
+				"ilẹ̀",
+				"Brasil"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ààrɛ",
+				"ilɛ̀",
+				"brasil"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Paramanga",
+				"Ernest",
+				"Yonli",
+				"''",
+				"'",
+				",",
+				"Prime",
+				"Minister"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"k͡paramanɡa",
+				"ernest",
+				"jonli",
+				"''",
+				"'",
+				",",
+				"k͡prime",
+				"mĩister"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"jẹ́",
+				"Fáráò",
+				"ni",
+				"Ẹ́gíptì",
+				"Ayéijọ́un",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"d͡ʒɛ́",
+				"fáráò",
+				"ni",
+				"ɛ́ɡík͡ptì",
+				"ajéid͡ʒɔ́ũ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pópù",
+				"Jòhánù",
+				"Páúlù",
+				"Èkínní"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k͡pók͡pù",
+				"d͡ʒòhánù",
+				"k͡páúlù",
+				"èkínní"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Trínídád",
+				"àti",
+				"Tòbágò"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"trínídád",
+				"àti",
+				"tòbáɡò"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Àwọn",
+				"Ẹ́mírétì",
+				"Árábù",
+				"Aṣọ̀kan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"àwɔ̃",
+				"ɛ́mírétì",
+				"árábù",
+				"aʃɔ̀kan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"ZAR",
+				"Zaire",
+				"—",
+				"From",
+				"1997-07"
+			],
+			"ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"zar",
+				"zaire",
+				"—",
+				"from",
+				"1997-07"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Etí",
+				"Òkun",
+				"Wúrà"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"etí",
+				"òkũ",
+				"wúrà"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Agbègbè",
+				"Ìjọba",
+				"Ìbílẹ̀",
+				"Kebbe"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"aɡ͡bèɡ͡bè",
+				"ìd͡ʒɔba",
+				"ìbílɛ̀",
+				"kebbe"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		}
+	]
+}
