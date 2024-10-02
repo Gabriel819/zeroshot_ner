@@ -55,7 +55,7 @@ def total_bort_train(args, english_dataset, zeroshot_dataset, model, device, f):
     steps_trained_in_current_epoch = 0
 
     tr_loss, logging_loss = 0.0, 0.0
-    best_metric, best_epoch, eng_best_metric = -1.0, -1, -1.0  # Init best -1 so that 0 > best
+    best_metric, best_epoch, zeroshot_best_metric = -1.0, -1, -1.0  # Init best -1 so that 0 > best
 
     model.zero_grad()
     train_iterator = tqdm.trange(epochs_trained, int(args.num_train_epochs), desc="Epoch")
