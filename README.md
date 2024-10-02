@@ -1,7 +1,7 @@
 # zeroshot_ner
 Official code for [Zero-Shot Cross-Lingual NER Using Phonemic Representations for Low-Resource Languages](https://arxiv.org/abs/2406.16030), Jimin Sohn*, Haeji Jung*, Alex Cheng, Jooeun Kang, Yilin Du, David R. Mortensen, EMNLP 2024 main
 
-- *: equal contribution
+*: equal contribution
 
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/6c8c95f0-9a65-49e4-8feb-3fc85afa6196">
 
