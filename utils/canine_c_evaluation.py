@@ -8,17 +8,15 @@ import evaluate
 
 def total_canine_c_eval(args, eval_dataset, model, device):
     """ Evaluates the given model on the given dataset. """
-    # f1_metric = evaluate.load("f1")
-    f1_metric = evaluate.load("/jimin/huggingface/modules/evaluate_modules/metrics/evaluate-metric--f1/0ca73f6cf92ef5a268320c697f7b940d1030f8471714bffdb6856c641b818974/f1.py")
-
+    f1_metric = evaluate.load("f1")
+    
     # Note that DistributedSampler samples randomly
     eval_sampler = SequentialSampler(eval_dataset)
     eval_dataloader = DataLoader(
         eval_dataset,
         sampler=eval_sampler,
         batch_size=args.eval_batch_size)
-    # tokenizer = CanineTokenizer.from_pretrained('google/canine-c')
-    tokenizer = CanineTokenizer.from_pretrained("/jimin/huggingface/hub/models--google--canine-c/snapshots/dc0eaffdff3fa9161613311c7096eeb3e133ee19", local_files_only=True)
+    tokenizer = CanineTokenizer.from_pretrained('google/canine-c')
     cross_ent = torch.nn.CrossEntropyLoss()
 
     # Evaluate!
@@ -31,29 +29,27 @@ def total_canine_c_eval(args, eval_dataset, model, device):
 
     out_label_list, preds_list = [], []
     for batch in tqdm.tqdm(eval_dataloader, desc="Evaluating"):
-        # orig_token_inputs = tokenizer(batch[0], add_special_tokens=False, padding='max_length',
-        #                                    truncation=True, max_length=args.max_seq_len, return_tensors="pt").to(device)
         orig_token_inputs = tokenizer(batch[0], padding='max_length',
                                       truncation=True, max_length=args.max_seq_len, return_tensors="pt").to(device)
         with torch.no_grad():
             orig_token_inputs = {
-                "input_ids": orig_token_inputs.data['input_ids'].to(device),  # (b_s, max_seq)
-                "attention_mask": orig_token_inputs.data['attention_mask'].to(device),  # (b_s, max_seq)
-                "token_type_ids": orig_token_inputs.data['token_type_ids'].to(device)  # (b_s, max_seq)
+                "input_ids": orig_token_inputs.data['input_ids'].to(device),
+                "attention_mask": orig_token_inputs.data['attention_mask'].to(device),
+                "token_type_ids": orig_token_inputs.data['token_type_ids'].to(device)
             }
             logits = model(**orig_token_inputs)
-            label = batch[2].to(device)
+            label = batch[1].to(device)
             tmp_eval_loss = cross_ent(logits.flatten(0, 1), label.flatten())
 
             eval_loss += tmp_eval_loss.item()
         nb_eval_steps += 1
         preds = logits.detach().cpu().numpy()
-        preds = np.argmax(preds, axis=2) # (128, 256)
-        out_label_ids = batch[2].detach().cpu().numpy() # (128, 256)
+        preds = np.argmax(preds, axis=2)
+        out_label_ids = batch[1].detach().cpu().numpy()
 
         for i in range(out_label_ids.shape[0]):
             for j in range(out_label_ids.shape[1]):
-                if out_label_ids[i, j] != -100:  # 0 is pad_token_id
+                if out_label_ids[i, j] != -100:
                     out_label_list.append(out_label_ids[i, j])
                     preds_list.append(preds[i][j])
 
