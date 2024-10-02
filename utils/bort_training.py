@@ -11,7 +11,7 @@ from utils.bort_evaluation import bort_eval
 import evaluate
 import copy
 
-def total_bort_train(args, english_dataset, zeroshot_dataset, model, device, f):
+def bort_train(args, english_dataset, zeroshot_dataset, model, device, f):
     train_dataset = english_dataset['train']
     train_sampler = RandomSampler(train_dataset)
     train_dataloader = DataLoader(
