@@ -154,7 +154,7 @@ def main(args):
         f = open(args.task + '_log.txt', 'a')
         global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = xphonebert_train(
             args=args,
-            conll_dataset = train_dataset,
+            english_dataset = train_dataset,
             zeroshot_dataset  = train_dataset['test'],
             model=model,
             device=device,
