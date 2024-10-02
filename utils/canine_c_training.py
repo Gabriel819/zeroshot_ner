@@ -11,8 +11,8 @@ from utils.canine_c_evaluation import canine_c_eval
 import evaluate
 import copy
 
-def canine_c_train(args, conll_dataset, zeroshot_dataset, model, device, f):
-    train_dataset = conll_dataset['train']
+def canine_c_train(args, english_dataset, zeroshot_dataset, model, device, f):
+    train_dataset = english_dataset['train']
     train_sampler = RandomSampler(train_dataset)
     train_dataloader = DataLoader(
         train_dataset,
@@ -46,10 +46,7 @@ def canine_c_train(args, conll_dataset, zeroshot_dataset, model, device, f):
     logging.info("***** Running training *****")
     logging.info("  Num examples = %d", len(train_dataset))
     logging.info("  Num Epochs = %d", args.num_train_epochs)
-    logging.info(
-        "  Total train batch size = %d",
-        args.train_batch_size
-    )
+    logging.info("  Total train batch size = %d", args.train_batch_size)
     logging.info("  Total optimization steps = %d", n_train_steps)
     logging.info("  Using linear warmup (ratio=%s)", args.warmup_ratio)
     logging.info("  Using weight decay (value=%s)", args.weight_decay)
