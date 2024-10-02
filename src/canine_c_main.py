@@ -21,7 +21,7 @@ def parse_args():
         "--model",
         type=str,
         required=True,
-        choices=['bio_canine_ch', 'bio_canine_epi']
+        choices=['bio_canine_ch']
     )
     parser.add_argument(
         "--train_language",
@@ -84,16 +84,6 @@ def parse_args():
         help="Do prediction on the test set."
     )
     parser.add_argument(
-        "--do_zero_predict",
-        action="store_true",
-        help="Do prediction on the zero-shot language validation set."
-    )
-    parser.add_argument(
-        "--do_additional_predict",
-        action="store_true",
-        help="Do additional prediction on the zero-shot language validation set."
-    )
-    parser.add_argument(
         "--model_ckpt_path",
         type=str,
         default=None,
@@ -131,7 +121,7 @@ def main(args):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     ##### MODEL #####
-    if args.model == 'bio_canine_ch' or args.model == 'bio_canine_epi':
+    if args.model == 'bio_canine_ch':
         ##### Model - CANINE-C #####
         logging.info('Loading CANINE-C model')
         model = My_CANINE_C(7)
@@ -150,27 +140,13 @@ def main(args):
         logging.info("* %s: %s", k, v)
     if args.do_train:
         ##### Train Dataset Loading #####
-        if args.model == 'bio_canine_ch' and args.train_language == 'english':  # for now, just use eng wikiann for training
+        if args.model == 'bio_canine_ch' and args.train_language == 'english':
             ##### BIO WikiAnn ch English Dataset #####
             logging.info('Loading BIO CANINE ch WikiAnn English Dataset')
             train_dataset = {}
-            train_dataset['train'] = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('english', 'train',
-                                                                                           args.max_seq_len)
-            train_dataset['validation'] = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('english', 'validation',
-                                                                                                args.max_seq_len)
-            train_dataset['test'] = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('english', 'test',
-                                                                                          args.max_seq_len)
-        elif args.model == 'bio_canine_epi' and args.train_language == 'english':  # for now, just use eng wikiann for training
-            ##### BIO WikiAnn epi English Dataset #####
-            logging.info('Loading BIO CANINE epi WikiAnn English Dataset')
-            train_dataset = {}
-            train_dataset['train'] = bio_canine_epi_whole_wikiann.BIOCanineEpiWikiAnnDataset('english', 'train',
-                                                                                             args.max_seq_len)
-            train_dataset['validation'] = bio_canine_epi_whole_wikiann.BIOCanineEpiWikiAnnDataset('english',
-                                                                                                  'validation',
-                                                                                                  args.max_seq_len)
-            train_dataset['test'] = bio_canine_epi_whole_wikiann.BIOCanineEpiWikiAnnDataset('english', 'test',
-                                                                                            args.max_seq_len)
+            train_dataset['train'] = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('english', 'train', args.max_seq_len)
+            train_dataset['validation'] = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('english', 'validation', args.max_seq_len)
+            train_dataset['test'] = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('english', 'test', args.max_seq_len)
         else:
             print(f"{args.model} is not defined!")
 
@@ -179,20 +155,13 @@ def main(args):
         if args.model == 'bio_canine_ch':
             ##### BIO ch WikiAnn Korean Dataset #####
             logging.info('Loading BIO CANINE ch WikiAnn Korean Dataset')
-            validation_dataset = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('korean', 'validation',
-                                                                                       args.max_seq_len)
-        ########## BIO CANINE Epi ##########
-        elif args.model == 'bio_canine_epi':
-            ##### BIO Epi WikiAnn Korean Dataset #####
-            logging.info('Loading BIO CANINE Epi WikiAnn Korean Dataset')
-            validation_dataset = bio_canine_epi_whole_wikiann.BIOCanineEpiWikiAnnDataset('korean', 'validation',
-                                                                                         args.max_seq_len)
+            validation_dataset = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('korean', 'validation', args.max_seq_len)
         else:
             print(f"{args.model} with {args.val_language} doesn't exist!")
             raise NotImplementedError
 
         f = open(args.task + '_eval_log.txt', 'a')
-        global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = total_canine_c_train(
+        global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = canine_c_train(
             args=args,
             conll_dataset = train_dataset,
             kor_dataset  = validation_dataset,
@@ -202,9 +171,9 @@ def main(args):
         )
         logging.info("global_step = %s, average training loss = %s", global_step, train_loss)
         logging.info("Best performance: Epoch=%d, Value=%s", best_val_epoch, best_val_metric)
-
-        # Zero-shot evaluation
-        model.load_state_dict(best_model_state_dict)
+    ##### Zero-shot Eval #####
+    elif args.do_predict:
+        model.load_state_dict(args.model_ckpt_path)
         model.eval()
 
         zero_shot_lang_list = ['korean', 'spanish', 'turkmen', 'maori', 'somali', 'uyghur', 'sinhala', 'quechua',
@@ -216,14 +185,11 @@ def main(args):
             if args.model == 'bio_canine_ch':
                 logging.info(f'Loading BIO CANINE ch {lang} Dataset')
                 zeroshot_dataset = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset(lang, 'validation', args.max_seq_len)
-            elif args.model == 'bio_canine_epi':
-                logging.info(f'Loading BIO CANINE epi {lang} Dataset')
-                zeroshot_dataset = bio_canine_epi_whole_wikiann.BIOCanineEpiWikiAnnDataset(lang, 'validation', args.max_seq_len)
             else:
                 print(f"{lang} of {args.model} is not in the language list")
                 raise NotImplementedError
 
-            zeroshot_results, _ = total_canine_c_eval(
+            zeroshot_results, _ = canine_c_eval(
                 args=args,
                 eval_dataset=zeroshot_dataset,
                 model=model,
@@ -236,142 +202,6 @@ def main(args):
             logging.info("F1 metric = %s", str(round(zeroshot_results['f1'], 4)))
 
         f.close()
-
-    ##### Eval #####
-    # Evaluation on Train language's test data
-    if args.do_predict:
-        ##### Train Dataset Loading #####
-        if args.model == 'bio_canine_ch' and args.train_language == 'english':  # for now, just use eng wikiann for training
-            ##### BIO WikiAnn ch English Dataset #####
-            logging.info('Loading BIO CANINE ch WikiAnn English Dataset')
-            train_dataset = {}
-            train_dataset['train'] = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('english', 'train',
-                                                                                           args.max_seq_len)
-            train_dataset['validation'] = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('english', 'validation',
-                                                                                                args.max_seq_len)
-            train_dataset['test'] = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('english', 'test',
-                                                                                          args.max_seq_len)
-        elif args.model == 'bio_canine_epi' and args.train_language == 'english':  # for now, just use eng wikiann for training
-            ##### BIO WikiAnn epi English Dataset #####
-            logging.info('Loading BIO CANINE epi WikiAnn English Dataset')
-            train_dataset = {}
-            train_dataset['train'] = bio_canine_epi_whole_wikiann.BIOCanineEpiWikiAnnDataset('english', 'train',
-                                                                                             args.max_seq_len)
-            train_dataset['validation'] = bio_canine_epi_whole_wikiann.BIOCanineEpiWikiAnnDataset('english',
-                                                                                                  'validation',
-                                                                                                  args.max_seq_len)
-            train_dataset['test'] = bio_canine_epi_whole_wikiann.BIOCanineEpiWikiAnnDataset('english', 'test',
-                                                                                            args.max_seq_len)
-        else:
-            print(f"{args.model} is not defined!")
-
-        if args.model_ckpt_path == None:
-            print("You should set model checkpoint path you want to evaluate")
-            raise NotImplementedError
-        else:
-            # model ckpt load #
-            model.load_state_dict(torch.load(args.model_ckpt_path))
-            f = open(args.task + 'train_lan_test_log.txt', 'w')
-            ##### Train Language's test set Evaluation #####
-            results, _ = total_canine_c_eval(
-                args=args,
-                eval_dataset = train_dataset["test"],
-                model=model,
-                device=device
-            )
-
-            logging.info("\n***** Train Language Test results *****")
-            f.write("***** Train Language Test results *****\n")
-            for key in sorted(results.keys()):
-                logging.info("\n  %s = %s", key, str(results[key]))
-                f.write(str(key) + ': ' + str(results[key]) + '\n')
-            f.close()
-
-    ##### Only Zero-shot Eval #####
-    if args.do_zero_predict:
-        if args.model_ckpt_path == None:
-            print("You should set model checkpoint path you want to evaluate")
-            raise NotImplementedError
-        else:
-            logging.info(f'Only Zero-shot evaluation of {args.model} starts!')
-            # model ckpt load #
-            model.load_state_dict(torch.load(args.model_ckpt_path))
-            model.eval()
-            f = open(args.task + '_zero_eval_log.txt', 'w')
-            ##### Zero-shot Language Validation set Evaluation #####
-            zero_shot_lang_list = ['korean', 'spanish', 'turkmen', 'maori', 'somali', 'uyghur', 'sinhala', 'quechua',
-                                   'assyrian', 'kashubian', 'ilocano', 'kyrgyz', 'kinyarwanda', 'esperanto', 'khmer',
-                                   'amharic', 'maltese', 'tajik', 'yoruba', 'marathi', 'javanese', 'urdu', 'malay',
-                                   'cebuano', 'croatian', 'malayalam', 'telugu', 'uzbek', 'punjabi',  'kurdish', 'sanskrit', 'interlingua', 'belarusian', 'oriya',
-								                                  'guarani', 'sindhi']
-
-            for lang in zero_shot_lang_list:
-                if args.model == 'bio_canine_ch':
-                    logging.info(f'Loading BIO CANINE ch {lang} Dataset')
-                    zeroshot_dataset = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset(lang, 'validation',
-                                                                                             args.max_seq_len)
-                elif args.model == 'bio_canine_epi':
-                    logging.info(f'Loading BIO CANINE epi {lang} Dataset')
-                    zeroshot_dataset = bio_canine_epi_whole_wikiann.BIOCanineEpiWikiAnnDataset(lang, 'validation',
-                                                                                                 args.max_seq_len)
-                else:
-                    print(f"{lang} of {args.model} is not in the language list")
-                    raise NotImplementedError
-
-                zeroshot_results, _ = total_canine_c_eval(
-                    args=args,
-                    eval_dataset=zeroshot_dataset,
-                    model=model,
-                    device=device
-                )
-
-                logging.info("***** " + lang + " Eval results *****")
-                f.write("\n***** " + lang + " Eval results *****\n")
-                f.write('F1 metric: ' + str(round(zeroshot_results['f1'], 4)) + '\n')
-                logging.info("F1 metric = %s", str(round(zeroshot_results['f1'], 4)))
-
-            f.close()
-
-    ##### Additional Zero-shot Eval #####
-    if args.do_additional_predict:
-        if args.model_ckpt_path == None:
-            print("You should set model checkpoint path you want to evaluate")
-            raise NotImplementedError
-        else:
-            logging.info(f'Only Zero-shot evaluation of {args.model} starts!')
-            # model ckpt load #
-            model.load_state_dict(torch.load(args.model_ckpt_path))
-            model.eval()
-            f = open(args.task + '_add_zero_eval_log.txt', 'w')
-            ##### Zero-shot Language Validation set Evaluation #####
-            zero_shot_lang_list = ['kyrgyz', 'oriya']
-
-            for lang in zero_shot_lang_list:
-                if args.model == 'bio_canine_ch':
-                    logging.info(f'Loading BIO CANINE ch {lang} Dataset')
-                    zeroshot_dataset = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset(lang, 'validation',
-                                                                                             args.max_seq_len)
-                elif args.model == 'bio_canine_epi':
-                    logging.info(f'Loading BIO CANINE epi {lang} Dataset')
-                    zeroshot_dataset = bio_canine_epi_whole_wikiann.BIOCanineEpiWikiAnnDataset(lang, 'validation',
-                                                                                                 args.max_seq_len)
-                else:
-                    print(f"{lang} of {args.model} is not in the language list")
-                    raise NotImplementedError
-
-                zeroshot_results, _ = total_canine_c_eval(
-                    args=args,
-                    eval_dataset=zeroshot_dataset,
-                    model=model,
-                    device=device
-                )
-
-                logging.info("***** " + lang + " Eval results *****")
-                f.write("\n***** " + lang + " Eval results *****\n")
-                f.write('F1 metric: ' + str(round(zeroshot_results['f1'], 4)) + '\n')
-                logging.info("F1 metric = %s", str(round(zeroshot_results['f1'], 4)))
-
-            f.close()
-
+	    
 if __name__ == "__main__":
     main(parse_args())
