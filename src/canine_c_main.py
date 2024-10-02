@@ -150,27 +150,18 @@ def main(args):
         else:
             print(f"{args.model} is not defined!")
 
-        ##### Zero-shot Test Dataset Loading #####
-        ########## BIO CANINE ch ##########
-        if args.model == 'bio_canine_ch':
-            ##### BIO ch WikiAnn Korean Dataset #####
-            logging.info('Loading BIO CANINE ch WikiAnn Korean Dataset')
-            validation_dataset = bio_canine_ch_whole_wikiann.BIOCanineChWikiAnnDataset('korean', 'validation', args.max_seq_len)
-        else:
-            print(f"{args.model} with {args.val_language} doesn't exist!")
-            raise NotImplementedError
-
         f = open(args.task + '_eval_log.txt', 'a')
         global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = canine_c_train(
             args=args,
-            conll_dataset = train_dataset,
-            kor_dataset  = validation_dataset,
+            english_dataset = train_dataset,
+            zeroshot_dataset  = train_dataset['test'],
             model=model,
             device=device,
             f=f
         )
         logging.info("global_step = %s, average training loss = %s", global_step, train_loss)
         logging.info("Best performance: Epoch=%d, Value=%s", best_val_epoch, best_val_metric)
+    
     ##### Zero-shot Eval #####
     if args.do_predict:
         model.load_state_dict(args.model_ckpt_path)
