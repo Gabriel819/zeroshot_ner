@@ -79,6 +79,11 @@ def parse_args():
         help="Do training & validation."
     )
     parser.add_argument(
+        "--do_predict",
+        action="store_true",
+        help="Do Zero-shot validation."
+    )
+    parser.add_argument(
         "--model_ckpt_path",
         type=str,
         default=None,
@@ -161,7 +166,7 @@ def main(args):
             raise NotImplementedError
 
         f = open(args.task + '_log.txt', 'a')
-        global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = total_bort_train(
+        global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = bort_train(
             args=args,
             conll_dataset = train_dataset,
             kor_dataset  = validation_dataset,
@@ -171,9 +176,10 @@ def main(args):
         )
         logging.info("global_step = %s, average training loss = %s", global_step, train_loss)
         logging.info("Best performance: Epoch=%d, Value=%s", best_val_epoch, best_val_metric)
-
-        # Zero-shot evaluation
-        model.load_state_dict(best_model_state_dict)
+    
+    ##### Zero-shot Validation #####
+    elif args.do_predict:
+        model.load_state_dict(args.model_ckpt_path)
         model.eval()
 
         zero_shot_lang_list = ['korean', 'spanish', 'turkmen', 'maori', 'somali', 'uyghur', 'sinhala', 'quechua',
