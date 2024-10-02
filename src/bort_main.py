@@ -130,7 +130,8 @@ def main(args):
         raise NotImplementedError
     model.to(device)
 
-    n_parameters = sum(p.numel() for p in model.parameters() if p.requires_grad)  # whole model param#
+    ##### whole model param #####
+    n_parameters = sum(p.numel() for p in model.parameters() if p.requires_grad)
     print('Whole model number of params:', n_parameters)
 
     ##### Train #####
@@ -140,36 +141,21 @@ def main(args):
         logging.info("* %s: %s", k, v)
     if args.do_train:
         ##### Train Dataset Loading #####
-        if args.model == 'bio_bort' and args.train_language == 'english':  # for now, just use eng wikiann for training
+        if args.model == 'bio_bort' and args.train_language == 'english':
             ##### BIO WikiAnn Epi English Dataset #####
             logging.info('Loading BIO BORT Epi WikiAnn English Dataset')
             train_dataset = {}
-            train_dataset['train'] = bio_bort_epi_whole_wikiann.BIOBORTEpiWikiAnnDataset('english', 'train',
-                                                                                                     args.max_seq_len)
-            train_dataset['validation'] = bio_bort_epi_whole_wikiann.BIOBORTEpiWikiAnnDataset('english',
-                                                                                                          'validation',
-                                                                                                          args.max_seq_len)
-            train_dataset['test'] = bio_bort_epi_whole_wikiann.BIOBORTEpiWikiAnnDataset('english', 'test',
-                                                                                                    args.max_seq_len)
+            train_dataset['train'] = bio_bort_epi_whole_wikiann.BIOBORTEpiWikiAnnDataset('english', 'train', args.max_seq_len)
+            train_dataset['validation'] = bio_bort_epi_whole_wikiann.BIOBORTEpiWikiAnnDataset('english', 'validation', args.max_seq_len)
+            train_dataset['test'] = bio_bort_epi_whole_wikiann.BIOBORTEpiWikiAnnDataset('english', 'test', args.max_seq_len)
         else:
             print(f"{args.train_language} is not defined!")
-
-        ##### Zero-shot Test Dataset Loading #####
-        ########## BIO BORT ch ##########
-        if args.model == 'bio_bort':
-            ##### BIO Epi WikiAnn Korean Dataset #####
-            logging.info('Loading BIO BORT Epi WikiAnn Korean Dataset')
-            validation_dataset = bio_bort_epi_whole_wikiann.BIOBORTEpiWikiAnnDataset('korean', 'validation',
-                                                                                                 args.max_seq_len)
-        else:
-            print(f"{args.model} with {args.val_language} doesn't exist!")
-            raise NotImplementedError
 
         f = open(args.task + '_log.txt', 'a')
         global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = bort_train(
             args=args,
-            conll_dataset = train_dataset,
-            kor_dataset  = validation_dataset,
+            english_dataset = train_dataset,
+            zeroshot_dataset  = train_dataset['test'],
             model=model,
             device=device,
             f=f
