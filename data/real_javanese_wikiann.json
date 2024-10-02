@@ -1,0 +1,10673 @@
+{
+	"id_mapping": {
+		"0": "O",
+		"1": "B-PER",
+		"2": "I-PER",
+		"3": "B-ORG",
+		"4": "I-ORG",
+		"5": "B-LOC",
+		"6": "I-LOC"
+	},
+	"validation": [
+		{
+			"tokens": [
+				"KE",
+				"-",
+				"Korean",
+				"Air"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ke",
+				"-",
+				"korean",
+				"ʔair"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"''Cipika-Cipiki",
+				"''",
+				"-",
+				"Trans7",
+				"(",
+				"2006-2007",
+				")",
+				","
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"''t͡ʃipika-t͡ʃipiki",
+				"''",
+				"-",
+				"trans7",
+				"(",
+				"2006-2007",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Shulato",
+				"(",
+				"Indosiar",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"shulato",
+				"(",
+				"ʔind̪̤osiar",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Leuwiliang",
+				",",
+				"Bogor"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"leuwiliaŋ",
+				",",
+				"b̤oɡ̤or"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Taman",
+				"Kadhaton",
+				"Osaka"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"taman",
+				"kaɖ̤aton",
+				"ʔosaka"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Rafael",
+				"Nadal",
+				"[1]",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"rafael",
+				"nad̪̤al",
+				"[1]",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kabeh",
+				"laguné",
+				"digawé",
+				"karo",
+				"Matthew",
+				"Bellamy"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"kab̤eh",
+				"laɡ̤uné",
+				"d̪̤iɡ̤awé",
+				"karo",
+				"matʈew",
+				"b̤ellamj"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Brzeziny",
+				",",
+				"Brzeziny"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"b̤rzeziɲ",
+				",",
+				"b̤rzeziɲ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"1930",
+				"-",
+				"Peringkat",
+				"ka-2",
+				"(",
+				"kalah",
+				"saka",
+				"Uruguay",
+				")"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"1930",
+				"-",
+				"periŋkat",
+				"ka-2",
+				"(",
+				"kalah",
+				"saka",
+				"ʔuruɡ̤uaj",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Serama",
+				"turunan",
+				"Malaysia",
+				"iku",
+				"isih",
+				"kagolong",
+				"anyar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"serama",
+				"turunan",
+				"malajsia",
+				"ʔiku",
+				"ʔisih",
+				"kaɡ̤oloŋ",
+				"ʔaɲar",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tim",
+				"nasional",
+				"pria",
+				"Walanda"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tim",
+				"nasional",
+				"pria",
+				"waland̪̤a"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Singapura",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"siŋapura",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Kanton",
+				"St.",
+				"Gallen"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"kanton",
+				"st.",
+				"ɡ̤allen"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Trango",
+				"Towers",
+				"(",
+				"6,350",
+				"m",
+				")",
+				",",
+				"Pakistan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"traŋo",
+				"towers",
+				"(",
+				"6,350",
+				"m",
+				")",
+				",",
+				"pakistan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"FC",
+				"Barcelona",
+				"(",
+				"kaping",
+				"4",
+				"jawara",
+				",",
+				"kaping",
+				"2",
+				"dadi",
+				"paringkat",
+				"kalara",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ft͡ʃ",
+				"b̤art͡ʃelona",
+				"(",
+				"kapiŋ",
+				"4",
+				"d͡ʒ̤awara",
+				",",
+				"kapiŋ",
+				"2",
+				"d̪̤ad̪̤i",
+				"pariŋkat",
+				"kalara",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Raihan",
+				"''",
+				"'",
+				"Kelompok",
+				"Nasyid",
+				"saka",
+				"Malaysia",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"raihan",
+				"''",
+				"'",
+				"kelompok",
+				"nasjid̪̤",
+				"saka",
+				"malajsia",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Tim",
+				"nasional",
+				"bal-balan",
+				"Portugal"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"tim",
+				"nasional",
+				"b̤al-b̤alan",
+				"portuɡ̤al"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"*0911",
+				"-",
+				"'",
+				"''",
+				"Ambon",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"*0911",
+				"-",
+				"'",
+				"''",
+				"ʔamb̤on",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Tim",
+				"nasional",
+				"bal-balan",
+				"Yunani"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"tim",
+				"nasional",
+				"b̤al-b̤alan",
+				"junani"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Diego",
+				"Armando",
+				"Maradona"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"d̪̤ieɡ̤o",
+				"ʔarmand̪̤o",
+				"marad̪̤ona"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Opera",
+				"Van",
+				"Java",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ʔopera",
+				"van",
+				"d͡ʒ̤ava",
+				"''"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sinopsis",
+				"''Rigoletto",
+				"''",
+				"dari",
+				"Metropolitan",
+				"Opera",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"sinopsis",
+				"''riɡ̤oletto",
+				"''",
+				"d̪̤ari",
+				"metropolitan",
+				"ʔopera",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Posisiné",
+				"iku",
+				"doble",
+				"center",
+				",",
+				"nembang",
+				"ing",
+				"nirwa",
+				"ngarep",
+				"kaliyan",
+				"Jurina",
+				"Matsui",
+				"saka",
+				"SKE48",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"posisiné",
+				"ʔiku",
+				"d̪̤ob̤le",
+				"t͡ʃenter",
+				",",
+				"nemb̤aŋ",
+				"ʔiŋ",
+				"nirwa",
+				"ŋarep",
+				"kalijan",
+				"d͡ʒ̤urina",
+				"matsui",
+				"saka",
+				"ske48",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Républik",
+				"Rakyat",
+				"Cina",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"répub̤lik",
+				"rakjat",
+				"t͡ʃina",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ana",
+				"ngisor",
+				"iki",
+				"rékapitulasining",
+				"pilihan",
+				"iki",
+				"sing",
+				"dibabar",
+				"Komisi",
+				"Pemilihan",
+				"Umum"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔana",
+				"ŋisor",
+				"ʔiki",
+				"rékapitulasiniŋ",
+				"pilihan",
+				"ʔiki",
+				"siŋ",
+				"d̪̤ib̤ab̤ar",
+				"komisi",
+				"pemilihan",
+				"ʔumum"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kopaonik",
+				"(",
+				"Pančićev",
+				"vrh",
+				"2,017",
+				"m",
+				")",
+				",",
+				"Serbia"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"kopaonik",
+				"(",
+				"pant͡ʃ̌it͡ʃ́ev",
+				"vrh",
+				"2,017",
+				"m",
+				")",
+				",",
+				"serb̤ia"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Mlebet",
+				"wonten",
+				"ing",
+				"musim",
+				"2003-2004",
+				"Ligue",
+				"1",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"mleb̤et",
+				"wonten",
+				"ʔiŋ",
+				"musim",
+				"2003-2004",
+				"liɡ̤ue",
+				"1",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dhaptar",
+				"pulo",
+				"ing",
+				"Segara",
+				"Aegea"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɖ̤aptar",
+				"pulo",
+				"ʔiŋ",
+				"seɡ̤ara",
+				"ʔaeɡ̤ea"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Yūko",
+				"Ōshima",
+				"(",
+				"大島",
+				"優子",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"jūko",
+				"ʔōshima",
+				"(",
+				"大島",
+				"優子",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Acèh",
+				"''",
+				"'",
+				"-",
+				"Qory",
+				"Sandioriva"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ʔat͡ʃèh",
+				"''",
+				"'",
+				"-",
+				"qorj",
+				"sand̪̤ioriva"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Napoli",
+				"(",
+				"1992-1995",
+				")"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"napoli",
+				"(",
+				"1992-1995",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ibu",
+				"kita",
+				"Kartini",
+				",",
+				"putri",
+				"sejati"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔib̤u",
+				"kita",
+				"kartini",
+				",",
+				"putri",
+				"sed͡ʒ̤ati"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kabupatèn",
+				"Timor",
+				"Tengah",
+				"Lor"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"kab̤upatèn",
+				"timor",
+				"teŋah",
+				"lor"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"1930",
+				"-",
+				"'",
+				"''",
+				"Juwara",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"1930",
+				"-",
+				"'",
+				"''",
+				"d͡ʒ̤uwara",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ananging",
+				"piyambakipun",
+				"gadhahi",
+				"réncang",
+				"anyar",
+				"inggih",
+				"punika",
+				",",
+				"Gipsy",
+				"(",
+				"Gillian",
+				"Chung",
+				")",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔanaŋiŋ",
+				"pijamb̤akipun",
+				"ɡ̤aɖ̤ahi",
+				"rént͡ʃaŋ",
+				"ʔaɲar",
+				"ʔiŋɡ̤ih",
+				"punika",
+				",",
+				"ɡ̤ipsj",
+				"(",
+				"ɡ̤illian",
+				"t͡ʃhuŋ",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Makedonia",
+				"Wétan",
+				"lan",
+				"Trasia",
+				"|"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"maked̪̤onia",
+				"wétan",
+				"lan",
+				"trasia",
+				"|"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"2002",
+				"-",
+				"'",
+				"''",
+				"Juwara",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"2002",
+				"-",
+				"'",
+				"''",
+				"d͡ʒ̤uwara",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"(",
+				"Anumerta",
+				")",
+				"Mas",
+				"Tirtodarmo",
+				"Harjono"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"(",
+				"ʔanumerta",
+				")",
+				"mas",
+				"tirtod̪̤armo",
+				"hard͡ʒ̤ono"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"``",
+				"Ponytail",
+				"to",
+				"Shushu",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"``",
+				"poɲtail",
+				"to",
+				"shushu",
+				"''"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Willem-Alexander",
+				"saking",
+				"Walandi"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"willem-aleksand̪̤er",
+				"sakiŋ",
+				"waland̪̤i"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Roti",
+				"iki",
+				"ora",
+				"digawe",
+				"saka",
+				"adonan",
+				"lan",
+				"ora",
+				"dipanggang",
+				"."
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"roti",
+				"ʔiki",
+				"ʔora",
+				"d̪̤iɡ̤awe",
+				"saka",
+				"ʔad̪̤onan",
+				"lan",
+				"ʔora",
+				"d̪̤ipaŋɡ̤aŋ",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Przemyśl",
+				",",
+				"Przemyśl"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"przemjʃl",
+				",",
+				"przemjʃl"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Mula",
+				"Duryudana",
+				"iya",
+				"banjur",
+				"tansah",
+				"mungsuhi",
+				"marang",
+				"para",
+				"Pandhawa"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"epi_tokens": [
+				"mula",
+				"d̪̤urjud̪̤ana",
+				"ʔija",
+				"b̤and͡ʒ̤ur",
+				"tansah",
+				"muŋsuhi",
+				"maraŋ",
+				"para",
+				"panɖ̤awa"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Ana",
+				"ngisor",
+				"iki",
+				"rékapitulasining",
+				"pilihan",
+				"iki",
+				"sing",
+				"dibabar",
+				"Komisi",
+				"Pemilihan",
+				"Umum"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔana",
+				"ŋisor",
+				"ʔiki",
+				"rékapitulasiniŋ",
+				"pilihan",
+				"ʔiki",
+				"siŋ",
+				"d̪̤ib̤ab̤ar",
+				"komisi",
+				"pemilihan",
+				"ʔumum"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Afrika",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ʔafrika",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Tim",
+				"nasional",
+				"bal-balan",
+				"Swédia"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"tim",
+				"nasional",
+				"b̤al-b̤alan",
+				"swéd̪̤ia"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dhèwèké",
+				"nggantèni",
+				"Uri",
+				"Lupolianski",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"ɖ̤èwèké",
+				"ŋɡ̤antèni",
+				"ʔuri",
+				"lupolianski",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"SQ",
+				"-",
+				"Singapore",
+				"Airlines"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"sq",
+				"-",
+				"siŋapore",
+				"ʔairlines"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"1930",
+				"-",
+				"Babak",
+				"1"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"1930",
+				"-",
+				"b̤ab̤ak",
+				"1"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kasor",
+				"P3",
+				"vs",
+				"Roger",
+				"Federer",
+				"[3]"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"kasor",
+				"p3",
+				"vs",
+				"roɡ̤er",
+				"fed̪̤erer",
+				"[3]"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Kebon",
+				"Botani",
+				"Aarhus"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"keb̤on",
+				"b̤otani",
+				"ʔaarhus"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dhèwèké",
+				"sawijining",
+				"sénator",
+				"Massachusetts",
+				"(",
+				"1967–1979",
+				")",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɖ̤èwèké",
+				"sawid͡ʒ̤iniŋ",
+				"sénator",
+				"massat͡ʃhusetts",
+				"(",
+				"1967–1979",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Joanne",
+				"Kathleen",
+				"Rowling"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"d͡ʒ̤oanne",
+				"kaʈleen",
+				"rowliŋ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ing",
+				"perjalanan",
+				"baliné",
+				"menyang",
+				"Wales",
+				",",
+				"panjenengané",
+				"ditahan",
+				"lan",
+				"bandané",
+				"disita",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔiŋ",
+				"perd͡ʒ̤alanan",
+				"b̤aliné",
+				"meɲaŋ",
+				"wales",
+				",",
+				"pand͡ʒ̤eneŋané",
+				"d̪̤itahan",
+				"lan",
+				"b̤and̪̤ané",
+				"d̪̤isita",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Badminton",
+				"ing",
+				"Olimpiade",
+				"2008"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"b̤ad̪̤minton",
+				"ʔiŋ",
+				"ʔolimpiad̪̤e",
+				"2008"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"1998",
+				"-",
+				"Babak",
+				"2"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"1998",
+				"-",
+				"b̤ab̤ak",
+				"2"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Tambora",
+				",",
+				"Jakarta",
+				"Kulon"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"tamb̤ora",
+				",",
+				"d͡ʒ̤akarta",
+				"kulon"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Kutno",
+				",",
+				"Kutno"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"kutno",
+				",",
+				"kutno"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Cengkarèng",
+				",",
+				"Jakarta",
+				"Kulon"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"t͡ʃeŋkarèŋ",
+				",",
+				"d͡ʒ̤akarta",
+				"kulon"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Hasan",
+				"di",
+				"Tiro"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"hasan",
+				"d̪̤i",
+				"tiro"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Christiaan",
+				"Snouck",
+				"Hurgronje"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"t͡ʃhristiaan",
+				"snout͡ʃk",
+				"hurɡ̤rond͡ʒ̤e"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Cik",
+				"Di",
+				"Tiro"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"t͡ʃik",
+				"d̪̤i",
+				"tiro"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"****",
+				"Wisent",
+				",",
+				"''Bison",
+				"bonasus",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"****",
+				"wisent",
+				",",
+				"''b̤ison",
+				"b̤onasus",
+				"''"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"JL",
+				"-",
+				"Japan",
+				"Airlines"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"d͡ʒ̤l",
+				"-",
+				"d͡ʒ̤apan",
+				"ʔairlines"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Miroslav",
+				"Klose",
+				"(",
+				"Jerman",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"miroslav",
+				"klose",
+				"(",
+				"d͡ʒ̤erman",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jean",
+				"Baptiste",
+				"Joseph",
+				"Fourier"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒ̤ean",
+				"b̤aptiste",
+				"d͡ʒ̤oseph",
+				"fourier"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Muséum",
+				"Nasional",
+				"Sejarah",
+				"Alam"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"muséum",
+				"nasional",
+				"sed͡ʒ̤arah",
+				"ʔalam"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Rafael",
+				"Nadal",
+				"[1]",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"rafael",
+				"nad̪̤al",
+				"[1]",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tim",
+				"nasional",
+				"bal-balan",
+				"Argentina"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tim",
+				"nasional",
+				"b̤al-b̤alan",
+				"ʔarɡ̤entina"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Lubuk",
+				"Linggau",
+				"41",
+				"UHF"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"lub̤uk",
+				"liŋɡ̤au",
+				"41",
+				"ʔuhf"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Aston",
+				"Villa",
+				"F.C",
+				"."
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔaston",
+				"villa",
+				"f.t͡ʃ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Aqaba",
+				"(",
+				"العقبة",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔaqab̤a",
+				"(",
+				"العقبة",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Penyerang",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"peɲeraŋ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jawa",
+				"Tengah",
+				"-",
+				"Semarang"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"d͡ʒ̤awa",
+				"teŋah",
+				"-",
+				"semaraŋ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Ingkang",
+				"mandhapaken",
+				"punika",
+				"déning",
+				"Zeus",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"ʔiŋkaŋ",
+				"manɖ̤apaken",
+				"punika",
+				"d̪̤éniŋ",
+				"zeus",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Inanwatan",
+				",",
+				"Sorong",
+				"Kidul"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔinanwatan",
+				",",
+				"soroŋ",
+				"kid̪̤ul"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Paus",
+				"Zacharias",
+				"--",
+				"--",
+				"YaYa"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"paus",
+				"zat͡ʃharias",
+				"--",
+				"--",
+				"jaja"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Makedonia",
+				"Wétan",
+				"lan",
+				"Trasia"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"maked̪̤onia",
+				"wétan",
+				"lan",
+				"trasia"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Żagań",
+				",",
+				"Żagań"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"żaɡ̤ań",
+				",",
+				"żaɡ̤ań"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Salahé",
+				"Koes",
+				"Ploes",
+				"nalika",
+				"iku",
+				"nyanyekaké",
+				"lagu-lagu",
+				"The",
+				"Beatles",
+				"sing",
+				"dianggep",
+				"ngracun",
+				"kawula",
+				"mudha",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"salahé",
+				"koes",
+				"ploes",
+				"nalika",
+				"ʔiku",
+				"ɲaɲekaké",
+				"laɡ̤u-laɡ̤u",
+				"ʈe",
+				"b̤eatles",
+				"siŋ",
+				"d̪̤iaŋɡ̤ep",
+				"ŋrat͡ʃun",
+				"kawula",
+				"muɖ̤a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Caribbean",
+				"Airlines",
+				"(",
+				"5",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t͡ʃarib̤b̤ean",
+				"ʔairlines",
+				"(",
+				"5",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kapuloan",
+				"Marshall",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kapuloan",
+				"marshall",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Chomsky",
+				",",
+				"Noam",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"t͡ʃhomskj",
+				",",
+				"noam",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Jābir",
+				"ibn",
+				"Hayyān"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"d͡ʒ̤āb̤ir",
+				"ʔib̤n",
+				"hajjān"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Runner-up",
+				"Piala",
+				"Donya",
+				"FIFA",
+				"2006"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"runner-up",
+				"piala",
+				"d̪̤oɲa",
+				"fifa",
+				"2006"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Soekarno",
+				"sing",
+				"didhampingi",
+				"déning",
+				"Drs",
+				"."
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"soekarno",
+				"siŋ",
+				"d̪̤iɖ̤ampiŋi",
+				"d̪̤éniŋ",
+				"d̪̤rs",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Organisasi",
+				"Internasional",
+				"kanggo",
+				"Standardisasi"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔorɡ̤anisasi",
+				"ʔinternasional",
+				"kaŋɡ̤o",
+				"stand̪̤ard̪̤isasi"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Institut",
+				"Tèknologi",
+				"Sepuluh",
+				"Nopèmber"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔinstitut",
+				"tèknoloɡ̤i",
+				"sepuluh",
+				"nopèmb̤er"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Kabupatèn",
+				"Bone",
+				"Bolango"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"kab̤upatèn",
+				"b̤one",
+				"b̤olaŋo"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Kreteg",
+				"Pont",
+				"Neuf"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"kreteɡ̤",
+				"pont",
+				"neuf"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Aruba",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ʔarub̤a",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Astrid",
+				"Ellena",
+				"Indriana",
+				"Yunadi"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔastrid̪̤",
+				"ʔellena",
+				"ʔind̪̤riana",
+				"junad̪̤i"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Dinten",
+				"Ulang",
+				"Taun",
+				"Garuda",
+				"Indonésia"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"d̪̤inten",
+				"ʔulaŋ",
+				"taun",
+				"ɡ̤arud̪̤a",
+				"ʔind̪̤onésia"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Situs",
+				"''go",
+				"to",
+				"[[Cayo]",
+				"Belize"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"situs",
+				"''ɡ̤o",
+				"to",
+				"[[t͡ʃajo]",
+				"b̤elize"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Sakwisé",
+				"iku",
+				"banjur",
+				"cuti",
+				"menyang",
+				"Éropah",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sakwisé",
+				"ʔiku",
+				"b̤and͡ʒ̤ur",
+				"t͡ʃuti",
+				"meɲaŋ",
+				"ʔéropah",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Piyambakipun",
+				"anggadhahi",
+				"garwa",
+				",",
+				"ingkang",
+				"asma",
+				"Dursala",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"pijamb̤akipun",
+				"ʔaŋɡ̤aɖ̤ahi",
+				"ɡ̤arwa",
+				",",
+				"ʔiŋkaŋ",
+				"ʔasma",
+				"d̪̤ursala",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Masjid",
+				"Agung",
+				"Jawa",
+				"Tengah"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"masd͡ʒ̤id̪̤",
+				"ʔaɡ̤uŋ",
+				"d͡ʒ̤awa",
+				"teŋah"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Rangers",
+				"F.C",
+				"."
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"raŋers",
+				"f.t͡ʃ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Masjid",
+				"Raya",
+				"Sabilal",
+				"Muhtadin"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"masd͡ʒ̤id̪̤",
+				"raja",
+				"sab̤ilal",
+				"muhtad̪̤in"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Leszno",
+				",",
+				"Leszno"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"leszno",
+				",",
+				"leszno"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		}
+	],
+	"test": [
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kutha",
+				"krajan",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kuʈa",
+				"krad͡ʒ̤an",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ana",
+				"ngisor",
+				"iki",
+				"rékapitulasining",
+				"pilihan",
+				"iki",
+				"sing",
+				"dibabar",
+				"Komisi",
+				"Pemilihan",
+				"Umum",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ʔana",
+				"ŋisor",
+				"ʔiki",
+				"rékapitulasiniŋ",
+				"pilihan",
+				"ʔiki",
+				"siŋ",
+				"d̪̤ib̤ab̤ar",
+				"komisi",
+				"pemilihan",
+				"ʔumum",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Stadion",
+				"Wembley",
+				",",
+				"London",
+				",",
+				"Inggris"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				5,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"stad̪̤ion",
+				"wemb̤lej",
+				",",
+				"lond̪̤on",
+				",",
+				"ʔiŋɡ̤ris"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				5,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Sunan",
+				"Muria",
+				"maringi",
+				"titah",
+				"marang",
+				"putrané",
+				"supaya",
+				"njaga",
+				"gerbang",
+				"iki",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sunan",
+				"muria",
+				"mariŋi",
+				"titah",
+				"maraŋ",
+				"putrané",
+				"supaja",
+				"nd͡ʒ̤aɡ̤a",
+				"ɡ̤erb̤aŋ",
+				"ʔiki",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Makedonia",
+				"Wétan",
+				"lan",
+				"Trasia",
+				"|"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"maked̪̤onia",
+				"wétan",
+				"lan",
+				"trasia",
+				"|"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Tuchola",
+				",",
+				"Tuchola"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"tut͡ʃhola",
+				",",
+				"tut͡ʃhola"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Wonten",
+				"ing",
+				"wekdal",
+				"ingkang",
+				"sami",
+				",",
+				"ananging",
+				"boten",
+				"sami",
+				"dipunmangertosi",
+				"déning",
+				"setunggal",
+				"tiyang",
+				"kaliyan",
+				"tiyang",
+				"sanèsipun",
+				",",
+				"pétangan",
+				"ingkang",
+				"sami",
+				"ugi",
+				"dipundamel",
+				"déning",
+				"Urbain",
+				"Le",
+				"Verrier",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"wonten",
+				"ʔiŋ",
+				"wekd̪̤al",
+				"ʔiŋkaŋ",
+				"sami",
+				",",
+				"ʔanaŋiŋ",
+				"b̤oten",
+				"sami",
+				"d̪̤ipunmaŋertosi",
+				"d̪̤éniŋ",
+				"setuŋɡ̤al",
+				"tijaŋ",
+				"kalijan",
+				"tijaŋ",
+				"sanèsipun",
+				",",
+				"pétaŋan",
+				"ʔiŋkaŋ",
+				"sami",
+				"ʔuɡ̤i",
+				"d̪̤ipund̪̤amel",
+				"d̪̤éniŋ",
+				"ʔurb̤ain",
+				"le",
+				"verrier",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dhaharan",
+				"punika",
+				"sampun",
+				"ngrembaka",
+				"ing",
+				"Indonésia",
+				"ngantos",
+				"dumugi",
+				"mancanegari",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɖ̤aharan",
+				"punika",
+				"sampun",
+				"ŋremb̤aka",
+				"ʔiŋ",
+				"ʔind̪̤onésia",
+				"ŋantos",
+				"d̪̤umuɡ̤i",
+				"mant͡ʃaneɡ̤ari",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"2006",
+				"-",
+				"Babak",
+				"2"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"2006",
+				"-",
+				"b̤ab̤ak",
+				"2"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Frederik",
+				"Willem",
+				"de",
+				"Klerk"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"fred̪̤erik",
+				"willem",
+				"d̪̤e",
+				"klerk"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Daniel",
+				"Potts",
+				"(",
+				"pemain",
+				"bal-balan",
+				")"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"d̪̤aniel",
+				"potts",
+				"(",
+				"pemain",
+				"b̤al-b̤alan",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"British",
+				"Airways",
+				"(",
+				"London-Heathrow",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b̤ritish",
+				"ʔairwajs",
+				"(",
+				"lond̪̤on-heaʈrow",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"***",
+				"Corfu",
+				"(",
+				"Kerkyra",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"***",
+				"t͡ʃorfu",
+				"(",
+				"kerkjra",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"David",
+				"Coulthard",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"d̪̤avid̪̤",
+				"t͡ʃoulʈard̪̤",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sapréne",
+				",",
+				"tim",
+				"iki",
+				"main",
+				"ana",
+				"ing",
+				"kompetisi",
+				"Seri",
+				"A",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"sapréne",
+				",",
+				"tim",
+				"ʔiki",
+				"main",
+				"ʔana",
+				"ʔiŋ",
+				"kompetisi",
+				"seri",
+				"ʔa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wonten",
+				"ing",
+				"laladan",
+				"sanès",
+				",",
+				"jarngan",
+				"France",
+				"Bleu",
+				"dipunginakaken",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"wonten",
+				"ʔiŋ",
+				"lalad̪̤an",
+				"sanès",
+				",",
+				"d͡ʒ̤arŋan",
+				"frant͡ʃe",
+				"b̤leu",
+				"d̪̤ipuŋinakaken",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Asosiasi",
+				"Bal-balan",
+				"Walanda"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔasosiasi",
+				"b̤al-b̤alan",
+				"waland̪̤a"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Radzyń",
+				"Podlaski",
+				",",
+				"Radzyń",
+				"Podlaski"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"powiat",
+				"rad̪̤zjń",
+				"pod̪̤laski",
+				",",
+				"rad̪̤zjń",
+				"pod̪̤laski"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Perhimpunan",
+				"Internasional",
+				"bab",
+				"Pangreksan",
+				"Alam"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"perhimpunan",
+				"ʔinternasional",
+				"b̤ab̤",
+				"paŋreksan",
+				"ʔalam"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kutha",
+				"krajan",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kuʈa",
+				"krad͡ʒ̤an",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dinten",
+				"tilar",
+				"donyanipun",
+				"punika",
+				"dipunpèngeti",
+				"minangka",
+				"dinten",
+				"riyayanipun",
+				"ingkang",
+				"dhawah",
+				"tanggal",
+				"19",
+				"Mei",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"d̪̤inten",
+				"tilar",
+				"d̪̤oɲanipun",
+				"punika",
+				"d̪̤ipunpèŋeti",
+				"minaŋka",
+				"d̪̤inten",
+				"rijajanipun",
+				"ʔiŋkaŋ",
+				"ɖ̤awah",
+				"taŋɡ̤al",
+				"19",
+				"mei",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"0811",
+				",",
+				"0812",
+				",",
+				"0813",
+				",",
+				"0852",
+				"-",
+				"Telkomsel"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"0811",
+				",",
+				"0812",
+				",",
+				"0813",
+				",",
+				"0852",
+				"-",
+				"telkomsel"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"''Indian",
+				"Mulberry",
+				"''",
+				"(",
+				"India",
+				")",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"''ind̪̤ian",
+				"mulb̤errj",
+				"''",
+				"(",
+				"ʔind̪̤ia",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ana",
+				"ngisor",
+				"iki",
+				"rékapitulasining",
+				"pilihan",
+				"iki",
+				"sing",
+				"dibabar",
+				"Komisi",
+				"Pemilihan",
+				"Umum",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ʔana",
+				"ŋisor",
+				"ʔiki",
+				"rékapitulasiniŋ",
+				"pilihan",
+				"ʔiki",
+				"siŋ",
+				"d̪̤ib̤ab̤ar",
+				"komisi",
+				"pemilihan",
+				"ʔumum",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Britania",
+				"Raya",
+				"(",
+				"Inggris",
+				",",
+				"Wales",
+				",",
+				"Skotlandia",
+				"&",
+				"Irlandia",
+				"Lor",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"b̤ritania",
+				"raja",
+				"(",
+				"ʔiŋɡ̤ris",
+				",",
+				"wales",
+				",",
+				"skotland̪̤ia",
+				"&",
+				"ʔirland̪̤ia",
+				"lor",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Kabupatèn",
+				"Kapuloan",
+				"Sula"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"kab̤upatèn",
+				"kapuloan",
+				"sula"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Panjenengané",
+				"naté",
+				"main",
+				"kanggo",
+				"FC",
+				"Barcelona",
+				"lan",
+				"Tottenham",
+				"Hotspur",
+				"F.C",
+				".",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"pand͡ʒ̤eneŋané",
+				"naté",
+				"main",
+				"kaŋɡ̤o",
+				"ft͡ʃ",
+				"b̤art͡ʃelona",
+				"lan",
+				"tottenham",
+				"hotspur",
+				"f.t͡ʃ",
+				".",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Senadyan",
+				"pungkasanipun",
+				"Putra",
+				"Nababan",
+				"ingkang",
+				"mimpang",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"senad̪̤jan",
+				"puŋkasanipun",
+				"putra",
+				"nab̤ab̤an",
+				"ʔiŋkaŋ",
+				"mimpaŋ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Saddam",
+				"Hussein",
+				",",
+				"Irak"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"sad̪̤d̪̤am",
+				"hussein",
+				",",
+				"ʔirak"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Petra",
+				"Kvitová",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"petra",
+				"kvitová",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Cantona",
+				"nalika",
+				"iku",
+				"ditawani",
+				"pindhah",
+				"ing",
+				"Inter",
+				"Milan",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"t͡ʃantona",
+				"nalika",
+				"ʔiku",
+				"d̪̤itawani",
+				"pinɖ̤ah",
+				"ʔiŋ",
+				"ʔinter",
+				"milan",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Dewan",
+				"Perwakilan",
+				"Daerah"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"d̪̤ewan",
+				"perwakilan",
+				"d̪̤aerah"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Maria",
+				"Sharapova",
+				"[7]",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"maria",
+				"sharapova",
+				"[7]",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Keluar",
+				"Dalan",
+				"Tol",
+				"Jagorawi",
+				"''",
+				"'Lor",
+				"''",
+				"'Cawang",
+				"''",
+				"'Kidul",
+				"''",
+				"'CibuburBogor"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"keluar",
+				"d̪̤alan",
+				"tol",
+				"d͡ʒ̤aɡ̤orawi",
+				"''",
+				"'lor",
+				"''",
+				"'t͡ʃawaŋ",
+				"''",
+				"'kid̪̤ul",
+				"''",
+				"'t͡ʃib̤ub̤urb̤oɡ̤or"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Lazio",
+				"(",
+				"1999–2001",
+				")"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"lazio",
+				"(",
+				"1999–2001",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kupang",
+				"-",
+				"44",
+				"UHF"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kupaŋ",
+				"-",
+				"44",
+				"ʔuhf"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Augustinus",
+				"saka",
+				"Hippo"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔauɡ̤ustinus",
+				"saka",
+				"hippo"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ana",
+				"ngisor",
+				"iki",
+				"rékapitulasining",
+				"pilihan",
+				"iki",
+				"sing",
+				"dibabar",
+				"Komisi",
+				"Pemilihan",
+				"Umum"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔana",
+				"ŋisor",
+				"ʔiki",
+				"rékapitulasiniŋ",
+				"pilihan",
+				"ʔiki",
+				"siŋ",
+				"d̪̤ib̤ab̤ar",
+				"komisi",
+				"pemilihan",
+				"ʔumum"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kapten",
+				"CZI",
+				"(",
+				"Anumerta",
+				")",
+				"Pierre",
+				"Tendean"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"kapten",
+				"t͡ʃzi",
+				"(",
+				"ʔanumerta",
+				")",
+				"pierre",
+				"tend̪̤ean"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Kutha",
+				"Banda",
+				"Acèh"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"kuʈa",
+				"b̤and̪̤a",
+				"ʔat͡ʃèh"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Lublin",
+				",",
+				"Lublin"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"lub̤lin",
+				",",
+				"lub̤lin"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Who",
+				"Wants",
+				"to",
+				"be",
+				"a",
+				"Millionaire",
+				"?"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"who",
+				"wants",
+				"to",
+				"b̤e",
+				"ʔa",
+				"millionaire",
+				"?"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Anak",
+				"iku",
+				"diparingi",
+				"jeneng",
+				"Karna",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"ʔanak",
+				"ʔiku",
+				"d̪̤ipariŋi",
+				"d͡ʒ̤eneŋ",
+				"karna",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"border]]",
+				"Louisiana",
+				"''",
+				"'1",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b̤ord̪̤er]]",
+				"louisiana",
+				"''",
+				"'1",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Pangandaran",
+				",",
+				"Pangandaran"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				5
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"paŋand̪̤aran",
+				",",
+				"paŋand̪̤aran"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Kabupatèn",
+				"Administrasi",
+				"Kapuloan",
+				"Seribu"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"kab̤upatèn",
+				"ʔad̪̤ministrasi",
+				"kapuloan",
+				"serib̤u"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Siomai",
+				"asalé",
+				"saka",
+				"Mongolia",
+				"dalam",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"siomai",
+				"ʔasalé",
+				"saka",
+				"moŋolia",
+				"d̪̤alam",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Georgia",
+				"(",
+				"negara",
+				"bagéan",
+				"Amérika",
+				"Sarékat",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ɡ̤eorɡ̤ia",
+				"(",
+				"neɡ̤ara",
+				"b̤aɡ̤éan",
+				"ʔamérika",
+				"sarékat",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Gunggung",
+				"ingkang",
+				"wonten",
+				"ing",
+				"''",
+				"Catalogue",
+				"of",
+				"Scientific",
+				"Papers",
+				"''",
+				"saking",
+				"Royal",
+				"Society",
+				"punika",
+				"ping",
+				"sekawan",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ̤uŋɡ̤uŋ",
+				"ʔiŋkaŋ",
+				"wonten",
+				"ʔiŋ",
+				"''",
+				"t͡ʃataloɡ̤ue",
+				"ʔof",
+				"st͡ʃientifit͡ʃ",
+				"papers",
+				"''",
+				"sakiŋ",
+				"rojal",
+				"sot͡ʃietj",
+				"punika",
+				"piŋ",
+				"sekawan",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Apa",
+				"Bisa",
+				"-",
+				"Kotak"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"ʔapa",
+				"b̤isa",
+				"-",
+				"kotak"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Fenerbahçe",
+				"S.K",
+				"."
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"fenerb̤aht͡ʃ̧e",
+				"s.k",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kabupatèn",
+				"Nunukan",
+				",",
+				"Kalimantan",
+				"Wétan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"kab̤upatèn",
+				"nunukan",
+				",",
+				"kalimantan",
+				"wétan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"''Baper",
+				"''",
+				"-",
+				"(",
+				"RCTI",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"''b̤aper",
+				"''",
+				"-",
+				"(",
+				"rt͡ʃti",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Klinika",
+				"''Famila",
+				"''",
+				"impor",
+				"saka",
+				"SCTV"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"klinika",
+				"''famila",
+				"''",
+				"ʔimpor",
+				"saka",
+				"st͡ʃtv"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Dhaptar",
+				"présidhèn",
+				"Kosovo"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ɖ̤aptar",
+				"présiɖ̤èn",
+				"kosovo"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Ellen",
+				"Johnson",
+				"Sirleaf"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔellen",
+				"d͡ʒ̤ohnson",
+				"sirleaf"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Przysucha",
+				",",
+				"Przysucha"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"przjsut͡ʃha",
+				",",
+				"przjsut͡ʃha"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Boeing",
+				"nalika",
+				"jaman",
+				"semana",
+				"bisa",
+				"dianggep",
+				"kalah",
+				"saka",
+				"pesaing-pesaingé",
+				"ana",
+				"ing",
+				"babagan",
+				"gawé",
+				"pesawat",
+				"let",
+				"cedhak",
+				"."
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b̤oeiŋ",
+				"nalika",
+				"d͡ʒ̤aman",
+				"semana",
+				"b̤isa",
+				"d̪̤iaŋɡ̤ep",
+				"kalah",
+				"saka",
+				"pesaiŋ-pesaiŋé",
+				"ʔana",
+				"ʔiŋ",
+				"b̤ab̤aɡ̤an",
+				"ɡ̤awé",
+				"pesawat",
+				"let",
+				"t͡ʃeɖ̤ak",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ulil",
+				"asalipun",
+				"saking",
+				"kulawarga",
+				"Nahdlatul",
+				"Ulama",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ʔulil",
+				"ʔasalipun",
+				"sakiŋ",
+				"kulawarɡ̤a",
+				"nahd̪̤latul",
+				"ʔulama",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Grudziądz",
+				",",
+				"Grudziądz"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"ɡ̤rud̪̤ziąd̪̤z",
+				",",
+				"ɡ̤rud̪̤ziąd̪̤z"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"89.810",
+				"km²",
+				"--",
+				"Kroasia"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"89.810",
+				"km²",
+				"--",
+				"kroasia"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Elizabeth",
+				"II",
+				"saking",
+				"Britania",
+				"Raya"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔelizab̤eʈ",
+				"ʔii",
+				"sakiŋ",
+				"b̤ritania",
+				"raja"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Giovanni",
+				"van",
+				"Bronckhorst"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ɡ̤iovanni",
+				"van",
+				"b̤ront͡ʃkhorst"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Adinia",
+				"Wirasti",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ʔad̪̤inia",
+				"wirasti",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Spontan",
+				"ditayangake",
+				"ing",
+				"SCTV"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"spontan",
+				"d̪̤itajaŋake",
+				"ʔiŋ",
+				"st͡ʃtv"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Wonten",
+				"negari",
+				"Éropah",
+				"wonten",
+				"tradhisi",
+				"kangge",
+				"ngrayakaken",
+				"musim-musim",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"wonten",
+				"neɡ̤ari",
+				"ʔéropah",
+				"wonten",
+				"traɖ̤isi",
+				"kaŋɡ̤e",
+				"ŋrajakaken",
+				"musim-musim",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Panegasan",
+				"kenabian",
+				"Muhammad",
+				"s.a.w",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"paneɡ̤asan",
+				"kenab̤ian",
+				"muhammad̪̤",
+				"s.a.w",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ana",
+				"ngisor",
+				"iki",
+				"rékapitulasining",
+				"pilihan",
+				"iki",
+				"sing",
+				"dibabar",
+				"Komisi",
+				"Pemilihan",
+				"Umum"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔana",
+				"ŋisor",
+				"ʔiki",
+				"rékapitulasiniŋ",
+				"pilihan",
+				"ʔiki",
+				"siŋ",
+				"d̪̤ib̤ab̤ar",
+				"komisi",
+				"pemilihan",
+				"ʔumum"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Ciechanów",
+				",",
+				"Ciechanów"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"t͡ʃiet͡ʃhanów",
+				",",
+				"t͡ʃiet͡ʃhanów"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Kabupatèn",
+				"Acèh",
+				"Kidul-wétan"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"kab̤upatèn",
+				"ʔat͡ʃèh",
+				"kid̪̤ul-wétan"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Czech",
+				"Airlines",
+				"(",
+				"4",
+				")",
+				"(",
+				"4",
+				"ATR72-202",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t͡ʃzet͡ʃh",
+				"ʔairlines",
+				"(",
+				"4",
+				")",
+				"(",
+				"4",
+				"ʔatr72-202",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Makedonia",
+				"Wétan",
+				"lan",
+				"Trasia",
+				"|"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"maked̪̤onia",
+				"wétan",
+				"lan",
+				"trasia",
+				"|"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Skallelv",
+				"(",
+				")",
+				"(",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"skallelv",
+				"(",
+				")",
+				"(",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kanada",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kanad̪̤a",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Salah",
+				"sijiné",
+				"tim",
+				"saka",
+				"Oxford",
+				"nemokaké",
+				"metode",
+				"produksi",
+				"massal",
+				"penisilin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"salah",
+				"sid͡ʒ̤iné",
+				"tim",
+				"saka",
+				"ʔoksford̪̤",
+				"nemokaké",
+				"metod̪̤e",
+				"prod̪̤uksi",
+				"massal",
+				"penisilin",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Pete",
+				"Sampras",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"pete",
+				"sampras",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Taman",
+				"Nasional",
+				"Bukit",
+				"Barisan",
+				"Selatan"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"taman",
+				"nasional",
+				"b̤ukit",
+				"b̤arisan",
+				"selatan"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Sawisé",
+				"iku",
+				"dhéwéké",
+				"lagi",
+				"pindhah",
+				"menyang",
+				"Jakarta",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"sawisé",
+				"ʔiku",
+				"ɖ̤éwéké",
+				"laɡ̤i",
+				"pinɖ̤ah",
+				"meɲaŋ",
+				"d͡ʒ̤akarta",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kalimantan",
+				"Kidul",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kalimantan",
+				"kid̪̤ul",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Déwan",
+				"Internasional",
+				"bab",
+				"Monumèn",
+				"lan",
+				"Situs"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"d̪̤éwan",
+				"ʔinternasional",
+				"b̤ab̤",
+				"monumèn",
+				"lan",
+				"situs"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Pramoedya",
+				"Ananta",
+				"Toer"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"pramoed̪̤ja",
+				"ʔananta",
+				"toer"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Piyambakipun",
+				"kagantosaken",
+				"dèning",
+				"wakil",
+				"presidenipun",
+				",",
+				"Gloria",
+				"Macapagal-Arroyo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"pijamb̤akipun",
+				"kaɡ̤antosaken",
+				"d̪̤èniŋ",
+				"wakil",
+				"presid̪̤enipun",
+				",",
+				"ɡ̤loria",
+				"mat͡ʃapaɡ̤al-arrojo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Iker",
+				"Casillas",
+				"(",
+				"Spanyol",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ʔiker",
+				"t͡ʃasillas",
+				"(",
+				"spaɲol",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Portugal",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"portuɡ̤al",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Cut",
+				"Nyak",
+				"Dhien"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"t͡ʃut",
+				"ɲak",
+				"ɖ̤ien"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Taman",
+				"Nasional",
+				"Gunung",
+				"Palung"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"taman",
+				"nasional",
+				"ɡ̤unuŋ",
+				"paluŋ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Opera",
+				"Van",
+				"Java",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ʔopera",
+				"van",
+				"d͡ʒ̤ava",
+				"''"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sanajan",
+				"mrihatenake",
+				",",
+				"populasi",
+				"anoa",
+				"bisa",
+				"ditemokake",
+				"ing",
+				"Taman",
+				"Nasional",
+				"Bogani",
+				"Nani",
+				"Wartabone",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"sanad͡ʒ̤an",
+				"mrihatenake",
+				",",
+				"populasi",
+				"ʔanoa",
+				"b̤isa",
+				"d̪̤itemokake",
+				"ʔiŋ",
+				"taman",
+				"nasional",
+				"b̤oɡ̤ani",
+				"nani",
+				"wartab̤one",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Kutha",
+				"Administrasi",
+				"Jakarta",
+				"Lor"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"kuʈa",
+				"ʔad̪̤ministrasi",
+				"d͡ʒ̤akarta",
+				"lor"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"GB",
+				"Britania",
+				"Raya",
+				"(",
+				"arang",
+				"banget",
+				",",
+				"umumé",
+				".uk",
+				"kang",
+				"dianggo",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ̤b̤",
+				"b̤ritania",
+				"raja",
+				"(",
+				"ʔaraŋ",
+				"b̤aŋet",
+				",",
+				"ʔumumé",
+				".uk",
+				"kaŋ",
+				"d̪̤iaŋɡ̤o",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Riccardo",
+				"Giacconi",
+				"''Italia",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"rit͡ʃt͡ʃard̪̤o",
+				"ɡ̤iat͡ʃt͡ʃoni",
+				"''italia",
+				"''"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Capelle",
+				"aan",
+				"den",
+				"IJssel"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"t͡ʃapelle",
+				"ʔaan",
+				"d̪̤en",
+				"ʔid͡ʒ̤ssel"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Ernest",
+				"Douwes",
+				"Dekker"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔernest",
+				"d̪̤ouwes",
+				"d̪̤ekker"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"(",
+				"dhèfinisi",
+				"''idéologi",
+				"''",
+				"Marxisme",
+				")",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"(",
+				"ɖ̤èfinisi",
+				"''id̪̤éoloɡ̤i",
+				"''",
+				"marksisme",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Japan",
+				"Airlines",
+				"(",
+				"Nagoya-Centrair",
+				",",
+				"Tokyo-Narita",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d͡ʒ̤apan",
+				"ʔairlines",
+				"(",
+				"naɡ̤oja-t͡ʃentrair",
+				",",
+				"tokjo-narita",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fans",
+				"Beby",
+				"Chaesara",
+				"Anadila",
+				"Twitter"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"fans",
+				"b̤eb̤j",
+				"t͡ʃhaesara",
+				"ʔanad̪̤ila",
+				"twitter"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Bima",
+				"Sakti",
+				"Tukiman"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"b̤ima",
+				"sakti",
+				"tukiman"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"''**",
+				"Sawisé",
+				"Uni",
+				"Sovyèt",
+				"bubar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"''**",
+				"sawisé",
+				"ʔuni",
+				"sovjèt",
+				"b̤ub̤ar",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Robert",
+				"Hall",
+				"(",
+				"pemain",
+				"bal-balan",
+				")"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"rob̤ert",
+				"hall",
+				"(",
+				"pemain",
+				"b̤al-b̤alan",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Siprus",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"siprus",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		}
+	],
+	"train": [
+		{
+			"tokens": [
+				"Dhèwèké",
+				"dikanonisasi",
+				"déning",
+				"Paus",
+				"Nikolas",
+				"I",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"ɖ̤èwèké",
+				"d̪̤ikanonisasi",
+				"d̪̤éniŋ",
+				"paus",
+				"nikolas",
+				"ʔi",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"kang",
+				"dikomandani",
+				"déning",
+				"Ahmad",
+				"Dhani",
+				",",
+				"sawisé",
+				"vokalis",
+				"sadurungé",
+				"ya",
+				"iku",
+				"amarga",
+				"Ari",
+				"Lasso",
+				"ditokaké",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kaŋ",
+				"d̪̤ikomand̪̤ani",
+				"d̪̤éniŋ",
+				"ʔahmad̪̤",
+				"ɖ̤ani",
+				",",
+				"sawisé",
+				"vokalis",
+				"sad̪̤uruŋé",
+				"ja",
+				"ʔiku",
+				"ʔamarɡ̤a",
+				"ʔari",
+				"lasso",
+				"d̪̤itokaké",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Miturut",
+				"Homeros",
+				",",
+				"Sisifos",
+				"punika",
+				"tiyang",
+				"ingkang",
+				"licik",
+				"sanget",
+				"."
+			],
+			"ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"miturut",
+				"homeros",
+				",",
+				"sisifos",
+				"punika",
+				"tijaŋ",
+				"ʔiŋkaŋ",
+				"lit͡ʃik",
+				"saŋet",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Vereenigde",
+				"Oostindische",
+				"Compagnie"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"vereeniɡ̤d̪̤e",
+				"ʔoostind̪̤ist͡ʃhe",
+				"t͡ʃompaɡ̤nie"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Rusia",
+				"дд",
+				"/",
+				"мм",
+				"/",
+				"гггг",
+				"(",
+				"день",
+				"/",
+				"месяц",
+				"/",
+				"год",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"rusia",
+				"дд",
+				"/",
+				"мм",
+				"/",
+				"гггг",
+				"(",
+				"день",
+				"/",
+				"месяц",
+				"/",
+				"год",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Martin",
+				"Luther",
+				"King",
+				",",
+				"Jr",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"martin",
+				"luʈer",
+				"kiŋ",
+				",",
+				"d͡ʒ̤r",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Banjur",
+				"rekor",
+				"iku",
+				"direbut",
+				"déning",
+				"Thierry",
+				"Henry",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"b̤and͡ʒ̤ur",
+				"rekor",
+				"ʔiku",
+				"d̪̤ireb̤ut",
+				"d̪̤éniŋ",
+				"ʈierrj",
+				"henrj",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dhèwèké",
+				"salah",
+				"sawijining",
+				"anggota",
+				"saka",
+				"Super",
+				"Junior",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ɖ̤èwèké",
+				"salah",
+				"sawid͡ʒ̤iniŋ",
+				"ʔaŋɡ̤ota",
+				"saka",
+				"super",
+				"d͡ʒ̤unior",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Paus",
+				"Pius",
+				"X",
+				"--",
+				"--",
+				"--",
+				"Ya"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"paus",
+				"pius",
+				"ks",
+				"--",
+				"--",
+				"--",
+				"ja"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dhèwèké",
+				"misuwur",
+				"minangka",
+				"panyithak",
+				"gol",
+				"kapisan",
+				"Euro",
+				"2008",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ɖ̤èwèké",
+				"misuwur",
+				"minaŋka",
+				"paɲiʈak",
+				"ɡ̤ol",
+				"kapisan",
+				"ʔeuro",
+				"2008",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ali",
+				"bin",
+				"Abi",
+				"Tholib"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔali",
+				"b̤in",
+				"ʔab̤i",
+				"ʈolib̤"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kuwait",
+				"-",
+				"Kuwait",
+				"City"
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"kuwait",
+				"-",
+				"kuwait",
+				"t͡ʃitj"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Kabupatèn",
+				"Alor",
+				",",
+				"Nusa",
+				"Tenggara",
+				"Wétan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"kab̤upatèn",
+				"ʔalor",
+				",",
+				"nusa",
+				"teŋɡ̤ara",
+				"wétan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Naté",
+				"lelana",
+				"dhateng",
+				"Amsterdam",
+				"lan",
+				"Paris",
+				"(",
+				"1950-1952",
+				")",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"naté",
+				"lelana",
+				"ɖ̤ateŋ",
+				"ʔamsterd̪̤am",
+				"lan",
+				"paris",
+				"(",
+				"1950-1952",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Star",
+				"Trek",
+				":",
+				"The",
+				"Original",
+				"Series"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"star",
+				"trek",
+				":",
+				"ʈe",
+				"ʔoriɡ̤inal",
+				"series"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Brasil",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"b̤rasil",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Batuceper",
+				",",
+				"Tangerang"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"b̤atut͡ʃeper",
+				",",
+				"taŋeraŋ"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Kamerun",
+				"(",
+				"5",
+				"%",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kamerun",
+				"(",
+				"5",
+				"%",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Roger",
+				"Federer",
+				"[3]",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"roɡ̤er",
+				"fed̪̤erer",
+				"[3]",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dhaptar",
+				"Taman",
+				"Nasional",
+				"ing",
+				"Indonésia"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɖ̤aptar",
+				"taman",
+				"nasional",
+				"ʔiŋ",
+				"ʔind̪̤onésia"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ronaldo",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ronald̪̤o",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Laos",
+				"(",
+				"negara",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"laos",
+				"(",
+				"neɡ̤ara",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Jawa",
+				"Wétan",
+				"-",
+				"Surabaya"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"d͡ʒ̤awa",
+				"wétan",
+				"-",
+				"surab̤aja"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Victoria",
+				"saking",
+				"Britania",
+				"Raya"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"vit͡ʃtoria",
+				"sakiŋ",
+				"b̤ritania",
+				"raja"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Louis",
+				"Armstrong",
+				",",
+				"(",
+				"1901-1971",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"louis",
+				"ʔarmstroŋ",
+				",",
+				"(",
+				"1901-1971",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Taman",
+				"Impian",
+				"Jaya",
+				"Ancol"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"taman",
+				"ʔimpian",
+				"d͡ʒ̤aja",
+				"ʔant͡ʃol"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Libanon",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"lib̤anon",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hong",
+				"Kong",
+				"(",
+				"in",
+				"English",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"hoŋ",
+				"koŋ",
+				"(",
+				"ʔin",
+				"ʔeŋlish",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Universitas",
+				"Diponegoro",
+				"(",
+				"UNDIP",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔuniversitas",
+				"d̪̤iponeɡ̤oro",
+				"(",
+				"ʔund̪̤ip",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Maria",
+				"Sharapova",
+				"[5]",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"maria",
+				"sharapova",
+				"[5]",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Punika",
+				"ugi",
+				"langkung",
+				"amargi",
+				"kabegjan",
+				",",
+				"amargi",
+				"Michael",
+				"Schumacher",
+				"ingkang",
+				"nalika",
+				"punika",
+				"saweg",
+				"mimpin",
+				"balapan",
+				",",
+				"ngalami",
+				"perkawis",
+				"transmisi",
+				"wonten",
+				"ing",
+				"lap",
+				"ingkang",
+				"pungkasan",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"punika",
+				"ʔuɡ̤i",
+				"laŋkuŋ",
+				"ʔamarɡ̤i",
+				"kab̤eɡ̤d͡ʒ̤an",
+				",",
+				"ʔamarɡ̤i",
+				"mit͡ʃhael",
+				"st͡ʃhumat͡ʃher",
+				"ʔiŋkaŋ",
+				"nalika",
+				"punika",
+				"saweɡ̤",
+				"mimpin",
+				"b̤alapan",
+				",",
+				"ŋalami",
+				"perkawis",
+				"transmisi",
+				"wonten",
+				"ʔiŋ",
+				"lap",
+				"ʔiŋkaŋ",
+				"puŋkasan",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Usmar",
+				"Ismail",
+				",",
+				"sutradhara"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔusmar",
+				"ʔismail",
+				",",
+				"sutraɖ̤ara"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Honda",
+				"-",
+				"namung",
+				"lumampah",
+				"ing",
+				"Jepang",
+				"."
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"hond̪̤a",
+				"-",
+				"namuŋ",
+				"lumampah",
+				"ʔiŋ",
+				"d͡ʒ̤epaŋ",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Garuda",
+				"Indonésia",
+				"(",
+				"Jakarta",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ɡ̤arud̪̤a",
+				"ʔind̪̤onésia",
+				"(",
+				"d͡ʒ̤akarta",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Turki",
+				"(",
+				"laladan",
+				"Anatolia",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"turki",
+				"(",
+				"lalad̪̤an",
+				"ʔanatolia",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"2006",
+				"-",
+				"''Ora",
+				"lolos",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"2006",
+				"-",
+				"''ora",
+				"lolos",
+				"''"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sapardi",
+				"Djoko",
+				"Damono",
+				"(",
+				"Anggota",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sapard̪̤i",
+				"d̪̤d͡ʒ̤oko",
+				"d̪̤amono",
+				"(",
+				"ʔaŋɡ̤ota",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Tim",
+				"nasional",
+				"bal-balan",
+				"Spanyol"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"tim",
+				"nasional",
+				"b̤al-b̤alan",
+				"spaɲol"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Korean",
+				"Air",
+				"(",
+				"Seoul-Incheon",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"korean",
+				"ʔair",
+				"(",
+				"seoul-int͡ʃheon",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Kodhe",
+				"maskapai",
+				"pamaburan",
+				"IATA"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"koɖ̤e",
+				"maskapai",
+				"pamab̤uran",
+				"ʔiata"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Tiyang",
+				"kekalih",
+				"punika",
+				"mendhet",
+				"ulam",
+				"ingkang",
+				"mawarni-warni",
+				"kondur",
+				"dhateng",
+				"Éropah",
+				"kelebet",
+				"''Incisus",
+				"Glossolepis",
+				"''",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tijaŋ",
+				"kekalih",
+				"punika",
+				"menɖ̤et",
+				"ʔulam",
+				"ʔiŋkaŋ",
+				"mawarni-warni",
+				"kond̪̤ur",
+				"ɖ̤ateŋ",
+				"ʔéropah",
+				"keleb̤et",
+				"''int͡ʃisus",
+				"ɡ̤lossolepis",
+				"''",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"49.035",
+				"km²",
+				"--",
+				"Slowakia"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"49.035",
+				"km²",
+				"--",
+				"slowakia"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Rafael",
+				"Nadal",
+				"[1]",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"rafael",
+				"nad̪̤al",
+				"[1]",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Robert",
+				"Kubica",
+				"(",
+				"2010-",
+				"...",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"rob̤ert",
+				"kub̤it͡ʃa",
+				"(",
+				"2010-",
+				"...",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Repertoar",
+				"iki",
+				"arupa",
+				"daur",
+				"ulang",
+				"saka",
+				"répertoar",
+				"berjudul",
+				"padha",
+				"kang",
+				"pernah",
+				"ditotonaké",
+				"déning",
+				"Tim",
+				"S",
+				"SKE48",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"repertoar",
+				"ʔiki",
+				"ʔarupa",
+				"d̪̤aur",
+				"ʔulaŋ",
+				"saka",
+				"répertoar",
+				"b̤erd͡ʒ̤ud̪̤ul",
+				"paɖ̤a",
+				"kaŋ",
+				"pernah",
+				"d̪̤itotonaké",
+				"d̪̤éniŋ",
+				"tim",
+				"s",
+				"ske48",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Luís",
+				"Figo",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"luís",
+				"fiɡ̤o",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Garis",
+				"Bar",
+				"Lev"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ɡ̤aris",
+				"b̤ar",
+				"lev"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Ali",
+				"bin",
+				"Abi",
+				"Tholib"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔali",
+				"b̤in",
+				"ʔab̤i",
+				"ʈolib̤"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Jawa",
+				"/",
+				"bagéan",
+				"saking",
+				"Indonésia"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"d͡ʒ̤awa",
+				"/",
+				"b̤aɡ̤éan",
+				"sakiŋ",
+				"ʔind̪̤onésia"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ronaldo",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ronald̪̤o",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"0255",
+				"-",
+				"Sebagian",
+				"Kabupatèn",
+				"Cianjur"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"0255",
+				"-",
+				"seb̤aɡ̤ian",
+				"kab̤upatèn",
+				"t͡ʃiand͡ʒ̤ur"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mayu",
+				"Watanabe",
+				"(",
+				"渡辺",
+				"麻友",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"maju",
+				"watanab̤e",
+				"(",
+				"渡辺",
+				"麻友",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Deheweke",
+				"wis",
+				"kaping",
+				"112",
+				"mbela",
+				"timnas",
+				",",
+				"iku",
+				"ndadekake",
+				"dheweke",
+				"urutan",
+				"nomer",
+				"telu",
+				"wong",
+				"kang",
+				"paling",
+				"akeh",
+				"mbela",
+				"timnas",
+				",",
+				"nomer",
+				"siji",
+				"Paolo",
+				"Maldini",
+				"lan",
+				"nomer",
+				"loro",
+				"Fabio",
+				"Cannavaro",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"d̪̤eheweke",
+				"wis",
+				"kapiŋ",
+				"112",
+				"mb̤ela",
+				"timnas",
+				",",
+				"ʔiku",
+				"nd̪̤ad̪̤ekake",
+				"ɖ̤eweke",
+				"ʔurutan",
+				"nomer",
+				"telu",
+				"woŋ",
+				"kaŋ",
+				"paliŋ",
+				"ʔakeh",
+				"mb̤ela",
+				"timnas",
+				",",
+				"nomer",
+				"sid͡ʒ̤i",
+				"paolo",
+				"mald̪̤ini",
+				"lan",
+				"nomer",
+				"loro",
+				"fab̤io",
+				"t͡ʃannavaro",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Tlaga",
+				"Mono",
+				",",
+				"California"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"tlaɡ̤a",
+				"mono",
+				",",
+				"t͡ʃalifornia"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Livas",
+				"short",
+				"introductory",
+				"videos",
+				"on",
+				"YouTube"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"livas",
+				"short",
+				"ʔintrod̪̤ut͡ʃtorj",
+				"vid̪̤eos",
+				"ʔon",
+				"joutub̤e"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Puławy",
+				",",
+				"Puławy"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"puławj",
+				",",
+				"puławj"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Kutha",
+				"krajanné",
+				"iku",
+				"Kopenhagen",
+				"."
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"kuʈa",
+				"krad͡ʒ̤anné",
+				"ʔiku",
+				"kopenhaɡ̤en",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Andries",
+				"Cornelis",
+				"Dirk",
+				"de",
+				"Graeff"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔand̪̤ries",
+				"t͡ʃornelis",
+				"d̪̤irk",
+				"d̪̤e",
+				"ɡ̤raeff"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Komite",
+				"Nasional",
+				"Keselamatan",
+				"Transportasi",
+				"(",
+				"KNKT",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"komite",
+				"nasional",
+				"keselamatan",
+				"transportasi",
+				"(",
+				"knkt",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Paus",
+				"Zephyrinus",
+				"--",
+				"--",
+				"YaYa"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"paus",
+				"zephjrinus",
+				"--",
+				"--",
+				"jaja"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Tim",
+				"nasional",
+				"bal-balan",
+				"Rumania"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"tim",
+				"nasional",
+				"b̤al-b̤alan",
+				"rumania"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Astro",
+				"(",
+				"TV",
+				"satelit",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔastro",
+				"(",
+				"tv",
+				"satelit",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Lyndon",
+				"B.",
+				"Johnson"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ljnd̪̤on",
+				"b̤.",
+				"d͡ʒ̤ohnson"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Merpati",
+				"Nusantara",
+				"Airlines"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"merpati",
+				"nusantara",
+				"ʔairlines"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Kebon",
+				"Botani",
+				"Kalmthout"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"keb̤on",
+				"b̤otani",
+				"kalmʈout"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Kevin",
+				"Richardson",
+				"(",
+				"musisi",
+				")"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"kevin",
+				"rit͡ʃhard̪̤son",
+				"(",
+				"musisi",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nia",
+				"Ramadhani",
+				"dadi",
+				"Niken"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"nia",
+				"ramaɖ̤ani",
+				"d̪̤ad̪̤i",
+				"niken"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Komisi",
+				"Dhuwur",
+				"tumrap",
+				"Pengungsi",
+				"Perserikatan",
+				"Bangsa-Bangsa",
+				"(",
+				"UNHCR",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"komisi",
+				"ɖ̤uwur",
+				"tumrap",
+				"peŋuŋsi",
+				"perserikatan",
+				"b̤aŋsa-b̤aŋsa",
+				"(",
+				"ʔunht͡ʃr",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Institut",
+				"Tèknologi",
+				"Bandung"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔinstitut",
+				"tèknoloɡ̤i",
+				"b̤and̪̤uŋ"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Zachary",
+				"Taylor",
+				",",
+				"Millard",
+				"Fillmore"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"zat͡ʃharj",
+				"tajlor",
+				",",
+				"millard̪̤",
+				"fillmore"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Gorlice",
+				",",
+				"Gorlice"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"ɡ̤orlit͡ʃe",
+				",",
+				"ɡ̤orlit͡ʃe"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Przasnysz",
+				",",
+				"Przasnysz"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"powiat",
+				"przasɲsz",
+				",",
+				"przasɲsz"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"===",
+				"Maluku",
+				"&",
+				"Papua",
+				"==="
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"===",
+				"maluku",
+				"&",
+				"papua",
+				"==="
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Jayanagara",
+				"''",
+				"'",
+				"(",
+				"1309-1328",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"d͡ʒ̤ajanaɡ̤ara",
+				"''",
+				"'",
+				"(",
+				"1309-1328",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Vocan",
+				"Santa",
+				"Maria"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"vot͡ʃan",
+				"santa",
+				"maria"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Aldo",
+				"Moro",
+				"(",
+				"Periode",
+				"kaping",
+				"1",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔald̪̤o",
+				"moro",
+				"(",
+				"period̪̤e",
+				"kapiŋ",
+				"1",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Muhammad",
+				"bin",
+				"Idris",
+				"asy-Syafi`i"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"muhammad̪̤",
+				"b̤in",
+				"ʔid̪̤ris",
+				"ʔasj-sjafi`i"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"1998",
+				"-",
+				"''ora",
+				"lolos",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"1998",
+				"-",
+				"''ora",
+				"lolos",
+				"''"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Nikolas",
+				"saka",
+				"Myra"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"nikolas",
+				"saka",
+				"mjra"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Rafael",
+				"Nadal",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"rafael",
+				"nad̪̤al",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Powiat",
+				"Ząbkowice",
+				"Śląskie",
+				",",
+				"Ząbkowice",
+				"Śląskie"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"powiat",
+				"ząb̤kowit͡ʃe",
+				"ʃląskie",
+				",",
+				"ząb̤kowit͡ʃe",
+				"ʃląskie"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Jailolo",
+				",",
+				"Halmahera",
+				"Kulon"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"d͡ʒ̤ailolo",
+				",",
+				"halmahera",
+				"kulon"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Tiga",
+				"penelitian",
+				"ing",
+				"Pennsylvania",
+				"nunjukakenmenawi",
+				"mustakaa",
+				"botak",
+				"dipunkaitaken",
+				"kaliyan",
+				"dominasi",
+				"déning",
+				"katah",
+				"tiyang",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tiɡ̤a",
+				"penelitian",
+				"ʔiŋ",
+				"pennsjlvania",
+				"nund͡ʒ̤ukakenmenawi",
+				"mustakaa",
+				"b̤otak",
+				"d̪̤ipunkaitaken",
+				"kalijan",
+				"d̪̤ominasi",
+				"d̪̤éniŋ",
+				"katah",
+				"tijaŋ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Asosiasi",
+				"Bangsa",
+				"Bangsa",
+				"Asia",
+				"Kidul",
+				"Wétan"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔasosiasi",
+				"b̤aŋsa",
+				"b̤aŋsa",
+				"ʔasia",
+				"kid̪̤ul",
+				"wétan"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kagiyatan",
+				"iki",
+				"dirancang",
+				"déning",
+				"wong",
+				"Inggris",
+				"mawa",
+				"''call",
+				"sign",
+				"''",
+				"G3BHK",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kaɡ̤ijatan",
+				"ʔiki",
+				"d̪̤irant͡ʃaŋ",
+				"d̪̤éniŋ",
+				"woŋ",
+				"ʔiŋɡ̤ris",
+				"mawa",
+				"''t͡ʃall",
+				"siɡ̤n",
+				"''",
+				"ɡ̤3b̤hk",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Plato",
+				"(",
+				"427-347",
+				"BCE",
+				")"
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"plato",
+				"(",
+				"427-347",
+				"b̤t͡ʃe",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Alih",
+				"Limburg",
+				"(",
+				"Belgia",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"limb̤urɡ̤",
+				"(",
+				"b̤elɡ̤ia",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Topaz",
+				"(",
+				"Al2SiO4",
+				"(",
+				"OH-",
+				",",
+				"F-",
+				")",
+				"2",
+				")"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"topaz",
+				"(",
+				"ʔal2sio4",
+				"(",
+				"ʔoh-",
+				",",
+				"f-",
+				")",
+				"2",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Paus",
+				"Yohanes",
+				"XXIII"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"paus",
+				"johanes",
+				"ksksiii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Aki",
+				"Takajo",
+				"(",
+				"高城",
+				"亜樹",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔaki",
+				"takad͡ʒ̤o",
+				"(",
+				"高城",
+				"亜樹",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Klinika",
+				"''Famila",
+				"''",
+				"impor",
+				"saka",
+				"SCTV"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"klinika",
+				"''famila",
+				"''",
+				"ʔimpor",
+				"saka",
+				"st͡ʃtv"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"(",
+				"'",
+				"''",
+				"Tutugé",
+				"...",
+				"''",
+				"'",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"(",
+				"'",
+				"''",
+				"tutuɡ̤é",
+				"...",
+				"''",
+				"'",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Otoritas",
+				"Nasional",
+				"Palèstina"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ʔotoritas",
+				"nasional",
+				"palèstina"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mount",
+				"Athos",
+				"(",
+				"otonom",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"mount",
+				"ʔaʈos",
+				"(",
+				"ʔotonom",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Kamentrian",
+				"Luar",
+				"Negri",
+				"Republik",
+				"Indonésia"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"kamentrian",
+				"luar",
+				"neɡ̤ri",
+				"repub̤lik",
+				"ʔind̪̤onésia"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dana",
+				"Monetèr",
+				"Internasional",
+				"(",
+				"''IMF",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d̪̤ana",
+				"monetèr",
+				"ʔinternasional",
+				"(",
+				"''imf",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Bacharuddin",
+				"Jusuf",
+				"Habibie"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"b̤at͡ʃharud̪̤d̪̤in",
+				"d͡ʒ̤usuf",
+				"hab̤ib̤ie"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Dheweke",
+				"banjur",
+				"kuliah",
+				"ing",
+				"Universitas",
+				"Indonésia",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ɖ̤eweke",
+				"b̤and͡ʒ̤ur",
+				"kuliah",
+				"ʔiŋ",
+				"ʔuniversitas",
+				"ʔind̪̤onésia",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kasor",
+				"PF",
+				"vs",
+				"Rafael",
+				"Nadal",
+				"[1]"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"kasor",
+				"pf",
+				"vs",
+				"rafael",
+				"nad̪̤al",
+				"[1]"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ALIH",
+				"Dhéwan",
+				"Kaamanan",
+				"PBB"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʔalih",
+				"ɖ̤éwan",
+				"kaamanan",
+				"pb̤b̤"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		}
+	]
+}
