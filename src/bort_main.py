@@ -5,7 +5,7 @@ import datetime
 import logging
 from utils.misc import set_seed
 from dataset import bio_bort_epi_whole_wikiann
-from utils.total_bort_training import total_bort_train
+from utils.bort_training import bort_train
 from utils.bort_evaluation import bort_eval
 from model.bort import BORT
 
