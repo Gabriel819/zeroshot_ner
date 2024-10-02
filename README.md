@@ -17,6 +17,10 @@ data
     └── epi_ner_tags
 ```
 
+# Data
+<img width="748" alt="image" src="https://github.com/user-attachments/assets/e23687ea-1a2a-40c8-a28a-4b282b4391a8">
+- M: mBERT, C: CANINE, X: XPhoneBERT
+
 # Train
 ## 1. mBERT train
 ```python src/mbert_main.py --task mbert --model bio_mbert --train_language english --max_seq_len 128 --do_train --train_batch_size 128 --eval_batch_size 128 --num_train_epochs 10```
