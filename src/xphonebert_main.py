@@ -5,7 +5,7 @@ import datetime
 import logging
 from utils.misc import set_seed
 from dataset import bio_xphonebert_epi_whole_wikiann
-from utils.total_xphonebert_training import total_xphonebert_train
+from utils.xphonebert_training import xphonebert_train
 from utils.xphonebert_evaluation import xphonebert_eval
 from model.my_xphonebert import XPhoneBertForNER
 from xphonebert_config import config
@@ -61,7 +61,7 @@ def parse_args():
     )
     parser.add_argument(
         "--learning_rate",
-        default=5e-5, type=float, help="The initial learning rate for Adam.")
+        default=1e-5, type=float, help="The initial learning rate for Adam.")
     parser.add_argument(
         "--weight_decay",
         default=0.01, type=float, help="Weight decay if we apply some.")
