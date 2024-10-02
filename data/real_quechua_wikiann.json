@@ -1,0 +1,9681 @@
+{
+	"id_mapping": {
+		"0": "O",
+		"1": "B-PER",
+		"2": "I-PER",
+		"3": "B-ORG",
+		"4": "I-ORG",
+		"5": "B-LOC",
+		"6": "I-LOC"
+	},
+	"validation": [
+		{
+			"tokens": [
+				"Chilu",
+				"''",
+				"(",
+				"Violoncello",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʃɪlʊ",
+				"''",
+				"(",
+				"vɪolonceʎo",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"T'uru",
+				"T'uru",
+				"mamallaqta",
+				"parki"
+			],
+			"ner_tags": [
+				3,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"t'ʊrʊ",
+				"t'ʊrʊ",
+				"mæmæʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"José",
+				"Nasazzi",
+				"-",
+				"15",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"josé",
+				"næsæzzɪ",
+				"-",
+				"15",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"CA",
+				"San",
+				"Lorenzo",
+				"de",
+				"Almagro"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"cæ",
+				"sæn",
+				"lorenzo",
+				"de",
+				"ælmægro"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1962"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1962"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kuntur",
+				"(",
+				"Vultur",
+				"gryphus",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kʊntʊr",
+				"(",
+				"vʊltʊr",
+				"grjphʊs",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mama",
+				"Llaqtap",
+				"San",
+				"Markus",
+				"Hatun",
+				"Yachay",
+				"Sunturnin"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mæmæ",
+				"ʎæχtæp",
+				"sæn",
+				"mærkʊs",
+				"hætʊn",
+				"jætʃæj",
+				"sʊntʊrnɪn"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1994"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1994"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1958"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1958"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Chuqiyapu",
+				"suyu",
+				",",
+				"José",
+				"Ramón",
+				"Loayza",
+				"pruwinsya"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"tʃʊχɛjæpʊ",
+				"sʊjʊ",
+				",",
+				"josé",
+				"ræmón",
+				"loæjzæ",
+				"prʊwɪnsjæ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Qulan",
+				"walla",
+				"risirwa",
+				"suyu"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"χɔlæn",
+				"wæʎæ",
+				"rɪsɪrwæ",
+				"sʊjʊ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Alessandro",
+				"Nesta",
+				"-",
+				"14",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ælessændro",
+				"nestæ",
+				"-",
+				"14",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Qhichwa",
+				"Simi",
+				"Hamut'ana",
+				"Kuraq",
+				"Suntur"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"χhɪtʃwæ",
+				"sɪmɪ",
+				"hæmʊt'ænæ",
+				"kʊræχ",
+				"sʊntʊr"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Qulcha",
+				"``",
+				"K",
+				"''",
+				"munisipyu"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"χɔltʃæ",
+				"``",
+				"k",
+				"''",
+				"mʊnɪsɪpjʊ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Qarwa",
+				"pruwinsya",
+				",",
+				"San",
+				"Miyil",
+				"Aqu",
+				"distritu"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"χɑrwæ",
+				"prʊwɪnsjæ",
+				",",
+				"sæn",
+				"mɪjɪl",
+				"æχɔ",
+				"dɪstrɪtʊ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"General",
+				"Sánchez",
+				"Cerro",
+				"pruwinsya"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"**",
+				"generæl",
+				"sǽntʃez",
+				"ceɹo",
+				"prʊwɪnsjæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Punu",
+				"suyu",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"pʊnʊ",
+				"sʊjʊ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Anqash",
+				"suyu",
+				",",
+				"Asunsyun",
+				"pruwinsya",
+				",",
+				"Chakas",
+				"distritu",
+				";",
+				"Qarwa",
+				"pruwinsya",
+				",",
+				"Shilla",
+				"distritu",
+				";"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				0,
+				5,
+				6,
+				0,
+				5,
+				6,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"ænχɑsh",
+				"sʊjʊ",
+				",",
+				"æsʊnsjʊn",
+				"prʊwɪnsjæ",
+				",",
+				"tʃækæs",
+				"dɪstrɪtʊ",
+				";",
+				"χɑrwæ",
+				"prʊwɪnsjæ",
+				",",
+				"shɪʎæ",
+				"dɪstrɪtʊ",
+				";"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				0,
+				5,
+				6,
+				0,
+				5,
+				6,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ch'umpi",
+				"churu",
+				"k'usillu",
+				"''Lagothrix",
+				"lagotricha",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʃ'ʊmpɪ",
+				"tʃʊrʊ",
+				"k'ʊsɪʎʊ",
+				"''lægothrɪx",
+				"lægotrɪtʃæ",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"3",
+				"-",
+				"0",
+				"''",
+				"'",
+				"Maruku"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"3",
+				"-",
+				"0",
+				"''",
+				"'",
+				"mærʊkʊ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"''",
+				"Alexander",
+				"von",
+				"Humboldt",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"**",
+				"''",
+				"ælexænder",
+				"von",
+				"hʊmboldt",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ismael",
+				"Montes",
+				"Jatun",
+				"Yachay",
+				"Wasi",
+				"Yachachiqkunaq",
+				"Wakichikunankupaq"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɪsmæel",
+				"montes",
+				"jætʊn",
+				"jætʃæj",
+				"wæsɪ",
+				"jætʃætʃɪχkʊnæχ",
+				"wækɪtʃɪkʊnænkʊpæχ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mamallaqtapura",
+				"Qullqi",
+				"Qullqa"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mæmæʎæχtæpʊræ",
+				"χɔʎχɛ",
+				"χɔʎχɑ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Rembrandt",
+				"van",
+				"Rijn"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"rembrændt",
+				"væn",
+				"rɪjn"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Francisco",
+				"del",
+				"Rosario",
+				"Sánchez"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"fræncɪsco",
+				"del",
+				"rosærɪo",
+				"sǽntʃez"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"pusapuna",
+				"Siq'isqa",
+				"rikchasapa",
+				"willakuy"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"sɪχ'ɪsχɑ",
+				"rɪktʃæsæpæ",
+				"wɪʎækʊj"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Huwan",
+				"VII",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"hʊwæn",
+				"vɪɪ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pastasa",
+				"mayu",
+				"Mera",
+				"llaqtamanta",
+				"rikusqa"
+			],
+			"ner_tags": [
+				5,
+				6,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"pæstæsæ",
+				"mæjʊ",
+				"meræ",
+				"ʎæχtæmæntæ",
+				"rɪkʊsχɑ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nicario",
+				"Jiménez",
+				"Quispe",
+				"(",
+				"*1957",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"nɪcærɪo",
+				"jɪménez",
+				"χɔɪspe",
+				"(",
+				"*1957",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Carlos",
+				"Antonio",
+				"López",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"cærlos",
+				"æntonɪo",
+				"lópez",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Juan",
+				"Torrico",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"jʊæn",
+				"toɹɪco",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Omiros",
+				"(",
+				"Όμηρος",
+				")"
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"omɪros",
+				"(",
+				"όμηρος",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Juan",
+				"Velasco",
+				"Alvaradop",
+				"kamachinallanmi",
+				"CGTP-ta",
+				"llamk'ayta",
+				"saqillarqan",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"jʊæn",
+				"velæsco",
+				"ælværædop",
+				"kæmætʃɪnæʎænmɪ",
+				"cgtp-tæ",
+				"ʎæmk'æjtæ",
+				"sæχɛʎærχɑn",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Tomás",
+				"Barrón",
+				"pruwinsya"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"tomǽs",
+				"bæɹón",
+				"prʊwɪnsjæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mana",
+				"kamachiy",
+				"tantanakuy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mænæ",
+				"kæmætʃɪj",
+				"tæntænækʊj"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1994"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1994"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Johan",
+				"Cruyff",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"johæn",
+				"crʊjff",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Makabayop",
+				"huk",
+				"ñiqin",
+				"qillqasqan"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"mækæbæjop",
+				"hʊk",
+				"ɲɪχɛn",
+				"χɛʎχɑsχɑn"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Anti",
+				"Walla",
+				"(",
+				"Piruw",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"æntɪ",
+				"wæʎæ",
+				"(",
+				"pɪrʊw",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Chankaybaños",
+				"risirwa",
+				"suyu"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"tʃænkæjbæɲos",
+				"rɪsɪrwæ",
+				"sʊjʊ"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Traian",
+				"Băsescu",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"træɪæn",
+				"bæ̆sescʊ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Griguryu",
+				"XV",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"grɪgʊrjʊ",
+				"xv",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tikira",
+				"/",
+				"Tisikira",
+				"''",
+				"(",
+				"Schinopsis",
+				"haenkeana",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tɪkɪræ",
+				"/",
+				"tɪsɪkɪræ",
+				"''",
+				"(",
+				"stʃɪnopsɪs",
+				"hæenkeænæ",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kamasqa",
+				"pi",
+				",",
+				"Ollanta",
+				"Humala",
+				"Umalliqmi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kæmæsχɑ",
+				"pɪ",
+				",",
+				"oʎæntæ",
+				"hʊmælæ",
+				"ʊmæʎɪχmɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"José",
+				"de",
+				"San",
+				"Martín"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"josé",
+				"de",
+				"sæn",
+				"mærtɪ́n"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Star",
+				"Peru",
+				"/",
+				"Peruvian",
+				"Airlines"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"stær",
+				"perʊ",
+				"/",
+				"perʊvɪæn",
+				"æɪrlɪnes"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"2",
+				"''",
+				"'",
+				"=",
+				"150",
+				"km",
+				"Titiqaqa",
+				"qucha",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"2",
+				"''",
+				"'",
+				"=",
+				"150",
+				"km",
+				"tɪtɪχɑχɑ",
+				"χɔtʃæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Schumann",
+				",",
+				"Robert",
+				"(",
+				"1810-1856",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"stʃʊmænn",
+				",",
+				"robert",
+				"(",
+				"1810-1856",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Susyalismuman",
+				"Rikch'arimuy",
+				"(",
+				"Buliwya",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sʊsjælɪsmʊmæn",
+				"rɪktʃ'ærɪmʊj",
+				"(",
+				"bʊlɪwjæ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Punu",
+				"suyu",
+				",",
+				"Punu",
+				"pruwinsya",
+				",",
+				"Hatunqulla",
+				"distritu"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"pʊnʊ",
+				"sʊjʊ",
+				",",
+				"pʊnʊ",
+				"prʊwɪnsjæ",
+				",",
+				"hætʊnχɔʎæ",
+				"dɪstrɪtʊ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Iskuchaka",
+				"distritu",
+				"(",
+				"Wankawillka",
+				")",
+				";"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"ɪskʊtʃækæ",
+				"dɪstrɪtʊ",
+				"(",
+				"wænkæwɪʎkæ",
+				")",
+				";"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Atakama",
+				"Puna",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ætækæmæ",
+				"pʊnæ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Chakamarka",
+				"willkachasqa",
+				"ñawpa",
+				"suyu"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tʃækæmærkæ",
+				"wɪʎkætʃæsχɑ",
+				"ɲæwpæ",
+				"sʊjʊ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Misk'i",
+				"sirinka",
+				"''",
+				"(",
+				"Flauto",
+				"dolce",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"**",
+				"mɪsk'ɪ",
+				"sɪrɪnkæ",
+				"''",
+				"(",
+				"flæʊto",
+				"dolce",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Isiboro",
+				"Secure",
+				"mamallaqta",
+				"parki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɪsɪboro",
+				"secʊre",
+				"mæmæʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kurt",
+				"Waldheim",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kʊrt",
+				"wældheɪm",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Georg",
+				"Friedrich",
+				"Händel"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"georg",
+				"frɪedrɪtʃ",
+				"hæ̈ndel"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Llikuha",
+				"(",
+				"''Amazona",
+				"ochrocephala",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʎɪkʊhæ",
+				"(",
+				"''æmæzonæ",
+				"otʃrocephælæ",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hatun",
+				"Uma",
+				"(",
+				"6.093",
+				"m",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"hætʊn",
+				"ʊmæ",
+				"(",
+				"6.093",
+				"m",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Magdalena",
+				"distritu",
+				"(",
+				"Amarumayu",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"mægdælenæ",
+				"dɪstrɪtʊ",
+				"(",
+				"æmærʊmæjʊ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pila",
+				"k'uyka",
+				"''",
+				"(",
+				"Ascaris",
+				"lumbricoides",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"pɪlæ",
+				"k'ʊjkæ",
+				"''",
+				"(",
+				"æscærɪs",
+				"lʊmbrɪcoɪdes",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Puka",
+				"Kapirusitamanta",
+				"''",
+				"(",
+				"Rotkäppchen",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"pʊkæ",
+				"kæpɪrʊsɪtæmæntæ",
+				"''",
+				"(",
+				"rotkæ̈pptʃen",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Chilipi",
+				"amachasqa",
+				"sallqa",
+				"suyukuna"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tʃɪlɪpɪ",
+				"æmætʃæsχɑ",
+				"sæʎχɑ",
+				"sʊjʊkʊnæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1994"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1994"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Wanqhana",
+				"''",
+				"(",
+				"Palanca",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"wænχhænæ",
+				"''",
+				"(",
+				"pælæncæ",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Leipzig",
+				"(",
+				"Alimanya",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"leɪpzɪg",
+				"(",
+				"ælɪmænjæ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Naoto",
+				"Kan",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"næoto",
+				"kæn",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"2002"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"2002"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"José",
+				"Luis",
+				"Bustamante",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"josé",
+				"lʊɪs",
+				"bʊstæmænte",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Roberto",
+				"Martínez",
+				"Vera-Tudela"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"roberto",
+				"mærtɪ́nez",
+				"veræ-tʊdelæ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1974"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"**",
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1974"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Paqaypampa",
+				"amachana",
+				"sach'a-sach'a"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pæχɑjpæmpæ",
+				"æmætʃænæ",
+				"sætʃ'æ-sætʃ'æ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"pusapuna",
+				"San",
+				"Miguel",
+				"kiti"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"sæn",
+				"mɪgʊel",
+				"kɪtɪ"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Chinchay",
+				"Qaranqa",
+				"pruwinsya"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"tʃɪntʃæj",
+				"χɑrænχɑ",
+				"prʊwɪnsjæ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Pedro",
+				"Diez",
+				"Canseco",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"pedro",
+				"dɪez",
+				"cænseco",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Galardonado",
+				"como",
+				"Huésped",
+				"de",
+				"Honor",
+				"y",
+				"Embajador",
+				"del",
+				"Deporte",
+				"de",
+				"Bogotá"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"gælærdonædo",
+				"como",
+				"hʊésped",
+				"de",
+				"honor",
+				"j",
+				"embæjædor",
+				"del",
+				"deporte",
+				"de",
+				"bogotǽ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Kamayuqkunapa",
+				"siminku",
+				"Qhichwa",
+				"simis",
+				"karqan",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kæmæjʊχkʊnæpæ",
+				"sɪmɪnkʊ",
+				"χhɪtʃwæ",
+				"sɪmɪs",
+				"kærχɑn",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Puru-puru",
+				"(",
+				"''Calceolaria",
+				"sp",
+				".",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"pʊrʊ-pʊrʊ",
+				"(",
+				"''cælceolærɪæ",
+				"sp",
+				".",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Otto",
+				"von",
+				"Bismarck"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"otto",
+				"von",
+				"bɪsmærck"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"2014",
+				"."
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"2014",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Rafael",
+				"qucha",
+				"mama",
+				"llaqta",
+				"parki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sæn",
+				"ræfæel",
+				"χɔtʃæ",
+				"mæmæ",
+				"ʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Javier",
+				"Pérez",
+				"de",
+				"Cuéllar",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"jævɪer",
+				"pérez",
+				"de",
+				"cʊéʎær",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Brasilpi",
+				"Amarumayu",
+				"sach'a-sach'a",
+				"suyupi",
+				"kawsarqan",
+				"."
+			],
+			"ner_tags": [
+				5,
+				5,
+				6,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"bræsɪlpɪ",
+				"æmærʊmæjʊ",
+				"sætʃ'æ-sætʃ'æ",
+				"sʊjʊpɪ",
+				"kæwsærχɑn",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				5,
+				6,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fray",
+				"Jorge",
+				"sach'a",
+				"sach'a",
+				"mama",
+				"llaqta",
+				"parkipi"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"fræj",
+				"jorge",
+				"sætʃ'æ",
+				"sætʃ'æ",
+				"mæmæ",
+				"ʎæχtæ",
+				"pærkɪpɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Lilian",
+				"Thuram",
+				"-",
+				"16",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"lɪlɪæn",
+				"thʊræm",
+				"-",
+				"16",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Binidiktu",
+				"IX",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"bɪnɪdɪktʊ",
+				"ɪx",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"**Primer",
+				"Ministro",
+				"-",
+				"Uma",
+				"kamayuq"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"**prɪmer",
+				"mɪnɪstro",
+				"-",
+				"ʊmæ",
+				"kæmæjʊχ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Petar",
+				"Stoyanov",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"petær",
+				"stojænov",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Juan",
+				"Vicente",
+				"Gómez",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"jʊæn",
+				"vɪcente",
+				"gómez",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Laram",
+				"Q'awa",
+				"urqu",
+				"(",
+				"Paqaqi",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"læræm",
+				"χ'æwæ",
+				"ʊrχɔ",
+				"(",
+				"pæχɑχɛ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"T'uru",
+				"T'uru",
+				"mamallaqta",
+				"parki"
+			],
+			"ner_tags": [
+				3,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"t'ʊrʊ",
+				"t'ʊrʊ",
+				"mæmæʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Chuquiraga",
+				"jussieui]]",
+				"''",
+				",",
+				"Cajas",
+				"mama",
+				"llaqta",
+				"parkipi"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"tʃʊχɔɪrægæ",
+				"jʊssɪeʊɪ]]",
+				"''",
+				",",
+				"cæjæs",
+				"mæmæ",
+				"ʎæχtæ",
+				"pærkɪpɪ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1986"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1986"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"José",
+				"Rufino",
+				"Echenique",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"josé",
+				"rʊfɪno",
+				"etʃenɪχɔe",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ismael",
+				"Montes",
+				"Jatun",
+				"Yachay",
+				"Wasi",
+				"Yachachiqkunaq",
+				"Wakichikunankupaq"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɪsmæel",
+				"montes",
+				"jætʊn",
+				"jætʃæj",
+				"wæsɪ",
+				"jætʃætʃɪχkʊnæχ",
+				"wækɪtʃɪkʊnænkʊpæχ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Tunki",
+				"''Rupicola",
+				"peruviana",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʊnkɪ",
+				"''rʊpɪcolæ",
+				"perʊvɪænæ",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Tukuku",
+				"''Phoenicopterus",
+				"chilensis",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"**",
+				"tʊkʊkʊ",
+				"''phoenɪcopterʊs",
+				"tʃɪlensɪs",
+				"''"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Yaku",
+				"puma",
+				"(",
+				"''Pteronura",
+				"brasiliensis",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"jækʊ",
+				"pʊmæ",
+				"(",
+				"''pteronʊræ",
+				"bræsɪlɪensɪs",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Christophe",
+				"Dugarry",
+				"-",
+				"22",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʃrɪstophe",
+				"dʊgæɹj",
+				"-",
+				"22",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Trumpun",
+				"''",
+				"(",
+				"Trombone",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"trʊmpʊn",
+				"''",
+				"(",
+				"trombone",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"test": [
+		{
+			"tokens": [
+				"Amirika",
+				"Mamallaqtap",
+				"Pachakutinapaq",
+				"Huñunakuynin"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"æmɪrɪkæ",
+				"mæmæʎæχtæp",
+				"pætʃækʊtɪnæpæχ",
+				"hʊɲʊnækʊjnɪn"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Cajas",
+				"mama",
+				"llaqta",
+				"parki"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"cæjæs",
+				"mæmæ",
+				"ʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"John",
+				"Quincy",
+				"Adams",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"john",
+				"χɔɪncj",
+				"ædæms",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Lothar",
+				"Matthäus",
+				"-",
+				"11",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"lothær",
+				"mætthæ̈ʊs",
+				"-",
+				"11",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Chikichasqa",
+				"Rikch'aq",
+				"Puka",
+				"Sutisuyu"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"tʃɪkɪtʃæsχɑ",
+				"rɪktʃ'æχ",
+				"pʊkæ",
+				"sʊtɪsʊjʊ"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Qanchisnintin",
+				"Tiksimuyu",
+				"Achachilla"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"χɑntʃɪsnɪntɪn",
+				"tɪksɪmʊjʊ",
+				"ætʃætʃɪʎæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"pusapuna",
+				"Wisk'achani",
+				"rit'i",
+				"urqu",
+				"(",
+				"Qusqu",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"wɪsk'ætʃænɪ",
+				"rɪt'ɪ",
+				"ʊrχɔ",
+				"(",
+				"χɔsχɔ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1998"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1998"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Rómulo",
+				"Gallegos",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"rómʊlo",
+				"gæʎegos",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Qullpa",
+				"Ananta",
+				"(",
+				"6.110",
+				"m",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"χɔʎpæ",
+				"ænæntæ",
+				"(",
+				"6.110",
+				"m",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Putumayu",
+				"suyu",
+				",",
+				"Nariñu",
+				"suyu"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"pʊtʊmæjʊ",
+				"sʊjʊ",
+				",",
+				"nærɪɲʊ",
+				"sʊjʊ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ayakuchu",
+				"suyu",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"æjækʊtʃʊ",
+				"sʊjʊ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Yatana",
+				"takiy",
+				"phukulli"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"jætænæ",
+				"tækɪj",
+				"phʊkʊʎɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Sawasiray",
+				"(",
+				"5.818",
+				"m",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sæwæsɪræj",
+				"(",
+				"5.818",
+				"m",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Puna",
+				"yuthu",
+				"''Tinamotis",
+				"pentlandii",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"pʊnæ",
+				"jʊthʊ",
+				"''tɪnæmotɪs",
+				"pentlændɪɪ",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"redirección",
+				"Machu",
+				"Pikchu",
+				"llaqta"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"redɪreccɪón",
+				"mætʃʊ",
+				"pɪktʃʊ",
+				"ʎæχtæ"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Qusqu",
+				"suyu",
+				",",
+				"Qanchi",
+				"pruwinsya",
+				",",
+				"Pitumarka",
+				"distritu"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"χɔsχɔ",
+				"sʊjʊ",
+				",",
+				"χɑntʃɪ",
+				"prʊwɪnsjæ",
+				",",
+				"pɪtʊmærkæ",
+				"dɪstrɪtʊ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"pusapuna",
+				"Qullana",
+				"(",
+				"Jaruma",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"χɔʎænæ",
+				"(",
+				"jærʊmæ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1974"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"**",
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1974"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Burinkin",
+				"mana",
+				"warkurinapaq",
+				"partidu"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"bʊrɪnkɪn",
+				"mænæ",
+				"wærkʊrɪnæpæχ",
+				"pærtɪdʊ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"David",
+				"Villa",
+				",",
+				"Thomas",
+				"Müller",
+				",",
+				"Diego",
+				"Forlán"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				1,
+				2,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"dævɪd",
+				"vɪʎæ",
+				",",
+				"thomæs",
+				"mʊ̈ʎer",
+				",",
+				"dɪego",
+				"forlǽn"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				1,
+				2,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Miki",
+				"Ukucha",
+				"''",
+				"(",
+				"Mickey",
+				"Mouse",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mɪkɪ",
+				"ʊkʊtʃæ",
+				"''",
+				"(",
+				"mɪckej",
+				"moʊse",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Podocarpus",
+				"mama",
+				"llaqta",
+				"parki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"podocærpʊs",
+				"mæmæ",
+				"ʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Cambridge",
+				"Yachay",
+				"Suntur"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"cæmbrɪdge",
+				"jætʃæj",
+				"sʊntʊr"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"James",
+				"Madison",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"jæmes",
+				"mædɪson",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Andrés",
+				"Avelino",
+				"Cáceres",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ændrés",
+				"ævelɪno",
+				"cǽceres",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Thomas",
+				"Jefferson",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"thomæs",
+				"jefferson",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Real",
+				"Madrid",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"reæl",
+				"mædrɪd",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Qipa",
+				"pinkuyllu",
+				"''",
+				"(",
+				"Clarinetto",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"χɛpæ",
+				"pɪnkʊjʎʊ",
+				"''",
+				"(",
+				"clærɪnetto",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jaime",
+				"Paz",
+				"Zamora",
+				"(",
+				"1989-1993",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"jæɪme",
+				"pæz",
+				"zæmoræ",
+				"(",
+				"1989-1993",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Chakamarka",
+				"willkachasqa",
+				"ñawpa",
+				"suyu"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tʃækæmærkæ",
+				"wɪʎkætʃæsχɑ",
+				"ɲæwpæ",
+				"sʊjʊ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Tinku",
+				"Mariya",
+				"mamallaqta",
+				"wari",
+				"kancha"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"tɪnkʊ",
+				"mærɪjæ",
+				"mæmæʎæχtæ",
+				"wærɪ",
+				"kæntʃæ"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Wantar",
+				"Chawin",
+				",",
+				"UNESCO",
+				"Tukuy",
+				"runakunap",
+				"qhapaq",
+				"kaynin"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				3,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"wæntær",
+				"tʃæwɪn",
+				",",
+				"ʊnesco",
+				"tʊkʊj",
+				"rʊnækʊnæp",
+				"χhæpæχ",
+				"kæjnɪn"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				3,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kay",
+				"kantunqa",
+				"Simón",
+				"Bolívarmantam",
+				"sutichasqa",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kæj",
+				"kæntʊnχɑ",
+				"sɪmón",
+				"bolɪ́værmæntæm",
+				"sʊtɪtʃæsχɑ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mayu",
+				"atuq",
+				"(",
+				"''Chrysocyon",
+				"brachyurus",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mæjʊ",
+				"ætʊχ",
+				"(",
+				"''tʃrjsocjon",
+				"brætʃjʊrʊs",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Centro",
+				"Federal",
+				"de",
+				"Educação",
+				"Tecnológica",
+				"Celso",
+				"Suckow",
+				"da",
+				"Fonseca"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"centro",
+				"federæl",
+				"de",
+				"edʊcæçæ̃o",
+				"tecnológɪcæ",
+				"celso",
+				"sʊckow",
+				"dæ",
+				"fonsecæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Santiago",
+				"Ramón",
+				"y",
+				"Cajal"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"sæntɪægo",
+				"ræmón",
+				"j",
+				"cæjæl"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Asnaq",
+				"qucha",
+				"(",
+				"Urin",
+				"Lipis",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"æsnæχ",
+				"χɔtʃæ",
+				"(",
+				"ʊrɪn",
+				"lɪpɪs",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Killmu",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kɪʎmʊ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Binidiktu",
+				"V",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"bɪnɪdɪktʊ",
+				"v",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Andrés",
+				"de",
+				"Santa",
+				"Cruz",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ændrés",
+				"de",
+				"sæntæ",
+				"crʊz",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Manchester",
+				"United",
+				"FC",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"mæntʃester",
+				"ʊnɪted",
+				"fc",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Urin",
+				"Mato",
+				"Grosso"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʊrɪn",
+				"mæto",
+				"grosso"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Juan",
+				"Alberto",
+				"Schiaffino",
+				"-",
+				"19",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"jʊæn",
+				"ælberto",
+				"stʃɪæffɪno",
+				"-",
+				"19",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pichinku",
+				"''Zonotrichia",
+				"capensis",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"pɪtʃɪnkʊ",
+				"''zonotrɪtʃɪæ",
+				"cæpensɪs",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Francisco",
+				"Morales",
+				"Bermúdez",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"fræncɪsco",
+				"moræles",
+				"bermʊ́dez",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wari",
+				"(",
+				"Ayakuchu",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"wærɪ",
+				"(",
+				"æjækʊtʃʊ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"José",
+				"María",
+				"Pérez",
+				"de",
+				"Urdininea"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"josé",
+				"mærɪ́æ",
+				"pérez",
+				"de",
+				"ʊrdɪnɪneæ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kashamarka",
+				"suyu",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kæshæmærkæ",
+				"sʊjʊ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Cajas",
+				"mama",
+				"llaqta",
+				"parki"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"cæjæs",
+				"mæmæ",
+				"ʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Chorrillos",
+				"(",
+				"8",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʃoɹɪʎos",
+				"(",
+				"8",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Joaquín",
+				"Crespo",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"joæχɔɪ́n",
+				"crespo",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Francisco",
+				"García",
+				"Calderón",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"fræncɪsco",
+				"gærcɪ́æ",
+				"cælderón",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Qanchisnintin",
+				"Tiksimuyu",
+				"Achachilla",
+				"nisqakunamanmi",
+				"kapun",
+				"."
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"χɑntʃɪsnɪntɪn",
+				"tɪksɪmʊjʊ",
+				"ætʃætʃɪʎæ",
+				"nɪsχɑkʊnæmænmɪ",
+				"kæpʊn",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"pusapuna",
+				"Antoine",
+				"Laurent",
+				"de",
+				"Jussieu"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"æntoɪne",
+				"læʊrent",
+				"de",
+				"jʊssɪeʊ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Roma",
+				"/",
+				"Toscana",
+				"(",
+				"Italya",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"romæ",
+				"/",
+				"toscænæ",
+				"(",
+				"ɪtæljæ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Yatana",
+				"takiy",
+				"phukulli"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"jætænæ",
+				"tækɪj",
+				"phʊkʊʎɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"3",
+				"''",
+				"'",
+				"Kañar",
+				"marka"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"3",
+				"''",
+				"'",
+				"kæɲær",
+				"mærkæ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Independencia",
+				"distritu",
+				"(",
+				"Waras",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"ɪndependencɪæ",
+				"dɪstrɪtʊ",
+				"(",
+				"wæræs",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"2005",
+				"/",
+				"AS",
+				"Roma",
+				"Italya"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				5
+			],
+			"epi_tokens": [
+				"2005",
+				"/",
+				"æs",
+				"romæ",
+				"ɪtæljæ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Wallata",
+				"''Chloephaga",
+				"melanoptera",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"wæʎætæ",
+				"''tʃloephægæ",
+				"melænopteræ",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Aschaq",
+				"''Cyathea",
+				"sp",
+				".",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"æstʃæχ",
+				"''cjætheæ",
+				"sp",
+				".",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Inlisyakuna",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ɪnlɪsjækʊnæ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Juventus",
+				"FC",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"jʊventʊs",
+				"fc",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kuntur",
+				"(",
+				"''Vultur",
+				"gryphus",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kʊntʊr",
+				"(",
+				"''vʊltʊr",
+				"grjphʊs",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Chawpi]]",
+				",",
+				"Urin",
+				"Awya",
+				"Yala",
+				",",
+				"Hukllachasqa",
+				"Amirika",
+				"Suyukuna"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6,
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"tʃæwpɪ]]",
+				",",
+				"ʊrɪn",
+				"æwjæ",
+				"jælæ",
+				",",
+				"hʊkʎætʃæsχɑ",
+				"æmɪrɪkæ",
+				"sʊjʊkʊnæ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6,
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"José",
+				"Miguel",
+				"de",
+				"Velasco"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"josé",
+				"mɪgʊel",
+				"de",
+				"velæsco"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Franz",
+				"Beckenbauer",
+				"Oleg",
+				"Blokhin",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"frænz",
+				"beckenbæʊer",
+				"oleg",
+				"blokhɪn",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Puna",
+				"qiwlla",
+				"''Larus",
+				"serranus",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"pʊnæ",
+				"χɛwʎæ",
+				"''lærʊs",
+				"seɹænʊs",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Obdulio",
+				"Varela",
+				"-",
+				"21",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"obdʊlɪo",
+				"værelæ",
+				"-",
+				"21",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Arika",
+				"Parinaqutapas",
+				"suyu",
+				",",
+				"Parinaquta",
+				"pruwinsya"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"ærɪkæ",
+				"pærɪnæχɔtæpæs",
+				"sʊjʊ",
+				",",
+				"pærɪnæχɔtæ",
+				"prʊwɪnsjæ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Luis",
+				"Cordero",
+				"Crespo"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"lʊɪs",
+				"cordero",
+				"crespo"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Podocarpus",
+				"mama",
+				"llaqta",
+				"parki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"podocærpʊs",
+				"mæmæ",
+				"ʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"T'ika",
+				"k'arachiq",
+				"(",
+				"Anthozoa",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t'ɪkæ",
+				"k'ærætʃɪχ",
+				"(",
+				"ænthozoæ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mats",
+				"Hummels",
+				"-",
+				"6",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mæts",
+				"hʊmmels",
+				"-",
+				"6",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ichhu",
+				"(",
+				"''Stipa",
+				"ichu",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɪtʃhʊ",
+				"(",
+				"''stɪpæ",
+				"ɪtʃʊ",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pallanchikpa",
+				"basilikan",
+				"(",
+				"Qupaqhawanapi",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pæʎæntʃɪkpæ",
+				"bæsɪlɪkæn",
+				"(",
+				"χɔpæχhæwænæpɪ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Burinkin",
+				"mana",
+				"warkurinapaq",
+				"partidu"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"bʊrɪnkɪn",
+				"mænæ",
+				"wærkʊrɪnæpæχ",
+				"pærtɪdʊ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Juan",
+				"Wallparrimachi",
+				"Mayta"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"jʊæn",
+				"wæʎpæɹɪmætʃɪ",
+				"mæjtæ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Tapukuq",
+				"sutip",
+				"rantin",
+				"-",
+				"''pronombre",
+				"interrogativo",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tæpʊkʊχ",
+				"sʊtɪp",
+				"ræntɪn",
+				"-",
+				"''pronombre",
+				"ɪnteɹogætɪvo",
+				"''"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Manuel",
+				"Menéndez",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"mænʊel",
+				"menéndez",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"pusapuna",
+				"Antoine",
+				"Laurent",
+				"de",
+				"Jussieu"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"æntoɪne",
+				"læʊrent",
+				"de",
+				"jʊssɪeʊ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Roberto",
+				"Baggio",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"roberto",
+				"bæggɪo",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"José",
+				"Guillermo",
+				"Del",
+				"Solar"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"josé",
+				"gʊɪʎermo",
+				"del",
+				"solær"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Francisco",
+				"Diez",
+				"Canseco",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"fræncɪsco",
+				"dɪez",
+				"cænseco",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Escrito",
+				"en",
+				"colaboración",
+				"con",
+				"Jorge",
+				"Luis",
+				"Borges"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"escrɪto",
+				"en",
+				"colæboræcɪón",
+				"con",
+				"jorge",
+				"lʊɪs",
+				"borges"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Mama",
+				"Llaqtap",
+				"San",
+				"Markus",
+				"Hatun",
+				"Yachay",
+				"Sunturnin"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"**",
+				"mæmæ",
+				"ʎæχtæp",
+				"sæn",
+				"mærkʊs",
+				"hætʊn",
+				"jætʃæj",
+				"sʊntʊrnɪn"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"24",
+				"''",
+				"'",
+				"Zamora",
+				"Chinchipi",
+				"marka"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"24",
+				"''",
+				"'",
+				"zæmoræ",
+				"tʃɪntʃɪpɪ",
+				"mærkæ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Chilipi",
+				"amachasqa",
+				"sallqa",
+				"suyukuna"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tʃɪlɪpɪ",
+				"æmætʃæsχɑ",
+				"sæʎχɑ",
+				"sʊjʊkʊnæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"pusapuna",
+				"José",
+				"Antonio",
+				"Pavón",
+				"y",
+				"Jiménez"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"josé",
+				"æntonɪo",
+				"pævón",
+				"j",
+				"jɪménez"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Chukirawa",
+				"''Chuquiragua",
+				"jussieui",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʃʊkɪræwæ",
+				"''tʃʊχɔɪrægʊæ",
+				"jʊssɪeʊɪ",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Khunurana",
+				"(",
+				"5.550",
+				"m",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"khʊnʊrænæ",
+				"(",
+				"5.550",
+				"m",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Pidru",
+				"Tikina"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"sæn",
+				"pɪdrʊ",
+				"tɪkɪnæ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1990"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1990"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Santa",
+				"Krus",
+				"distritu",
+				"(",
+				"Santa",
+				"Krus",
+				"pruwinsya",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"sæntæ",
+				"krʊs",
+				"dɪstrɪtʊ",
+				"(",
+				"sæntæ",
+				"krʊs",
+				"prʊwɪnsjæ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1982"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1982"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"===",
+				"Pachaykamay",
+				"(",
+				"Física",
+				")",
+				"==="
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"===",
+				"pætʃæjkæmæj",
+				"(",
+				"fɪ́sɪcæ",
+				")",
+				"==="
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kamasqa",
+				",",
+				"Ollanta",
+				"Humala",
+				"Umalliqmi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kæmæsχɑ",
+				",",
+				"oʎæntæ",
+				"hʊmælæ",
+				"ʊmæʎɪχmɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mama",
+				"Llaqtap",
+				"San",
+				"Markus",
+				"Hatun",
+				"Yachay",
+				"Sunturnin"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mæmæ",
+				"ʎæχtæp",
+				"sæn",
+				"mærkʊs",
+				"hætʊn",
+				"jætʃæj",
+				"sʊntʊrnɪn"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Tunshu",
+				"(",
+				"Hunin",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"tʊnshʊ",
+				"(",
+				"hʊnɪn",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		}
+	],
+	"train": [
+		{
+			"tokens": [
+				"San",
+				"Miguel",
+				"de",
+				"la",
+				"Frontera"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"sæn",
+				"mɪgʊel",
+				"de",
+				"læ",
+				"fronteræ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Carl",
+				"von",
+				"Linné"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"cærl",
+				"von",
+				"lɪnné"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"===",
+				"Rimay",
+				"yachaq",
+				"ruphay",
+				"mit'a",
+				"yachay",
+				"wasi",
+				"nisqap",
+				"liwruchasqan",
+				"willakuykuna",
+				"qillqakunapas",
+				"==="
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"===",
+				"rɪmæj",
+				"jætʃæχ",
+				"rʊphæj",
+				"mɪt'æ",
+				"jætʃæj",
+				"wæsɪ",
+				"nɪsχɑp",
+				"lɪwrʊtʃæsχɑn",
+				"wɪʎækʊjkʊnæ",
+				"χɛʎχɑkʊnæpæs",
+				"==="
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1970"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1970"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Carl",
+				"von",
+				"Linné"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"cærl",
+				"von",
+				"lɪnné"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1990",
+				"Italya",
+				"''",
+				"'Semifinal",
+				"''",
+				"'52"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1990",
+				"ɪtæljæ",
+				"''",
+				"'semɪfɪnæl",
+				"''",
+				"'52"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Alessandro",
+				"Del",
+				"Piero",
+				"-",
+				"8",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ælessændro",
+				"del",
+				"pɪero",
+				"-",
+				"8",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Climinti",
+				"II",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"clɪmɪntɪ",
+				"ɪɪ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kamasqa",
+				",",
+				"Alan",
+				"García",
+				"Umalliqmi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kæmæsχɑ",
+				",",
+				"ælæn",
+				"gærcɪ́æ",
+				"ʊmæʎɪχmɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Antonio",
+				"Guzmán",
+				"Blanco",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"æntonɪo",
+				"gʊzmǽn",
+				"blænco",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"2014"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"2014"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Cristiano",
+				"Ronaldo",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"crɪstɪæno",
+				"ronældo",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Uma",
+				"llaqtanqa",
+				"Victoria",
+				"de",
+				"Durango",
+				"llaqtam",
+				"."
+			],
+			"ner_tags": [
+				5,
+				6,
+				3,
+				4,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʊmæ",
+				"ʎæχtænχɑ",
+				"vɪctorɪæ",
+				"de",
+				"dʊrængo",
+				"ʎæχtæm",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				3,
+				4,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wolfgang",
+				"Amadeus",
+				"Mozart"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"wolfgæng",
+				"æmædeʊs",
+				"mozært"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Cirilo",
+				"Rivarola",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"cɪrɪlo",
+				"rɪværolæ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tukumi",
+				"chuntukuna",
+				",",
+				"Lampalliqi",
+				"pruwinsya"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"tʊkʊmɪ",
+				"tʃʊntʊkʊnæ",
+				",",
+				"læmpæʎɪχɛ",
+				"prʊwɪnsjæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"North",
+				"Yorkshire",
+				",",
+				"Yorkshire",
+				"Dales",
+				"mama",
+				"llaqta",
+				"parki"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"north",
+				"jorkshɪre",
+				",",
+				"jorkshɪre",
+				"dæles",
+				"mæmæ",
+				"ʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Antonio",
+				"José",
+				"de",
+				"Sucre"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"æntonɪo",
+				"josé",
+				"de",
+				"sʊcre"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Chopin",
+				",",
+				"Frédéric",
+				"(",
+				"1810-1849",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʃopɪn",
+				",",
+				"frédérɪc",
+				"(",
+				"1810-1849",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1994"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1994"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Taro",
+				"Aso",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"tæro",
+				"æso",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Paolo",
+				"Rossi",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"pæolo",
+				"rossɪ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1958"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1958"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Sumaku",
+				"Napu",
+				"-",
+				"Galeras",
+				"mama",
+				"llaqta",
+				"parki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sʊmækʊ",
+				"næpʊ",
+				"-",
+				"gæleræs",
+				"mæmæ",
+				"ʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"2006"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"2006"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ukayali",
+				"suyu",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ʊkæjælɪ",
+				"sʊjʊ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ramón",
+				"Castilla",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ræmón",
+				"cæstɪʎæ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Cartagena",
+				"(",
+				"Kulumbya",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"cærtægenæ",
+				"(",
+				"kʊlʊmbjæ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Harvard",
+				"Yachay",
+				"Suntur"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"hærværd",
+				"jætʃæj",
+				"sʊntʊr"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Covent",
+				"Garden",
+				"Theatre]]",
+				",",
+				"London"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"covent",
+				"gærden",
+				"theætre]]",
+				",",
+				"london"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Stanford",
+				"Yachay",
+				"Suntur"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"stænford",
+				"jætʃæj",
+				"sʊntʊr"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Hukllachasqa",
+				"Amirika",
+				"Suyukuna"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"hʊkʎætʃæsχɑ",
+				"æmɪrɪkæ",
+				"sʊjʊkʊnæ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Xalapa-Enríquez",
+				",",
+				"Veracruz",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"xælæpæ-enrɪ́χɔez",
+				",",
+				"veræcrʊz",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Podocarpus",
+				"mama",
+				"llaqta",
+				"parki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"podocærpʊs",
+				"mæmæ",
+				"ʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Gerard",
+				"Piqué",
+				"-",
+				"4",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"gerærd",
+				"pɪχɔé",
+				"-",
+				"4",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Paspanshu",
+				"''Lipaugus",
+				"vociferans",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"pæspænshʊ",
+				"''lɪpæʊgʊs",
+				"vocɪferæns",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Yale",
+				"Yachay",
+				"Suntur"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"jæle",
+				"jætʃæj",
+				"sʊntʊr"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"2006"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"2006"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Laram",
+				"Q'awa",
+				"(",
+				"Paqaqi",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"læræm",
+				"χ'æwæ",
+				"(",
+				"pæχɑχɛ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ronaldo",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ronældo",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				",",
+				"Frankfurt",
+				"am",
+				"Main"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				",",
+				"frænkfʊrt",
+				"æm",
+				"mæɪn"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Gerd",
+				"Müller",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"gerd",
+				"mʊ̈ʎer",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Huwan",
+				"XV",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"hʊwæn",
+				"xv",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mario",
+				"Kempes",
+				"-",
+				"11",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mærɪo",
+				"kempes",
+				"-",
+				"11",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Climinti",
+				"IV",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"clɪmɪntɪ",
+				"ɪv",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Montero",
+				"(",
+				"Buliwya",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"montero",
+				"(",
+				"bʊlɪwjæ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"6",
+				"GP",
+				"de",
+				"Mónaco",
+				"(",
+				"1987-1989-1990-1991-1992-1993",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"6",
+				"gp",
+				"de",
+				"mónæco",
+				"(",
+				"1987-1989-1990-1991-1992-1993",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kaká",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kækǽ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1974"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1974"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Johann",
+				"Sebastian",
+				"Bach"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"johænn",
+				"sebæstɪæn",
+				"bætʃ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Chilipi",
+				"amachasqa",
+				"sallqa",
+				"suyukuna"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tʃɪlɪpɪ",
+				"æmætʃæsχɑ",
+				"sæʎχɑ",
+				"sʊjʊkʊnæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Toribio",
+				"Rodríguez",
+				"de",
+				"Mendoza"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"torɪbɪo",
+				"rodrɪ́gʊez",
+				"de",
+				"mendozæ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Francisco",
+				"Morazán",
+				"Quesada",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"fræncɪsco",
+				"moræzǽn",
+				"χɔesædæ",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Miguel",
+				"de",
+				"los",
+				"Bancos"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"sæn",
+				"mɪgʊel",
+				"de",
+				"los",
+				"bæncos"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"San",
+				"Huwan",
+				"distritu",
+				"(",
+				"Lukana",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"sæn",
+				"hʊwæn",
+				"dɪstrɪtʊ",
+				"(",
+				"lʊkænæ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"pusapuna",
+				"Hipólito",
+				"Ruiz",
+				"López"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"hɪpólɪto",
+				"rʊɪz",
+				"lópez"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"1998"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"1998"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Turpiña",
+				"''Fulica",
+				"gigantea",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʊrpɪɲæ",
+				"''fʊlɪcæ",
+				"gɪgænteæ",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kambuya",
+				"Qhapaq",
+				"suyu",
+				"(",
+				"Ristauradu",
+				",",
+				"1993-",
+				")",
+				"==="
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kæmbʊjæ",
+				"χhæpæχ",
+				"sʊjʊ",
+				"(",
+				"rɪstæʊrædʊ",
+				",",
+				"1993-",
+				")",
+				"==="
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wantar",
+				"Chawin",
+				"(",
+				"Wantar",
+				"Chawin",
+				"distritupi",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"wæntær",
+				"tʃæwɪn",
+				"(",
+				"wæntær",
+				"tʃæwɪn",
+				"dɪstrɪtʊpɪ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Waylla",
+				"urpi",
+				"''Zenaida",
+				"auriculata",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"wæjʎæ",
+				"ʊrpɪ",
+				"''zenæɪdæ",
+				"æʊrɪcʊlætæ",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Inka",
+				"ñan",
+				",",
+				"huknin",
+				"tiqsimuyuntinpi",
+				"riqsisqa",
+				"“trekking”"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɪnkæ",
+				"ɲæn",
+				",",
+				"hʊknɪn",
+				"tɪχsɪmʊjʊntɪnpɪ",
+				"rɪχsɪsχɑ",
+				"“trekkɪng”"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pallanchikpa",
+				"basilikan",
+				"(",
+				"Qupaqhawanapi",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pæʎæntʃɪkpæ",
+				"bæsɪlɪkæn",
+				"(",
+				"χɔpæχhæwænæpɪ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Titiqaqa",
+				"mama",
+				"llaqta",
+				"risirwa"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"tɪtɪχɑχɑ",
+				"mæmæ",
+				"ʎæχtæ",
+				"rɪsɪrwæ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Santa",
+				"Elena",
+				"(",
+				"Ikwadur",
+				")",
+				";"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"sæntæ",
+				"elenæ",
+				"(",
+				"ɪkwædʊr",
+				")",
+				";"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sankay",
+				"mama",
+				"llaqta",
+				"parki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sænkæj",
+				"mæmæ",
+				"ʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"T'uru",
+				"T'uru",
+				"mamallaqta",
+				"parki"
+			],
+			"ner_tags": [
+				3,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"t'ʊrʊ",
+				"t'ʊrʊ",
+				"mæmæʎæχtæ",
+				"pærkɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Rimaq",
+				"mayu",
+				"(",
+				"Lurigancho-Chosicapi",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"rɪmæχ",
+				"mæjʊ",
+				"(",
+				"lʊrɪgæntʃo-tʃosɪcæpɪ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Madidi",
+				"mamallaqta",
+				"parkipi",
+				"(",
+				"Rurrenabaque",
+				"ñiqpi",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mædɪdɪ",
+				"mæmæʎæχtæ",
+				"pærkɪpɪ",
+				"(",
+				"rʊɹenæbæχɔe",
+				"ɲɪχpɪ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Marilyn",
+				"Monroe"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"mærɪljn",
+				"monroe"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Suntur",
+				"(",
+				"mawk'a",
+				"llaqta",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"sʊntʊr",
+				"(",
+				"mæwk'æ",
+				"ʎæχtæ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Vicente",
+				"Kañitipi",
+				"distritu"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"sæn",
+				"vɪcente",
+				"kæɲɪtɪpɪ",
+				"dɪstrɪtʊ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Binidiktu",
+				"XII",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"bɪnɪdɪktʊ",
+				"xɪɪ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Urin",
+				"Awya",
+				"Yalapi",
+				"Amarumayu",
+				"sach'a-sach'a",
+				"suyupim",
+				"kawsan",
+				"."
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				5,
+				6,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʊrɪn",
+				"æwjæ",
+				"jælæpɪ",
+				"æmærʊmæjʊ",
+				"sætʃ'æ-sætʃ'æ",
+				"sʊjʊpɪm",
+				"kæwsæn",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				5,
+				6,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Wankani",
+				"distritu",
+				"(",
+				"Hunin",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"wænkænɪ",
+				"dɪstrɪtʊ",
+				"(",
+				"hʊnɪn",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Wasqar",
+				"q'inti",
+				"''Patagona",
+				"gigas",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"wæsχɑr",
+				"χ'ɪntɪ",
+				"''pætægonæ",
+				"gɪgæs",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mayupura",
+				"(",
+				"Tarija",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"mæjʊpʊræ",
+				"(",
+				"tærɪjæ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Chururu",
+				"''Phoenicoparrus",
+				"andinus",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʃʊrʊrʊ",
+				"''phoenɪcopæɹʊs",
+				"ændɪnʊs",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"César",
+				"Vallejo",
+				"(",
+				"1892-1938",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"césær",
+				"væʎejo",
+				"(",
+				"1892-1938",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"-",
+				"''",
+				"Carlos",
+				"Blanco",
+				"Galindo",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"-",
+				"''",
+				"cærlos",
+				"blænco",
+				"gælɪndo",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Paqcha",
+				"distritu",
+				"(",
+				"Chuta",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"pæχtʃæ",
+				"dɪstrɪtʊ",
+				"(",
+				"tʃʊtæ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Universidade",
+				"Federal",
+				"de",
+				"Minas",
+				"Gerais"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ʊnɪversɪdæde",
+				"federæl",
+				"de",
+				"mɪnæs",
+				"geræɪs"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Sawanqaya",
+				"(",
+				"5.976",
+				"m",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"sæwænχɑjæ",
+				"(",
+				"5.976",
+				"m",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"José",
+				"María",
+				"Achá",
+				"Valiente"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"josé",
+				"mærɪ́æ",
+				"ætʃǽ",
+				"vælɪente"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Chuqi",
+				"Uta",
+				"munisipyu"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"tʃʊχɛ",
+				"ʊtæ",
+				"mʊnɪsɪpjʊ"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Inka",
+				"Garcilaso",
+				"de",
+				"la",
+				"Vega"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɪnkæ",
+				"gærcɪlæso",
+				"de",
+				"læ",
+				"vegæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Junichiro",
+				"Koizumi",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"jʊnɪtʃɪro",
+				"koɪzʊmɪ",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Chilipi",
+				"amachasqa",
+				"sallqa",
+				"suyukuna"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tʃɪlɪpɪ",
+				"æmætʃæsχɑ",
+				"sæʎχɑ",
+				"sʊjʊkʊnæ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Chini",
+				"''",
+				"(",
+				"Urera",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʃɪnɪ",
+				"''",
+				"(",
+				"ʊreræ",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Li",
+				"Peng",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"lɪ",
+				"peng",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Usqhullu",
+				"''Felis",
+				"colocolo",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʊsχhʊʎʊ",
+				"''felɪs",
+				"colocolo",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Pachakutiq",
+				"Inka",
+				"Yupanki"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"pætʃækʊtɪχ",
+				"ɪnkæ",
+				"jʊpænkɪ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"PUSAPUNA",
+				"Wankapampa",
+				"mayu",
+				"(",
+				"Pasqu",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pʊsæpʊnæ",
+				"wænkæpæmpæ",
+				"mæjʊ",
+				"(",
+				"pæsχɔ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Wallqanqa",
+				"''",
+				"(",
+				"escudo",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"**",
+				"wæʎχɑnχɑ",
+				"''",
+				"(",
+				"escʊdo",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kunti",
+				"Walla",
+				"(",
+				"Ikwadur",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"kʊntɪ",
+				"wæʎæ",
+				"(",
+				"ɪkwædʊr",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Piluta",
+				"Hayt'ay",
+				"Pachantin",
+				"Kupa",
+				"2006"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɪlʊtæ",
+				"hæjt'æj",
+				"pætʃæntɪn",
+				"kʊpæ",
+				"2006"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"P'utuqsi",
+				"suyu",
+				",",
+				"Chinchay",
+				"Lipis",
+				"pruwinsya"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"p'ʊtʊχsɪ",
+				"sʊjʊ",
+				",",
+				"tʃɪntʃæj",
+				"lɪpɪs",
+				"prʊwɪnsjæ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Petar",
+				"Stoyanov",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"petær",
+				"stojænov",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Luritu",
+				"suyu",
+				",",
+				"Maynas",
+				"pruwinsya"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"lʊrɪtʊ",
+				"sʊjʊ",
+				",",
+				"mæjnæs",
+				"prʊwɪnsjæ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Qaqa",
+				"paluma",
+				"''",
+				"(",
+				"Columba",
+				"livia",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"χɑχɑ",
+				"pælʊmæ",
+				"''",
+				"(",
+				"colʊmbæ",
+				"lɪvɪæ",
+				")",
+				"''"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	]
+}
