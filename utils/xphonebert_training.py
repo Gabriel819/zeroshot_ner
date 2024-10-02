@@ -11,8 +11,8 @@ from utils.xphonebert_evaluation import xphonebert_eval
 import evaluate
 import copy
 
-def total_xphonebert_train(args, conll_dataset, zeroshot_dataset, model, device, f):
-    train_dataset = conll_dataset['train']
+def xphonebert_train(args, english_dataset, zeroshot_dataset, model, device, f):
+    train_dataset = english_dataset['train']
     train_sampler = RandomSampler(train_dataset)
     train_dataloader = DataLoader(
         train_dataset,
@@ -71,19 +71,19 @@ def total_xphonebert_train(args, conll_dataset, zeroshot_dataset, model, device,
         epoch_iterator = tqdm.tqdm(train_dataloader, desc="Iteration")
 
         for step, batch in enumerate(epoch_iterator):
-            orig_epi_token_inputs = tokenizer(batch[1], return_tensors="pt", padding='max_length', truncation=True, max_length=args.max_seq_len)
+            orig_epi_token_inputs = tokenizer(batch[0], return_tensors="pt", padding='max_length', truncation=True, max_length=args.max_seq_len)
             model.train()
             epi_token_inputs = orig_epi_token_inputs['input_ids'].to(device)
             epi_attn_mask = orig_epi_token_inputs['attention_mask'].to(device)
 
             outputs = model(epi_token_inputs, attn_mask=epi_attn_mask)
             logits = outputs['logits']
-            label = batch[3].to(device)
+            label = batch[1].to(device)
             loss = cross_ent(logits.flatten(0,1), label.flatten())
 
             preds = logits.detach().cpu().numpy()
             preds = np.argmax(preds, axis=2)
-            out_label_ids = batch[3].detach().cpu().numpy()
+            out_label_ids = batch[1].detach().cpu().numpy()
 
             for i in range(out_label_ids.shape[0]):
                 for j in range(out_label_ids.shape[1]):
@@ -114,7 +114,7 @@ def total_xphonebert_train(args, conll_dataset, zeroshot_dataset, model, device,
         ##### English Validation set Evaluation #####
         eval_results, _ = xphonebert_eval(
                 args=args,
-                eval_dataset=conll_dataset["validation"],
+                eval_dataset=english_dataset["validation"],
                 model=model,
                 device=device
         )
