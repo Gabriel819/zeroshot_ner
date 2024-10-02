@@ -132,20 +132,9 @@ def main(args):
         raise NotImplementedError
     model.to(device)
 
-    n_parameters = sum(p.numel() for p in model.parameters() if p.requires_grad)  # whole model param#
+    ###### Whole model parameter #####
+    n_parameters = sum(p.numel() for p in model.parameters() if p.requires_grad)
     print('Whole model number of params:', n_parameters)
-
-    ##### Train Dataset Loading #####
-    if args.model == 'bio_xml_roberta' and args.train_language == 'english': # for now, just use eng wikiann for training
-        ##### BIO Tagging XML RoBERTa WikiAnn English Dataset #####
-        logging.info('Loading BIO Tagging XML RoBERTa WikiAnn English Dataset')
-        train_dataset = {}
-        train_dataset['train'] = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('english', 'train', args.max_seq_len)
-        train_dataset['validation'] = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('english', 'validation', args.max_seq_len)
-        train_dataset['test'] = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('english', 'test', args.max_seq_len)
-    else:
-        print(f"Train language {args.train_language} is not implemented!")
-        raise NotImplementedError
 
     ##### Train #####
     # Log args
@@ -153,6 +142,18 @@ def main(args):
     for k, v in vars(args).items():
         logging.info("* %s: %s", k, v)
     if args.do_train:
+        ##### Train Dataset Loading #####
+        if args.model == 'bio_xml_roberta' and args.train_language == 'english':
+            ##### BIO Tagging XML RoBERTa WikiAnn English Dataset #####
+            logging.info('Loading BIO Tagging XML RoBERTa WikiAnn English Dataset')
+            train_dataset = {}
+            train_dataset['train'] = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('english', 'train', args.max_seq_len)
+            train_dataset['validation'] = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('english', 'validation', args.max_seq_len)
+            train_dataset['test'] = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('english', 'test', args.max_seq_len)
+        else:
+            print(f"Train language {args.train_language} is not implemented!")
+            raise NotImplementedError
+        
         f = open(args.task + '_log.txt', 'a')
         global_step, train_loss, best_val_metric, best_val_epoch, best_model_state_dict = xml_roberta_train(
             args=args,
