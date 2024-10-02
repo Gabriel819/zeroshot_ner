@@ -13,7 +13,7 @@ import evaluate
 import torch.nn as nn
 import copy
 
-def total_xml_roberta_train(args, english_dataset, zeroshot_dataset, model, device, f):
+def xml_roberta_train(args, english_dataset, zeroshot_dataset, model, device, f):
     train_dataset = english_dataset['train']
     train_sampler = RandomSampler(train_dataset)
     train_dataloader = DataLoader(
