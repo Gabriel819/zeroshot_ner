@@ -3,6 +3,7 @@ Official code for [Zero-Shot Cross-Lingual NER Using Phonemic Representations fo
 
 *: equal contribution
 
+# Approach
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/6c8c95f0-9a65-49e4-8feb-3fc85afa6196">
 
 # Data Structure
@@ -58,3 +59,6 @@ data
 
 ## 5. XML RoBERTa inference
 ```python src/xml_roberta_main.py --task xml_roberta --model bio_xml_roberta --max_seq_len 128 --do_predict --eval_batch_size 128 --model_ckpt_path 'xml roberta model checkpoint path'```
+
+# Email
+estelle26598@gm.gist.ac.kr
