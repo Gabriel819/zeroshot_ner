@@ -6,7 +6,7 @@ import tqdm
 from transformers import CanineTokenizer
 import evaluate
 
-def total_canine_c_eval(args, eval_dataset, model, device):
+def canine_c_eval(args, eval_dataset, model, device):
     """ Evaluates the given model on the given dataset. """
     f1_metric = evaluate.load("f1")
     
