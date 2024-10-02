@@ -1,0 +1,9177 @@
+{
+	"id_mapping": {
+		"0": "O",
+		"1": "B-PER",
+		"2": "I-PER",
+		"3": "B-ORG",
+		"4": "I-ORG",
+		"5": "B-LOC",
+		"6": "I-LOC"
+	},
+	"validation": [
+		{
+			"tokens": [
+				"Laoang",
+				",",
+				"Amianan",
+				"a",
+				"Samar"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"laoaŋ",
+				",",
+				"amhanan",
+				"a",
+				"samaɾ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"**Kaaduan",
+				"ti",
+				"Florida",
+				",",
+				"Indiana",
+				",",
+				"Michigan"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"**kaadwan",
+				"ti",
+				"ploɾida",
+				",",
+				"ind͡ʒana",
+				",",
+				"mikhiɡan"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Golpo",
+				"ti",
+				"Khambhat"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɡolpo",
+				"ti",
+				"khambhat"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Dagiti",
+				"lehislatibo",
+				"a",
+				"distrito",
+				"iti",
+				"Tanap",
+				"ti",
+				"Compostela"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"daɡiti",
+				"lehislatibo",
+				"a",
+				"distɾito",
+				"iti",
+				"tanap",
+				"ti",
+				"kompostela"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Urbano",
+				"V"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"uɾbano",
+				"v"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'ara",
+				"'",
+				"(",
+				"Arabiko",
+				")",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'aɾa",
+				"'",
+				"(",
+				"aɾabiko",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Benedicto",
+				"III",
+				"(",
+				"855–858",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"benedikto",
+				"ihi",
+				"(",
+				"855–858",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nasantuan",
+				"nga",
+				"Imperio",
+				"a",
+				"Romano"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"nasantwan",
+				"ŋa",
+				"impeɾho",
+				"a",
+				"ɾomano"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Instituto",
+				"ti",
+				"Bulkanolohia",
+				"ken",
+				"Seismolohia",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"instituto",
+				"ti",
+				"bulkanolohha",
+				"ken",
+				"seismolohha",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Dan",
+				"Quayle",
+				"''",
+				"'",
+				"(",
+				"1947–",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"dan",
+				"qwajle",
+				"''",
+				"'",
+				"(",
+				"1947–",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pingir",
+				"a",
+				"baybay"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"piŋiɾ",
+				"a",
+				"bajbaj"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Leon",
+				"X",
+				"(",
+				"1513–1521",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"leon",
+				"ks",
+				"(",
+				"1513–1521",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dagiti",
+				"lehislatibo",
+				"a",
+				"distrito",
+				"iti",
+				"Rizal"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"daɡiti",
+				"lehislatibo",
+				"a",
+				"distɾito",
+				"iti",
+				"ɾizal"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Dagiti",
+				"panagtunton",
+				"ti",
+				"teritorio",
+				"ti",
+				"Antartika"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"daɡiti",
+				"panaɡtunton",
+				"ti",
+				"teɾitoɾho",
+				"ti",
+				"antaɾtika"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Jose",
+				",",
+				"Nueva",
+				"Ecija"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"san",
+				"hose",
+				",",
+				"nweva",
+				"ekiha"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Estado",
+				"nga",
+				"Unibersidad",
+				"ti",
+				"Bataan",
+				"Peninsula"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"estado",
+				"ŋa",
+				"unibeɾsidad",
+				"ti",
+				"bataan",
+				"peninsula"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Joey",
+				"de",
+				"Leon"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"hoej",
+				"de",
+				"leon"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Carlos",
+				"P.",
+				"Garcia",
+				"(",
+				"1896–1971",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kaɾlos",
+				"p.",
+				"ɡaɾkha",
+				"(",
+				"1896–1971",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Isu",
+				"ket",
+				"nagsukisok",
+				"ti",
+				"nominasion",
+				"ti",
+				"kinapresidente",
+				"idi",
+				"2000",
+				",",
+				"ngem",
+				"nagikkat",
+				"ken",
+				"nagsuporta",
+				"kenni",
+				"George",
+				"W.",
+				"Bush",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"isu",
+				"ket",
+				"naɡsukisok",
+				"ti",
+				"nominaʃon",
+				"ti",
+				"kinapɾesidente",
+				"idi",
+				"2000",
+				",",
+				"ŋem",
+				"naɡikkat",
+				"ken",
+				"naɡsupoɾta",
+				"kenni",
+				"ɡeoɾɡe",
+				"w.",
+				"bush",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"nga",
+				"Ilokano"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"ŋa",
+				"ilokano"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Roy",
+				"V.",
+				"Aragon"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɾoj",
+				"v.",
+				"aɾaɡon"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Silago",
+				",",
+				"Abagatan",
+				"a",
+				"Leyte"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"silaɡo",
+				",",
+				"abaɡatan",
+				"a",
+				"lejte"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Jose",
+				"del",
+				"Monte"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"san",
+				"hose",
+				"del",
+				"monte"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pantar",
+				"ti",
+				"Marpil"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pantaɾ",
+				"ti",
+				"maɾpil"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Inocencio",
+				"IV",
+				"(",
+				"1243–1254",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"inokenkho",
+				"iv",
+				"(",
+				"1243–1254",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Gregorio",
+				"XI"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"ɡɾeɡoɾho",
+				"ksi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Leon",
+				"XI",
+				"(",
+				"1605",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"leon",
+				"ksi",
+				"(",
+				"1605",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tattao",
+				"nga",
+				"Espaniol"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tattao",
+				"ŋa",
+				"espanʲol"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kappon",
+				"ti",
+				"Europa"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kappon",
+				"ti",
+				"euɾopa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Gloria",
+				"Macapagal",
+				"Arroyo"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡloɾha",
+				"makapaɡal",
+				"arojo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Pio",
+				"XI"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"pho",
+				"ksi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Imperio",
+				"a",
+				"Bisantino"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"impeɾho",
+				"a",
+				"bisantino"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mataasnakahoy",
+				",",
+				"Batangas"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"mataasnakahoj",
+				",",
+				"bataŋas"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ti",
+				"ili",
+				"ti",
+				"Lagawe",
+				"ti",
+				"kapitoliona",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ti",
+				"ili",
+				"ti",
+				"laɡawe",
+				"ti",
+				"kapitolʲona",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hermosa",
+				",",
+				"Bataan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"heɾmosa",
+				",",
+				"bataan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Uong",
+				"ti",
+				"garami"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"uoŋ",
+				"ti",
+				"ɡaɾami"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Kabugao",
+				",",
+				"Apayao"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"kabuɡao",
+				",",
+				"apajao"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Richard",
+				"Gordon",
+				"(",
+				"politiko",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɾikhaɾd",
+				"ɡoɾdon",
+				"(",
+				"politiko",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Gardanne",
+				",",
+				"populasion",
+				"21,121"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡaɾdanne",
+				",",
+				"populaʃon",
+				"21,121"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Unibersidad",
+				"ti",
+				"Estado",
+				"ti",
+				"Cagayan"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"unibeɾsidad",
+				"ti",
+				"estado",
+				"ti",
+				"kaɡajan"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Prepektura",
+				"ti",
+				"Aichi"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pɾepektuɾa",
+				"ti",
+				"aikhi"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Eugenio",
+				"IV",
+				"(",
+				"1431–1447",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"euɡenʲo",
+				"iv",
+				"(",
+				"1431–1447",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Richard",
+				"Mentor",
+				"Johnson",
+				"''",
+				"'",
+				"(",
+				"1780–1850",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ɾikhaɾd",
+				"mentoɾ",
+				"hohnson",
+				"''",
+				"'",
+				"(",
+				"1780–1850",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Henry",
+				"A.",
+				"Wallace",
+				"''",
+				"'",
+				"(",
+				"1888–1965",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"henɾj",
+				"a.",
+				"wallake",
+				"''",
+				"'",
+				"(",
+				"1888–1965",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Fernando",
+				",",
+				"Pampanga"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"san",
+				"peɾnando",
+				",",
+				"pampaŋa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Julio",
+				"I",
+				"(",
+				"337–352",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"hulʲo",
+				"i",
+				"(",
+				"337–352",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bauang",
+				",",
+				"La",
+				"Union"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"bawaŋ",
+				",",
+				"la",
+				"unʲon"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Republika",
+				"ti",
+				"Irlanda"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɾepublika",
+				"ti",
+				"iɾlanda"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Celestino",
+				"V",
+				"(",
+				"1294",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"kelestino",
+				"v",
+				"(",
+				"1294",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sistema",
+				"ti",
+				"reproduktibo"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sistema",
+				"ti",
+				"ɾepɾoduktibo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Naic",
+				",",
+				"Cavite"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"naik",
+				",",
+				"kavite"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Instituto",
+				"ti",
+				"Bulkanolohia",
+				"ken",
+				"Seismolohia",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"instituto",
+				"ti",
+				"bulkanolohha",
+				"ken",
+				"seismolohha",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Fernando",
+				",",
+				"Pampanga"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"san",
+				"peɾnando",
+				",",
+				"pampaŋa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Sistema",
+				"ti",
+				"reproduktibo"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sistema",
+				"ti",
+				"ɾepɾoduktibo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Banko",
+				"ti",
+				"Lubong"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"banko",
+				"ti",
+				"luboŋ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Awan",
+				"(",
+				"Dagiti",
+				"panagtunton",
+				"ti",
+				"teritorio",
+				"ti",
+				"Antartika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awan",
+				"(",
+				"daɡiti",
+				"panaɡtunton",
+				"ti",
+				"teɾitoɾho",
+				"ti",
+				"antaɾtika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"nga",
+				"Arabiko"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"ŋa",
+				"aɾabiko"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Isla",
+				"ti",
+				"Paskua"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"isla",
+				"ti",
+				"paskwa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Urbano",
+				"III"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"uɾbano",
+				"ihi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Jake",
+				"Vargas",
+				"as",
+				"Alden",
+				"/",
+				"Trumpo"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"hake",
+				"vaɾɡas",
+				"as",
+				"alden",
+				"/",
+				"tɾumpo"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Is-isla",
+				"ti",
+				"Cocos",
+				"(",
+				"Keeling",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"is-isla",
+				"ti",
+				"kokos",
+				"(",
+				"keeliŋ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Calvin",
+				"Coolidge",
+				"''",
+				"'",
+				"(",
+				"1872–1933",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kalvin",
+				"koolidɡe",
+				"''",
+				"'",
+				"(",
+				"1872–1933",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"M'lang",
+				",",
+				"Cotabato"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"m'laŋ",
+				",",
+				"kotabato"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Instituto",
+				"ti",
+				"Bulkanolohia",
+				"ken",
+				"Seismolohia",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"instituto",
+				"ti",
+				"bulkanolohha",
+				"ken",
+				"seismolohha",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kangatuan",
+				"a",
+				"Korte",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kaŋatwan",
+				"a",
+				"koɾte",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Palawan",
+				"(",
+				"IV-C",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"palawan",
+				"(",
+				"iv-k",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Loreto",
+				",",
+				"Is-isla",
+				"ti",
+				"Dinagat"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"loɾeto",
+				",",
+				"is-isla",
+				"ti",
+				"dinaɡat"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Hiri",
+				"Motu"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"hiɾi",
+				"motu"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Lucio",
+				"II",
+				"(",
+				"1144–1145",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"lukho",
+				"ii",
+				"(",
+				"1144–1145",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nailian",
+				"a",
+				"Parke",
+				"ti",
+				"Ginasut",
+				"nga",
+				"Is-isla"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"nailʲan",
+				"a",
+				"paɾke",
+				"ti",
+				"ɡinasut",
+				"ŋa",
+				"is-isla"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Balanga",
+				",",
+				"Bataan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"balaŋa",
+				",",
+				"bataan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Sistema",
+				"ti",
+				"reproduktibo"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sistema",
+				"ti",
+				"ɾepɾoduktibo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Gunglo",
+				"ti",
+				"Tulagan",
+				"ti",
+				"Amianan",
+				"nga",
+				"Atlantiko"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡuŋlo",
+				"ti",
+				"tulaɡan",
+				"ti",
+				"amhanan",
+				"ŋa",
+				"atlantiko"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Biblioteka",
+				"ti",
+				"Estado",
+				"ti",
+				"Rusia"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"biblʲoteka",
+				"ti",
+				"estado",
+				"ti",
+				"ɾuʃa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Instituto",
+				"ti",
+				"Bulkanolohia",
+				"ken",
+				"Seismolohia",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"instituto",
+				"ti",
+				"bulkanolohha",
+				"ken",
+				"seismolohha",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Instituto",
+				"ti",
+				"Smithsoniano"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"instituto",
+				"ti",
+				"smithsonʲano"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kamara",
+				"dagiti",
+				"Pannakabagi",
+				"ti",
+				"Estados",
+				"Unidos"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kamaɾa",
+				"daɡiti",
+				"pannakabaɡi",
+				"ti",
+				"estados",
+				"unidos"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"nga",
+				"Arabiko"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"ŋa",
+				"aɾabiko"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Benigno",
+				"Aquino",
+				"III"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"beniɡno",
+				"aqwino",
+				"ihi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"TV5",
+				"(",
+				"Pilipinas",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tv5",
+				"(",
+				"pilipinas",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Balanga",
+				",",
+				"Bataan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"balaŋa",
+				",",
+				"bataan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Jose",
+				"de",
+				"Buan",
+				",",
+				"Samar"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"san",
+				"hose",
+				"de",
+				"bwan",
+				",",
+				"samaɾ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Bonifacio",
+				"II"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"bonipakho",
+				"ii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Felix",
+				"I",
+				"(",
+				"269–274",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"peliks",
+				"i",
+				"(",
+				"269–274",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Silvestre",
+				"II",
+				"(",
+				"999–1003",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"silvestɾe",
+				"ii",
+				"(",
+				"999–1003",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dagiti",
+				"lehislatibo",
+				"a",
+				"distrito",
+				"iti",
+				"Siudad",
+				"ti",
+				"Valenzuela"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"daɡiti",
+				"lehislatibo",
+				"a",
+				"distɾito",
+				"iti",
+				"ʃudad",
+				"ti",
+				"valenzwela"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Leon",
+				"X"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"leon",
+				"ks"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Leon",
+				"XI"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"leon",
+				"ksi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Dagiti",
+				"Nagkaykaysa",
+				"nga",
+				"Emirato",
+				"nga",
+				"Arabo"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"daɡiti",
+				"naɡkajkajsa",
+				"ŋa",
+				"emiɾato",
+				"ŋa",
+				"aɾabo"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Walter",
+				"Mondale",
+				"''",
+				"'",
+				"(",
+				"1928–",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"walteɾ",
+				"mondale",
+				"''",
+				"'",
+				"(",
+				"1928–",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Juan",
+				"V",
+				"(",
+				"685–686",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"hwan",
+				"v",
+				"(",
+				"685–686",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Benedicto",
+				"IV"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"benedikto",
+				"iv"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Anastasio",
+				"II"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"anastaʃo",
+				"ii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Universidad",
+				"ti",
+				"Ateneo",
+				"de",
+				"Manila"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"univeɾsidad",
+				"ti",
+				"ateneo",
+				"de",
+				"manila"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Woodrow",
+				"Wilson",
+				"''",
+				"'",
+				"(",
+				"1856–1924",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"woodɾow",
+				"wilson",
+				"''",
+				"'",
+				"(",
+				"1856–1924",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Howlin",
+				"'",
+				"Wolf"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"howlin",
+				"'",
+				"wolp"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Benedicto",
+				"XV",
+				"(",
+				"1914–1922",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"benedikto",
+				"ksv",
+				"(",
+				"1914–1922",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Juan",
+				"VII"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"hwan",
+				"vhi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Rehion",
+				"ti",
+				"Ilocos",
+				"(",
+				"I",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɾehhon",
+				"ti",
+				"ilokos",
+				"(",
+				"i",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Polomolok",
+				",",
+				"Abagatan",
+				"a",
+				"Cotabato"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"polomolok",
+				",",
+				"abaɡatan",
+				"a",
+				"kotabato"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		}
+	],
+	"test": [
+		{
+			"tokens": [
+				"Stammham",
+				"(",
+				"18",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"stammham",
+				"(",
+				"18",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Abasida",
+				"a",
+				"Kalipato"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"abasida",
+				"a",
+				"kalipato"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Pio",
+				"VI"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"pho",
+				"vi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Calixto",
+				"I",
+				"(",
+				"217–222",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"kaliksto",
+				"i",
+				"(",
+				"217–222",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Guarani"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"ɡwaɾani"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Juan",
+				"X"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"hwan",
+				"ks"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Sangalubongan",
+				"a",
+				"Tignay",
+				"ti",
+				"Nalabbasit",
+				"a",
+				"Krus",
+				"ken",
+				"Nalabbasit",
+				"nga",
+				"Immindayon"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"saŋaluboŋan",
+				"a",
+				"tiɡnaj",
+				"ti",
+				"nalabbasit",
+				"a",
+				"kɾus",
+				"ken",
+				"nalabbasit",
+				"ŋa",
+				"immindajon"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"La",
+				"Ciotat",
+				"(",
+				"CUM",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"la",
+				"khotat",
+				"(",
+				"kum",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Reperensia",
+				"ti",
+				"Meridiano",
+				"ti",
+				"IERS"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɾepeɾenʃa",
+				"ti",
+				"meɾid͡ʒano",
+				"ti",
+				"ieɾs"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Gunglo",
+				"ti",
+				"Salun-at",
+				"ti",
+				"Lubong"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡuŋlo",
+				"ti",
+				"salun-at",
+				"ti",
+				"luboŋ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Inocencio",
+				"IV"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"inokenkho",
+				"iv"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siudad",
+				"ti",
+				"Batikano"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʃudad",
+				"ti",
+				"batikano"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Gunglo",
+				"ti",
+				"Internasional",
+				"a",
+				"Hidrograpiko"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡuŋlo",
+				"ti",
+				"inteɾnaʃonal",
+				"a",
+				"hidɾoɡɾapiko"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Reperensia",
+				"ti",
+				"Meridiano",
+				"ti",
+				"IERS"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɾepeɾenʃa",
+				"ti",
+				"meɾid͡ʒano",
+				"ti",
+				"ieɾs"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Rehion",
+				"Administratibo",
+				"ti",
+				"Kordiliera",
+				"''",
+				"'",
+				"(",
+				"CAR",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ɾehhon",
+				"administɾatibo",
+				"ti",
+				"koɾdilʲeɾa",
+				"''",
+				"'",
+				"(",
+				"kaɾ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Juan",
+				"III",
+				"(",
+				"561–574",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"hwan",
+				"ihi",
+				"(",
+				"561–574",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Zazaki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"zazaki"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Restorasion",
+				"ti",
+				"Meiji"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɾestoɾaʃon",
+				"ti",
+				"meihi"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Imperio",
+				"nga",
+				"Otomano"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"impeɾho",
+				"ŋa",
+				"otomano"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Instituto",
+				"ti",
+				"Bulkanolohia",
+				"ken",
+				"Seismolohia",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"instituto",
+				"ti",
+				"bulkanolohha",
+				"ken",
+				"seismolohha",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Iti",
+				"wenno",
+				"mainaig",
+				"iti",
+				"Espania"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"iti",
+				"wenno",
+				"mainaiɡ",
+				"iti",
+				"espanʲa"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Amianan",
+				"a",
+				"daya",
+				"nga",
+				"Asia"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"amhanan",
+				"a",
+				"daja",
+				"ŋa",
+				"aʃa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Pio",
+				"I"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"pho",
+				"i"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Martin",
+				"Van",
+				"Buren",
+				"''",
+				"'",
+				"(",
+				"1782–1862",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"maɾtin",
+				"van",
+				"buɾen",
+				"''",
+				"'",
+				"(",
+				"1782–1862",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dagiti",
+				"lehislatibo",
+				"a",
+				"distrito",
+				"iti",
+				"Sorsogon"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"daɡiti",
+				"lehislatibo",
+				"a",
+				"distɾito",
+				"iti",
+				"soɾsoɡon"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Partido",
+				"Liberal",
+				"(",
+				"Filipinas",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɾtido",
+				"libeɾal",
+				"(",
+				"pilipinas",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"New",
+				"Bataan",
+				",",
+				"Tanap",
+				"ti",
+				"Compostela"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"new",
+				"bataan",
+				",",
+				"tanap",
+				"ti",
+				"kompostela"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Megawati",
+				"Sukarnoputri",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"meɡawati",
+				"sukaɾnoputɾi",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Yidis"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"jidis"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dagiti",
+				"numero",
+				"ti",
+				"telepono",
+				"idiay",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"daɡiti",
+				"numeɾo",
+				"ti",
+				"telepono",
+				"id͡ʒaj",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Leon",
+				"XII"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"leon",
+				"kshi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Prepektura",
+				"ti",
+				"Ōita"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pɾepektuɾa",
+				"ti",
+				"ōita"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Tattao",
+				"nga",
+				"Espaniol"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tattao",
+				"ŋa",
+				"espanʲol"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Republika",
+				"a",
+				"Tseka"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɾepublika",
+				"a",
+				"t͡ʃeka"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Lal-lo",
+				",",
+				"Cagayan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"lal-lo",
+				",",
+				"kaɡajan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"John",
+				"Adams",
+				"''",
+				"'",
+				"(",
+				"1735–1826",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"hohn",
+				"adams",
+				"''",
+				"'",
+				"(",
+				"1735–1826",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Instituto",
+				"ti",
+				"Bulkanolohia",
+				"ken",
+				"Seismolohia",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"instituto",
+				"ti",
+				"bulkanolohha",
+				"ken",
+				"seismolohha",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"nga",
+				"Ilokano"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"ŋa",
+				"ilokano"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mankomunidad",
+				"ti",
+				"Pagpagilian"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"mankomunidad",
+				"ti",
+				"paɡpaɡilʲan"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Gregorio",
+				"VIII"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"ɡɾeɡoɾho",
+				"vhii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Auriol",
+				",",
+				"populasion",
+				"11,969"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"auɾhol",
+				",",
+				"populaʃon",
+				"11,969"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ti",
+				"Instituto",
+				"ti",
+				"Bulkanolohia",
+				"ken",
+				"Seismolohia",
+				"ti",
+				"Filipinas",
+				"(",
+				"PHIVOLCS",
+				")",
+				"."
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ti",
+				"instituto",
+				"ti",
+				"bulkanolohha",
+				"ken",
+				"seismolohha",
+				"ti",
+				"pilipinas",
+				"(",
+				"phivolks",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Guarani"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"ɡwaɾani"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Laud",
+				"nga",
+				"Aprika"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"laud",
+				"ŋa",
+				"apɾika"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Leon",
+				"V"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"leon",
+				"v"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Isu",
+				"ket",
+				"naipasngay",
+				"idiay",
+				"Roma",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"isu",
+				"ket",
+				"naipasŋaj",
+				"id͡ʒaj",
+				"ɾoma",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ditoy",
+				"met",
+				"ti",
+				"pakasarakan",
+				"ti",
+				"Aguinaldo",
+				"Shrine",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ditoj",
+				"met",
+				"ti",
+				"pakasaɾakan",
+				"ti",
+				"aɡwinaldo",
+				"shɾine",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Owen",
+				"Willans",
+				"Richardson"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"owen",
+				"willans",
+				"ɾikhaɾdson"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Zazaki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"zazaki"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Pablo",
+				"IV",
+				"(",
+				"1555–1559",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"pablo",
+				"iv",
+				"(",
+				"1555–1559",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Lehislatibo",
+				"a",
+				"distrito",
+				"iti",
+				"Daya",
+				"a",
+				"Samar"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"lehislatibo",
+				"a",
+				"distɾito",
+				"iti",
+				"daja",
+				"a",
+				"samaɾ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Gunglo",
+				"ti",
+				"Sangalubongan",
+				"para",
+				"iti",
+				"Panagalagad"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡuŋlo",
+				"ti",
+				"saŋaluboŋan",
+				"paɾa",
+				"iti",
+				"panaɡalaɡad"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dagiti",
+				"rehion",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"daɡiti",
+				"ɾehhon",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Clemente",
+				"V",
+				"(",
+				"1305–1314",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"klemente",
+				"v",
+				"(",
+				"1305–1314",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Gottfried",
+				"Wilhelm",
+				"Leibniz"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɡottpɾhed",
+				"wilhelm",
+				"leibniz"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bohol",
+				"(",
+				"3",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"bohol",
+				"(",
+				"3",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Miguel",
+				"de",
+				"Benavides",
+				",",
+				"O.P",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"miɡwel",
+				"de",
+				"benavides",
+				",",
+				"o.p",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Palapag",
+				",",
+				"Amianan",
+				"a",
+				"Samar"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"palapaɡ",
+				",",
+				"amhanan",
+				"a",
+				"samaɾ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Awan",
+				"(",
+				"Dagiti",
+				"panagtunton",
+				"ti",
+				"teritorio",
+				"ti",
+				"Antartika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awan",
+				"(",
+				"daɡiti",
+				"panaɡtunton",
+				"ti",
+				"teɾitoɾho",
+				"ti",
+				"antaɾtika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Imperio",
+				"a",
+				"Britaniko"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"impeɾho",
+				"a",
+				"bɾitaniko"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Dagiti",
+				"Nagkaykaysa",
+				"a",
+				"Pagilian"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"daɡiti",
+				"naɡkajkajsa",
+				"a",
+				"paɡilʲan"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Naic",
+				",",
+				"Cavite"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"naik",
+				",",
+				"kavite"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nailian",
+				"a",
+				"Parke",
+				"ti",
+				"Bantay",
+				"Data"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"nailʲan",
+				"a",
+				"paɾke",
+				"ti",
+				"bantaj",
+				"data"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Siudad",
+				"ti",
+				"Tarlac",
+				",",
+				"Tarlac"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ʃudad",
+				"ti",
+				"taɾlak",
+				",",
+				"taɾlak"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Benigno",
+				"S.",
+				"Aquino",
+				",",
+				"Jr",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"beniɡno",
+				"s.",
+				"aqwino",
+				",",
+				"hɾ",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"John",
+				"Tyler",
+				"''",
+				"'",
+				"(",
+				"1790–1862",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"hohn",
+				"tjleɾ",
+				"''",
+				"'",
+				"(",
+				"1790–1862",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Miguel",
+				"de",
+				"Benavides"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"miɡwel",
+				"de",
+				"benavides"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Zazaki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"zazaki"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Zazaki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"zazaki"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Republika",
+				"a",
+				"Tseka"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɾepublika",
+				"a",
+				"t͡ʃeka"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"ken",
+				"(",
+				"Akin-amianan",
+				"nga",
+				"Irlanda",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"ken",
+				"(",
+				"akin-amhanan",
+				"ŋa",
+				"iɾlanda",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dua",
+				"kadagitoy",
+				",",
+				"ti",
+				"Mapun",
+				"ken",
+				"Turtle",
+				"Islands",
+				"ti",
+				"adda",
+				"iti",
+				"Baybay",
+				"Sulu",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"dwa",
+				"kadaɡitoj",
+				",",
+				"ti",
+				"mapun",
+				"ken",
+				"tuɾtle",
+				"islands",
+				"ti",
+				"adda",
+				"iti",
+				"bajbaj",
+				"sulu",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Leon",
+				"XII"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"leon",
+				"kshi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"William",
+				"R.",
+				"King",
+				"''",
+				"'",
+				"(",
+				"1786–1853",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"willʲam",
+				"ɾ.",
+				"kiŋ",
+				"''",
+				"'",
+				"(",
+				"1786–1853",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Al",
+				"Gore",
+				"''",
+				"'",
+				"(",
+				"1948–",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"al",
+				"ɡoɾe",
+				"''",
+				"'",
+				"(",
+				"1948–",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Guiuan",
+				",",
+				"Daya",
+				"a",
+				"Samar"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɡwhuan",
+				",",
+				"daja",
+				"a",
+				"samaɾ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Abucay",
+				",",
+				"Bataan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"abukaj",
+				",",
+				"bataan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Zazaki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"zazaki"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Pablo",
+				"I",
+				"(",
+				"757–767",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"pablo",
+				"i",
+				"(",
+				"757–767",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nailian",
+				"a",
+				"Parke",
+				"ti",
+				"Ginasut",
+				"nga",
+				"Is-isla"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"nailʲan",
+				"a",
+				"paɾke",
+				"ti",
+				"ɡinasut",
+				"ŋa",
+				"is-isla"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Alejandro",
+				"II",
+				"(",
+				"1061–1073",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"alehandɾo",
+				"ii",
+				"(",
+				"1061–1073",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Presidente",
+				"ti",
+				"Senado",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pɾesidente",
+				"ti",
+				"senado",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nailian",
+				"a",
+				"Biblioteka",
+				"ti",
+				"Suesia"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"nailʲan",
+				"a",
+				"biblʲoteka",
+				"ti",
+				"sweʃa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"poly",
+				"64",
+				"86",
+				"110",
+				"95",
+				"97",
+				"160",
+				"93",
+				"158",
+				"91",
+				"169",
+				"55",
+				"116",
+				"Nevada"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"polj",
+				"64",
+				"86",
+				"110",
+				"95",
+				"97",
+				"160",
+				"93",
+				"158",
+				"91",
+				"169",
+				"55",
+				"116",
+				"nevada"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Naic",
+				",",
+				"Cavite"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"naik",
+				",",
+				"kavite"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Calixto",
+				"III",
+				"(",
+				"1455–1458",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"kaliksto",
+				"ihi",
+				"(",
+				"1455–1458",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Awan",
+				"(",
+				"Dagiti",
+				"panagtunton",
+				"ti",
+				"teritorio",
+				"ti",
+				"Antartika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awan",
+				"(",
+				"daɡiti",
+				"panaɡtunton",
+				"ti",
+				"teɾitoɾho",
+				"ti",
+				"antaɾtika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Daytoy",
+				"ket",
+				"isu",
+				"ti",
+				"maikanem",
+				"a",
+				"kadakkelan",
+				"a",
+				"pagilian",
+				"babaen",
+				"ti",
+				"dagup",
+				"a",
+				"kadakkel",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"dajtoj",
+				"ket",
+				"isu",
+				"ti",
+				"maikanem",
+				"a",
+				"kadakkelan",
+				"a",
+				"paɡilʲan",
+				"babaen",
+				"ti",
+				"daɡup",
+				"a",
+				"kadakkel",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Juan",
+				"XXII"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"hwan",
+				"kskshi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Antonio",
+				",",
+				"Zambales"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"san",
+				"antonʲo",
+				",",
+				"zambales"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Inocencio",
+				"XI"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"inokenkho",
+				"ksi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Marino",
+				"II"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"maɾino",
+				"ii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Batangas",
+				"(",
+				"4",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"bataŋas",
+				"(",
+				"4",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Charles",
+				"Thomson",
+				"Rees",
+				"Wilson"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"khaɾles",
+				"thomson",
+				"ɾees",
+				"wilson"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Internasional",
+				"a",
+				"Sistema",
+				"dagiti",
+				"Yunit"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"inteɾnaʃonal",
+				"a",
+				"sistema",
+				"daɡiti",
+				"junit"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Reporma",
+				"ti",
+				"Protestante"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɾepoɾma",
+				"ti",
+				"pɾotestante"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Gloria",
+				"Macapagal",
+				"Arroyo",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ɡloɾha",
+				"makapaɡal",
+				"arojo",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kappon",
+				"ti",
+				"Aprika"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kappon",
+				"ti",
+				"apɾika"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dagiti",
+				"lehislatibo",
+				"a",
+				"distrito",
+				"iti",
+				"Iloilo"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"daɡiti",
+				"lehislatibo",
+				"a",
+				"distɾito",
+				"iti",
+				"iloilo"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Adriano",
+				"II",
+				"(",
+				"792–872",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"adɾhano",
+				"ii",
+				"(",
+				"792–872",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"train": [
+		{
+			"tokens": [
+				"Papa",
+				"Clemente",
+				"X"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"klemente",
+				"ks"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Prepektura",
+				"ti",
+				"Okayama"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pɾepektuɾa",
+				"ti",
+				"okajama"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Republika",
+				"a",
+				"Dominikano"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɾepublika",
+				"a",
+				"dominikano"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"TV5",
+				"(",
+				"Pilipinas",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tv5",
+				"(",
+				"pilipinas",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Rehion",
+				"ti",
+				"Ilocos"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɾehhon",
+				"ti",
+				"ilokos"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Benneg",
+				"ti",
+				"Naingayeman",
+				"a",
+				"Nam-ay",
+				"ken",
+				"Panagrang-ay"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"benneɡ",
+				"ti",
+				"naiŋajeman",
+				"a",
+				"nam-aj",
+				"ken",
+				"panaɡɾaŋ-aj"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Inocencio",
+				"VI",
+				"(",
+				"1352–1362",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"inokenkho",
+				"vi",
+				"(",
+				"1352–1362",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Celestino",
+				"II",
+				"(",
+				"1143–1144",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"kelestino",
+				"ii",
+				"(",
+				"1143–1144",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"nga",
+				"Ilokano"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"ŋa",
+				"ilokano"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Balanga",
+				",",
+				"Bataan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"balaŋa",
+				",",
+				"bataan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Dagiti",
+				"lehislatibo",
+				"a",
+				"distrito",
+				"iti",
+				"Abagatan",
+				"a",
+				"Cotabato"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"daɡiti",
+				"lehislatibo",
+				"a",
+				"distɾito",
+				"iti",
+				"abaɡatan",
+				"a",
+				"kotabato"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Gunglo",
+				"ti",
+				"Sangalubongan",
+				"para",
+				"iti",
+				"Panagalagad"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡuŋlo",
+				"ti",
+				"saŋaluboŋan",
+				"paɾa",
+				"iti",
+				"panaɡalaɡad"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Juan",
+				"XIII"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"hwan",
+				"kshii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bolinao",
+				",",
+				"Pangasinan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"bolinao",
+				",",
+				"paŋasinan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mataasnakahoy",
+				",",
+				"Batangas"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"mataasnakahoj",
+				",",
+				"bataŋas"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Dasol",
+				",",
+				"Pangasinan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"dasol",
+				",",
+				"paŋasinan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Silvestre",
+				"III"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"silvestɾe",
+				"ihi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Presidente",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"pɾesidente",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Siudad",
+				"ti",
+				"Batikano"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ʃudad",
+				"ti",
+				"batikano"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Inocencio",
+				"XII"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"inokenkho",
+				"kshi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Jose",
+				",",
+				"Nueva",
+				"Ecija"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"san",
+				"hose",
+				",",
+				"nweva",
+				"ekiha"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ruby",
+				"Rodriguez",
+				"(",
+				"1989-present",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɾubj",
+				"ɾodɾiɡwez",
+				"(",
+				"1989-pɾesent",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Akin-amianan",
+				"nga",
+				"Irlanda"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"akin-amhanan",
+				"ŋa",
+				"iɾlanda"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Berre-l'Étang",
+				",",
+				"populasion",
+				"13,881"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"bere-l'étaŋ",
+				",",
+				"populaʃon",
+				"13,881"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Leon",
+				"VII"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"leon",
+				"vhi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Honorio",
+				"IV",
+				"(",
+				"1210-1287",
+				")",
+				";",
+				"panagturay",
+				"(",
+				"1285-1287",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"honoɾho",
+				"iv",
+				"(",
+				"1210-1287",
+				")",
+				";",
+				"panaɡtuɾaj",
+				"(",
+				"1285-1287",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kimiko",
+				"nga",
+				"elemento"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"kimiko",
+				"ŋa",
+				"elemento"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Orion",
+				",",
+				"Bataan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"oɾhon",
+				",",
+				"bataan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Nailian",
+				"a",
+				"Parke",
+				"ti",
+				"Ginasut",
+				"nga",
+				"Is-isla"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"nailʲan",
+				"a",
+				"paɾke",
+				"ti",
+				"ɡinasut",
+				"ŋa",
+				"is-isla"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Obserbatorio",
+				"dagiti",
+				"Pagsasao"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"obseɾbatoɾho",
+				"daɡiti",
+				"paɡsasao"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Rehion",
+				"ti",
+				"Ilocos"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɾehhon",
+				"ti",
+				"ilokos"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mustafa",
+				"Kemal",
+				"Atatürk"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"mustapa",
+				"kemal",
+				"atatüɾk"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Isu",
+				"ket",
+				"nagtaeng",
+				"ken",
+				"nangirepresenta",
+				"pay",
+				"ti",
+				"Tennessee",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"isu",
+				"ket",
+				"naɡtaeŋ",
+				"ken",
+				"naŋiɾepɾesenta",
+				"paj",
+				"ti",
+				"tennessee",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kamara",
+				"dagiti",
+				"Pannakabagi",
+				"ti",
+				"Estados",
+				"Unidos"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kamaɾa",
+				"daɡiti",
+				"pannakabaɡi",
+				"ti",
+				"estados",
+				"unidos"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Capul",
+				",",
+				"Amianan",
+				"a",
+				"Samar"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kapul",
+				",",
+				"amhanan",
+				"a",
+				"samaɾ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Sixto",
+				"I"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"siksto",
+				"i"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Siudad",
+				"ti",
+				"Dagupan",
+				",",
+				"Pangasinan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ʃudad",
+				"ti",
+				"daɡupan",
+				",",
+				"paŋasinan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Italia]]",
+				",",
+				"Nasantuan",
+				"nga",
+				"Imperio",
+				"a",
+				"Romano"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"italʲa]]",
+				",",
+				"nasantwan",
+				"ŋa",
+				"impeɾho",
+				"a",
+				"ɾomano"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Zazaki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"zazaki"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Benedicto",
+				"XIII",
+				"(",
+				"1724–1730",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"benedikto",
+				"kshii",
+				"(",
+				"1724–1730",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sentro",
+				"Pederal",
+				"ti",
+				"Teknolohiko",
+				"nga",
+				"Edukasion",
+				"Celso",
+				"Suckow",
+				"ti",
+				"Fonseca"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sentɾo",
+				"pedeɾal",
+				"ti",
+				"teknolohiko",
+				"ŋa",
+				"edukaʃon",
+				"kelso",
+				"sukkow",
+				"ti",
+				"ponseka"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"(",
+				"Daya",
+				"a",
+				"Visayas",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"(",
+				"daja",
+				"a",
+				"visajas",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Robert",
+				"Andrews",
+				"Millikan"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɾobeɾt",
+				"andɾews",
+				"millikan"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Anda",
+				",",
+				"Pangasinan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"anda",
+				",",
+				"paŋasinan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Sangalubongan",
+				"a",
+				"Korte",
+				"ti",
+				"Hustisia"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"saŋaluboŋan",
+				"a",
+				"koɾte",
+				"ti",
+				"hustiʃa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Inocencio",
+				"XIII"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"inokenkho",
+				"kshii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Esteban",
+				"III"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"esteban",
+				"ihi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Lumabas",
+				"babaen",
+				"ti",
+				"Danaw",
+				"Baikal"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"lumabas",
+				"babaen",
+				"ti",
+				"danaw",
+				"baikal"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"San",
+				"Pablo",
+				",",
+				"Laguna"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"san",
+				"pablo",
+				",",
+				"laɡuna"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Celestino",
+				"IV"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"kelestino",
+				"iv"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Victor",
+				"II",
+				"(",
+				"1055–1057",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"viktoɾ",
+				"ii",
+				"(",
+				"1055–1057",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Naipaul",
+				",",
+				"V.",
+				"S",
+				".",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"naipaul",
+				",",
+				"v.",
+				"s",
+				".",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Chabacano"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"khabakano"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Benedicto",
+				"VII",
+				"(",
+				"974–983",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"benedikto",
+				"vhi",
+				"(",
+				"974–983",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Awan",
+				"(",
+				"Dagiti",
+				"panagtunton",
+				"ti",
+				"teritorio",
+				"ti",
+				"Antartika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awan",
+				"(",
+				"daɡiti",
+				"panaɡtunton",
+				"ti",
+				"teɾitoɾho",
+				"ti",
+				"antaɾtika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Gunglo",
+				"ti",
+				"Sangalubongan",
+				"para",
+				"iti",
+				"Panagalagad"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡuŋlo",
+				"ti",
+				"saŋaluboŋan",
+				"paɾa",
+				"iti",
+				"panaɡalaɡad"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Instituto",
+				"ti",
+				"Bulkanolohia",
+				"ken",
+				"Seismolohia",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"instituto",
+				"ti",
+				"bulkanolohha",
+				"ken",
+				"seismolohha",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Unibersidad",
+				"ti",
+				"Nicolas",
+				"iti",
+				"Cusa"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"unibeɾsidad",
+				"ti",
+				"nikolas",
+				"iti",
+				"kusa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kalinga",
+				"(",
+				"1",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"kaliŋa",
+				"(",
+				"1",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Orion",
+				",",
+				"Bataan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"oɾhon",
+				",",
+				"bataan"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Pablo",
+				"III"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"pablo",
+				"ihi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Marcelo",
+				"I"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"maɾkelo",
+				"i"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nailian",
+				"a",
+				"Parke",
+				"ti",
+				"Aurora",
+				"Memorial"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"nailʲan",
+				"a",
+				"paɾke",
+				"ti",
+				"auɾoɾa",
+				"memoɾhal"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Indang",
+				",",
+				"Cavite"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"indaŋ",
+				",",
+				"kavite"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"''",
+				"Rehion",
+				"ti",
+				"Chūgoku",
+				"''",
+				"'",
+				"—",
+				"Prepektura",
+				"ti",
+				"Tottori",
+				",",
+				"Prepektura",
+				"ti",
+				"Shimane",
+				",",
+				"Prepektura",
+				"ti",
+				"Okayama",
+				",",
+				"Prepektura",
+				"ti",
+				"Hiroshima",
+				",",
+				"Prepektura",
+				"ti",
+				"Yamaguchi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				0,
+				5,
+				6,
+				6,
+				0,
+				5,
+				6,
+				6,
+				0,
+				5,
+				6,
+				6,
+				0,
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"''",
+				"ɾehhon",
+				"ti",
+				"khūɡoku",
+				"''",
+				"'",
+				"—",
+				"pɾepektuɾa",
+				"ti",
+				"tottoɾi",
+				",",
+				"pɾepektuɾa",
+				"ti",
+				"shimane",
+				",",
+				"pɾepektuɾa",
+				"ti",
+				"okajama",
+				",",
+				"pɾepektuɾa",
+				"ti",
+				"hiɾoshima",
+				",",
+				"pɾepektuɾa",
+				"ti",
+				"jamaɡukhi",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				0,
+				5,
+				6,
+				6,
+				0,
+				5,
+				6,
+				6,
+				0,
+				5,
+				6,
+				6,
+				0,
+				5,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"T'boli",
+				",",
+				"Abagatan",
+				"a",
+				"Cotabato"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"t'boli",
+				",",
+				"abaɡatan",
+				"a",
+				"kotabato"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Fernando",
+				"Lopez",
+				"(",
+				"1904–1993",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"peɾnando",
+				"lopez",
+				"(",
+				"1904–1993",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Awan",
+				"(",
+				"Dagiti",
+				"panagtunton",
+				"ti",
+				"teritorio",
+				"ti",
+				"Antartika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awan",
+				"(",
+				"daɡiti",
+				"panaɡtunton",
+				"ti",
+				"teɾitoɾho",
+				"ti",
+				"antaɾtika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Category",
+				"C",
+				"(",
+				"Australia",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"kateɡoɾj",
+				"k",
+				"(",
+				"austɾalʲa",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Alejandro",
+				"I",
+				"(",
+				"c.",
+				"106",
+				"–",
+				"c.",
+				"115",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"alehandɾo",
+				"i",
+				"(",
+				"k.",
+				"106",
+				"–",
+				"k.",
+				"115",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Calixto",
+				"III"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"kaliksto",
+				"ihi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Lehislatibo",
+				"a",
+				"distrito",
+				"iti",
+				"Taguig-Pateros-Muntinlupa"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"lehislatibo",
+				"a",
+				"distɾito",
+				"iti",
+				"taɡwiɡ-pateɾos-muntinlupa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"a",
+				"Guarani"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"a",
+				"ɡwaɾani"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Naic",
+				",",
+				"Cavite"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"naik",
+				",",
+				"kavite"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Adriano",
+				"II"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"adɾhano",
+				"ii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kaaduan",
+				"kadagitoy",
+				"ketmabirukan",
+				"idiay",
+				"Baybay",
+				"Abagatan",
+				"Tsina",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"kaadwan",
+				"kadaɡitoj",
+				"ketmabiɾukan",
+				"id͡ʒaj",
+				"bajbaj",
+				"abaɡatan",
+				"t͡ʃina",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"SM",
+				"a",
+				"Pagsiapingán",
+				"iti",
+				"Asia"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"sm",
+				"a",
+				"paɡʃapiŋán",
+				"iti",
+				"aʃa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Pundasion",
+				"ti",
+				"Wikimedia"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"pundaʃon",
+				"ti",
+				"wikimed͡ʒa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Oras",
+				",",
+				"Daya",
+				"a",
+				"Samar"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"oɾas",
+				",",
+				"daja",
+				"a",
+				"samaɾ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Juan",
+				"Pablo",
+				"I"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"hwan",
+				"pablo",
+				"i"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Internasional",
+				"a",
+				"Sistema",
+				"dagiti",
+				"Yunit"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"inteɾnaʃonal",
+				"a",
+				"sistema",
+				"daɡiti",
+				"junit"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Adriano",
+				"I",
+				"(",
+				"c.",
+				"700-795",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"adɾhano",
+				"i",
+				"(",
+				"k.",
+				"700-795",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Gloria",
+				"Macapagal",
+				"Arroyo",
+				"(",
+				"2001",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡloɾha",
+				"makapaɡal",
+				"arojo",
+				"(",
+				"2001",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Suppiat",
+				"nga",
+				"Arabo-Israeli"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"supphat",
+				"ŋa",
+				"aɾabo-isɾaeli"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Instituto",
+				"ti",
+				"Bulkanolohia",
+				"ken",
+				"Seismolohia",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"instituto",
+				"ti",
+				"bulkanolohha",
+				"ken",
+				"seismolohha",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Abasida",
+				"a",
+				"Kalipato"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"abasida",
+				"a",
+				"kalipato"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Kolegio",
+				"ti",
+				"Estado",
+				"ti",
+				"Catanduanes"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"koleɡho",
+				"ti",
+				"estado",
+				"ti",
+				"katandwanes"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Benigno",
+				"Aquino",
+				"III"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"beniɡno",
+				"aqwino",
+				"ihi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Tupi",
+				",",
+				"Abagatan",
+				"a",
+				"Cotabato"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"tupi",
+				",",
+				"abaɡatan",
+				"a",
+				"kotabato"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Gregorio",
+				"XIII"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"papa",
+				"ɡɾeɡoɾho",
+				"kshii"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pagsasao",
+				"nga",
+				"Ilokano"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɡsasao",
+				"ŋa",
+				"ilokano"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Baybay",
+				",",
+				"Leyte"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"bajbaj",
+				",",
+				"lejte"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Abagatan",
+				"nga",
+				"Aprika"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"abaɡatan",
+				"ŋa",
+				"apɾika"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Italia]]",
+				",",
+				"Nasantuan",
+				"nga",
+				"Imperio",
+				"a",
+				"Romano"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"italʲa]]",
+				",",
+				"nasantwan",
+				"ŋa",
+				"impeɾho",
+				"a",
+				"ɾomano"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Instituto",
+				"ti",
+				"Bulkanolohia",
+				"ken",
+				"Seismolohia",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"instituto",
+				"ti",
+				"bulkanolohha",
+				"ken",
+				"seismolohha",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Silvestre",
+				"III",
+				"(",
+				"1045",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"silvestɾe",
+				"ihi",
+				"(",
+				"1045",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Gelasio",
+				"I",
+				",",
+				"(",
+				"492–496",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"ɡelaʃo",
+				"i",
+				",",
+				"(",
+				"492–496",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Awan",
+				"(",
+				"Dagiti",
+				"panagtunton",
+				"ti",
+				"teritorio",
+				"ti",
+				"Antartika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"awan",
+				"(",
+				"daɡiti",
+				"panaɡtunton",
+				"ti",
+				"teɾitoɾho",
+				"ti",
+				"antaɾtika",
+				"babaen",
+				"ti",
+				",",
+				"ken",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kongreso",
+				"ti",
+				"Filipinas"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"koŋɾeso",
+				"ti",
+				"pilipinas"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Papa",
+				"Juan",
+				"XVIII",
+				"(",
+				"1003–1009",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"papa",
+				"hwan",
+				"ksvhii",
+				"(",
+				"1003–1009",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		}
+	]
+}

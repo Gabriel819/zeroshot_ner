@@ -1,0 +1,9125 @@
+{
+	"id_mapping": {
+		"0": "O",
+		"1": "B-PER",
+		"2": "I-PER",
+		"3": "B-ORG",
+		"4": "I-ORG",
+		"5": "B-LOC",
+		"6": "I-LOC"
+	},
+	"validation": [
+		{
+			"tokens": [
+				"Libiya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"libija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Adıyaman"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"adıjaman"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Leta",
+				"Zunze",
+				"Ubumwe",
+				"z’Amerika"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"leta",
+				"zunze",
+				"ubumwe",
+				"z’ameɾika"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Icyarabu"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ikjaɾabu"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Kazakisitani"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kazakisitani"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Igitabo",
+				"cya",
+				"Yosuwa",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"iɡitabo",
+				"kja",
+				"josuwa",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Umuryango",
+				"w’Ibihugu",
+				"by’Iburasirazuba",
+				"bw’Afurika"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umuɾjaŋo",
+				"w’ibihuɡu",
+				"bj’ibuɾasiɾazuba",
+				"bw’afuɾika"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Selimiye",
+				"(",
+				"Turukiya",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"selimije",
+				"(",
+				"tuɾukija",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ikirunga",
+				"cya",
+				"Nyamuragira"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ikiɾuŋa",
+				"kja",
+				"ɲamuɾaɡiɾa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"William",
+				"McKinley"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"william",
+				"mckinlej"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Mayanimari"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"majanimaɾi"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Umuryango",
+				"w’Ubumwe",
+				"bw’Ibihugu",
+				"by’i",
+				"Burayi"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umuɾjaŋo",
+				"w’ubumwe",
+				"bw’ibihuɡu",
+				"bj’i",
+				"buɾaji"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ingagi",
+				"zo",
+				"mu",
+				"birunga"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"iŋaɡi",
+				"zo",
+				"mu",
+				"biɾuŋa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Ashaghi",
+				"Govhar",
+				"aga"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"axjaɡhi",
+				"ɡovhaɾ",
+				"aɡa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Akarere",
+				"ka",
+				"Huye"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"akaɾeɾe",
+				"ka",
+				"huje"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Yezu",
+				"Kirisitu"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"jezu",
+				"kiɾisitu"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umurwa",
+				"mukuru",
+				"wa",
+				"Madagasikari",
+				"witwa",
+				"Antananarivo",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"umuɾwa",
+				"mukuɾu",
+				"wa",
+				"madaɡasikaɾi",
+				"witwa",
+				"antananaɾivo",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Igitabo",
+				"cy’Abacamanza",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"iɡitabo",
+				"kj’abacamanza",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kaminuza",
+				"nkuru",
+				"y’u",
+				"Rwanda"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"kaminuza",
+				"nkuɾu",
+				"j’u",
+				"ɾwanda"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Umurwa",
+				"mukuru",
+				"wa",
+				"Zimbabwe",
+				"witwa",
+				"Harare",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"umuɾwa",
+				"mukuɾu",
+				"wa",
+				"zimbabwe",
+				"witwa",
+				"haɾaɾe",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ikirwa",
+				"cya",
+				"Bouve"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ikiɾwa",
+				"kja",
+				"bouve"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Uetersen",
+				"''",
+				"'",
+				"(",
+				"ˈyːtɐzən",
+				")",
+				"ni",
+				"umujyi",
+				"w'u",
+				"Ubudage",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ueteɾsen",
+				"''",
+				"'",
+				"(",
+				"ˈjːtɐzən",
+				")",
+				"ni",
+				"umuɡji",
+				"w'u",
+				"ubudaɡe",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kanseri",
+				"yo",
+				"mu",
+				"mabya",
+				"''",
+				"'",
+				"ni",
+				"yo",
+				"kanseri",
+				"iboneka",
+				"cyane",
+				"mu",
+				"r’ubyiruko",
+				"rw’abagabo",
+				"(",
+				"bafite",
+				"imyaka",
+				"15-35",
+				")",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kanseɾi",
+				"jo",
+				"mu",
+				"mabja",
+				"''",
+				"'",
+				"ni",
+				"jo",
+				"kanseɾi",
+				"iboneka",
+				"kjane",
+				"mu",
+				"ɾ’ubjiɾuko",
+				"ɾw’abaɡabo",
+				"(",
+				"bafite",
+				"imjaka",
+				"15-35",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Burayi"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"buɾaji"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Anne-Marie",
+				"Lizin"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"anne-maɾie",
+				"lizin"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Afuganisitani"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"afuɡanisitani"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Gineya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ɡineja"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Umukuzanyana"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"umukuzaɲana"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Pasteur",
+				"Bizimungu"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"pasteuɾ",
+				"bizimuŋu"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Al-Abyad",
+				"i",
+				"Ramla"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"al-abjad",
+				"i",
+				"ɾamla"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Intobo"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"intobo"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Nuveli",
+				"Zelande"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"nuveli",
+				"zelande"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ni",
+				"ryo",
+				"rya",
+				"mbere",
+				"rigeze",
+				"muri",
+				"Afurika",
+				"y’Iburasirazuba",
+				",",
+				"rikaba",
+				"ndetse",
+				"irya",
+				"3",
+				"muri",
+				"Afurika",
+				"nzima",
+				"nyuma",
+				"ya",
+				"Gana",
+				"na",
+				"Afurika",
+				"y’Epfo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"ni",
+				"ɾjo",
+				"ɾja",
+				"mbeɾe",
+				"ɾiɡeze",
+				"muɾi",
+				"afuɾika",
+				"j’ibuɾasiɾazuba",
+				",",
+				"ɾikaba",
+				"ndetse",
+				"iɾja",
+				"3",
+				"muɾi",
+				"afuɾika",
+				"nzima",
+				"ɲuma",
+				"ja",
+				"ɡana",
+				"na",
+				"afuɾika",
+				"j’epfo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Sulutani",
+				"Abdul",
+				"Samad"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"sulutani",
+				"abdul",
+				"samad"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Louis",
+				"Michel"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"louis",
+				"michel"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Sultanahmet"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"sultanahmet"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ilham",
+				"Aliyev"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ilham",
+				"alijev"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Omar",
+				"Bongo"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"omaɾ",
+				"boŋo"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Igitabo",
+				"cya",
+				"Rusi",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"iɡitabo",
+				"kja",
+				"ɾusi",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ulysses",
+				"Simpson",
+				"Grant"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"uljsses",
+				"simpson",
+				"ɡɾant"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Derviş",
+				"Eroğlu"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"deɾviş",
+				"eɾoɡ̆lu"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ibirwa",
+				"bya",
+				"Norufoluki"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ibiɾwa",
+				"bja",
+				"noɾufoluki"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Curitiba",
+				"''",
+				"'",
+				"[kuɾi'tʃibɐ]",
+				"ni",
+				"umujyi",
+				"w'u",
+				"Burezile",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"cuɾitiba",
+				"''",
+				"'",
+				"[kuɾi'tʃibɐ]",
+				"ni",
+				"umuɡji",
+				"w'u",
+				"buɾezile",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				":",
+				"Mu",
+				"burasirazuba",
+				":",
+				"Akarere",
+				"ka",
+				"Mamak"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				":",
+				"mu",
+				"buɾasiɾazuba",
+				":",
+				"akaɾeɾe",
+				"ka",
+				"mamak"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Hervé",
+				"Hasquin"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"heɾve",
+				"hasquin"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ishyirahamwe",
+				"ry’Umupira",
+				"w’Amaguru",
+				"muri",
+				"Afrika"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ixjjiɾahamwe",
+				"ɾj’umupiɾa",
+				"w’amaɡuɾu",
+				"muɾi",
+				"afɾika"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Umuryango",
+				"w’Ubumwe",
+				"bw’Ibihugu",
+				"by’i",
+				"Burayi"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umuɾjaŋo",
+				"w’ubumwe",
+				"bw’ibihuɡu",
+				"bj’i",
+				"buɾaji"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Emmanuel",
+				"Kant"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"emmanuel",
+				"kant"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Intara",
+				"ya",
+				"Batman"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"intaɾa",
+				"ja",
+				"batman"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Adalar"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"adalaɾ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Andrew",
+				"Jackson"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"andɾew",
+				"ɟackson"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umuryango",
+				"w’Ubukungu",
+				"bw’Afurika",
+				"yo",
+				"Hagati"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umuɾjaŋo",
+				"w’ubukuŋu",
+				"bw’afuɾika",
+				"jo",
+				"haɡati"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"James",
+				"Madison"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɟames",
+				"madison"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Frank",
+				"Habineza"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"fɾank",
+				"habineza"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Shah"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"xjah"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mu",
+				"Kwakira",
+				"1990",
+				",",
+				"cyahinduye",
+				"umurongo",
+				"gitangira",
+				"kurwanya",
+				"Leta",
+				"yariho",
+				"ya",
+				"Perezida",
+				"Juvénal",
+				"Habyarimana",
+				",",
+				"mu",
+				"1991",
+				",",
+				"ubwo",
+				"amashyaka",
+				"menshi",
+				"yemererwaga",
+				"gukorera",
+				"mu",
+				"gihugu",
+				"cyahise",
+				"cyirwanya",
+				"Leta",
+				"ku",
+				"mugaragaro",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mu",
+				"kwakiɾa",
+				"1990",
+				",",
+				"kjahinduje",
+				"umuɾoŋo",
+				"ɡitaŋiɾa",
+				"kuɾwaɲa",
+				"leta",
+				"jaɾiho",
+				"ja",
+				"peɾezida",
+				"ɟuvenal",
+				"habjaɾimana",
+				",",
+				"mu",
+				"1991",
+				",",
+				"ubwo",
+				"amaxjjaka",
+				"menxji",
+				"jemeɾeɾwaɡa",
+				"ɡukoɾeɾa",
+				"mu",
+				"ɡihuɡu",
+				"kjahise",
+				"kjiɾwaɲa",
+				"leta",
+				"ku",
+				"muɡaɾaɡaɾo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Perezidansi",
+				"y’Amerika"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"peɾezidansi",
+				"j’ameɾika"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Boliviya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"bolivija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Harry",
+				"S.",
+				"Truman"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"haɾɾj",
+				"s.",
+				"tɾuman"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"John",
+				"Tyler"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɟohn",
+				"tjleɾ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umushubi"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"umuxjubi"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Icyosetiya"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ikjosetija"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Thomas",
+				"Jefferson"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"thomas",
+				"ɟeffeɾson"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Icyoriya"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ikjoɾija"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Ishyaka",
+				"FPR-Inkotanyi"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ixjjaka",
+				"fpɾ-inkotaɲi"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Namibiya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"namibija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Igikuyu"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"iɡikuju"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Mongoliya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"moŋolija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"George",
+				"Washington"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɡeoɾɡe",
+				"waxjiŋton"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Hilary",
+				"Benn"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"hilaɾj",
+				"benn"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umurwa",
+				"mukuru",
+				"w’u",
+				"Esipanye",
+				"witwa",
+				"Madrid",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"umuɾwa",
+				"mukuɾu",
+				"w’u",
+				"esipaɲe",
+				"witwa",
+				"madɾid",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nyuma",
+				"yo",
+				"kuva",
+				"kubutegetsi",
+				"yahise",
+				"afungwa",
+				"nyuma",
+				"yo",
+				"guhabwa",
+				"imbabazi",
+				"na",
+				"leta",
+				"y'u",
+				"Rwanda",
+				"iyobowe",
+				"na",
+				"perezida",
+				"Paul",
+				"Kagame",
+				"ntawongeye",
+				"ku",
+				"menya",
+				"amakuru",
+				"ye",
+				"ubu",
+				"nitangaza",
+				"makuru",
+				"mu",
+				"Rwanda",
+				"nta",
+				"narimwe",
+				"rigira",
+				"icyo",
+				"ri",
+				"muvugaho",
+				"yibera",
+				"iwe",
+				"igikondo",
+				"uwazaturusha",
+				"amakuru",
+				"kubihereranye",
+				"nawe",
+				"yazayatubwira",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɲuma",
+				"jo",
+				"kuva",
+				"kubuteɡetsi",
+				"jahise",
+				"afuŋwa",
+				"ɲuma",
+				"jo",
+				"ɡuhabwa",
+				"imbabazi",
+				"na",
+				"leta",
+				"j'u",
+				"ɾwanda",
+				"ijobowe",
+				"na",
+				"peɾezida",
+				"paul",
+				"kaɡame",
+				"ntawoŋeje",
+				"ku",
+				"meɲa",
+				"amakuɾu",
+				"je",
+				"ubu",
+				"nitaŋaza",
+				"makuɾu",
+				"mu",
+				"ɾwanda",
+				"nta",
+				"naɾimwe",
+				"ɾiɡiɾa",
+				"ikjo",
+				"ɾi",
+				"muvuɡaho",
+				"jibeɾa",
+				"iwe",
+				"iɡikondo",
+				"uwazatuɾuxja",
+				"amakuɾu",
+				"kubiheɾeɾaɲe",
+				"nawe",
+				"jazajatubwiɾa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"N'ubwo",
+				"polisi",
+				"y'u",
+				"Rwanda",
+				"yari",
+				"yabanje",
+				"kuvuga",
+				"ko",
+				"itazi",
+				"aho",
+				"uyu",
+				"muhanzi",
+				"yari",
+				"ari",
+				"mu",
+				"cyumweru",
+				"cyabanjirije",
+				"iyerekanwa",
+				"rye",
+				",",
+				"urubuga",
+				"WikiLeaks",
+				"ruzwiho",
+				"kumena",
+				"amabanga",
+				"ya",
+				"za",
+				"Leta",
+				"zitandukanye",
+				"zo",
+				"ku",
+				"isi",
+				"rwavuze",
+				"ko",
+				"Kizito",
+				"Mihigo",
+				"yari",
+				"yafashwe",
+				"tariki",
+				"ya",
+				"4",
+				"Mata",
+				",",
+				"ni",
+				"ukuvuga",
+				"iminsi",
+				"icumi",
+				"mbere",
+				"y'uko",
+				"polisi",
+				"imwerekana.."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"n'ubwo",
+				"polisi",
+				"j'u",
+				"ɾwanda",
+				"jaɾi",
+				"jabanɟe",
+				"kuvuɡa",
+				"ko",
+				"itazi",
+				"aho",
+				"uju",
+				"muhanzi",
+				"jaɾi",
+				"aɾi",
+				"mu",
+				"kjumweɾu",
+				"kjabanɟiɾiɟe",
+				"ijeɾekanwa",
+				"ɾje",
+				",",
+				"uɾubuɡa",
+				"wikileaks",
+				"ɾuzwiho",
+				"kumena",
+				"amabaŋa",
+				"ja",
+				"za",
+				"leta",
+				"zitandukaɲe",
+				"zo",
+				"ku",
+				"isi",
+				"ɾwavuze",
+				"ko",
+				"kizito",
+				"mihiɡo",
+				"jaɾi",
+				"jafaxjwe",
+				"taɾiki",
+				"ja",
+				"4",
+				"mata",
+				",",
+				"ni",
+				"ukuvuɡa",
+				"iminsi",
+				"icumi",
+				"mbeɾe",
+				"j'uko",
+				"polisi",
+				"imweɾekana.."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Malesiya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"malesija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				":",
+				"Mu",
+				"burengerazuba",
+				":",
+				"Akarere",
+				"Akyurt",
+				"n’Akarere",
+				"ka",
+				"Çubuk"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				":",
+				"mu",
+				"buɾeŋeɾazuba",
+				":",
+				"akaɾeɾe",
+				"akjuɾt",
+				"n’akaɾeɾe",
+				"ka",
+				"çubuk"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Petero",
+				"Nkurunziza"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"peteɾo",
+				"nkuɾunziza"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Irani"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"iɾani"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Shampiyona",
+				"y’",
+				"icyiciro",
+				"cya",
+				"mbere",
+				"mu",
+				"mupira",
+				"w’amaguru",
+				"mu",
+				"Rwanda"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"xjampijona",
+				"j’",
+				"ikjiciɾo",
+				"kja",
+				"mbeɾe",
+				"mu",
+				"mupiɾa",
+				"w’amaɡuɾu",
+				"mu",
+				"ɾwanda"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Ibrahim",
+				"al-lbrahim",
+				"(",
+				"Venezuwela",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"ibɾahim",
+				"al-lbɾahim",
+				"(",
+				"venezuwela",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ikawa",
+				"ya",
+				"Maraba",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ikawa",
+				"ja",
+				"maɾaba",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Intara",
+				"ya",
+				"Diyarbakır"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"intaɾa",
+				"ja",
+				"dijaɾbakıɾ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"P.S.Imberakuri"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"p.s.imbeɾakuɾi"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Umusengesi",
+				"nacyo",
+				"ni",
+				"ikindi",
+				"giti",
+				"gifite",
+				"akamaro",
+				"kigaragara",
+				"muri",
+				"Pariki",
+				"ya",
+				"Nyungwe",
+				",",
+				"iki",
+				"giti",
+				"kandi",
+				"kivura",
+				"amarozi",
+				"yo",
+				"mu",
+				"bwoko",
+				"butandukanye",
+				",",
+				"kandi",
+				"ngo",
+				"kuri",
+				"ba",
+				"bandi",
+				"igifu",
+				"cyabujije",
+				"amahwemo",
+				"babonye",
+				"umuti",
+				"wacyo",
+				"hehe",
+				"no",
+				"kongera",
+				"ku",
+				"kirwara",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"umuseŋesi",
+				"nakjo",
+				"ni",
+				"ikindi",
+				"ɡiti",
+				"ɡifite",
+				"akamaɾo",
+				"kiɡaɾaɡaɾa",
+				"muɾi",
+				"paɾiki",
+				"ja",
+				"ɲuŋwe",
+				",",
+				"iki",
+				"ɡiti",
+				"kandi",
+				"kivuɾa",
+				"amaɾozi",
+				"jo",
+				"mu",
+				"bwoko",
+				"butandukaɲe",
+				",",
+				"kandi",
+				"ŋo",
+				"kuɾi",
+				"ba",
+				"bandi",
+				"iɡifu",
+				"kjabuɟiɟe",
+				"amahwemo",
+				"baboɲe",
+				"umuti",
+				"wakjo",
+				"hehe",
+				"no",
+				"koŋeɾa",
+				"ku",
+				"kiɾwaɾa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jamayika"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ɟamajika"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Mutagatifu",
+				"Pawulo"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"mutaɡatifu",
+				"pawulo"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Yezu",
+				"Kirisitu"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"jezu",
+				"kiɾisitu"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Inkima"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"inkima"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Umurwa",
+				"mukuru",
+				"wa",
+				"Bahirayini",
+				"witwa",
+				"Manama",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"umuɾwa",
+				"mukuɾu",
+				"wa",
+				"bahiɾajini",
+				"witwa",
+				"manama",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Osetiya",
+				"y’Amajyaruguru"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"osetija",
+				"j’amaɡjaɾuɡuɾu"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Yezu",
+				"Kirisitu"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"jezu",
+				"kiɾisitu"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ishyaka",
+				"ry’Ukwishyira",
+				"Ukizana"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ixjjaka",
+				"ɾj’ukwixjjiɾa",
+				"ukizana"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"PL",
+				"''",
+				"'",
+				"Ishyaka",
+				"ry’Ukwishyira",
+				"Ukizana",
+				"(",
+				"''Parti",
+				"libéral",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"pl",
+				"''",
+				"'",
+				"ixjjaka",
+				"ɾj’ukwixjjiɾa",
+				"ukizana",
+				"(",
+				"''paɾti",
+				"libeɾal",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ibihugu",
+				"by’Amajyepfo",
+				"Nyamfaransa"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ibihuɡu",
+				"bj’amaɡjepfo",
+				"ɲamfaɾansa"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Gümüşhane"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ɡümüşhane"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Landoald",
+				"Ndasingwa"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"landoald",
+				"ndasiŋwa"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umukuru",
+				"w’igihugu",
+				"ni",
+				"Nyakubahwa",
+				"Perezida",
+				"Paul",
+				"Kagame",
+				"naho",
+				"Umukuru",
+				"wa",
+				"guverinoma",
+				"Ni",
+				"Minisitiri",
+				"w’intebe",
+				"Anastase",
+				"Murekezi",
+				"Guverinoma",
+				"ishyirwaho",
+				"na",
+				"Perezida",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"umukuɾu",
+				"w’iɡihuɡu",
+				"ni",
+				"ɲakubahwa",
+				"peɾezida",
+				"paul",
+				"kaɡame",
+				"naho",
+				"umukuɾu",
+				"wa",
+				"ɡuveɾinoma",
+				"ni",
+				"minisitiɾi",
+				"w’intebe",
+				"anastase",
+				"muɾekezi",
+				"ɡuveɾinoma",
+				"ixjjiɾwaho",
+				"na",
+				"peɾezida",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Incuti",
+				"z’Isi"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"incuti",
+				"z’isi"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Umunazi"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"umunazi"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				":",
+				"Mu",
+				"burasirazuba",
+				":",
+				"Akarere",
+				"ka",
+				"Beypazarı"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				":",
+				"mu",
+				"buɾasiɾazuba",
+				":",
+				"akaɾeɾe",
+				"ka",
+				"bejpazaɾı"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Iki",
+				"giti",
+				"ngo",
+				"kimaze",
+				"imyaka",
+				"myinshi",
+				"cyane",
+				"muri",
+				"Pariki",
+				"ya",
+				"Nyungwe",
+				",",
+				"ndetse",
+				"kandi",
+				"gikungahaye",
+				"ku",
+				"buvuzi",
+				"butangaje",
+				"kuko",
+				"kibasha",
+				"kuvura",
+				"indwara",
+				"zitandukanye",
+				"zirimo",
+				";",
+				"Imitezi",
+				",",
+				"Ubushye",
+				",",
+				"Kuribwa",
+				"mu",
+				"ngingo",
+				",",
+				"Ibikomere",
+				",",
+				"Ibisebe",
+				",",
+				"Mburugu",
+				"n’Uburwayi",
+				"bwo",
+				"mu",
+				"ngingo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"iki",
+				"ɡiti",
+				"ŋo",
+				"kimaze",
+				"imjaka",
+				"mjinxji",
+				"kjane",
+				"muɾi",
+				"paɾiki",
+				"ja",
+				"ɲuŋwe",
+				",",
+				"ndetse",
+				"kandi",
+				"ɡikuŋahaje",
+				"ku",
+				"buvuzi",
+				"butaŋaɟe",
+				"kuko",
+				"kibaxja",
+				"kuvuɾa",
+				"indwaɾa",
+				"zitandukaɲe",
+				"ziɾimo",
+				";",
+				"imitezi",
+				",",
+				"ubuxjje",
+				",",
+				"kuɾibwa",
+				"mu",
+				"ŋiŋo",
+				",",
+				"ibikomeɾe",
+				",",
+				"ibisebe",
+				",",
+				"mbuɾuɡu",
+				"n’ubuɾwaji",
+				"bwo",
+				"mu",
+				"ŋiŋo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"test": [
+		{
+			"tokens": [
+				"Antipas",
+				"Mbusa",
+				"Nyamwisi"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"antipas",
+				"mbusa",
+				"ɲamwisi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Benjamin",
+				"Mkapa"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"benɟamin",
+				"mkapa"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Palawu"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"palawu"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"EAC",
+				"''",
+				"'",
+				"Umuryango",
+				"w’Ibihugu",
+				"by’Iburasirazuba",
+				"bw’Afurika",
+				"(",
+				"Umuryango",
+				"w’ibihugu",
+				"by’Afurika",
+				"y’iburasirazuba",
+				")",
+				"(",
+				"''East",
+				"African",
+				"Community",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"eac",
+				"''",
+				"'",
+				"umuɾjaŋo",
+				"w’ibihuɡu",
+				"bj’ibuɾasiɾazuba",
+				"bw’afuɾika",
+				"(",
+				"umuɾjaŋo",
+				"w’ibihuɡu",
+				"bj’afuɾika",
+				"j’ibuɾasiɾazuba",
+				")",
+				"(",
+				"''east",
+				"afɾican",
+				"communitj",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Abishyize",
+				"Hamwe",
+				"Bashinzwe",
+				"Kubungabunga",
+				"Isi"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"abixjjize",
+				"hamwe",
+				"baxjinzwe",
+				"kubuŋabuŋa",
+				"isi"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Singapore",
+				",",
+				"Buruneyi"
+			],
+			"ner_tags": [
+				5,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"siŋapoɾe",
+				",",
+				"buɾuneji"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Al-Azhar"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"al-azhaɾ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ubugande"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ubuɡande"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"CIEL",
+				"''",
+				"'",
+				"Ikigo",
+				"Gishinzwe",
+				"Amategeko",
+				"Mpuzamahanga",
+				"Arengera",
+				"Ibidukikije",
+				"(",
+				"''Center",
+				"for",
+				"International",
+				"Environmental",
+				"Law",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ciel",
+				"''",
+				"'",
+				"ikiɡo",
+				"ɡixjinzwe",
+				"amateɡeko",
+				"mpuzamahaŋa",
+				"aɾeŋeɾa",
+				"ibidukikiɟe",
+				"(",
+				"''centeɾ",
+				"foɾ",
+				"inteɾnational",
+				"enviɾonmental",
+				"law",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"ONU",
+				"''",
+				"'",
+				"Umuryango",
+				"w’Abibumye"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"onu",
+				"''",
+				"'",
+				"umuɾjaŋo",
+				"w’abibumje"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"===",
+				"Akarere",
+				"ka",
+				"Ngoma",
+				"==="
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"===",
+				"akaɾeɾe",
+				"ka",
+				"ŋoma",
+				"==="
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Sulutani",
+				"Suriansyah"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"sulutani",
+				"suɾiansjah"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Patrick",
+				"Mazimhaka"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"patɾick",
+				"mazimhaka"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Icyugaritike"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ikjuɡaɾitike"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Girne"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ɡiɾne"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Sulutani",
+				"Qabus"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"sulutani",
+				"qabus"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"William",
+				"Henry",
+				"Harrison"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"william",
+				"henɾj",
+				"haɾɾison"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umugwamporo"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"umuɡwampoɾo"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Igikuyu"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"iɡikuju"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"w’Abuja"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"w’abuɟa"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Selimiye"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"selimije"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Yoweri",
+				"Kaguta",
+				"Museveni",
+				"'",
+				"''",
+				"(",
+				"1944",
+				")",
+				"ni",
+				"Perezida",
+				"Ubugande",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"joweɾi",
+				"kaɡuta",
+				"museveni",
+				"'",
+				"''",
+				"(",
+				"1944",
+				")",
+				"ni",
+				"peɾezida",
+				"ubuɡande",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Malita"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"malita"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Abülfaz",
+				"Elçibay"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"abülfaz",
+				"elçibaj"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"MSF",
+				"''",
+				"'",
+				"Abavuzi",
+				"Batagira",
+				"Umupaka",
+				"(",
+				"''Médecins",
+				"Sans",
+				"Frontières",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"msf",
+				"''",
+				"'",
+				"abavuzi",
+				"bataɡiɾa",
+				"umupaka",
+				"(",
+				"''medecins",
+				"sans",
+				"fɾontièɾes",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mwai",
+				"Kibaki"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"mwai",
+				"kibaki"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Mehmet",
+				"Ali",
+				"Talat"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"mehmet",
+				"ali",
+				"talat"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Intara",
+				"y’Amasya"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"intaɾa",
+				"j’amasja"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				":",
+				"Mu",
+				"burengerazuba",
+				":",
+				"Akarere",
+				"ka",
+				"Çubuk",
+				",",
+				"Akarere",
+				"ka",
+				"Pursaklar",
+				"n’Akarere",
+				"Altındağ"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5
+			],
+			"epi_tokens": [
+				":",
+				"mu",
+				"buɾeŋeɾazuba",
+				":",
+				"akaɾeɾe",
+				"ka",
+				"çubuk",
+				",",
+				"akaɾeɾe",
+				"ka",
+				"puɾsaklaɾ",
+				"n’akaɾeɾe",
+				"altındaɡ̆"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Umuryango",
+				"w’Abibumye"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"umuɾjaŋo",
+				"w’abibumje"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Millard",
+				"Fillmore"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"millaɾd",
+				"fillmoɾe"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Umubunda",
+				"(",
+				"casuarina",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"umubunda",
+				"(",
+				"casuaɾina",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ubusuwisi"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ubusuwisi"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Yezu",
+				"Kirisitu"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"jezu",
+				"kiɾisitu"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ikigega",
+				"Mpuzamahanga",
+				"cy’Imari"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ikiɡeɡa",
+				"mpuzamahaŋa",
+				"kj’imaɾi"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				":",
+				"Mu",
+				"majyepfo",
+				":",
+				"Akarere",
+				"Ayaş"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				":",
+				"mu",
+				"maɡjepfo",
+				":",
+				"akaɾeɾe",
+				"ajaş"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Franklin",
+				"Delano",
+				"Roosevelt"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"fɾanklin",
+				"delano",
+				"ɾoosevelt"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"===",
+				"Akarere",
+				"ka",
+				"Gatsibo",
+				"==="
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"===",
+				"akaɾeɾe",
+				"ka",
+				"ɡatsibo",
+				"==="
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Igikuyu"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"iɡikuju"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Al-Rifayi"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"al-ɾifaji"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Inteko",
+				"Ishinga",
+				"Amategeko",
+				"y’u",
+				"Rwanda"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"inteko",
+				"ixjiŋa",
+				"amateɡeko",
+				"j’u",
+				"ɾwanda"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Umuceli"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"umuceli"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Koreya",
+				"y’Amajyaruguru"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"koɾeja",
+				"j’amaɡjaɾuɡuɾu"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mustafa",
+				"Kemal",
+				"Atatürk",
+				"(",
+				"1881",
+				"–",
+				"1938",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"mustafa",
+				"kemal",
+				"atatüɾk",
+				"(",
+				"1881",
+				"–",
+				"1938",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"WWF",
+				"''",
+				"'",
+				"Ikigega",
+				"Mpuzamahanga",
+				"Gishinzwe",
+				"Umutungo",
+				"Kamere",
+				"(",
+				"''World",
+				"Wide",
+				"Fund",
+				"for",
+				"Nature",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"wwf",
+				"''",
+				"'",
+				"ikiɡeɡa",
+				"mpuzamahaŋa",
+				"ɡixjinzwe",
+				"umutuŋo",
+				"kameɾe",
+				"(",
+				"''woɾld",
+				"wide",
+				"fund",
+				"foɾ",
+				"natuɾe",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tobi"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"tobi"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Yezu",
+				"Kirisitu"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"jezu",
+				"kiɾisitu"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Jakaya",
+				"Kikwete"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɟakaja",
+				"kikwete"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Adama",
+				"Dieng"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"adama",
+				"dieŋ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Franklin",
+				"Pierce"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"fɾanklin",
+				"pieɾce"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Quett",
+				"Masire"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"quett",
+				"masiɾe"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Iki",
+				"giti",
+				"nacyo",
+				"ngo",
+				"ni",
+				"ubukombe",
+				"muri",
+				"Parike",
+				"itagira",
+				"uko",
+				"isa",
+				"ya",
+				"Nyungwe",
+				",",
+				"kivura",
+				"indwara",
+				"ebyiri",
+				"arizo",
+				"Amibe",
+				"ndetse",
+				"n’amarozi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"iki",
+				"ɡiti",
+				"nakjo",
+				"ŋo",
+				"ni",
+				"ubukombe",
+				"muɾi",
+				"paɾike",
+				"itaɡiɾa",
+				"uko",
+				"isa",
+				"ja",
+				"ɲuŋwe",
+				",",
+				"kivuɾa",
+				"indwaɾa",
+				"ebjiɾi",
+				"aɾizo",
+				"amibe",
+				"ndetse",
+				"n’amaɾozi",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mu",
+				"w’2000",
+				"twashyizeho",
+				"amahuriro",
+				"y’ururimi",
+				"rw’igisilovaki",
+				",",
+				"guhera",
+				"ubwo",
+				"twakiriye",
+				"abanyamuryango",
+				"bashya",
+				"baturutse",
+				"muri",
+				"Silovakiya",
+				"no",
+				"muri",
+				"Cekiya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"mu",
+				"w’2000",
+				"twaxjjizeho",
+				"amahuɾiɾo",
+				"j’uɾuɾimi",
+				"ɾw’iɡisilovaki",
+				",",
+				"ɡuheɾa",
+				"ubwo",
+				"twakiɾije",
+				"abaɲamuɾjaŋo",
+				"baxjja",
+				"batuɾutse",
+				"muɾi",
+				"silovakija",
+				"no",
+				"muɾi",
+				"cekija",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Çankaya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"çankaja"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"K.",
+				"Y.",
+				"Amoako"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"k.",
+				"j.",
+				"amoako"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ububiligi"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ububiliɡi"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"John",
+				"Adams"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɟohn",
+				"adams"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kanseri",
+				"y’ibere",
+				"''",
+				"'",
+				"cyangwa",
+				"'",
+				"''",
+				"Kanseri",
+				"y’amabere",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kanseɾi",
+				"j’ibeɾe",
+				"''",
+				"'",
+				"kjaŋwa",
+				"'",
+				"''",
+				"kanseɾi",
+				"j’amabeɾe",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Yezu",
+				"Kirisitu"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"jezu",
+				"kiɾisitu"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Benjamin",
+				"Harrison"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"benɟamin",
+				"haɾɾison"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Mamak"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"mamak"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Yezu",
+				"Kirisitu"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"jezu",
+				"kiɾisitu"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nyuma",
+				"y'ifatwa",
+				"ry'uyu",
+				"muhanzi",
+				"wari",
+				"uzwi",
+				"nk'inshuti",
+				"ikomeye",
+				"y'ubutegetsi",
+				"bw'u",
+				"Rwanda",
+				"n'umutoni",
+				"wa",
+				"Perezida",
+				"Paul",
+				"Kagame",
+				",",
+				"havuzwe",
+				"byinshi",
+				"mu",
+				"itangazamakuru",
+				",",
+				"abantu",
+				"ku",
+				"giti",
+				"cyabo",
+				"babivuga",
+				"kwinshi",
+				",",
+				"imiryango",
+				"mpuzamahanga",
+				"n'ibihugu",
+				"bimwe",
+				"na",
+				"bimwe",
+				"bigira",
+				"icyo",
+				"bitangaza",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɲuma",
+				"j'ifatwa",
+				"ɾj'uju",
+				"muhanzi",
+				"waɾi",
+				"uzwi",
+				"nk'inxjuti",
+				"ikomeje",
+				"j'ubuteɡetsi",
+				"bw'u",
+				"ɾwanda",
+				"n'umutoni",
+				"wa",
+				"peɾezida",
+				"paul",
+				"kaɡame",
+				",",
+				"havuzwe",
+				"bjinxji",
+				"mu",
+				"itaŋazamakuɾu",
+				",",
+				"abantu",
+				"ku",
+				"ɡiti",
+				"kjabo",
+				"babivuɡa",
+				"kwinxji",
+				",",
+				"imiɾjaŋo",
+				"mpuzamahaŋa",
+				"n'ibihuɡu",
+				"bimwe",
+				"na",
+				"bimwe",
+				"biɡiɾa",
+				"ikjo",
+				"bitaŋaza",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Zimbabwe"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"zimbabwe"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Juvénal",
+				"Habyarimana"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɟuvenal",
+				"habjaɾimana"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Shipure"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"xjipuɾe"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Jean",
+				"Minani"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɟean",
+				"minani"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Mutagatifu",
+				"Marino"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"mutaɡatifu",
+				"maɾino"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Yoweri",
+				"Museveni"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"joweɾi",
+				"museveni"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Adamu"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"adamu"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Ubuki"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ubuki"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"John",
+				"Kufuor"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɟohn",
+				"kufuoɾ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Amasya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"amasja"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Sulutani",
+				"Ahmad",
+				"Shah"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"sulutani",
+				"ahmad",
+				"xjah"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Diyarbakır"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"dijaɾbakıɾ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Alphonse-Marie",
+				"Kadege"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"alphonse-maɾie",
+				"kadeɡe"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Sulutani",
+				"Salahuddin",
+				"Abdul",
+				"Aziz",
+				"Shah"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"sulutani",
+				"salahuddin",
+				"abdul",
+				"aziz",
+				"xjah"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Lativiya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"lativija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Théoneste",
+				"Bagosora"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"theoneste",
+				"baɡosoɾa"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Daudi",
+				"Migereko"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"daudi",
+				"miɡeɾeko"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"CAF",
+				"''",
+				"'",
+				"Ishyirahamwe",
+				"ry’Umupira",
+				"w’Amaguru",
+				"muri",
+				"Afrika",
+				"(",
+				"''Confédération",
+				"Africaine",
+				"de",
+				"Football",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"caf",
+				"''",
+				"'",
+				"ixjjiɾahamwe",
+				"ɾj’umupiɾa",
+				"w’amaɡuɾu",
+				"muɾi",
+				"afɾika",
+				"(",
+				"''confedeɾation",
+				"afɾicaine",
+				"de",
+				"football",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ishyaka",
+				"ry’Iterambere",
+				"n’Ubusabane"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ixjjaka",
+				"ɾj’iteɾambeɾe",
+				"n’ubusabane"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Shili"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"xjili"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Zachary",
+				"Taylor"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"zachaɾj",
+				"tajloɾ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ubutaliyani"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ubutalijani"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Icyoriya"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ikjoɾija"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Jean-Marie",
+				"Guéhenno"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɟean-maɾie",
+				"ɡuehenno"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pariki",
+				"ya",
+				"Nyungwe"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"paɾiki",
+				"ja",
+				"ɲuŋwe"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Icyosetiya"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ikjosetija"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Sulutani",
+				"Abu",
+				"Bakar"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"sulutani",
+				"abu",
+				"bakaɾ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ho",
+				"Chi",
+				"Minh",
+				"(",
+				"umujyi",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ho",
+				"chi",
+				"minh",
+				"(",
+				"umuɡji",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ibirwa",
+				"bya",
+				"Mariyana",
+				"y’Amajyaruguru"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ibiɾwa",
+				"bja",
+				"maɾijana",
+				"j’amaɡjaɾuɡuɾu"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Paul",
+				"Kagame",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"paul",
+				"kaɡame",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Umuryango",
+				"w’Abibumye"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"umuɾjaŋo",
+				"w’abibumje"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Galileo",
+				"Galilei"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɡalileo",
+				"ɡalilei"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Incuti",
+				"z’Isi"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"incuti",
+				"z’isi"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Yezu",
+				"Kirisitu"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"jezu",
+				"kiɾisitu"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Guy",
+				"Verhofstadt"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɡuj",
+				"veɾhofstadt"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ipapaya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ipapaja"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Nijeriya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"niɟeɾija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		}
+	],
+	"train": [
+		{
+			"tokens": [
+				"Ishyaka",
+				"FPR-Inkotanyi"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ixjjaka",
+				"fpɾ-inkotaɲi"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Recep",
+				"Tayyip",
+				"Erdoğan"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɾecep",
+				"tajjip",
+				"eɾdoɡ̆an"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Leta",
+				"Zunze",
+				"Ubumwe",
+				"z’Amerika"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"leta",
+				"zunze",
+				"ubumwe",
+				"z’ameɾika"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Tonga"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"toŋa"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Rwanda",
+				"·",
+				"Imirenge",
+				"y’u",
+				"Rwanda"
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɾwanda",
+				"·",
+				"imiɾeŋe",
+				"j’u",
+				"ɾwanda"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Molidova"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"molidova"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Umukuzanyana"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"umukuzaɲana"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Nikolay",
+				"Merkushkin"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"nikolaj",
+				"meɾkuxjkin"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"===",
+				"Ibitabo",
+				"Isezerano",
+				"Rishya",
+				"==="
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"===",
+				"ibitabo",
+				"isezeɾano",
+				"ɾixjja",
+				"==="
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Paul",
+				"Kagame"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"paul",
+				"kaɡame"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kanada"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kanada"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Umuryango",
+				"Ugamije",
+				"Iterambere",
+				"ry’Afurika",
+				"y’amajyepfo"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umuɾjaŋo",
+				"uɡamiɟe",
+				"iteɾambeɾe",
+				"ɾj’afuɾika",
+				"j’amaɡjepfo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Leta",
+				"Zunze",
+				"Ubumwe",
+				"z’Amerika"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"leta",
+				"zunze",
+				"ubumwe",
+				"z’ameɾika"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Emmanuel",
+				"Kant"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"emmanuel",
+				"kant"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Porutigali"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"poɾutiɡali"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Uburusiya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ubuɾusija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Ali",
+				"Hassan",
+				"Mwinyi"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ali",
+				"hassan",
+				"mwiɲi"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Sulutani",
+				"Omar",
+				"Ali",
+				"Saifuddin"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"sulutani",
+				"omaɾ",
+				"ali",
+				"saifuddin"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"PPC",
+				"''",
+				"'",
+				"Ishyaka",
+				"ry’Iterambere",
+				"n’Ubusabane",
+				"(",
+				"''Parti",
+				"pour",
+				"le",
+				"Progrès",
+				"et",
+				"la",
+				"Concorde",
+				"/",
+				"Party",
+				"for",
+				"Progress",
+				"and",
+				"Concord",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"ppc",
+				"''",
+				"'",
+				"ixjjaka",
+				"ɾj’iteɾambeɾe",
+				"n’ubusabane",
+				"(",
+				"''paɾti",
+				"pouɾ",
+				"le",
+				"pɾoɡɾès",
+				"et",
+				"la",
+				"concoɾde",
+				"/",
+				"paɾtj",
+				"foɾ",
+				"pɾoɡɾess",
+				"and",
+				"concoɾd",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ağrı"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"aɡ̆ɾı"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Frederick",
+				"Sumaye"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"fɾedeɾick",
+				"sumaje"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ikawa"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ikawa"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Ishyaka",
+				"ry’Iterambere",
+				"n’Ubusabane"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ixjjaka",
+				"ɾj’iteɾambeɾe",
+				"n’ubusabane"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Amahoro",
+				"Masa"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"amahoɾo",
+				"masa"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Sulutani",
+				"Ibrahim",
+				"Jamek"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"sulutani",
+				"ibɾahim",
+				"ɟamek"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"File",
+				":",
+				"Pongamia",
+				"pinnata",
+				"(",
+				"Karanj",
+				")",
+				"near",
+				"Hyderabad",
+				"W",
+				"IMG_7634.jpg|",
+				"''",
+				"Pongamia",
+				"Pinnata",
+				"''",
+				",",
+				"Ubuhinde",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"file",
+				":",
+				"poŋamia",
+				"pinnata",
+				"(",
+				"kaɾanɟ",
+				")",
+				"neaɾ",
+				"hjdeɾabad",
+				"w",
+				"imɡ_7634.ɟpɡ|",
+				"''",
+				"poŋamia",
+				"pinnata",
+				"''",
+				",",
+				"ubuhinde",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ubushinwa"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ubuxjinwa"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"U",
+				"Rwanda",
+				"rucumbikiye",
+				"ibimera",
+				"by’amoko",
+				"menshi",
+				"anyuranye",
+				"kubera",
+				"urusobe",
+				"rw’imiterere",
+				"y’igihugu",
+				"n’urw’ikirere",
+				"ruhanitse",
+				"kuva",
+				"mu",
+				"burengerazuba",
+				"kugera",
+				"mu",
+				"burasirazuba",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"u",
+				"ɾwanda",
+				"ɾucumbikije",
+				"ibimeɾa",
+				"bj’amoko",
+				"menxji",
+				"aɲuɾaɲe",
+				"kubeɾa",
+				"uɾusobe",
+				"ɾw’imiteɾeɾe",
+				"j’iɡihuɡu",
+				"n’uɾw’ikiɾeɾe",
+				"ɾuhanitse",
+				"kuva",
+				"mu",
+				"buɾeŋeɾazuba",
+				"kuɡeɾa",
+				"mu",
+				"buɾasiɾazuba",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tirinida",
+				"na",
+				"Tobago"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tiɾinida",
+				"na",
+				"tobaɡo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Banki",
+				"Nyafurika",
+				"Itsura",
+				"Amajyambere"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"banki",
+				"ɲafuɾika",
+				"itsuɾa",
+				"amaɡjambeɾe"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Andrew",
+				"Johnson"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"andɾew",
+				"ɟohnson"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Omar",
+				"El",
+				"Bechir"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"omaɾ",
+				"el",
+				"bechiɾ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Zinedine",
+				"Zidane"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"zinedine",
+				"zidane"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Alpha",
+				"Oumar",
+				"Konaré"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"alpha",
+				"oumaɾ",
+				"konaɾe"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bolu"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"bolu"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Mosiuoa",
+				"Lekota"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"mosiuoa",
+				"lekota"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"James",
+				"Knox",
+				"Polk"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɟames",
+				"knox",
+				"polk"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"AEC",
+				"''",
+				"'",
+				"Umuryango",
+				"w’Ubukungu",
+				"bw’Afurika"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"aec",
+				"''",
+				"'",
+				"umuɾjaŋo",
+				"w’ubukuŋu",
+				"bw’afuɾika"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Igitabo",
+				"cy’Abacamanza"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"iɡitabo",
+				"kj’abacamanza"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ibirwa",
+				"bya",
+				"Virigini",
+				"bya",
+				"Leta",
+				"Zunze",
+				"Ubumwe"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ibiɾwa",
+				"bja",
+				"viɾiɡini",
+				"bja",
+				"leta",
+				"zunze",
+				"ubumwe"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mehmet",
+				"Ali",
+				"Talat"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"mehmet",
+				"ali",
+				"talat"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Tommy",
+				"Thompson"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"tommj",
+				"thompson"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nicolas",
+				"Copernic"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"nicolas",
+				"copeɾnic"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bilecik"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"bilecik"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Mwai",
+				"Kibaki"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"mwai",
+				"kibaki"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"UN",
+				"''",
+				"'",
+				"cyangwa",
+				"'",
+				"''",
+				"UNO",
+				"''",
+				"'",
+				"Umuryango",
+				"w’Abibumye",
+				"(",
+				"''United",
+				"Nations",
+				"''",
+				"cyangwe",
+				"''United",
+				"Nations",
+				"Organization",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"un",
+				"''",
+				"'",
+				"kjaŋwa",
+				"'",
+				"''",
+				"uno",
+				"''",
+				"'",
+				"umuɾjaŋo",
+				"w’abibumje",
+				"(",
+				"''united",
+				"nations",
+				"''",
+				"kjaŋwe",
+				"''united",
+				"nations",
+				"oɾɡanization",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mutagatifu",
+				"Lusiya]]",
+				",",
+				"Mutagatifu",
+				"Visenti",
+				"na",
+				"Gerenadine"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"mutaɡatifu",
+				"lusija]]",
+				",",
+				"mutaɡatifu",
+				"visenti",
+				"na",
+				"ɡeɾenadine"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"André",
+				"Flahaut"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"andɾe",
+				"flahaut"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Dominique",
+				"Mbonyumutwa"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"dominique",
+				"mboɲumutwa"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"AfDB",
+				"''",
+				"'",
+				"Banki",
+				"Nyafurika",
+				"Itsura",
+				"Amajyambere",
+				"(",
+				"''African",
+				"Development",
+				"Bank",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"afdb",
+				"''",
+				"'",
+				"banki",
+				"ɲafuɾika",
+				"itsuɾa",
+				"amaɡjambeɾe",
+				"(",
+				"''afɾican",
+				"development",
+				"bank",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"SADC",
+				"''",
+				"'",
+				"Umuryango",
+				"Ugamije",
+				"Iterambere",
+				"ry’Afurika",
+				"y’amajyepfo"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"sadc",
+				"''",
+				"'",
+				"umuɾjaŋo",
+				"uɡamiɟe",
+				"iteɾambeɾe",
+				"ɾj’afuɾika",
+				"j’amaɡjepfo"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dendo",
+				"(",
+				"''Meleagris",
+				"gallopavo",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"dendo",
+				"(",
+				"''meleaɡɾis",
+				"ɡallopavo",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Hassan",
+				"II"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"hassan",
+				"iː"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Yezu",
+				"Kirisitu"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"jezu",
+				"kiɾisitu"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Festus",
+				"Mogae"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"festus",
+				"moɡae"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Lala",
+				"Mustafa",
+				"Pasha"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"lala",
+				"mustafa",
+				"paxja"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ludwig",
+				"Feuerbach"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ludwiɡ",
+				"feueɾbach"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Sulutani",
+				"Hassan"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"sulutani",
+				"hassan"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Jean",
+				"Kambanda"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɟean",
+				"kambanda"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Icya",
+				"kabiri",
+				",",
+				"uhereye",
+				"kuko",
+				"u",
+				"Rwanda",
+				"rwari",
+				"rugiye",
+				"kwinjira",
+				"mu",
+				"muryango",
+				"w’ibihugu",
+				"bya",
+				"Afurika",
+				"y’Iburasirazuba",
+				"bye",
+				"Kenya",
+				",",
+				"Uganda",
+				"na",
+				"Uganda",
+				"mu",
+				"byo",
+				"bise",
+				"''East",
+				"African",
+				"Community",
+				"''",
+				"(",
+				"EAC",
+				",",
+				"Umuryango",
+				"w’Ibihugu",
+				"by’Iburasirazuba",
+				"bw’Afurika",
+				")",
+				",",
+				"KCK",
+				"nk’umwe",
+				"mu",
+				"bafatanyije",
+				"na",
+				"EAC",
+				"n’indi",
+				"miryango",
+				"itari",
+				"iya",
+				"leta",
+				"(",
+				"ONG",
+				")",
+				",",
+				"yumvise",
+				"ari",
+				"inshingano",
+				"zayo",
+				"gushyira",
+				"u",
+				"Rwanda",
+				"muri",
+				"gahunda",
+				"zayo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ikja",
+				"kabiɾi",
+				",",
+				"uheɾeje",
+				"kuko",
+				"u",
+				"ɾwanda",
+				"ɾwaɾi",
+				"ɾuɡije",
+				"kwinɟiɾa",
+				"mu",
+				"muɾjaŋo",
+				"w’ibihuɡu",
+				"bja",
+				"afuɾika",
+				"j’ibuɾasiɾazuba",
+				"bje",
+				"keɲa",
+				",",
+				"uɡanda",
+				"na",
+				"uɡanda",
+				"mu",
+				"bjo",
+				"bise",
+				"''east",
+				"afɾican",
+				"communitj",
+				"''",
+				"(",
+				"eac",
+				",",
+				"umuɾjaŋo",
+				"w’ibihuɡu",
+				"bj’ibuɾasiɾazuba",
+				"bw’afuɾika",
+				")",
+				",",
+				"kck",
+				"nk’umwe",
+				"mu",
+				"bafataɲiɟe",
+				"na",
+				"eac",
+				"n’indi",
+				"miɾjaŋo",
+				"itaɾi",
+				"ija",
+				"leta",
+				"(",
+				"oŋ",
+				")",
+				",",
+				"jumvise",
+				"aɾi",
+				"inxjiŋano",
+				"zajo",
+				"ɡuxjjiɾa",
+				"u",
+				"ɾwanda",
+				"muɾi",
+				"ɡahunda",
+				"zajo",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Samuel",
+				"Morse"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"samuel",
+				"moɾse"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Abaperezida",
+				"ba",
+				"Shipure",
+				"y’Amajyaruguru"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"abapeɾezida",
+				"ba",
+				"xjipuɾe",
+				"j’amaɡjaɾuɡuɾu"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Meles",
+				"Zenawi"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"meles",
+				"zenawi"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Thabo",
+				"Mbeki"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"thabo",
+				"mbeki"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Martin",
+				"Van",
+				"Buren"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"maɾtin",
+				"van",
+				"buɾen"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Korowatiya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"koɾowatija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Yukhari",
+				"Govhar",
+				"aga"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"jukhaɾi",
+				"ɡovhaɾ",
+				"aɡa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Heidemarie",
+				"Wieczorek-Zeul"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"heidemaɾie",
+				"wieczoɾek-zeul"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Indymedia"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"indjmedia"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Laura",
+				"Lane",
+				"Welch",
+				"Bush",
+				"''",
+				"'",
+				"(",
+				"4",
+				"Ugushyingo",
+				"1946",
+				")",
+				"ni",
+				"madamu",
+				"wa",
+				"Perezida",
+				"George",
+				"W.",
+				"Bush",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"lauɾa",
+				"lane",
+				"welch",
+				"buxj",
+				"''",
+				"'",
+				"(",
+				"4",
+				"uɡuxjjiŋo",
+				"1946",
+				")",
+				"ni",
+				"madamu",
+				"wa",
+				"peɾezida",
+				"ɡeoɾɡe",
+				"w.",
+				"buxj",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tirinida",
+				"na",
+				"Tobago"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tiɾinida",
+				"na",
+				"tobaɡo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Babeldaob"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"babeldaob"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Igitabo",
+				"cya",
+				"Yosuwa",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"iɡitabo",
+				"kja",
+				"josuwa",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Georg",
+				"Wilhelm",
+				"Friedrich",
+				"Hegel"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɡeoɾɡ",
+				"wilhelm",
+				"fɾiedɾich",
+				"heɡel"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Bernard",
+				"Makuza",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"beɾnaɾd",
+				"makuza",
+				"''",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Yugosilaviya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"juɡosilavija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Julius",
+				"Nyerere"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɟulius",
+				"ɲeɾeɾe"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Esitoniya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"esitonija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Isezerano",
+				"Rishya",
+				"''",
+				"'",
+				"ni",
+				"igitekerezo",
+				"cy'imibereho",
+				"ye",
+				"nk'uko",
+				"byari",
+				"byarahanuwe",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"isezeɾano",
+				"ɾixjja",
+				"''",
+				"'",
+				"ni",
+				"iɡitekeɾezo",
+				"kj'imibeɾeho",
+				"je",
+				"nk'uko",
+				"bjaɾi",
+				"bjaɾahanuwe",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Icyarabu"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ikjaɾabu"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Umuryango",
+				"Ugamije",
+				"Iterambere",
+				"ry’Afurika",
+				"y’amajyepfo"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umuɾjaŋo",
+				"uɡamiɟe",
+				"iteɾambeɾe",
+				"ɾj’afuɾika",
+				"j’amaɡjepfo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Abyarwa",
+				"na",
+				"Makuza",
+				"Anastase",
+				",",
+				"nawe",
+				"wabaye",
+				"Minisitiri",
+				"mu",
+				"gihe",
+				"cya",
+				"Repubulika",
+				"ya",
+				"mbere",
+				",",
+				"kubwa",
+				"Perezida",
+				"Grégoire",
+				"Kayibanda",
+				",",
+				"aho",
+				"yari",
+				"Minisitiri",
+				"w'Uburezi",
+				",",
+				"hagati",
+				"y'1969",
+				"na",
+				"1973",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"abjaɾwa",
+				"na",
+				"makuza",
+				"anastase",
+				",",
+				"nawe",
+				"wabaje",
+				"minisitiɾi",
+				"mu",
+				"ɡihe",
+				"kja",
+				"ɾepubulika",
+				"ja",
+				"mbeɾe",
+				",",
+				"kubwa",
+				"peɾezida",
+				"ɡɾeɡoiɾe",
+				"kajibanda",
+				",",
+				"aho",
+				"jaɾi",
+				"minisitiɾi",
+				"w'ubuɾezi",
+				",",
+				"haɡati",
+				"j'1969",
+				"na",
+				"1973",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Yukhari",
+				"Govhar",
+				"aga"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"jukhaɾi",
+				"ɡovhaɾ",
+				"aɡa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Abdoulaye",
+				"Wade"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"abdoulaje",
+				"wade"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Uburundi"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ubuɾundi"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Ubusuwisi",
+				",",
+				"Liyeshitensiteyine"
+			],
+			"ner_tags": [
+				5,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ubusuwisi",
+				",",
+				"lijexjitensitejine"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Arumeniya"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"aɾumenija"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Arabiya",
+				"Sawudite"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"aɾabija",
+				"sawudite"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Jomo",
+				"Kenyatta"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɟomo",
+				"keɲatta"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Amahwa",
+				"ya",
+				"Kasi",
+				"(",
+				"''Pinus",
+				"kesiya",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"amahwa",
+				"ja",
+				"kasi",
+				"(",
+				"''pinus",
+				"kesija",
+				"''",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Umusigiti",
+				"wa",
+				"Mustafa",
+				"Kazdal"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"umusiɡiti",
+				"wa",
+				"mustafa",
+				"kazdal"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kanseri",
+				"yo",
+				"muri",
+				"nyababyeyi",
+				"''",
+				"'",
+				"tuyisanga",
+				"aho",
+				"umwana",
+				"akurira",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"kanseɾi",
+				"jo",
+				"muɾi",
+				"ɲababjeji",
+				"''",
+				"'",
+				"tujisaŋa",
+				"aho",
+				"umwana",
+				"akuɾiɾa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Arnavutköy"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"aɾnavutköj"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Azarias",
+				"Ruberwa"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"azaɾias",
+				"ɾubeɾwa"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Isirayeli"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"isiɾajeli"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Aldo",
+				"Ajello",
+				"''",
+				"'",
+				"Intumwa",
+				"yihariye",
+				"Umuryango",
+				"w’Ubumwe",
+				"bw’Ibihugu",
+				"by’i",
+				"Burayi",
+				"ushinzwe",
+				"Akarere",
+				"k’Ibiyaga",
+				"Bigari",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"''",
+				"aldo",
+				"aɟello",
+				"''",
+				"'",
+				"intumwa",
+				"jihaɾije",
+				"umuɾjaŋo",
+				"w’ubumwe",
+				"bw’ibihuɡu",
+				"bj’i",
+				"buɾaji",
+				"uxjinzwe",
+				"akaɾeɾe",
+				"k’ibijaɡa",
+				"biɡaɾi",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"==",
+				"Gucura",
+				"k’umugore",
+				"na",
+				"Kanseri",
+				"=="
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"==",
+				"ɡucuɾa",
+				"k’umuɡoɾe",
+				"na",
+				"kanseɾi",
+				"=="
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Umuceli"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"umuceli"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Tirinida",
+				"na",
+				"Tobago"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"tiɾinida",
+				"na",
+				"tobaɡo"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"===",
+				"Akarere",
+				"ka",
+				"Muhanga",
+				"==="
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"===",
+				"akaɾeɾe",
+				"ka",
+				"muhaŋa",
+				"==="
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				0
+			]
+		}
+	]
+}
