@@ -13,7 +13,7 @@ import evaluate
 import torch.nn as nn
 import copy
 
-def total_mbert_train(args, conll_dataset, kor_dataset, model, device, f):
+def total_mbert_train(args, conll_dataset, zeroshot_dataset, model, device, f):
     train_dataset = conll_dataset['train']
     train_sampler = RandomSampler(train_dataset)
     train_dataloader = DataLoader(
@@ -60,45 +60,38 @@ def total_mbert_train(args, conll_dataset, kor_dataset, model, device, f):
     steps_trained_in_current_epoch = 0
 
     tr_loss, logging_loss = 0.0, 0.0
-    best_metric, best_epoch, kor_best_metric = -1.0, -1, -1.0  # Init best -1 so that 0 > best
+    best_metric, best_epoch, zeroshot_best_metric = -1.0, -1, -1.0  # Init best -1 so that 0 > best
 
     model.zero_grad()
     train_iterator = tqdm.trange(epochs_trained, int(args.num_train_epochs), desc="Epoch")
-    # tokenizer = BertTokenizer.from_pretrained('google-bert/bert-base-multilingual-cased')
-    tokenizer = BertTokenizer.from_pretrained("/jimin/huggingface/hub/models--google-bert--bert-base-multilingual-cased/snapshots/3f076fdb1ab68d5b2880cb87a0886f315b8146f8", local_files_only=True)
-
+    tokenizer = BertTokenizer.from_pretrained('google-bert/bert-base-multilingual-cased')
+    
     cross_entropy_loss = nn.CrossEntropyLoss()
-    # f1_metric = evaluate.load("f1")
-    f1_metric = evaluate.load("/jimin/huggingface/modules/evaluate_modules/metrics/evaluate-metric--f1/0ca73f6cf92ef5a268320c697f7b940d1030f8471714bffdb6856c641b818974/f1.py")
+    f1_metric = evaluate.load("f1")
     out_label_list, preds_list = [], []
 
     best_model_state_dict = None
 
-    set_seed(seed_value=args.seed)  # Added here for reproductibility
+    set_seed(seed_value=args.seed)  # For reproductibility
     for num_epoch in train_iterator:
         epoch_iterator = tqdm.tqdm(train_dataloader, desc="Iteration")
 
         for step, batch in enumerate(epoch_iterator):
-            # batch[0]: english sentence list, batch[1]: ipa sentence list, batch[2]: token label (b_s, max_seq), batch[3]: ipa label (b_s, max_seq)
-            # orig_token_inputs = tokenizer(batch[0], add_special_tokens=False, padding='max_length',
-            #                                   truncation=True, max_length=args.max_seq_len, return_tensors="pt").to(device)
             orig_token_inputs = tokenizer(batch[0], padding='max_length', truncation=True,
                                           max_length=args.max_seq_len, return_tensors="pt").to(device)
-            # orig_token_inputs.data['input_ids']: (b_s, max_seq), orig_epi_token_inputs.data['input_ids']: (b_s, max_seq)
-
             model.train()
 
-            outputs = model(**orig_token_inputs) # outputs: (b_s, max_len, class_num)
-            logits = torch.argmax(outputs, dim=2) # logits: (b_s, max_len)
+            outputs = model(**orig_token_inputs)
+            logits = torch.argmax(outputs, dim=2)
 
-            loss = cross_entropy_loss(outputs.flatten(0,1), batch[2].flatten().to(device))
+            loss = cross_entropy_loss(outputs.flatten(0,1), batch[1].flatten().to(device))
 
-            preds = logits.detach().cpu().numpy() # preds: (b_s, max_len)
-            out_label_ids = batch[2].detach().cpu().numpy() # (128, 256)
+            preds = logits.detach().cpu().numpy()
+            out_label_ids = batch[1].detach().cpu().numpy()
 
             for i in range(out_label_ids.shape[0]):
                 for j in range(out_label_ids.shape[1]):
-                    if out_label_ids[i, j] != -100:  # 0 is pad_token_id
+                    if out_label_ids[i, j] != -100:
                         out_label_list.append(out_label_ids[i, j])
                         preds_list.append(preds[i][j])
 
@@ -139,7 +132,7 @@ def total_mbert_train(args, conll_dataset, kor_dataset, model, device, f):
         ##### Zero-shot Evaluation #####
         zeroshot_results, _ = mbert_eval(
                 args=args,
-                eval_dataset=kor_dataset,
+                eval_dataset=zeroshot_dataset,
                 model=model,
                 device=device
         )
@@ -152,8 +145,8 @@ def total_mbert_train(args, conll_dataset, kor_dataset, model, device, f):
         logging.info("F1 metric = %s", str(round(zeroshot_results['f1'], 4)))
         zeroshot_metric = round(zeroshot_results['f1'], 4)
 
-        if zeroshot_metric > kor_best_metric:
-            kor_best_metric = zeroshot_metric
+        if zeroshot_metric > zeroshot_best_metric:
+            zeroshot_best_metric = zeroshot_metric
             best_epoch = num_epoch
             best_model_state_dict = copy.deepcopy(model.state_dict())
 
@@ -165,4 +158,4 @@ def total_mbert_train(args, conll_dataset, kor_dataset, model, device, f):
             torch.save(model.state_dict(), os.path.join(args.output_dir, args.task + ".pth"))
             logging.info("Saving best zeroshot model checkpoint to %s", args.output_dir)
 
-    return global_step, tr_loss / global_step, kor_best_metric, best_epoch, best_model_state_dict
+    return global_step, tr_loss / global_step, zeroshot_best_metric, best_epoch, best_model_state_dict
