@@ -178,7 +178,7 @@ def main(args):
         logging.info("Best performance: Epoch=%d, Value=%s", best_val_epoch, best_val_metric)
     
     ##### Zero-shot Validation #####
-    elif args.do_predict:
+    if args.do_predict:
         model.load_state_dict(args.model_ckpt_path)
         model.eval()
 
