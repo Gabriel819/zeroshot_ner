@@ -11,8 +11,8 @@ from utils.bort_evaluation import bort_eval
 import evaluate
 import copy
 
-def total_bort_train(args, conll_dataset, eng_dataset, model, device, f):
-    train_dataset = conll_dataset['train']
+def total_bort_train(args, english_dataset, zeroshot_dataset, model, device, f):
+    train_dataset = english_dataset['train']
     train_sampler = RandomSampler(train_dataset)
     train_dataloader = DataLoader(
         train_dataset,
@@ -46,10 +46,7 @@ def total_bort_train(args, conll_dataset, eng_dataset, model, device, f):
     logging.info("***** Running training *****")
     logging.info("  Num examples = %d", len(train_dataset))
     logging.info("  Num Epochs = %d", args.num_train_epochs)
-    logging.info(
-        "  Total train batch size = %d",
-        args.train_batch_size
-    )
+    logging.info("  Total train batch size = %d", args.train_batch_size)
     logging.info("  Total optimization steps = %d", n_train_steps)
     logging.info("  Using linear warmup (ratio=%s)", args.warmup_ratio)
     logging.info("  Using weight decay (value=%s)", args.weight_decay)
@@ -74,7 +71,7 @@ def total_bort_train(args, conll_dataset, eng_dataset, model, device, f):
         epoch_iterator = tqdm.tqdm(train_dataloader, desc="Iteration")
 
         for step, batch in enumerate(epoch_iterator):
-            orig_epi_token_inputs = tokenizer(batch[1], return_tensors="pt", padding='max_length', truncation=True, max_length=args.max_seq_len)
+            orig_epi_token_inputs = tokenizer(batch[0], return_tensors="pt", padding='max_length', truncation=True, max_length=args.max_seq_len)
 
             model.train()
             epi_token_inputs = orig_epi_token_inputs['input_ids'].to(device)
@@ -82,12 +79,12 @@ def total_bort_train(args, conll_dataset, eng_dataset, model, device, f):
 
             outputs = model(epi_token_inputs, attn_mask=epi_attn_mask)
             logits = outputs['logits']
-            label = batch[3].to(device)
+            label = batch[1].to(device)
             loss = cross_ent(logits.flatten(0,1), label.flatten())
 
             preds = logits.detach().cpu().numpy()
             preds = np.argmax(preds, axis=2)
-            out_label_ids = batch[3].detach().cpu().numpy()
+            out_label_ids = batch[1].detach().cpu().numpy()
 
             for i in range(out_label_ids.shape[0]):
                 for j in range(out_label_ids.shape[1]):
@@ -118,7 +115,7 @@ def total_bort_train(args, conll_dataset, eng_dataset, model, device, f):
         ##### English Validation set Evaluation #####
         eval_results, _ = bort_eval(
                 args=args,
-                eval_dataset=conll_dataset["validation"],
+                eval_dataset=english_dataset["validation"],
                 model=model,
                 device=device
         )
@@ -131,9 +128,9 @@ def total_bort_train(args, conll_dataset, eng_dataset, model, device, f):
         logging.info("F1 metric = %s", str(round(eval_results['f1'], 4)))
 
         ##### English Evaluation #####
-        english_results, _ = bort_eval(
+        zeroshot_results, _ = bort_eval(
                 args=args,
-                eval_dataset=eng_dataset,
+                eval_dataset=zeroshot_dataset,
                 model=model,
                 device=device
         )
@@ -142,12 +139,12 @@ def total_bort_train(args, conll_dataset, eng_dataset, model, device, f):
         f.write("\n***** " + args.task + " results *****\n")
         f.write(args.task + " step: " + str(global_step) + ' Result\n')
 
-        f.write('F1 metric: ' + str(round(english_results['f1'], 4)) + '\n')
-        logging.info("F1 metric = %s \n", str(round(english_results['f1'], 4)))
-        english_metric = round(english_results['f1'], 4)
+        f.write('F1 metric: ' + str(round(zeroshot_results['f1'], 4)) + '\n')
+        logging.info("F1 metric = %s \n", str(round(zeroshot_results['f1'], 4)))
+        zeroshot_metric = round(zeroshot_results['f1'], 4)
 
-        if english_metric > eng_best_metric:
-            eng_best_metric = english_metric
+        if zeroshot_metric > zeroshot_best_metric:
+            zeroshot_best_metric = zeroshot_metric
             best_epoch = num_epoch
             best_model_state_dict = copy.deepcopy(model.state_dict())
 
@@ -158,4 +155,4 @@ def total_bort_train(args, conll_dataset, eng_dataset, model, device, f):
             torch.save(model.state_dict(), os.path.join(args.output_dir, args.task + "_model.pth"))
             logging.info(f"Saving best {args.task} model checkpoint to %s", args.output_dir)
 
-    return global_step, tr_loss / global_step, eng_best_metric, best_epoch, best_model_state_dict
+    return global_step, tr_loss / global_step, zeroshot_best_metric, best_epoch, best_model_state_dict
