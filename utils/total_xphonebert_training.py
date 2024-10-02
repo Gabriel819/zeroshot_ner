@@ -11,7 +11,7 @@ from utils.xphonebert_evaluation import xphonebert_eval
 import evaluate
 import copy
 
-def total_xphonebert_train(args, conll_dataset, kor_dataset, model, device, f):
+def total_xphonebert_train(args, conll_dataset, zeroshot_dataset, model, device, f):
     train_dataset = conll_dataset['train']
     train_sampler = RandomSampler(train_dataset)
     train_dataloader = DataLoader(
@@ -46,10 +46,7 @@ def total_xphonebert_train(args, conll_dataset, kor_dataset, model, device, f):
     logging.info("***** Running training *****")
     logging.info("  Num examples = %d", len(train_dataset))
     logging.info("  Num Epochs = %d", args.num_train_epochs)
-    logging.info(
-        "  Total train batch size = %d",
-        args.train_batch_size
-    )
+    logging.info("  Total train batch size = %d", args.train_batch_size)
     logging.info("  Total optimization steps = %d", n_train_steps)
     logging.info("  Using linear warmup (ratio=%s)", args.warmup_ratio)
     logging.info("  Using weight decay (value=%s)", args.weight_decay)
@@ -58,44 +55,39 @@ def total_xphonebert_train(args, conll_dataset, kor_dataset, model, device, f):
     steps_trained_in_current_epoch = 0
 
     tr_loss, logging_loss = 0.0, 0.0
-    best_metric, best_epoch, kor_best_metric = -1.0, -1, -1.0  # Init best -1 so that 0 > best
+    best_metric, best_epoch, zeroshot_best_metric = -1.0, -1, -1.0  # Init best -1 so that 0 > best
 
     model.zero_grad()
     train_iterator = tqdm.trange(epochs_trained, int(args.num_train_epochs), desc="Epoch")
-    # tokenizer = AutoTokenizer.from_pretrained("vinai/xphonebert-base")
-    tokenizer = AutoTokenizer.from_pretrained("/jimin/huggingface/hub/models--vinai--xphonebert-base/snapshots/10244364dd88eee9e84d7bf1d8898e4b9df5182b", local_files_only=True)
-    # f1_metric = evaluate.load("f1")
-    f1_metric = evaluate.load("/jimin/huggingface/modules/evaluate_modules/metrics/evaluate-metric--f1/0ca73f6cf92ef5a268320c697f7b940d1030f8471714bffdb6856c641b818974/f1.py")
+    tokenizer = AutoTokenizer.from_pretrained("vinai/xphonebert-base")
+    f1_metric = evaluate.load("f1")
     out_label_list, preds_list = [], []
     cross_ent = torch.nn.CrossEntropyLoss()
 
     best_model_state_dict = None
 
-    set_seed(seed_value=args.seed)  # Added here for reproductibility
+    set_seed(seed_value=args.seed)  # For reproductibility
     for num_epoch in train_iterator:
         epoch_iterator = tqdm.tqdm(train_dataloader, desc="Iteration")
 
         for step, batch in enumerate(epoch_iterator):
             orig_epi_token_inputs = tokenizer(batch[1], return_tensors="pt", padding='max_length', truncation=True, max_length=args.max_seq_len)
-            # orig_epi_token_inputs['input_ids']: (196, 256)
-
             model.train()
-            epi_token_inputs = orig_epi_token_inputs['input_ids'].to(device) # (b_s, max_seq_len)
+            epi_token_inputs = orig_epi_token_inputs['input_ids'].to(device)
             epi_attn_mask = orig_epi_token_inputs['attention_mask'].to(device)
 
-            outputs = model(epi_token_inputs, attn_mask=epi_attn_mask)  # outputs.feature: tensor (b_s, max_seq, 768), outputs.logits: (b_s, max_seq, 7)
-            logits = outputs['logits']  # logits: (b_s, max_seq, 7)
-            label = batch[3].to(device) # (batch_size, max_seq_len)
-            loss = cross_ent(logits.flatten(0,1), label.flatten()) # (64, 256, 7), (64, 256)
+            outputs = model(epi_token_inputs, attn_mask=epi_attn_mask)
+            logits = outputs['logits']
+            label = batch[3].to(device)
+            loss = cross_ent(logits.flatten(0,1), label.flatten())
 
             preds = logits.detach().cpu().numpy()
-            preds = np.argmax(preds, axis=2)  # (128, 256)
-            out_label_ids = batch[3].detach().cpu().numpy()  # (128, 256)
-            # id2ner = {0: 'O', 1: 'B-PER', 2: 'I-PER', 3: 'B-ORG', 4: 'I-ORG', 5: 'B-LOC', 6: 'I-LOC'}
+            preds = np.argmax(preds, axis=2)
+            out_label_ids = batch[3].detach().cpu().numpy()
 
             for i in range(out_label_ids.shape[0]):
                 for j in range(out_label_ids.shape[1]):
-                    if out_label_ids[i, j] != -100:  # 0 is pad_token_id
+                    if out_label_ids[i, j] != -100:
                         out_label_list.append(out_label_ids[i, j])
                         preds_list.append(preds[i][j])
 
@@ -119,7 +111,7 @@ def total_xphonebert_train(args, conll_dataset, kor_dataset, model, device, f):
         f.write('F1 metric: ' + str(round(train_results['f1'], 4)) + '\n')
         logging.info("F1 metric = %s", str(round(train_results['f1'], 4)))
 
-        ##### CONLL Validation set Evaluation #####
+        ##### English Validation set Evaluation #####
         eval_results, _ = xphonebert_eval(
                 args=args,
                 eval_dataset=conll_dataset["validation"],
@@ -134,10 +126,10 @@ def total_xphonebert_train(args, conll_dataset, kor_dataset, model, device, f):
         f.write('F1 metric: ' + str(round(eval_results['f1'], 4)) + '\n')
         logging.info("F1 metric = %s", str(round(eval_results['f1'], 4)))
 
-        ##### KLUE Evaluation #####
-        klue_results, _ = xphonebert_eval(
+        ##### Zero-shot Evaluation #####
+        zeroshot_results, _ = xphonebert_eval(
                 args=args,
-                eval_dataset=kor_dataset,
+                eval_dataset=zeroshot_dataset,
                 model=model,
                 device=device
         )
@@ -146,14 +138,13 @@ def total_xphonebert_train(args, conll_dataset, kor_dataset, model, device, f):
         f.write("\n***** " + args.task + " results *****\n")
         f.write(args.task + " step: " + str(global_step) + ' Result\n')
 
-        f.write('F1 metric: ' + str(round(klue_results['f1'], 4)) + '\n')
-        logging.info("F1 metric = %s \n", str(round(klue_results['f1'], 4)))
-        klue_metric = round(klue_results['f1'], 4)
+        f.write('F1 metric: ' + str(round(zeroshot_results['f1'], 4)) + '\n')
+        logging.info("F1 metric = %s \n", str(round(zeroshot_results['f1'], 4)))
+        zeroshot_metric = round(zeroshot_results['f1'], 4)
 
-        if klue_metric > kor_best_metric:
-            kor_best_metric = klue_metric
+        if zeroshot_metric > zeroshot_best_metric:
+            zeroshot_best_metric = zeroshot_metric
             best_epoch = num_epoch
-            # best_model_state_dict = model.state_dict()
             best_model_state_dict = copy.deepcopy(model.state_dict())
 
             # Save model checkpoint
@@ -163,4 +154,4 @@ def total_xphonebert_train(args, conll_dataset, kor_dataset, model, device, f):
             torch.save(model.state_dict(), os.path.join(args.output_dir, args.task + "_model.pth"))
             logging.info(f"Saving best {args.task} model checkpoint to %s", args.output_dir)
 
-    return global_step, tr_loss / global_step, kor_best_metric, best_epoch, best_model_state_dict
+    return global_step, tr_loss / global_step, zeroshot_best_metric, best_epoch, best_model_state_dict
