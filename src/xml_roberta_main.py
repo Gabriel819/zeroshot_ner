@@ -81,6 +81,11 @@ def parse_args():
         help="Do training & validation."
     )
     parser.add_argument(
+        "--do_predict",
+        action="store_true",
+        help="Do zero-shot inference."
+    )
+    parser.add_argument(
         "--model_ckpt_path",
         type=str,
         default=None,
@@ -158,7 +163,7 @@ def main(args):
             train_dataset['test'] = bio_xml_roberta_whole.BIOXMLRoBERTaWholeDataset('english', 'test', args.max_seq_len)
         else:
             print(f"{args.train_language} is not defined!")
-
+    if args.do_predict:
         ##### Zero-shot Test Dataset Loading #####
         ########## BIO XML RoBERTa ##########
         if args.model == 'bio_xml_roberta':
@@ -182,7 +187,7 @@ def main(args):
         logging.info("Best performance: Epoch=%d, Value=%s", best_val_epoch, best_val_metric)
 
         # Zero-shot evaluation
-        model.load_state_dict(best_model_state_dict)
+        model.load_state_dict(args.model_ckpt_path)
         model.eval()
 
         zero_shot_lang_list = ['korean', 'spanish', 'sinhala', 'somali', 'maori', 'quechua', 'uyghur', 'assyrian',
