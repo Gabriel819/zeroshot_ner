@@ -7,7 +7,7 @@ from utils.misc import set_seed
 from dataset import bio_xphonebert_epi_whole_wikiann
 from utils.xphonebert_training import xphonebert_train
 from utils.xphonebert_evaluation import xphonebert_eval
-from model.my_xphonebert import XPhoneBertForNER
+from model.xphonebert import XPhoneBertForNER
 from xphonebert_config import config
 
 def parse_args():
