@@ -8,7 +8,7 @@ from utils.misc import set_seed
 from dataset import bio_mbert_whole
 from utils.mbert_evaluation import mbert_eval
 from utils.mbert_training import mbert_train
-from model.char_ner_mbert import CharNERBertModel
+from model.mbert import CharNERBertModel
 from transformers import BertTokenizer, BertModel
 
 def parse_args():
