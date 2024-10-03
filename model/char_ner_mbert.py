@@ -19,8 +19,7 @@ class CharNERBertModel(BertPreTrainedModel):
 
     def __init__(self, config, num_classes):
         super().__init__(config)
-        # tmp_model = BertModel.from_pretrained("google-bert/bert-base-multilingual-cased")
-        tmp_model = BertModel.from_pretrained("/jimin/huggingface/hub/models--google-bert--bert-base-multilingual-cased/snapshots/3f076fdb1ab68d5b2880cb87a0886f315b8146f8", local_files_only=True)
+        tmp_model = BertModel.from_pretrained("google-bert/bert-base-multilingual-cased")
         self.config = tmp_model.config
         self.num_classes = num_classes
 
@@ -175,17 +174,7 @@ class CharNERBertModel(BertPreTrainedModel):
             hidden_states=encoder_outputs.hidden_states,
             attentions=encoder_outputs.attentions,
             cross_attentions=encoder_outputs.cross_attentions,
-        ) # tmp.last_hidden_state: (b_s, 13, 768)
+        )
 
-        res = self.linear(tmp.last_hidden_state) # (b_s, 13, 4)
+        res = self.linear(tmp.last_hidden_state)
         return res
-
-if __name__ == '__main__':
-    model = BertModel.from_pretrained("google-bert/bert-base-multilingual-cased")
-    model_config = model.config
-    model = CharNERBertModel(model_config)
-    text = "Replace me by any text you'd like." # len: 34
-    encoded_input = tokenizer(text, return_tensors='pt') # 'input_ids': (1, 13)
-    output = model(**encoded_input) # (1, 13, 4)
-
-    print()
