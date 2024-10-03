@@ -7,7 +7,7 @@ from utils.misc import set_seed
 from dataset import bio_canine_ch_whole_wikiann, bio_canine_epi_whole_wikiann
 from utils.canine_c_training import canine_c_train
 from utils.canine_c_evaluation import canine_c_eval
-from model.my_canine_c import My_CANINE_C
+from model.canine_c import CANINE_C
 
 def parse_args():
     """ Parse command line arguments and initialize experiment. """
