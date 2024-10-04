@@ -64,4 +64,4 @@ python src/xml_roberta_main.py --task xml_roberta --model bio_xml_roberta --max_
 ```
 
 # Email
-estelle26598@gm.gist.ac.kr
+estelle26598@gm.gist.ac.kr, pwl0709@korea.ac.kr
