@@ -1,5 +1,5 @@
 # zeroshot_ner
-Official code for [Zero-Shot Cross-Lingual NER Using Phonemic Representations for Low-Resource Languages](https://arxiv.org/abs/2406.16030),
+Official code for [Zero-Shot Cross-Lingual NER Using Phonemic Representations for Low-Resource Languages]([https://arxiv.org/abs/2406.16030](https://aclanthology.org/2024.emnlp-main.753/)),
 
 Jimin Sohn*, Haeji Jung*, Alex Cheng, Jooeon Kang, Yilin Du, David R. Mortensen, EMNLP 2024 main
 
@@ -67,3 +67,27 @@ python src/xml_roberta_main.py --task xml_roberta --model bio_xml_roberta --max_
 
 # Email
 estelle26598@gm.gist.ac.kr, gpwl0709@korea.ac.kr
+
+# Cite
+```
+@inproceedings{sohn-etal-2024-zero,
+    title = "Zero-Shot Cross-Lingual {NER} Using Phonemic Representations for Low-Resource Languages",
+    author = "Sohn, Jimin  and
+      Jung, Haeji  and
+      Cheng, Alex  and
+      Kang, Jooeon  and
+      Du, Yilin  and
+      Mortensen, David R",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.753",
+    pages = "13595--13602",
+    abstract = "Existing zero-shot cross-lingual NER approaches require substantial prior knowledge of the target language, which is impractical for low-resource languages.In this paper, we propose a novel approach to NER using phonemic representation based on the International Phonetic Alphabet (IPA) to bridge the gap between representations of different languages.Our experiments show that our method significantly outperforms baseline models in extremely low-resource languages, with the highest average F1 score (46.38{\%}) and lowest standard deviation (12.67), particularly demonstrating its robustness with non-Latin scripts. Ourcodes are available at https://github.com/Gabriel819/zeroshot{\_}ner.git",
+}
+```
