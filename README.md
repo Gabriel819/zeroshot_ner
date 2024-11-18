@@ -1,5 +1,5 @@
 # zeroshot_ner
-Official code for [Zero-Shot Cross-Lingual NER Using Phonemic Representations for Low-Resource Languages]([https://arxiv.org/abs/2406.16030](https://aclanthology.org/2024.emnlp-main.753/),
+Official code for [Zero-Shot Cross-Lingual NER Using Phonemic Representations for Low-Resource Languages](https://aclanthology.org/2024.emnlp-main.753/),
 
 Jimin Sohn*, Haeji Jung*, Alex Cheng, Jooeon Kang, Yilin Du, David R. Mortensen, EMNLP 2024 main
 
