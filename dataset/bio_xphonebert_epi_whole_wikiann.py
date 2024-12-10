@@ -127,7 +127,7 @@ class BIOXphoneBERTEpiWikiAnnDataset(Dataset):
         for i, ele in enumerate(orig_epi_tokens):
             if self.lang not in ['esperanto', 'khmer', 'turkmen', 'amharic', 'maltese', 'oriya', 'sanskrit', 'interlingua', 'guarani', 'belarusian', 'kurdish', 'sindhi']:
                 ele = self.ipa_tokenizer(ele)
-                epi_tokens.append(ele)
+            epi_tokens.append(ele)
             ch_input_ids = self.tokenizer(ele, return_tensors="pt")
             real_ner = orig_epi_ner_tags[i]
             len_ch_input_ids = len(ch_input_ids['input_ids'][0])
