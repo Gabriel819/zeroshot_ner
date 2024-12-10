@@ -1,0 +1,12161 @@
+{
+	"id_mapping": {
+		"0": "O",
+		"1": "B-PER",
+		"2": "I-PER",
+		"3": "B-ORG",
+		"4": "I-ORG",
+		"5": "B-LOC",
+		"6": "I-LOC"
+	},
+	"validation": [
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Heciyê",
+				"Cindî",
+				"''",
+				"'",
+				"-",
+				"Profesor",
+				",",
+				"folklorîst"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". h e . s i . y e",
+				". s i n . d ɯ",
+				".",
+				"'",
+				"-",
+				". p i . r o . f e . s o r",
+				",",
+				". f o ɫ k . ɫ o . r ɯ s t"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Qanatê",
+				"Kurdo",
+				"''",
+				"'",
+				"-",
+				"Profêsor",
+				",",
+				"kurdzanê",
+				"navdar"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". k a . n a . t e",
+				". k u r . d o",
+				".",
+				"'",
+				"-",
+				". p i . f e . s o r",
+				",",
+				". k u r d . z a . n e",
+				". n a v . d a r"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Meyab",
+				"(",
+				"7,8",
+				"km",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". m e . y a b",
+				"(",
+				". d i . j i . k i",
+				". k i . m i",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Celadet",
+				"Alî",
+				"Bedirxan"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". s e . l a . d e t",
+				"a l ˈɯ",
+				". b e . d i r . x a n"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"Kurdistanê",
+				"jî",
+				"tên",
+				"dîtin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". k u r . d i s . t a . n e",
+				". j ɯ",
+				". t e n",
+				". d i . t i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Enrico",
+				"Fermi",
+				"(",
+				"1901–1954",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e n . r i . k o",
+				". f e r . m i",
+				"(",
+				". r y 0 s . d v o . r I k .",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tê",
+				"gotin",
+				"ku",
+				"Ew",
+				"telebeyê",
+				"Îbn",
+				"Sîna",
+				"ye"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				". t e",
+				". g o . t i n",
+				". k u",
+				". e w",
+				". t e . l e . b e . y e",
+				". ł i b n",
+				". s i . n a",
+				". y e"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Herçendî",
+				"êdî",
+				"ne",
+				"bixeter",
+				"be",
+				"jî",
+				",",
+				"li",
+				"Kurdistanê",
+				"dibe",
+				"sedemê",
+				"mirina",
+				"gelekan",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". h e r . t͡ʃ e n . d ɯ",
+				"e . d ɯ",
+				". n e",
+				". b i k . s e . t e r",
+				". b e",
+				". j ɯ",
+				",",
+				". l i",
+				". k u r . d i s . t a . n e",
+				". d i . b e",
+				". s e . d e . m e",
+				". m i . r i . n a",
+				". g e . l e . k a n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Under",
+				"Construction",
+				"(",
+				"albûm",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"u n . d e r",
+				". c o n s t . r u d͡ʒ . t i o n",
+				"(",
+				". a l . b u m",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Indira",
+				"Gandhi",
+				"(",
+				"1917-1984",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". ɯ n . d i . r a",
+				". g a n d . h i",
+				"(",
+				". r i . y i . d e . w i .",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Damezrênerê",
+				"wê",
+				"Cem",
+				"Ersever",
+				"beriya",
+				"ku",
+				"were",
+				"kuştin",
+				"bi",
+				"pirtûkek",
+				"xwe",
+				"û",
+				"hin",
+				"daxûyaniyên",
+				"xwe",
+				"yên",
+				"li",
+				"rojnameyan",
+				"hebûna",
+				"vê",
+				"saziyê",
+				"ragihand",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d a . m e z . r e . n e . r e",
+				". w e",
+				". s e m",
+				". e r s e . v e r",
+				". b e . r î a",
+				". k u",
+				". w e . r e",
+				". k u ʃ . t i n",
+				". b i",
+				". p i r . t u . k e k",
+				". k i . k w e",
+				". u",
+				". h i n",
+				". d a . x u . y a . n i . y e n",
+				". k i . k w e",
+				". y e n",
+				". l i",
+				". r o j . n a . m e . y a n",
+				". h e . b u . n a",
+				". v e",
+				". s a . z i . y e",
+				". r a . g i . h a n d",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dêra",
+				"girava",
+				"Axtamarê",
+				","
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				0
+			],
+			"epi_tokens": [
+				". d e . r a",
+				". g i . r a . v a",
+				". a x t a . m a . r e",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"rect",
+				"109",
+				"159",
+				"126",
+				"180",
+				"Belîze"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				". r e d͡ʒ t",
+				". r i . t i .",
+				". r i . m i k .",
+				". r i . t i .",
+				". r i . k u",
+				"b e l i z ˈɛ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Fenerbahçe",
+				"SK",
+				"(",
+				"futbol",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". f e . n e r . b a h . t͡ʃ e",
+				". s i . k i",
+				"(",
+				". f u t . b o l",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Russell",
+				"Alan",
+				"Hulse"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". r u s . s e l l",
+				". a . l a n",
+				". h u l . s e"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Aryo",
+				"Barzanê",
+				"Frîgyayî"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". a r . j o",
+				". b a r . z a . n e",
+				". f r ɯ ɟ . j a . y ɯ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"2-",
+				")",
+				"Partiya",
+				"Demokratîk",
+				"a",
+				"Gelan",
+				"=",
+				"%",
+				"38,1",
+				"(",
+				"297.417",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d i .",
+				")",
+				". p a r . t i a",
+				". d e . m o k . r a . t i k",
+				". a",
+				". g e . l a n",
+				".",
+				". k i",
+				". s i . k w i . d e",
+				"(",
+				". d i . t i . m i . d o . r i .",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pişt",
+				"re",
+				"Belçîka",
+				",",
+				"Spanya",
+				",",
+				"Danîmarka",
+				",",
+				"Norwêc",
+				",",
+				"Swêd",
+				",",
+				"Portûgal",
+				",",
+				"Îslenda",
+				",",
+				"Fransa",
+				",",
+				"Keyaniya",
+				"Yekbûyî",
+				",",
+				"Lûksembûrg",
+				"qanûnî",
+				"kir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				6,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". p i ʃ t",
+				". r e",
+				". b e l . t͡ʃ i . k a",
+				",",
+				". s p a n . y a",
+				",",
+				". d a . n ɯ . m a r . k a",
+				",",
+				". n o r . w e k",
+				",",
+				". s w e d",
+				",",
+				". p o r . t u . g a ɫ",
+				",",
+				". Ū s . l e n . d a",
+				",",
+				". f r a n . s a",
+				",",
+				". k e y a . n i a",
+				"j ɛ k b u j ˈɯ",
+				",",
+				". l u k . s e m . b u r g",
+				". k a . n u . n i",
+				". k i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				6,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bi",
+				"Lahamu",
+				"re",
+				"bûya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b i",
+				". l a . h a . m u",
+				". r e",
+				". b u . y a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ji",
+				"ber",
+				"ku",
+				"ji",
+				"malbatake",
+				"welatparêz",
+				"dihat",
+				",",
+				"hîn",
+				"di",
+				"zarokantiya",
+				"xwe",
+				"de",
+				"tevil",
+				"xwepêşandanên",
+				"ji",
+				"bo",
+				"Kurdistanê",
+				"bû",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". j i",
+				". b e r",
+				". k u",
+				". j i",
+				". m a l . b a . t a . k e",
+				". w e . l a t . p a . r e z",
+				". d i . h a t",
+				",",
+				". h i n",
+				". d i",
+				". z a . r o . k a n . t î a",
+				". k i . k w e",
+				". d e",
+				". t e . v i l",
+				". x w e . p e . ş a n . d a . n e n",
+				". j i",
+				". b o",
+				". k u r . d i s . t a . n e",
+				". b u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Şêx",
+				"Ubeydelayê",
+				"Nehrî"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". ş e k s",
+				"u . b e j . d e . l a . y e",
+				". n e h . r ɯ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Yekîtiya",
+				"Nîştimanî",
+				"ya",
+				"Kurdistanê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"j e k ˈɯ t i a",
+				". n ɯ ʃ . t i . m a . n ɯ",
+				". y a",
+				". k u r . d i s . t a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Bexdenûs",
+				"(",
+				"li",
+				"ser",
+				"daxwazê",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b e k s . d e . n u s",
+				"(",
+				". l i",
+				". s e r",
+				". d a k s . w a . z e",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Samoa",
+				"(",
+				"serbixwe",
+				"ye",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". s a . m o a",
+				"(",
+				". s e r . b i k s . w e",
+				". y e",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"Bulgaristan",
+				"864–1014",
+				",",
+				"1186–1396",
+				"û",
+				"1908–1946",
+				","
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". b u l . g a . r i s . t a n",
+				". s i . s i k . y i . d e . d v o .",
+				",",
+				". s i . d i . s i . d v e . s e m",
+				". u",
+				". s e . y i k . d v o .",
+				","
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Michael",
+				"Jackson",
+				"(",
+				"47",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". m i ç . a e l",
+				". j a k . s o n",
+				"(",
+				". k i . j i m",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Fringe",
+				"(",
+				"werza",
+				"yekê",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". f i n . g e",
+				"(",
+				". w e r . z a",
+				". y e . k e",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Beriya",
+				"ku",
+				"hevnasîna",
+				"wî",
+				"bi",
+				"Sigmund",
+				"Freud",
+				"re",
+				"çêbe",
+				"bi",
+				"wî",
+				"re",
+				"bi",
+				"nameyan",
+				"dikeve",
+				"gotûbêjan",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b e . r î a",
+				". k u",
+				". h e v . n a . s i . n a",
+				". w i",
+				". b i",
+				". s i g . m u n d",
+				". f r e u d",
+				". r e",
+				". t͡ʃ e . b e",
+				". b i",
+				". w i",
+				". r e",
+				". b i",
+				". n a . m e . y a n",
+				". d i . k e . v e",
+				". g o . t u . b e . j a n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"Kurdistanê",
+				"çandiniya",
+				"wê",
+				"gengaz",
+				"e",
+				"yan",
+				"na",
+				",",
+				"ne",
+				"diyar",
+				"e",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". k u r . d i s . t a . n e",
+				". t͡ʃ a n . d i . n î a",
+				". w e",
+				". g e n . g a z",
+				". e",
+				". y a n",
+				". n a",
+				",",
+				". n e",
+				". d i . y a r",
+				". e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Di",
+				"dema",
+				"wî",
+				"de",
+				"Sûrî",
+				"(",
+				"635-636",
+				")",
+				",",
+				"Iraq",
+				",",
+				"Kurdistan",
+				",",
+				"Mezopotamya",
+				"(",
+				"636",
+				")",
+				"û",
+				"Misir",
+				"(",
+				"639-642",
+				")",
+				"hat",
+				"dagir",
+				"kirin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d i",
+				". d e . m a",
+				". w i",
+				". d e",
+				". s u . r i",
+				"(",
+				". d i . s i . s i . d i .",
+				")",
+				",",
+				"ɯ ɾ ˈa x",
+				",",
+				". k u r . d i s . t a n",
+				",",
+				". m e . z o . p o . t a m . y a",
+				"(",
+				". d i . s i . d v a",
+				")",
+				". u",
+				". m i . s i r",
+				"(",
+				". d i . s i . l i . s i . d v e .",
+				")",
+				". h a t",
+				". d a . g i r",
+				". k i . r i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Partiya",
+				"Xiristiyan-Sosyal",
+				"a",
+				"Gel",
+				"a",
+				"Lûksembûrgê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a r . t i a",
+				". x i . r i s . t i . a n . s o s . j a ɫ",
+				". a",
+				". g e l",
+				". a",
+				". l u k . s e m . b u r . g e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"jî",
+				"di",
+				"Yekîtiya",
+				"Ewropayê",
+				"de",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". j ɯ",
+				". d i",
+				"j e k ˈɯ t i a",
+				". e w r o . p a . y e",
+				". d e",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hikûmeta",
+				"Herêma",
+				"Kurdistanê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". h i . k u . m e . t a",
+				". h e . r e . m a",
+				". k u r . d i s . t a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"dîsa",
+				"ji",
+				"bo",
+				"Orşelîmê",
+				"helgirin",
+				"hat",
+				"der",
+				"xistin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". d i . s a",
+				". j i",
+				". b o",
+				". ɔ r . ʃ e . l i . m e",
+				". h e l . g i . r i n",
+				". h a t",
+				". d e r",
+				". x i s . t i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Tomografiya",
+				"kompûterê",
+				"(",
+				"CT",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". t o . m o ɟ . r a . f i a",
+				". k o m . p u . t e . r e",
+				"(",
+				". s i . t i",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Cemiyeta",
+				"Tealiya",
+				"Kurd"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". s e . m i . y e . t a",
+				". t e a . l i a",
+				". k u r d"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Mele",
+				"Ebû",
+				"Bekir"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". m e . l e",
+				"e b ˈu",
+				". b e . k i r"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Berpirsiyarê",
+				"kovarê",
+				"Celadet",
+				"Alî",
+				"Bedirxan",
+				"bû",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b e r . p i r . s i . y a . r e",
+				". k o . v a . r e",
+				". s e . l a . d e t",
+				"a l ˈɯ",
+				". b e . d i r . x a n",
+				". b u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Herwiha",
+				"ew",
+				"bavê",
+				"Daryûsê",
+				"Mezin",
+				"e.",
+				"Navê",
+				"bavê",
+				"wî",
+				"Arşama",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". h e r . w i . h a",
+				". e w",
+				". b a . v e",
+				". d a r . y u . s e",
+				". m e . z i n",
+				". e",
+				". n a . v e",
+				". b a . v e",
+				". w i",
+				". a r . ʃ a . m a",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"===",
+				"Berî",
+				"Îsa",
+				"(",
+				"zayîn",
+				")",
+				"==="
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				".",
+				". b e . r ɯ",
+				". i s a",
+				"(",
+				". z a . y i n",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Erdê",
+				"parêzgehê",
+				"dikeve",
+				"tixûbê",
+				"Tirkiyê",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				". e r . d e",
+				". p a . r e z . g e . h e",
+				". d i . k e . v e",
+				". t i . x u . b e",
+				". t i r . k i . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Brîtanya",
+				"(",
+				"girav",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". b r i . t a n . a",
+				"(",
+				". g i . r a v",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Tîma",
+				"neteweyî",
+				"ya",
+				"futbolê",
+				"ya",
+				"Almanyayê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". t i . m a",
+				". n e . t e . w e . y ɯ",
+				". y a",
+				". f u t . b o . l e",
+				". y a",
+				"a ɫ m a n j a j ˈe"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Zanîngeha",
+				"Federal",
+				"a",
+				"Bahiayê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". z a . n ɯ n . g e . h a",
+				". f e . d e . r a l",
+				". a",
+				". b a . h i a . y e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Xebatên",
+				"UNICEFê",
+				"kêm",
+				"be",
+				"jî",
+				"li",
+				"Başûrê",
+				"Kurdistanê",
+				"heye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". x e . b a . t e n",
+				". u n i . s e . f e",
+				". k e m",
+				". b e",
+				". j ɯ",
+				". l i",
+				". b a . ş u . r e",
+				". k u r . d i s . t a . n e",
+				". h e . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kanada",
+				"(",
+				"bi",
+				"pişkî",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". k a . n a . d a",
+				"(",
+				". b i",
+				"p i ʃ k ˈɯ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Friedrich",
+				"Wilhelm",
+				"Nietzsche"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". f i . r î ç",
+				". w i l . h e l m",
+				". n i t z . ç e"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Yaneya",
+				"Jîmnastîkê",
+				"ya",
+				"Beşiktaşê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". j a . n e . y a",
+				". j ɯ m . n a s . t i . k e",
+				". y a",
+				". b e . ş i k . t a . ş e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Partiya",
+				"Demokratîk",
+				"a",
+				"Kurdistana",
+				"Îranê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a r . t i a",
+				". d e . m o k . r a . t i k",
+				". a",
+				". k u r . d i s . t a . n a",
+				". i r a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Xetice",
+				"bint",
+				"Xuweylid"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". x e . t i . s e",
+				". b i n t",
+				". x u . w e j . l i d"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pê",
+				"mayînê",
+				"çar",
+				"rojanê",
+				"li",
+				"wir",
+				"re",
+				"ew",
+				"şunda",
+				"dikeve",
+				"rê",
+				"û",
+				"berî",
+				"xwe",
+				"dide",
+				"Mekeyê",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				". p e",
+				". m a . y i . n e",
+				". t͡ʃ a r",
+				". r o . j a . n e",
+				". l i",
+				". w i r",
+				". r e",
+				". e w",
+				". ş u n . d a",
+				". d i . k e . v e",
+				". r e",
+				". u",
+				". b e . r ɯ",
+				". k i . k w e",
+				". d i . d e",
+				". m e . k e y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Rêzanê",
+				"wan",
+				"yê",
+				"bi",
+				"navê",
+				"Cano",
+				"jî",
+				"xweş",
+				"bi",
+				"Kurdî",
+				"zanîbû",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". r e . z a . n e",
+				". w a n",
+				". y e",
+				". b i",
+				". n a . v e",
+				". c a . n o",
+				". j ɯ",
+				". x w e ʃ",
+				". b i",
+				". k u r . d ɯ",
+				". z a . n ɯ . b u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pirraniya",
+				"axa",
+				"newalê",
+				"dikeve",
+				"nava",
+				"tixûbên",
+				"federedewleta",
+				"California",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				". p i r . r a . n î a",
+				". a k s a",
+				". n e . w a . l e",
+				". d i . k e . v e",
+				". n a . v a",
+				". t i . x u . b e n",
+				". f e . d e . r e . d e w . l e . t a",
+				". d͡ʒ a . l i . f o r . n i a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tê",
+				"gotin",
+				"ku",
+				"Sokrates",
+				"insiyatîfgirê",
+				"xebata",
+				"zêde",
+				"û",
+				"kolbûna",
+				"li",
+				"ser",
+				"tiştên",
+				"mirovhizî",
+				"bûye",
+				",",
+				"ji",
+				"bilî",
+				"lêkolînên",
+				"ku",
+				"li",
+				"ser",
+				"nimûneyên",
+				"devçengîyê",
+				",",
+				"li",
+				"ser",
+				"sedemên",
+				"xwezaya",
+				"jîyaneke",
+				"çê",
+				"û",
+				"hêjayîya",
+				"fahman",
+				"û",
+				"ilmê",
+				"cehd",
+				"û",
+				"xebatê",
+				",",
+				"kirîye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". t e",
+				". g o . t i n",
+				". k u",
+				". s o k . r a . t e s",
+				". i n s i . y a . t ɯ f . g i . r e",
+				". x e . b a . t a",
+				". z e . d e",
+				". u",
+				". k o ɫ . b u . n a",
+				". l i",
+				". s e r",
+				". t i ʃ . t e n",
+				". m i . r ɔ v . h i . z ɯ",
+				". b u . y e",
+				",",
+				". j i",
+				". b i . l ɯ",
+				". l e . k o . l i . n e n",
+				". k u",
+				". l i",
+				". s e r",
+				". n i . m u . n e . y e n",
+				". d e v . t͡ʃ e n . g i . y e",
+				",",
+				". l i",
+				". s e r",
+				". s e . d e . m e n",
+				". x w e . z a . y a",
+				". j i . y a . n e . k e",
+				". t͡ʃ e",
+				". u",
+				". h e . j a . y i . a",
+				". f a h . m a n",
+				". u",
+				". i l . m e",
+				". s e h . d",
+				". u",
+				". x e . b a . t e",
+				",",
+				". k i . r i . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Provence-Alpes-Côte",
+				"d'Azur",
+				"(",
+				"PACA",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p r o v e n s e a ɫ p e s k o t",
+				". d a . z u r",
+				"(",
+				". p a . t͡s a",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Montenegro",
+				"û",
+				"Serbistan",
+				"ber",
+				"tev",
+				"bûn",
+				"dixwastin",
+				"ko",
+				"bi",
+				"endama",
+				"YE",
+				"bû",
+				"ne",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". m o n . t e . n e . g r o",
+				". u",
+				". s e r . b i s . t a n",
+				". b e r",
+				". t e v",
+				". b u n",
+				". d i k s . w a s . t i n",
+				". k o",
+				". b i",
+				". e n . d a . m a",
+				". y e",
+				". b u",
+				". n e",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"di",
+				"deme",
+				"Dewleta",
+				"Şadadî",
+				"de",
+				"jîya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". d i",
+				". d e . m e",
+				". d e w . l e . t a",
+				"ʃ a d a d ˈɯ",
+				". d e",
+				". j i . y a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hê",
+				"Zerdeşt",
+				",",
+				"weke",
+				"pêxemberê",
+				"xwe",
+				"dibîne",
+				"."
+			],
+			"ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". h e",
+				". z e r . d e ʃ t",
+				",",
+				". w e . k e",
+				". p e k s e m . b e . r e",
+				". k i . k w e",
+				". d i . b i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Hêzên",
+				"Çekdar",
+				"ên",
+				"Tirkiyeyê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". h e . z e n",
+				". t͡ʃ e k . d a r",
+				". e n",
+				". t i r . k i . y e . y e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Isidor",
+				"Isaac",
+				"Rabi"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". i s i . d o r",
+				". i s a . a k",
+				". r a . b i"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Du",
+				"salan",
+				"li",
+				"Belçîkayê",
+				"maye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d u",
+				". s a . l a n",
+				". l i",
+				". b e l . t͡ʃ i . k a . y e",
+				". m a . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"C.",
+				"V.",
+				"Raman"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". s i .",
+				". v i .",
+				". r a . m a n"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Herwiha",
+				"ya",
+				"Rûsyayê",
+				"jî",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". h e r . w i . h a",
+				". y a",
+				". r u s . y a . y e",
+				". j ɯ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Zerdeşt",
+				",",
+				"filozofekî",
+				"ku",
+				"pir",
+				"mazin",
+				"bû",
+				"."
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". z e r . d e ʃ t",
+				",",
+				". f i . ɫ o . z o . f e . k ɯ",
+				". k u",
+				". p i r",
+				". m a . z i n",
+				". b u",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"hin",
+				"deverên",
+				"Kurdistanê",
+				"jî",
+				"wisa",
+				"dikin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". h i n",
+				". d e . v e . r e n",
+				". k u r . d i s . t a . n e",
+				". j ɯ",
+				". w i . s a",
+				". d i . k i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Riya",
+				"Teze",
+				"(",
+				"rojname",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". r i . y a",
+				". t e . z e",
+				"(",
+				". r o j . n a . m e",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Biroyê",
+				"Heskî",
+				"Têlî"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b i . r o . y e",
+				". h e s . k i",
+				". t e . l i"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Karl",
+				"Gjellerup",
+				",",
+				"Henrik",
+				"Pontoppidan"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				". k a r l",
+				". d͡ʑ e l . l e . r u p",
+				",",
+				". h e n . r i k",
+				". p o n . t o p . i . d a n"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"bi",
+				"kirinên",
+				"xwe",
+				"yên",
+				"li",
+				"Kurdistanê",
+				"navdar",
+				"bûbû",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". b i",
+				". k i . r i . n e n",
+				". k i . k w e",
+				". y e n",
+				". l i",
+				". k u r . d i s . t a . n e",
+				". n a v . d a r",
+				". b u . b u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bi",
+				"tevî",
+				"xwendevanên",
+				"xwe",
+				"û",
+				"Gerardus",
+				"'t",
+				"Hooft",
+				",",
+				"geleklêkolîn",
+				"kirine",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b i",
+				". t e . v ɯ",
+				". k i . k i . w e n . d e . v a . n e n",
+				". k i . k w e",
+				". u",
+				". g e . r a r . d u s",
+				". t i",
+				". h o o f t",
+				",",
+				". g e . l e k . l e . k o . l ɯ n",
+				". k i . r i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Aryo",
+				"Barzan",
+				"III",
+				"(",
+				"Şahê",
+				"Kapadokyayê",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". a r . j o",
+				". b a r . z a n",
+				". r i . i i",
+				"(",
+				". ş a . h e",
+				". k a . p a . d ɔ k . j a . y e",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Îlam",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". i . ɫ a m",
+				".",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Niels",
+				"Bohr",
+				"(",
+				"1885–1962",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". n i l s",
+				". b o h r",
+				"(",
+				". r i . k u 0 s . d y e . w i .",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Var]]",
+				"(",
+				"83",
+				")",
+				"Vaucluse",
+				"(",
+				"84",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". v a r",
+				"(",
+				". s i . m i",
+				")",
+				". v a u d͡ʒ ɫ u . s e",
+				"(",
+				". k i . j i",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pê",
+				"re",
+				"jî",
+				"Galyayiyan",
+				"xakên",
+				"Etrûskan",
+				"dagir",
+				"kirin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". p e",
+				". r e",
+				". j ɯ",
+				". g a ɫ . j a . j i . a n",
+				". x a . k e n",
+				". e t r u s . k a n",
+				". d a . g i r",
+				". k i . r i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Paytexta",
+				"herêmê",
+				"Santa",
+				"Cruz",
+				"de",
+				"Tenerife",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". p a j . t e k s . t a",
+				". h e . r e . m e",
+				". s a n . t a",
+				". s i . r u z",
+				". d e",
+				". t e . n e . r i . f e",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kleopatra",
+				"VII",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". k l e o . p a t . r a",
+				". w i .",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"gelek",
+				"welatên",
+				"Ewropa",
+				"hatiye",
+				"qedexekirin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". g e . l e k",
+				". w e . l a . t e n",
+				". e w . r o . p a",
+				". h a . t i . y e",
+				". k e . d e k s e . k i . r i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mihemed",
+				"Emîn",
+				"Zekî",
+				"wî",
+				"di",
+				"berhema",
+				"xwe",
+				"de",
+				"binav",
+				"kiriye",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". m i . h e . m e d",
+				"e m ˈɯ n",
+				"z e k ˈɯ",
+				". w i",
+				". d i",
+				". b e r . h e . m a",
+				". k i . k w e",
+				". d e",
+				". b i . n a v",
+				". k i . r i . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Malbata",
+				"wî",
+				"ji",
+				"Nêwçiya",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". m a l . b a . t a",
+				". w i",
+				". j i",
+				". n e w . t͡ʃ i a",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Katedrala",
+				"Notre",
+				"Dame",
+				"ya",
+				"Parîsê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". k a . t e . d r a . l a",
+				". n o t . r e",
+				". d a . m e",
+				". y a",
+				". p a . r ɯ . s e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Tomografiya",
+				"kompûterê",
+				"(",
+				"CT",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". t o . m o ɟ . r a . f i a",
+				". k o m . p u . t e . r e",
+				"(",
+				". s i . t i",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Bervajî",
+				"wî",
+				"Sigmund",
+				"Freudî",
+				"hizir",
+				"dikir",
+				"ko",
+				"nesaxiyên",
+				"psîkatrîk",
+				"ji",
+				"ber",
+				"sedemên",
+				"psîkolocîk",
+				"peyda",
+				"dibin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b e r . v a . j ɯ",
+				". w i",
+				". s i g . m u n d",
+				". f r e u . d ɯ",
+				". h i . z i r",
+				". d i . k i r",
+				". k o",
+				". n e . s a k . s i . y e n",
+				". p i . s i . k a t . r i k",
+				". j i",
+				". b e r",
+				". s e . d e . m e n",
+				". p i . s i . k o . ɫ o . s ï k",
+				". p e j . d a",
+				". d i . b i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Komara",
+				"Demokratîk",
+				"a",
+				"Almanyayê"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". k o . m a . r a",
+				". d e . m o k . r a . t i k",
+				". a",
+				"a ɫ m a n j a j ˈe"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mihemed",
+				"Şêxo",
+				"ji",
+				"dayîk",
+				"dibê",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". m i . h e . m e d",
+				". ʃ e k s o",
+				". j i",
+				". d a . y i k",
+				". d i . b e",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Adolfo",
+				"Pérez",
+				"Esquivel"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". a . d o l . f o",
+				". p e . r e z",
+				". e s k u i . v e l"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"Kurdistanê",
+				"çend",
+				"cureyên",
+				"xwe",
+				"hene",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". k u r . d i s . t a . n e",
+				". t͡ʃ e n d",
+				". d͡ʒ u . r e . y e n",
+				". k i . k w e",
+				". h e . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Paytexta",
+				"Çandî",
+				"ya",
+				"Ewropayê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a j . t e k s . t a",
+				". t͡ʃ a n . d ɯ",
+				". y a",
+				". e w r o . p a . y e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Lîsteya",
+				"Sor",
+				"a",
+				"IUCN"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". l ɯ s . t e . y a",
+				". s o r",
+				". a",
+				". i u d͡ʒ n"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Demeka",
+				"Dirêj",
+				",",
+				"Şêx",
+				"Mehmûdê",
+				"Berzencî",
+				",",
+				"ingiliz",
+				"jî",
+				",",
+				"serweriya",
+				"wî",
+				"herê",
+				"dikin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d e . m e . k a",
+				". d i . r e j",
+				",",
+				". ş e k s",
+				". m e h . m u . d e",
+				". b e r . z e n . s ï",
+				",",
+				". i n . g i . l i z",
+				". j ɯ",
+				",",
+				". s e r . w e . r î a",
+				". w i",
+				". h e . r e",
+				". d i . k i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Baba",
+				"Merdûxê",
+				"Rûhanî"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". b a . b a",
+				". m e r . d u . k i . s e",
+				". r u . h a . n ɯ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Asya",
+				"û",
+				"Afrîka",
+				"ji",
+				"wê",
+				"mezintirin",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". a s . y a",
+				". u",
+				". a f . r i . k a",
+				". j i",
+				". w e",
+				". m e . z i n . t i . r i n",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Xetice",
+				"bint",
+				"Xuweylid"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". x e . t i . s e",
+				". b i n t",
+				". x u . w e j . l i d"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Dewleta",
+				"Îslamî",
+				"ya",
+				"Iraq",
+				"û",
+				"Şamê"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". d e w . l e . t a",
+				". Ū s . l a . m ɯ",
+				". y a",
+				"ɯ ɾ ˈa x",
+				". u",
+				". ş a . m e"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Norxan",
+				"(",
+				")",
+				",",
+				"66.418"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". n o r . x a n",
+				"(",
+				")",
+				",",
+				". s i . d v o . r I N . y i ."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Partiya",
+				"Komunîst",
+				"a",
+				"Tirkiyeyê",
+				"/",
+				"Marksîst-Lenînîst"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". p a r . t i a",
+				". k o . m u . n ɯ s t",
+				". a",
+				". t i r . k i . y e . y e",
+				"/",
+				". m a r k . s ɯ s t . l e . n i . n ɯ s t"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Mihemed",
+				"ibn",
+				"Îbrahîm",
+				"el-Fezarî"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". m i . h e . m e d",
+				". i b n",
+				". i b r a . h i m",
+				". e l . f e . z a . r ɯ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Panela",
+				"guhertina",
+				"klîmayê",
+				"ya",
+				"navhikûmetî"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a . n e . l a",
+				". g u . h e r . t i . n a",
+				". k l i . m a . y e",
+				". y a",
+				". n a v . h i . k u . m e . t ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"di",
+				"bandora",
+				"Eliyê",
+				"Teremaxî",
+				"de",
+				"maye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". d i",
+				". b a n . d o . r a",
+				". e l i . y e",
+				". t e . r e . m a k s i",
+				". d e",
+				". m a . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fîrewnê",
+				"herî",
+				"bi",
+				"nav",
+				"û",
+				"deng",
+				"Ramses",
+				"II",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". f i . r e w . n e",
+				". h e . r ɯ",
+				". b i",
+				". n a v",
+				". u",
+				". d e n g",
+				". r a m . s e s",
+				". r i m",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		}
+	],
+	"test": [
+		{
+			"tokens": [
+				"Armando",
+				"Diego",
+				"Maradona"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". a r . m a n . d o",
+				". d i . g o",
+				". m a . r a . d o . n a"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ev",
+				"werger",
+				"ji",
+				"hêla",
+				"Enstîtuya",
+				"Kurdî",
+				"ya",
+				"Stenbolê",
+				"ve",
+				"hatiye",
+				"kirin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e v",
+				". w e r . g e r",
+				". j i",
+				". h e . l a",
+				". æ n s . t i . t u . y a",
+				". k u r . d ɯ",
+				". y a",
+				"s t e n . b o . l e",
+				". v e",
+				". h a . t i . y e",
+				". k i . r i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Qabîl",
+				"û",
+				"Habîl"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". k a . b i l",
+				". u",
+				". h a . b i l"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"bo",
+				"Kurdistanê",
+				"jî",
+				"angaştên",
+				"xwe",
+				"dide",
+				"xûyakirin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". b o",
+				". k u r . d i s . t a . n e",
+				". j ɯ",
+				". a n . g a ʃ . t e n",
+				". k i . k w e",
+				". d i . d e",
+				". x u . j a . k i . r i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kû",
+				"bi",
+				"navê",
+				"'",
+				"''",
+				"Sheamus",
+				"''",
+				"'",
+				"li",
+				"WWE",
+				"Yarîê",
+				"dikit",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". k u",
+				". b i",
+				". n a . v e",
+				"'",
+				".",
+				". s i . h e a . m u s",
+				".",
+				"'",
+				". l i",
+				". w w e",
+				". y a . r i e",
+				". d i . k i t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tîm",
+				"(",
+				"leşkerî",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". t i m",
+				"(",
+				". l e ʃ . k e . r ɯ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Wî",
+				"li",
+				"ser",
+				"fîlozofiya",
+				"Immanuel",
+				"Kant",
+				"xebat",
+				"kiriye",
+				"û",
+				"perwerdeya",
+				"pedagojiyê",
+				"dîtiye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". w i",
+				". l i",
+				". s e r",
+				". f i . ɫ o . z o . f i a",
+				". i m . m a . n u e l",
+				". k a n t",
+				". x e . b a t",
+				". k i . r i . y e",
+				". u",
+				". p e r . w e r . d e . y a",
+				". p e . d a . g o . j î . y e",
+				". d i . t i . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Aryo",
+				"Barzanê",
+				"sisêyan",
+				"ê",
+				"Kapadokyayê"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". a r . j o",
+				". b a r . z a . n e",
+				". s i . s e . y a n",
+				"e",
+				". k a . p a . d ɔ k . j a . y e"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Katedrala",
+				"Notre",
+				"Dame",
+				"ya",
+				"Parîsê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". k a . t e . d r a . l a",
+				". n o t . r e",
+				". d a . m e",
+				". y a",
+				". p a . r ɯ . s e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Navenda",
+				"PEN",
+				"a",
+				"Kurd"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". n a . v e n . d a",
+				". p e n",
+				". a",
+				". k u r d"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"William",
+				"Butler",
+				"Yeats"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". w i l . l i a m",
+				". b u t . l e r",
+				"j e ˈa t s"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Navenda",
+				"PEN",
+				"a",
+				"Kurd"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". n a . v e n . d a",
+				". p e n",
+				". a",
+				". k u r d"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"malbateke",
+				"muzîk-perwer",
+				"li",
+				"Tehranê",
+				"ji",
+				"dayik",
+				"bûye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". m a l . b a . t e . k e",
+				". m u . z ɯ k . p e r . w e r",
+				". l i",
+				". t e h . r a . n e",
+				". j i",
+				". d a . y i k",
+				". b u . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"J.",
+				"R.",
+				"R.",
+				"Tolkien"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". j i",
+				". r i",
+				". r i",
+				". t o ɫ . k î n"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Şêx",
+				"Ubeydelayê",
+				"Nehrî"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". ş e k s",
+				"u . b e j . d e . l a . y e",
+				". n e h . r ɯ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Paytext",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". p a j . t e k s t",
+				".",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"zanîngeha",
+				"Amedê",
+				"dixwîne",
+				";",
+				"beşa",
+				"îktisadê",
+				"."
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". z a . n ɯ n . g e . h a",
+				". a m e . d e",
+				". d i k s . w i . n e",
+				";",
+				". b e . ş a",
+				"ɯ k . t i . s a . d e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Berberî",
+				"(",
+				"gel",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r . b e . r ɯ",
+				"(",
+				". g e l",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Yekîtiya",
+				"Nîştimanî",
+				"ya",
+				"Kurdistanê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"j e k ˈɯ t i a",
+				". n ɯ ʃ . t i . m a . n ɯ",
+				". y a",
+				". k u r . d i s . t a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Friedrich",
+				"Wilhelm",
+				"Nietzsche"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". f i . r î ç",
+				". w i l . h e l m",
+				". n i t z . ç e"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Mîndaugas",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". m ɯ n . d a u . g a s",
+				".",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"jî",
+				"wekî",
+				"Sigmund",
+				"Freud",
+				"teknîka",
+				"şîrovekirina",
+				"xewnan",
+				"bikartîne",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". j ɯ",
+				". w e . k i",
+				". s i g . m u n d",
+				". f r e u d",
+				". t e k . n i . k a",
+				". ʃ ɯ . r o . v e . k i . r i . n a",
+				". x e w . n a n",
+				". b i . k a r . t i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Paytext",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". p a j . t e k s t",
+				".",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Qur‘an",
+				"di",
+				"sala",
+				"610‘an",
+				",",
+				"pistî",
+				"Mîladê",
+				",",
+				"bo",
+				"Mihemed",
+				"hatiye",
+				"xwarê",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". k u r . a n",
+				". d i",
+				". s a . l a",
+				". s i . d i . r i . g i . r i .",
+				",",
+				". p i s . t ɯ",
+				". m i . l a . d e",
+				",",
+				". b o",
+				". m i . h e . m e d",
+				". h a . t i . y e",
+				". x w a . r e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Partiya",
+				"Komunîst",
+				"a",
+				"Çînê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a r . t i a",
+				". k o . m u . n ɯ s t",
+				". a",
+				". t͡ʃ i . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Lev",
+				"Landau",
+				"(",
+				"1908–1967",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l e v",
+				". l a n . d a u",
+				"(",
+				". r i . y i . d e . r i . d v i .",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Lîsteya",
+				"Sor",
+				"a",
+				"IUCN"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". l ɯ s . t e . y a",
+				". s o r",
+				". a",
+				". i u d͡ʒ n"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mehmed",
+				"Emîn",
+				"Bozarslan"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". m e h . m e d",
+				"e m ˈɯ n",
+				". b o . z a r s . l a n"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Dema",
+				"Mîtra",
+				",",
+				"berî",
+				"dema",
+				"Zerdeşt",
+				"bû",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d e . m a",
+				". m ɯ t . r a",
+				",",
+				". b e . r ɯ",
+				". d e . m a",
+				". z e r . d e ʃ t",
+				". b u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Edgar",
+				"Allan",
+				"Poe"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". e d . g a r",
+				". a ɫ . l a n",
+				". p u"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Hikûmeta",
+				"Herêma",
+				"Kurdistanê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". h i . k u . m e . t a",
+				". h e . r e . m a",
+				". k u r . d i s . t a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kurê",
+				"(",
+				"lawê",
+				")",
+				"Çetin",
+				"Altan",
+				",",
+				"birayê",
+				"Ahmet",
+				"Altan",
+				"e",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". k u . r e",
+				"(",
+				". l a . w e",
+				")",
+				". t͡ʃ e . t i n",
+				". a ɫ . t a n",
+				",",
+				". b i . r a . y e",
+				". a h . m e t",
+				". a ɫ . t a n",
+				". e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Paytext",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". p a j . t e k s t",
+				".",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Albert",
+				"Einstein",
+				"(",
+				"1879–1955",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". a l . b e r t",
+				". e i n s . t e i n",
+				"(",
+				". r i . k i . m e . d e . s i",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"Almanya",
+				"''S-Bahn",
+				"''",
+				"jî",
+				"di",
+				"heman",
+				"wateyê",
+				"de",
+				"ye",
+				",",
+				"lê",
+				"``",
+				"S",
+				"''",
+				"li",
+				"wir",
+				"di",
+				"wateya",
+				"''kolan",
+				"''",
+				"ê",
+				"de",
+				"ye",
+				",",
+				"''ango",
+				"bana",
+				"sererdê",
+				",",
+				"bana",
+				"ser",
+				"kolanê",
+				"''",
+				"ye",
+				"û",
+				"êdî",
+				"bûye",
+				"markayek",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". a ɫ . m a n . a",
+				". s i . b a n",
+				".",
+				". j ɯ",
+				". d i",
+				". h e . m a n",
+				". w a . t e . y e",
+				". d e",
+				". y e",
+				",",
+				". l e",
+				".",
+				". s i",
+				".",
+				". l i",
+				". w i r",
+				". d i",
+				". w a . t e . y a",
+				". k o . l a n",
+				".",
+				"e",
+				". d e",
+				". y e",
+				",",
+				". a n . g o",
+				". b a . n a",
+				". s e . r e r . d e",
+				",",
+				". b a . n a",
+				". s e r",
+				". k o . l a . n e",
+				".",
+				". y e",
+				". u",
+				"e . d ɯ",
+				". b u . y e",
+				". m a r . k a . y e k",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Piştî",
+				"girtina",
+				"Welatê",
+				"Me",
+				",",
+				"kar",
+				"û",
+				"barê",
+				"rojnamegeriyê",
+				"di",
+				"rojnameya",
+				"Azadiya",
+				"Welat",
+				"de",
+				"berdewam",
+				"kir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". p i ʃ . t ɯ",
+				". g i r . t i . n a",
+				". w e . l a . t e",
+				". m e",
+				",",
+				". k a r",
+				". u",
+				". b a . r e",
+				". r o j . n a . m e . g e . r î . y e",
+				". d i",
+				". r o j . n a . m e . y a",
+				"a z ˈa d i a",
+				". w e . l a t",
+				". d e",
+				". b e r . d e . w a m",
+				". k i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Klîpên",
+				"wê",
+				"yên",
+				"wêrek",
+				"li",
+				"ser",
+				"YouTube",
+				"navdar",
+				"in",
+				"û",
+				"di",
+				"2015an",
+				"de",
+				"strana",
+				"wê",
+				"yê",
+				"bi",
+				"navê",
+				"``",
+				"Revolution",
+				"''",
+				"derket",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". k l i . p e n",
+				". w e",
+				". y e n",
+				". w e . r e k",
+				". l i",
+				". s e r",
+				"j o ˈu t u b ˈe",
+				". n a v . d a r",
+				". i n",
+				". u",
+				". d i",
+				". t i . r a n",
+				". d e",
+				". s i . t i . n a",
+				". w e",
+				". y e",
+				". b i",
+				". n a . v e",
+				".",
+				". r e . v o . l u . t i o n",
+				".",
+				". d e r . k e t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bandora",
+				"nîvragihbariyê",
+				"di",
+				"sala",
+				"1833'an",
+				"de",
+				"ji",
+				"aliyê",
+				"Michael",
+				"Faraday",
+				"ve",
+				"hat",
+				"vedîtin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b a n . d o . r a",
+				". n ɯ v . r a . g i h . b a . r i . y e",
+				". d i",
+				". s a . l a",
+				". r i . k i . m i . a n",
+				". d e",
+				". j i",
+				". a . l i . y e",
+				". m i ç . a e l",
+				". f a . r a . d a j",
+				". v e",
+				". h a t",
+				". v e . d i . t i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hikûmeta",
+				"Herêma",
+				"Kurdistanê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". h i . k u . m e . t a",
+				". h e . r e . m a",
+				". k u r . d i s . t a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Paytext",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". p a j . t e k s t",
+				".",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Zanîngeha",
+				"Federal",
+				"a",
+				"Bahiayê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". z a . n ɯ n . g e . h a",
+				". f e . d e . r a l",
+				". a",
+				". b a . h i a . y e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mele",
+				"Mehmûdê",
+				"Bazîdî"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". m e . l e",
+				". m e h . m u . d e",
+				". b a . z ɯ . d ɯ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Lê",
+				"li",
+				"Kurdistanê",
+				"7-10",
+				"cureyên",
+				"wê",
+				"çêdibin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l e",
+				". l i",
+				". k u r . d i s . t a . n e",
+				". n i . d i",
+				". d͡ʒ u . r e . y e n",
+				". w e",
+				". t͡ʃ e . d i . b i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Passengers",
+				"(",
+				"film",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". p a s . s e n . g e r s",
+				"(",
+				". f i l m",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Damezrêner",
+				"û",
+				"îdolê",
+				"vê",
+				"partiyê",
+				"Alparslan",
+				"Türkeş",
+				"e",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d a . m e z . r e . n e r",
+				". u",
+				". ɯ . d o . l e",
+				". v e",
+				". p a r . t i . y e",
+				". a ɫ . p a r s . l a n",
+				". t y r . k e ʃ",
+				". e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Selahattin",
+				"Demirtaş",
+				",",
+				"Figen",
+				"Yüksekdağ"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				". s e . ɫ a . h a t . t i n",
+				". d e . m i r . t a ʃ",
+				",",
+				". f i . g e n",
+				"j ø k s ɛ k d ˈaː"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bi",
+				"destpêka",
+				"desthilatiya",
+				"Josef",
+				"Stalin",
+				"tunekirina",
+				"Kurdan",
+				"li",
+				"wir",
+				"jî",
+				"destpêdike",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b i",
+				". d e s t . p e . k a",
+				". d e s t . h i . l a . t i a",
+				". j o . s e f",
+				". s t a . l i n",
+				". t u . n e . k i . r i . n a",
+				". k u r . d a n",
+				". l i",
+				". w i r",
+				". j ɯ",
+				". d e s t . p e . d i . k e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"destpêka",
+				"salên",
+				"80‘yî",
+				"hatiye",
+				"li",
+				"Swêdê",
+				"bi",
+				"cî",
+				"bûye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". d e s t . p e . k a",
+				". s a . l e n",
+				". s i . d v i . y ɯ",
+				". h a . t i . y e",
+				". l i",
+				". s w e . d e",
+				". b i",
+				". s i",
+				". b u . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Paytext",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". p a j . t e k s t",
+				".",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Los",
+				"Angeles",
+				"(",
+				"-Long",
+				"Beach-Santa",
+				"Ana",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l o s",
+				". a n . g e . l e s",
+				"(",
+				". l o ŋ",
+				". b e a d͡ʒ . s a n . t a",
+				". a . n a",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Yekîtiya",
+				"Komeleyên",
+				"Futbolê",
+				"yên",
+				"Ewropayê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"j e k ˈɯ t i a",
+				". k o . m e . l e . y e n",
+				". f u t . b o . l e",
+				". y e n",
+				". e w r o . p a . y e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Balafira",
+				"çaremîn",
+				"berî",
+				"ku",
+				"êrîş",
+				"bibe",
+				"ser",
+				"Qesra",
+				"Spî",
+				"tevî",
+				"rêwiyan",
+				"hate",
+				"xistin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b a . l a . f i . r a",
+				"t͡ʃ a ɾ e m ˈɯ n",
+				". b e . r ɯ",
+				". k u",
+				"e ɾ ˈɯ ʃ",
+				". b i . b e",
+				". s e r",
+				". k e s . r a",
+				". s p i",
+				". t e . v ɯ",
+				". r e . w i . a n",
+				". h a . t e",
+				". x i s . t i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kirmaşan",
+				"(",
+				"parêzgeh",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". k i r . m a . ş a n",
+				"(",
+				". p a . r e z . g e h",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Kanada",
+				"(",
+				"bi",
+				"pişkî",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". k a . n a . d a",
+				"(",
+				". b i",
+				"p i ʃ k ˈɯ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"''wek",
+				"Salvador",
+				"Dalí",
+				"(",
+				"1904–1989",
+				")",
+				"hatiye",
+				"bi",
+				"nav",
+				"kirin",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". w e k",
+				". s a l . v a . d o r",
+				". d a . l i",
+				"(",
+				". s i . 9 2 . r e . d v e .",
+				")",
+				". h a . t i . y e",
+				". b i",
+				". n a v",
+				". k i . r i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Qonye",
+				",",
+				"Cihanbeyli",
+				"-",
+				"Încow"
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				5
+			],
+			"epi_tokens": [
+				". k o n . y e",
+				",",
+				". s i . h a n . b e j . l i",
+				"-",
+				". ł i n . k o w"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Wilhelm",
+				"II",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". w i l . h e l m",
+				". r i m",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"Amed",
+				"ê",
+				"hatiye",
+				"dine",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". a . m e d",
+				"e",
+				". h a . t i . y e",
+				". d i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Niha",
+				"nivîskarê",
+				"rojnameya",
+				"Azadiya",
+				"Welat",
+				"e.",
+				"Navê",
+				"quncikê",
+				"wî",
+				"''Şop",
+				"''",
+				"e",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". n i . h a",
+				". n i . v ɯ s . k a . r e",
+				". r o j . n a . m e . y a",
+				"a z ˈa d i a",
+				". w e . l a t",
+				". e",
+				". n a . v e",
+				". k u n . s i . k e",
+				". w i",
+				". ʃ o p",
+				".",
+				". e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nêzîkî",
+				"tixûbê",
+				"Sêrtê",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". n e . z i . k i",
+				". t i . x u . b e",
+				". s e r . t e",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dewletên",
+				"Yekbûyî",
+				"yên",
+				"Amerîkayê"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". d e w . l e . t e n",
+				"j ɛ k b u j ˈɯ",
+				". y e n",
+				"a m e ɾ ɯ k a j ˈe"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Îbrahîm",
+				"Heqî",
+				"Erziromî"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". i b r a . h i m",
+				". h e . k ø",
+				". e r . z i . r o . m ɯ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Berî",
+				"Îsa",
+				"(",
+				"zayîn",
+				")"
+			],
+			"ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b e . r ɯ",
+				". i s a",
+				"(",
+				". z a . y i n",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Zimanê",
+				"kurdî",
+				",",
+				"weke",
+				"``",
+				"'",
+				"''",
+				"zimanekî",
+				"ku",
+				"nayê",
+				"zanîn",
+				"''",
+				"''",
+				"''",
+				"dihat",
+				"ser",
+				"ziman",
+				"û",
+				"di",
+				"dokument",
+				"û",
+				"belgeyên",
+				"dadgahê",
+				"de",
+				"dihat",
+				"qeydkirin",
+				"."
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". z i . m a . n e",
+				". k u r . d ɯ",
+				",",
+				". w e . k e",
+				".",
+				"'",
+				".",
+				". z i . m a . n e . k i",
+				". k u",
+				". n a . y e",
+				". z a . n i n",
+				".",
+				".",
+				".",
+				". d i . h a t",
+				". s e r",
+				". z i . m a n",
+				". u",
+				". d i",
+				". d o . k u . m e n t",
+				". u",
+				". b e l . g e . y e n",
+				". d a d . g a . h e",
+				". d e",
+				". d i . h a t",
+				". k e j d . k i . r i n",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Elî",
+				"Hesen",
+				"Ebdelmecîd",
+				"et-Tikrîtî"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"e l ˈɯ",
+				". h e . s e n",
+				"e b d æ l m e d͡ʒ ˈɯ d",
+				"e t . t i k . r i . t ɯ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Tengava",
+				"Messina",
+				"wê",
+				"ji",
+				"Sîcîlyayê",
+				"vediqtine",
+				"."
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". t e n . g a . v a",
+				". m e s . s i . n a",
+				". w e",
+				". j i",
+				"s ɯ d͡ʒ ɯ l j a j ˈe",
+				". v e . d i k . t i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Pê",
+				"(",
+				"yekeya",
+				"pîvanê",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". p e",
+				"(",
+				". j e . k e y a",
+				". p i . v a . n e",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Partiya",
+				"Herêmên",
+				"Demokratîk"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". p a r . t i a",
+				". h e . r e . m e n",
+				". d e . m o k . r a . t i k"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Behaedîn",
+				"ibn",
+				"Şedad"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". b e . h a e . d ɯ n",
+				". i b n",
+				". ş e . d a d"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"8",
+				"Mile",
+				"(",
+				"soundtrack",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". k i",
+				". m i . l e",
+				"(",
+				". s o u n d . t r a d͡ʒ k",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"15'ê",
+				"gelawêja",
+				"1984'an"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". r i . m e",
+				". g e . l a . w e . j a",
+				". r i . y e . z a n"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Riya",
+				"Teze",
+				"(",
+				"rojname",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". r i . y a",
+				". t e . z e",
+				"(",
+				". r o j . n a . m e",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Îbrahîm",
+				"Heqî",
+				"Erziromî"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". i b r a . h i m",
+				". h e . k ø",
+				". e r . z i . r o . m ɯ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Rêxistina",
+				"Efûyê",
+				"ya",
+				"Navneteweyî"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". r e k s i s . t i . n a",
+				". e f u . y e",
+				". y a",
+				". n a v . n e . t e . w e . y ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nûçegihaniya",
+				"rojnameya",
+				"hefteyî",
+				"Yeni",
+				"Ülke",
+				"kiriye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". n u . t͡ʃ e . g i . h a . n i a",
+				". r o j . n a . m e . y a",
+				". h e f . t e . y ɯ",
+				". y e . n i",
+				"y l k ˈe",
+				". k i . r i . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jina",
+				"wî",
+				"ji",
+				"aliyê",
+				"KGByê",
+				"ve",
+				"tê",
+				"şopandin",
+				"û",
+				"direve",
+				"derveyî",
+				"welêt",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". j i . n a",
+				". w i",
+				". j i",
+				". a . l i . y e",
+				". k i . g i . b y e",
+				". v e",
+				". t e",
+				". ş o . p a n . d i n",
+				". u",
+				". d i . r e . v e",
+				". d e r . v e . y ɯ",
+				". w e . l e t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tansu",
+				"Çiller",
+				"û",
+				"mêrê",
+				"wê"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". t a n . s u",
+				". t͡ʃ i l . l e r",
+				". u",
+				". m e . r e",
+				". w e"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dûrbûna",
+				"wê",
+				"ya",
+				"ji",
+				"Rihayê",
+				"92",
+				"km",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d u r . b u . n a",
+				". w e",
+				". y a",
+				". j i",
+				". r i . h a . y e",
+				". y i . t i",
+				". k i . m i",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Partiya",
+				"Civaka",
+				"Demokratîk"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a r . t i a",
+				". s i . v a . k a",
+				". d e . m o k . r a . t i k"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Pezmijoka",
+				"çol",
+				"û",
+				"deştan"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". p e z . m i . j o . k a",
+				". t͡ʃ o ɫ",
+				". u",
+				". d e ʃ . t a n"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"New",
+				"York",
+				"Tribune"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". n e w",
+				". j o r k",
+				". t r i . b u . n e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Vêgav",
+				"di",
+				"rojnameya",
+				"lîberal-demokrat",
+				"Tarafê",
+				"de",
+				"dinivîsîne",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". v e . g a v",
+				". d i",
+				". r o j . n a . m e . y a",
+				". l i . b e . r a l . d e . m o . k r a t",
+				". t a . r a . f e",
+				". d e",
+				". d i . n i . v i . s i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Perçemka",
+				"mêwexwer",
+				"a",
+				"taczêrîn"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". p e r . t͡ʃ e m . k a",
+				". m e . w e k s . w e r",
+				". a",
+				". t a d͡ʒ . z e . r ɯ n"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Emeran",
+				",",
+				"Xelfetî"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". e m e . r a n",
+				",",
+				". x æ l . f e . t ɯ"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Sao",
+				"Tome",
+				"û",
+				"Prînsîpe"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". s a o",
+				". t o . m e",
+				". u",
+				". p i . r ɯ n . s i . p e"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Yekîtiya",
+				"Demokratên",
+				"Xiristiyan",
+				"a",
+				"Almanyayê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"j e k ˈɯ t i a",
+				". d e . m o k . r a . t e n",
+				". x i . r i s . t i . a n",
+				". a",
+				"a ɫ m a n j a j ˈe"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Parka",
+				"Neteweyî",
+				"ya",
+				"Kanyona",
+				"Mezin"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". p a r . k a",
+				". n e . t e . w e . y ɯ",
+				". y a",
+				". k a n . y o . n a",
+				". m e . z i n"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Zanîngeha",
+				"Federal",
+				"a",
+				"Minas",
+				"Geraisê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". z a . n ɯ n . g e . h a",
+				". f e . d e . r a l",
+				". a",
+				". m i . n a s",
+				". g e . r a͡ɪ . s e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"ji",
+				"dibistana",
+				"Carl",
+				"Gustav",
+				"Jung",
+				"e",
+				",",
+				"analîstek",
+				"e.",
+				"Ji",
+				"sala",
+				"1975ê",
+				"ve",
+				"bi",
+				"serê",
+				"xwe",
+				"praksîsiyê",
+				"dike",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". j i",
+				". d i . b i s . t a . n a",
+				". c a r l",
+				". g u s . t a v",
+				". j u ŋ",
+				". e",
+				",",
+				"a n a l ɯ s t ˈe k",
+				". e",
+				". j i",
+				". s a . l a",
+				". r i . y i . m i . k e",
+				". v e",
+				". b i",
+				". s e . r e",
+				". k i . k w e",
+				". p r a k . s i . s i . y e",
+				". d i . k e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Daykemar",
+				"an",
+				"dêlemar",
+				"(",
+				"''Lacerta",
+				"trilineata",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d a j . k e . m a r",
+				". a n",
+				". d e . l e . m a r",
+				"(",
+				". l a . s e r . t a",
+				". t r i . l i . n e . a t a",
+				".",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Zanîngeha",
+				"Teknîkî",
+				"ya",
+				"Rojhilata",
+				"Navîn"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". z a . n ɯ n . g e . h a",
+				". t e k . n i . k i",
+				". y a",
+				". r o j . h i . l a . t a",
+				". n a . v i n"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Celal",
+				"Talebanî",
+				"ji",
+				"dayîk",
+				"bû",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". s e . l a l",
+				". t a . l e . b a . n ɯ",
+				". j i",
+				". d a . y i k",
+				". b u",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bi",
+				"Tsung-Dao",
+				"Lee",
+				",",
+				"bi",
+				"salan",
+				"bi",
+				"hev",
+				"re",
+				"xebitîn",
+				"û",
+				"xebatên",
+				"xwe",
+				"weşandin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b i",
+				". t s u ŋ . d a o",
+				". l e e",
+				",",
+				". b i",
+				". s a . l a n",
+				". b i",
+				". h e v",
+				". r e",
+				". x e . b i . t i n",
+				". u",
+				". x e . b a . t e n",
+				". k i . k w e",
+				". w e . ş a n . d i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hikûmeta",
+				"Herêma",
+				"Kurdistanê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". h i . k u . m e . t a",
+				". h e . r e . m a",
+				". k u r . d i s . t a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Le",
+				"Monde",
+				"diplomatique"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". l e",
+				". m o n . d e",
+				". d i p . ɫ o . m a . t i . k w e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Îbn",
+				"Selah",
+				"el-Kurdî"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". ł i b n",
+				". s e . l a h",
+				". e l . k u r . d ɯ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Sin-Itiro",
+				"Tomonaga",
+				"(",
+				"1906–1979",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". s i n . i . t i . r o",
+				". t o . m o . n a . g a",
+				"(",
+				". r y 2 : s e . r e . d e .",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"3",
+				"326",
+				"km",
+				"bi",
+				"Meksîk",
+				"re"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				". k i",
+				". s i . t i .",
+				". k i . m i",
+				". b i",
+				"m e k s ˈɯ k",
+				". r e"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Riya",
+				"Teze",
+				"(",
+				"rojname",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". r i . y a",
+				". t e . z e",
+				"(",
+				". r o j . n a . m e",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Piştre",
+				"bavê",
+				"wî",
+				"Mehmo",
+				"bar",
+				"dike",
+				"diçe",
+				"Edeneyê",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				". p i ʃ t . r e",
+				". b a . v e",
+				". w i",
+				". m e h . m o",
+				". b a r",
+				". d i . k e",
+				". d i . t͡ʃ e",
+				"e d e n e j ˈæ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		}
+	],
+	"train": [
+		{
+			"tokens": [
+				"Di",
+				"vê",
+				"hevpeyvînê",
+				"de",
+				"bi",
+				"aşkereyî",
+				"dijberiya",
+				"welatê",
+				"xwe",
+				"bo",
+				"nîjadperestiyê",
+				"û",
+				"bîrdoziya",
+				"Nazîyan",
+				"tîne",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d i",
+				". v e",
+				". h e v . p e j . v i . n e",
+				". d e",
+				". b i",
+				"a ʃ k e ɾ e j ˈɯ",
+				". d i j . b e . r î a",
+				". w e . l a . t e",
+				". k i . k w e",
+				". b o",
+				". n i . j a d . p e . r e s . t î . y e",
+				". u",
+				". b ɯ r . d o z i a",
+				". n a . z i . y a n",
+				". t i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Thales",
+				"bawer",
+				"dikir",
+				"ku",
+				"mirov",
+				"jî",
+				"wekî",
+				"hemû",
+				"tiştan",
+				"ji",
+				"avê",
+				"hatîye",
+				"."
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". t a . l e s",
+				". b a . w e r",
+				". d i . k i r",
+				". k u",
+				". m i . r o v",
+				". j ɯ",
+				". w e . k i",
+				". h e . m u",
+				". t i ʃ . t a n",
+				". j i",
+				". a v e",
+				". h a . t i . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Hêzên",
+				"Çekdar",
+				"ên",
+				"Tirkiyeyê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". h e . z e n",
+				". t͡ʃ e k . d a r",
+				". e n",
+				". t i r . k i . y e . y e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Înstîtût",
+				"bi",
+				"serokatiya",
+				"Mezher",
+				"Xaliqî",
+				"kar",
+				"û",
+				"barên",
+				"xwe",
+				"digerîne",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". ḧ i n s . t i . t u t",
+				". b i",
+				". s e . r o . k a . t i a",
+				". m e z . h e r",
+				"x a l i ɡ ˈɯ",
+				". k a r",
+				". u",
+				". b a . r e n",
+				". k i . k w e",
+				". d i . g e . r i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Niha",
+				"li",
+				"Awistralyayê",
+				"dijî",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". n i . h a",
+				". l i",
+				". a w i s t . r a l . y a . y e",
+				". d i . j ɯ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Saziya",
+				"Sîxuriyê",
+				"ya",
+				"Neteweyî",
+				"ya",
+				"Tirkiyeyê",
+				"(",
+				"MİT",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". s a . z i a",
+				". s ɯ k s u . r î . y e",
+				". y a",
+				". n e . t e . w e . y ɯ",
+				". y a",
+				". t i r . k i . y e . y e",
+				"(",
+				"m ˈi t",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Perwerdeya",
+				"zanîngehê",
+				"li",
+				"Bonna",
+				"Almanyayê",
+				"dibîne",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". p e r . w e r . d e . y a",
+				". z a . n ɯ n . g e . h e",
+				". l i",
+				". b o n . n a",
+				"a ɫ m a n j a j ˈe",
+				". d i . b i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Papa",
+				"Yûhena",
+				"Pawlos",
+				"II"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". p a . p a",
+				". y u . h e . n a",
+				". p a w . l o s",
+				". r i m"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Tê",
+				"gotin",
+				"ku",
+				"di",
+				"deme",
+				"Evdilqadirê",
+				"Geylanî",
+				"de",
+				"jîn",
+				"bûya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". t e",
+				". g o . t i n",
+				". k u",
+				". d i",
+				". d e . m e",
+				". e v . d i l . ɡ a . d i . r e",
+				". g e j . ɫ a . n ɯ",
+				". d e",
+				". j i n",
+				". b u . y a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Di",
+				"vê",
+				"çalakiyê",
+				"de",
+				"li",
+				"gel",
+				"CIA",
+				"û",
+				"MÎT",
+				"cih",
+				"girtiye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d i",
+				". v e",
+				". t͡ʃ a . ɫ a . k i . y e",
+				". d e",
+				". l i",
+				". g e l",
+				". s i a",
+				". u",
+				". m î t",
+				". s i h",
+				". g i r . t i . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Komara",
+				"Kurdistanê",
+				"ya",
+				"Mehabadê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". k o . m a . r a",
+				". k u r . d i s . t a . n e",
+				". y a",
+				". m e . h a . b a . d e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Naznawegey",
+				"``",
+				"Baba",
+				"Tahirê",
+				"Uryan”",
+				"bî",
+				"we",
+				"watey",
+				"(",
+				"me’nay",
+				")",
+				"“Bawa",
+				"Tayeri",
+				"Rût",
+				"û",
+				"Lût”",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". n a z . n a . w e . g e j",
+				".",
+				". b a . b a",
+				". t a . h i . r e",
+				". u r . y a n",
+				". b ɯ",
+				". w e",
+				". w a . t e j",
+				"(",
+				". m e . n a j",
+				")",
+				". b a . w a",
+				". t a . y e . r i",
+				". r u t",
+				". u",
+				". l u t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"li",
+				"ser",
+				"hizrê",
+				"Elî",
+				"Herîrî",
+				"pirtûkek",
+				"ji",
+				"nivîsandibû",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". l i",
+				". s e r",
+				". h i z . r e",
+				"e l ˈɯ",
+				". h e . r ɯ . r i",
+				". p i r . t u . k e k",
+				". j i",
+				". n i . v ɯ . s a n . d i . b u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Zagros",
+				"(",
+				"rêzeçiya",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". z a . g r o s",
+				"(",
+				". r e . z e . t͡ʃ i a",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Cara",
+				"pêşîn",
+				"Bülent",
+				"Ecevit",
+				",",
+				"li",
+				"ser",
+				"lêpirsîneka",
+				"windabûna",
+				"bi",
+				"milyonan",
+				"Dolarî",
+				"behsa",
+				"hebûna",
+				"navendên",
+				"bi",
+				"vî",
+				"rengî",
+				"kir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d͡ʒ a . r a",
+				". p e . ş i n",
+				". b y . l e n t",
+				"e d͡ʒ e . v i t",
+				",",
+				". l i",
+				". s e r",
+				". l e . p i r . s i . n e . k a",
+				". w i n . d a . b u . n a",
+				". b i",
+				". m i l . j o . n a n",
+				". d o . ɫ a . r ɯ",
+				". b e h . s a",
+				". h e . b u . n a",
+				". n a . v e n . d e n",
+				". b i",
+				". v i",
+				". r e n . g ɯ",
+				". k i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Partiya",
+				"Civaka",
+				"Demokratîk"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a r . t i a",
+				". s i . v a . k a",
+				". d e . m o k . r a . t i k"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Di",
+				"rojnameya",
+				"adetperest",
+				"Yeni",
+				"Şafak",
+				"û",
+				"ya",
+				"kemalîst-lîberal",
+				"Sabahê",
+				"de",
+				"dinivîsîne",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d i",
+				". r o j . n a . m e . y a",
+				". a . d e t . p e . r e s t",
+				". y e . n i",
+				". ʃ a . f a k",
+				". u",
+				". y a",
+				". k e . m a . l ɯ s t . l i . b e . r a l",
+				". s a . b a . h e",
+				". d e",
+				". d i . n i . v i . s i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"Ewropayê",
+				"di",
+				"bedqestiyan",
+				"de",
+				"(",
+				"suîqest",
+				")",
+				"bo",
+				"pekîna",
+				"kiloxa",
+				"dijber",
+				",",
+				"gelek",
+				"hatine",
+				"bikaranîn",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". e w r o . p a . y e",
+				". d i",
+				". b e d . q e s t i . a n",
+				". d e",
+				"(",
+				". s u i . k e s t",
+				")",
+				". b o",
+				". p e . k i . n a",
+				". k i . l o k s a",
+				". d i j . b e r",
+				",",
+				". g e . l e k",
+				". h a . t i . n e",
+				". b i . k a . r a . n ɯ n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Michael",
+				"Jackson",
+				"(",
+				"159",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". m i ç . a e l",
+				". j a k . s o n",
+				"(",
+				". r i . m i k .",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Serokê",
+				"wê",
+				"yî",
+				"niha",
+				"Mohamed",
+				"ElBaradei",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". s e . r o . k e",
+				". w e",
+				". y ɯ",
+				". n i . h a",
+				". m o . h a . m e d",
+				"ˈe l b a ɾ a d e ˈi",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Îbn",
+				"Selah",
+				"el-Kurdî"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". ł i b n",
+				". s e . l a h",
+				". e l . k u r . d ɯ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Partiya",
+				"Karkerên",
+				"Kurdistanê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a r . t i a",
+				". k a r . k e . r e n",
+				". k u r . d i s . t a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Meyab",
+				"8,1",
+				"km",
+				","
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". m e . y a b",
+				". k i . d i",
+				". k i . m i",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"bi",
+				"tirs",
+				"ji",
+				"wir",
+				"de",
+				"vedigere",
+				"Dehliyê",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". b i",
+				". t i r s",
+				". j i",
+				". w i r",
+				". d e",
+				". v e . d i . g e . r e",
+				". d e h . l i . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Berê",
+				"jî",
+				"generaleke",
+				"bi",
+				"navê",
+				"Veli",
+				"Küçük",
+				"hatibû",
+				"girtin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b e . r e",
+				". j ɯ",
+				". g e . n e . r a . l e . k e",
+				". b i",
+				". n a . v e",
+				". v e . l i",
+				"k y t͡ʃ ˈy ç",
+				". h a . t i . b u",
+				". g i r . t i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Partiya",
+				"Yekîtiya",
+				"Demokrat"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a r . t i a",
+				"j e k ˈɯ t i a",
+				". d e . m o k . r a t"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Niha",
+				"di",
+				"Tarafê",
+				"de",
+				"dinivîsîne",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". n i . h a",
+				". d i",
+				". t a . r a . f e",
+				". d e",
+				". d i . n i . v i . s i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Yekgirtiya",
+				"Îslamî",
+				"ya",
+				"Kurdistanê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". j e ç . g i r . t i a",
+				". Ū s . l a . m ɯ",
+				". y a",
+				". k u r . d i s . t a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"poly",
+				"69",
+				"85",
+				"135",
+				"86",
+				"154",
+				"93",
+				"156",
+				"100",
+				"190",
+				"87",
+				"194",
+				"92",
+				"181",
+				"99",
+				"157",
+				"125",
+				"143",
+				"133",
+				"142",
+				"147",
+				"139",
+				"149",
+				"127",
+				"139",
+				"100",
+				"149",
+				"38",
+				"122",
+				"55",
+				"87",
+				"Dewletên",
+				"Yekbûyî",
+				"yên",
+				"Amerîkayê"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". p o l j",
+				". d i . j i . t i",
+				". s i .",
+				". r i . s i",
+				". k i . d o",
+				". r i . s i .",
+				". s i . m i",
+				". r i . s i .",
+				". r i . t i",
+				". r i . y i",
+				". k i . t i",
+				". r i . y i .",
+				". y i . t i",
+				". r i . k i .",
+				". j i . t i",
+				". r i . s i",
+				". r i . t i .",
+				". r i . j i . m i k",
+				". r i . s i m",
+				". r i . j i . t i",
+				". r i . j i",
+				". r i . m i k .",
+				". r i . j i . t i",
+				". r i . t i .",
+				". r i . m i k .",
+				". r i . t i",
+				". r i . j i . t i",
+				". s i . k i",
+				". r i . t i .",
+				". s i . t i",
+				". k i . t i",
+				". d e w . l e . t e n",
+				"j ɛ k b u j ˈɯ",
+				". y e n",
+				"a m e ɾ ɯ k a j ˈe"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Dêra",
+				"Bartolomeyo",
+				"li",
+				"Dêrê",
+				","
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d e . r a",
+				". b a r . t o . l o . m e . y o",
+				". l i",
+				". d e . r e",
+				","
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Francis",
+				"Bacon",
+				"(",
+				"1561-1626",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". f r a n . s i s",
+				". b a . k o n",
+				"(",
+				". r i . s i g e . r i . d e . d v o .",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Çemê",
+				"Dîcle",
+				"di",
+				"vî",
+				"gundî",
+				"re",
+				"derbas",
+				"dibe",
+				"."
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". t͡ʃ e . m e",
+				". d ɯ d͡ʒ . l e",
+				". d i",
+				". v i",
+				". g u n . d ɯ",
+				". r e",
+				". d e r . b a s",
+				". d i . b e",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"bi",
+				"Swîsre",
+				"re",
+				"hene",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b i",
+				". s w i s . r e",
+				". r e",
+				". h e . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kurdistan",
+				",",
+				"Azirbeycan",
+				","
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". k u r . d i s . t a n",
+				",",
+				"a z i r b e j d͡ʒ ˈa n",
+				","
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Tîma",
+				"neteweyî",
+				"ya",
+				"futbolê",
+				"ya",
+				"Almanyayê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". t i . m a",
+				". n e . t e . w e . y ɯ",
+				". y a",
+				". f u t . b o . l e",
+				". y a",
+				"a ɫ m a n j a j ˈe"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Partiya",
+				"Demokrat",
+				"a",
+				"Kurdistanê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a r . t i a",
+				". d e . m o k . r a t",
+				". a",
+				". k u r . d i s . t a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Dûrî",
+				"''",
+				"'",
+				"albûmekî",
+				"Ciwan",
+				"Haco",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". d u . r i",
+				".",
+				"'",
+				"a ɫ b u m e k ˈɯ",
+				". s i . w a n",
+				". h a . k o",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Alan",
+				"(",
+				"Z",
+				")"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". a . l a n",
+				"(",
+				". z i",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Komara",
+				"Kurdistanê",
+				"ya",
+				"Mehabadê"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". k o . m a . r a",
+				". k u r . d i s . t a . n e",
+				". y a",
+				". m e . h a . b a . d e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Piraniya",
+				"biryarên",
+				"Yekîtiya",
+				"Ewropayê",
+				"li",
+				"vî",
+				"bajarî",
+				"tên",
+				"wergirtin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". p i . r a . n î a",
+				". b i r . y a . r e n",
+				"j e k ˈɯ t i a",
+				". e w r o . p a . y e",
+				". l i",
+				". v i",
+				". b a . j a . r ɯ",
+				". t e n",
+				". w e r . g i r . t i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Cicero",
+				",",
+				"bikaranîna",
+				"peyva",
+				"“nubere”",
+				"ya",
+				"tê",
+				"wateya",
+				"“zewicîn”",
+				",",
+				"wekî",
+				"tiştekî",
+				"edetî",
+				"qala",
+				"zewaca",
+				"layê",
+				"Curio",
+				"ya",
+				"Mezin",
+				"dike",
+				"."
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". s i . s e . r o",
+				",",
+				". b i . k a . r a . n i . n a",
+				". p e j . v a",
+				". n u . b e . r e",
+				". y a",
+				". t e",
+				". w a . t e . y a",
+				". z e . w i . s i n",
+				",",
+				". w e . k i",
+				"t ɪ ʃ t e k ˈɯ",
+				"e d e t ˈɯ",
+				". k a . ɫ a",
+				". z e . w a . t͡s a",
+				". l a . y e",
+				". d͡ʒ u . r î o",
+				". y a",
+				". m e . z i n",
+				". d i . k e",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wekî",
+				"Sigmund",
+				"Freud",
+				"gelekan",
+				"angaştên",
+				"wî",
+				"şopandine",
+				"û",
+				"qîmet",
+				"dane",
+				"."
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". w e . k i",
+				". s i g . m u n d",
+				". f r e u d",
+				". g e . l e . k a n",
+				". a n . g a ʃ . t e n",
+				". w i",
+				". ʃ o . p a n . d i . n e",
+				". u",
+				". k i . m e t",
+				". d a . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Riya",
+				"Teze",
+				"(",
+				"rojname",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". r i . y a",
+				". t e . z e",
+				"(",
+				". r o j . n a . m e",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Her",
+				"mirovek",
+				"xwedî",
+				"siyeka",
+				"kesayetiya",
+				"xwe",
+				"ya",
+				"taybet",
+				"e.",
+				"Ji",
+				"aliyê",
+				"Carl",
+				"Gustav",
+				"Jung",
+				"ve",
+				"cara",
+				"pêşîn",
+				"hatiye",
+				"binavkirin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". h e r",
+				". m i . r o . v e k",
+				". k i . k i . d ɯ",
+				". s i . y e . k a",
+				". k e . s a . y e . t î a",
+				". k i . k w e",
+				". y a",
+				". t a j . b e t",
+				". e",
+				". j i",
+				". a . l i . y e",
+				". c a r l",
+				". g u s . t a v",
+				". j u ŋ",
+				". v e",
+				". d͡ʒ a . r a",
+				". p e . ş i n",
+				". h a . t i . y e",
+				". b i . n a v . k i . r i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Çevik",
+				"Bir",
+				"-",
+				"Duyemîn",
+				"serkanê",
+				"artêşê",
+				"yê",
+				"berê"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". t͡ʃ e . v i k",
+				". b i r",
+				"-",
+				". d u . y e . m ɯ n",
+				". s e r . k a . n e",
+				". a r . t e . ş e",
+				". y e",
+				". b e . r e"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"Kurdistanê",
+				"jî",
+				"gelek",
+				"e",
+				",",
+				"lê",
+				"bêhtir",
+				"li",
+				"Ewropayê",
+				"tê",
+				"dîtin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". k u r . d i s . t a . n e",
+				". j ɯ",
+				". g e . l e k",
+				". e",
+				",",
+				". l e",
+				". b e h . t i r",
+				". l i",
+				". e w r o . p a . y e",
+				". t e",
+				". d i . t i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kanada",
+				"(",
+				"bi",
+				"pişkî"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". k a . n a . d a",
+				"(",
+				". b i",
+				"p i ʃ k ˈɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Lîsteya",
+				"Împeratorên",
+				"Bîzansê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". l ɯ s . t e . y a",
+				". ł i m . p e . r a . t o . r e n",
+				". b ɯ . z a n . s e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Çilferşik",
+				"(",
+				"''Oenanthe",
+				"isabellina",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". k i",
+				". t͡ʃ i l . f e r . ʃ i k",
+				"(",
+				". u . n a n t . h e",
+				". i s a . b e l . l i . n a",
+				".",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Girtiyên",
+				"Azadiyê",
+				"''",
+				"'",
+				"albûmeke",
+				"Ciwan",
+				"Haco",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". g i r . t i . y e n",
+				". a z a . d i . y e",
+				".",
+				"'",
+				"a ɫ b u m e k ˈɛ",
+				". s i . w a n",
+				". h a . k o",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Dewleta",
+				"Îslamî",
+				"ya",
+				"Iraq",
+				"û",
+				"Şamê"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". d e w . l e . t a",
+				". Ū s . l a . m ɯ",
+				". y a",
+				"ɯ ɾ ˈa x",
+				". u",
+				". ş a . m e"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Ybbs",
+				"an",
+				"der",
+				"Donau"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". j i b . b i s",
+				". a n",
+				". d e r",
+				". d o . n a u"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Nemrûd",
+				",",
+				"Tetwan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". n e m . r u d",
+				",",
+				". t e t . w a n"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Paytexa",
+				"herêmê",
+				"Lenkeran",
+				"e",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". p a j . t e k s a",
+				". h e . r e . m e",
+				". l e n . k e . r a n",
+				". e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Chelsea",
+				"F.C",
+				"."
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". ç e l . s e a",
+				". f i . s i",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Yaneya",
+				"Werzişê",
+				"ya",
+				"Galatasarayê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". j a . n e . y a",
+				". w e r . z i . ş e",
+				". y a",
+				". g a . l a . t a . s a . r a . y e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Veli",
+				"Küçük",
+				"-",
+				"Giregirekî",
+				"artêşê",
+				"yê",
+				"jikarketî"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". v e . l i",
+				"k y t͡ʃ ˈy ç",
+				"-",
+				". g i . r e . g i . r e . k i",
+				". a r . t e . ş e",
+				". y e",
+				". j i . k a r . k e . t ɯ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Vîndalû",
+				"(",
+				"vîndaloo",
+				",",
+				"vindalho",
+				")"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". v ɯ n . d a . l u",
+				"(",
+				". v ɯ n . d a . l o o",
+				",",
+				". v i n . d a l . h o",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"Olympiacos",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				"'",
+				".",
+				". o l j m . p i a . k o s",
+				".",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Îvan",
+				"Pavlov",
+				"jî",
+				"li",
+				"ser",
+				"lêkolîn",
+				"kiriye",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". i v a n",
+				". p a v . ɫ o v",
+				". j ɯ",
+				". l i",
+				". s e r",
+				". l e . k o . l ɯ n",
+				". k i . r i . y e",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"F.C.",
+				"Internazionale",
+				"Milano"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". f i . s i .",
+				". i n . t e r . n a . z î o . n a . l e",
+				". m i . l a . n o"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Serokatiya",
+				"wê",
+				"Hüseyin",
+				"Velioğlu",
+				"dikir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". s e . r o . k a . t i a",
+				". w e",
+				". h y . s e . y i n",
+				"v e l i oː ɫ ˈu",
+				". d i . k i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wextâ",
+				"ku",
+				"Îskender",
+				"hat",
+				"wê",
+				"derê",
+				"stand",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". w e k s . t a",
+				". k u",
+				". i s . k e n . d e r",
+				". h a t",
+				". w e",
+				". d e . r e",
+				". s t a n d",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Xwest",
+				"ku",
+				"li",
+				"ser",
+				"Mezopotamyayê",
+				"desthilatdariya",
+				"xwe",
+				"ava",
+				"bike",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". k i . w e s t",
+				". k u",
+				". l i",
+				". s e r",
+				". m e . z o . p o . t a m . y a . y e",
+				". d e s t . h i . l a t . d a . r i a",
+				". k i . k w e",
+				". a . v a",
+				". b i . k e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Cîhan",
+				"(",
+				"''Regnum",
+				"''",
+				")"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". s i . h a n",
+				"(",
+				". r e g . n u m",
+				".",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Nâzım",
+				"Hikmet",
+				"Ran"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				"n ˈa z ɯ m",
+				". h i k . m e t",
+				". r a n"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Yewnanistan",
+				"û",
+				"Fransa",
+				"alîkariyê",
+				"didin",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". j e w . n a . n i s . t a n",
+				". u",
+				". f r a n . s a",
+				". a . l i . k a . r i . y e",
+				". d i . d i n",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Papa",
+				"Benedîkt",
+				"XV"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". p a . p a",
+				". b e . n e . d ɯ k t",
+				". x i . v i"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"John",
+				"Strutt",
+				",",
+				"3.",
+				"Baron",
+				"Rayleigh"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". j o h n",
+				". s i . t i",
+				",",
+				". z i",
+				". b a . r o n",
+				". r a j . l e i ɟ h"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Mistefa",
+				"Bêsaranî",
+				"ji",
+				"dayîk",
+				"bû",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". m i s . t e . f a",
+				". b e . s a . r a . n ɯ",
+				". j i",
+				". d a . y i k",
+				". b u",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Navenda",
+				"wê",
+				"bajarê",
+				"Îdirê",
+				"(",
+				"Reşqelasê",
+				")",
+				"ye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". n a . v e n . d a",
+				". w e",
+				". b a . j a . r e",
+				". i . d i . r e",
+				"(",
+				". r e ʃ . k e . l a . s e",
+				")",
+				". y e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Simnan",
+				"(",
+				"parêzgeh",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". s i m . n a n",
+				"(",
+				". p a . r e z . g e h",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Zengan",
+				"(",
+				"parêzgeh",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". z e n . g a n",
+				"(",
+				". p a . r e z . g e h",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Bi",
+				"taybetî",
+				"li",
+				"ser",
+				"Johann",
+				"Sebastian",
+				"Bach",
+				"lêkolîn",
+				"dikir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b i",
+				". t a j . b e . t ɯ",
+				". l i",
+				". s e r",
+				". j o . h a n n",
+				". s e . b a s . t î a n",
+				". b a x",
+				". l e . k o . l ɯ n",
+				". d i . k i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mezinahiya",
+				"wê",
+				"qasa",
+				"navenda",
+				"rûerda",
+				"Ewropayê",
+				"cih",
+				"digire",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". m e . z i . n a . h i a",
+				". w e",
+				". k a . s a",
+				". n a . v e n . d a",
+				". r u . e r . d a",
+				". e w r o . p a . y e",
+				". s i h",
+				". d i . g i . r e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"Îtalya",
+				"bi",
+				"cezayê",
+				"temendirêjiyê",
+				"tê",
+				"cezakirin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". i . t a l . y a",
+				". b i",
+				". s e . z a . y e",
+				". t e . m e n . d i . r e . j î y e",
+				". t e",
+				". s e . z a . k i . r i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nexweşiya",
+				"berê",
+				"ya",
+				"di",
+				"deme",
+				"Şêx",
+				"Mehmûdê",
+				"Berzencî",
+				"ku",
+				"bi",
+				"Ingilizan",
+				"re",
+				"bi",
+				"şerkirina",
+				"bi",
+				"hev",
+				"re",
+				"afirî",
+				"bû",
+				",",
+				"piştî",
+				"wê",
+				"re",
+				",",
+				"heman",
+				"rewş",
+				"hatibû",
+				"afirandin",
+				"û",
+				"berdewam",
+				"kirin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". n e k s . w e . ş i a",
+				". b e . r e",
+				". y a",
+				". d i",
+				". d e . m e",
+				". ş e k s",
+				". m e h . m u . d e",
+				". b e r . z e n . s ï",
+				". k u",
+				". b i",
+				". i n . g i . l i . z a n",
+				". r e",
+				". b i",
+				". ş e r . k i . r i . n a",
+				". b i",
+				". h e v",
+				". r e",
+				"a f i . r i",
+				". b u",
+				",",
+				"p i ʃ t ˈɯ",
+				". w e",
+				". r e",
+				",",
+				". h e . m a n",
+				". r e w ʃ",
+				". h a . t i . b u",
+				". a . f i . r a n . d i n",
+				". u",
+				". b e r . d e . w a m",
+				". k i . r i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Jean",
+				"Auguste",
+				"Dominique",
+				"Ingres"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". j e a n",
+				". a u . g u s . t e",
+				". d o . m i . n i . k w e",
+				". i n . g i r e s"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Hewlêr",
+				"(",
+				"parêzgeh",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". h e w . l e r",
+				"(",
+				". p a . r e z . g e h",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Koma",
+				"Civakên",
+				"Kurdistanê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". k o . m a",
+				". s i . v a . k e n",
+				". k u r . d i s . t a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Belê",
+				"nemir",
+				"Mihemed",
+				"Emîn",
+				"Zekî",
+				",",
+				"wekî",
+				"din",
+				"zêde",
+				"li",
+				"serê",
+				"tiştekî",
+				"din",
+				"nenivîsîye",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". b e . l e",
+				". n e . m i r",
+				". m i . h e . m e d",
+				"e m ˈɯ n",
+				"z e k ˈɯ",
+				",",
+				". w e . k i",
+				". d i n",
+				". z e . d e",
+				". l i",
+				". s e . r e",
+				"t ɪ ʃ t e k ˈɯ",
+				". d i n",
+				"n e n i v ɯ s i j ˈɛ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Komela",
+				"Îslamî",
+				"ya",
+				"Kurdistanê",
+				"/",
+				"Îraq"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". k o . m e . l a",
+				". Ū s . l a . m ɯ",
+				". y a",
+				". k u r . d i s . t a . n e",
+				"/",
+				". i r a k"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Paytexta",
+				"Çandî",
+				"ya",
+				"Ewropayê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a j . t e k s . t a",
+				". t͡ʃ a n . d ɯ",
+				". y a",
+				". e w r o . p a . y e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Qadisiye",
+				"(",
+				"parêzgeh",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				". k a . d i . s i . y e",
+				"(",
+				". p a . r e z . g e h",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Roger",
+				"Bacon",
+				"(",
+				"1214-1294",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". r o . g e r",
+				". b a . k o n",
+				"(",
+				". r e . t i . r a . d v o .",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"BERALÎKIRIN",
+				"Navenda",
+				"PEN",
+				"a",
+				"Kurd"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b e r a . l ê . k i . r i n",
+				". n a . v e n . d a",
+				". p e n",
+				". a",
+				". k u r d"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Baba",
+				"Tahirê",
+				"Uryan"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				". b a . b a",
+				". t a . h i . r e",
+				"u r . y a n"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Sefera",
+				"xaçperestan",
+				"a",
+				"çarem"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". s e . f e . r a",
+				". x a t͡ʃ . p e . r e s . t a n",
+				". a",
+				". t͡ʃ a . r e m"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Partiya",
+				"Karkerên",
+				"Kurdistanê"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a r . t i a",
+				". k a r . k e . r e n",
+				". k u r . d i s . t a . n e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Kazım",
+				"Karabekir",
+				"Anlatıyor",
+				"''",
+				"(",
+				"ku",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". k a . z ɯ m",
+				". k a . r a . b e . k i r",
+				"a n ɫ a t ˈɯ j ɔ r",
+				".",
+				"(",
+				". k u",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Partiya",
+				"Civaka",
+				"Demokratîk"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". p a r . t i a",
+				". s i . v a . k a",
+				". d e . m o k . r a . t i k"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"di",
+				"heman",
+				"demê",
+				"de",
+				"di",
+				"Zamanê",
+				"de",
+				"jî",
+				"dinivîsîne",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". d i",
+				". h e . m a n",
+				". d e . m e",
+				". d e",
+				". d i",
+				". z a . m a . n e",
+				". d e",
+				". j ɯ",
+				". d i . n i . v i . s i . n e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bizûtinewey",
+				"Îslamî",
+				"le",
+				"Kurdistan"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				". b i . z u . t i . n e . w e j",
+				". Ū s . l a . m ɯ",
+				". l e",
+				". k u r . d i s . t a n"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Demekê",
+				"dirêj",
+				"di",
+				"artêşa",
+				"Îranê",
+				"de",
+				"wekî",
+				"serbaz",
+				"xebitîbû",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". d e . m e . k e",
+				". d i . r e j",
+				". d i",
+				". a r . t e . ş a",
+				". i r a . n e",
+				". d e",
+				". w e . k i",
+				". s e r . b a z",
+				". x e . b i . t i . b u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Navaroka",
+				"pirtûkê",
+				",",
+				"bêhtirî",
+				"li",
+				"ser",
+				"jîyane",
+				",",
+				"têgihiştin",
+				"û",
+				"fikrê",
+				"Melayê",
+				"Cizîrî",
+				"ya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". n a . v a . r o . k a",
+				". p i r . t u . k e",
+				",",
+				". b e h . t i . r ɯ",
+				". l i",
+				". s e r",
+				". j i . y a . n e",
+				",",
+				". t e . g i . h i ʃ . t i n",
+				". u",
+				". f i k . r e",
+				". m e . l a . y e",
+				". s i . z i . r i",
+				". y a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ew",
+				"herdu",
+				"bajaran",
+				"jî",
+				"di",
+				"xakên",
+				"Niedersachsen",
+				"de",
+				"ne",
+				"û",
+				"bi",
+				"wê",
+				"herême",
+				"hatine",
+				"dorpêç",
+				"kirin",
+				"e",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e w",
+				". h e r . d u",
+				". b a . j a . r a n",
+				". j ɯ",
+				". d i",
+				". x a . k e n",
+				". n i . d e r . s a k . s e n",
+				". d e",
+				". n e",
+				". u",
+				". b i",
+				". w e",
+				". h e . r e . m e",
+				". h a . t i . n e",
+				". d o r . p e t͡ʃ",
+				". k i . r i n",
+				". e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Li",
+				"dawiyê",
+				"jî",
+				"liser",
+				"destê",
+				"Eskenderê",
+				"Mekedonî",
+				"herifya",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". l i",
+				". d a . w i . y e",
+				". j ɯ",
+				". l i . s e r",
+				". d e s . t e",
+				". e s . k e n . d e . r e",
+				". m e . k e . d o . n ɯ",
+				". h e . r i f . y a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wî",
+				"Sîcîlya",
+				"kontrol",
+				"dikir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". w i",
+				"s ɯ d͡ʒ ɯ l j ˈa",
+				". k o n t . r o l",
+				". d i . k i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ev",
+				"binavkirin",
+				"ji",
+				"aliyê",
+				"Sigmund",
+				"Freud",
+				"ve",
+				"hatiye",
+				"derxistin",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				". e v",
+				". b i . n a v . k i . r i n",
+				". j i",
+				". a . l i . y e",
+				". s i g . m u n d",
+				". f r e u d",
+				". v e",
+				". h a . t i . y e",
+				". d e r . x i s . t i n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Helbest",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				".",
+				". h e l . b e s t",
+				".",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		}
+	]
+}
