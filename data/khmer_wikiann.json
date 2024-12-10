@@ -1,0 +1,8893 @@
+{
+	"id_mapping": {
+		"0": "O",
+		"1": "B-PER",
+		"2": "I-PER",
+		"3": "B-ORG",
+		"4": "I-ORG",
+		"5": "B-LOC",
+		"6": "I-LOC"
+	},
+	"validation": [
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ខេត្តកណ្ដាល"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"kʰ a e t k ɑ n d a a l"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ប៉ែន",
+				"រ៉ន"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"p a e n",
+				"r ɑ n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ស្រីសុរិយោពណ៌ទី២",
+				",",
+				"បរមរាជាទី២"
+			],
+			"ner_tags": [
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s r ǝ y s o ʔ r e ʔ y a o p ʊ ə n t i i ʔ",
+				",",
+				"p a ʔ r ɔ m r i e c i e t i i ʔ"
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ខេត្តកោះកុង"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ e e t k ɑ h k o ŋ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ព្រាប",
+				"សុវត្ថិ"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"p r i e p",
+				"s o ʔ v a t"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"វ្លាឌីមៀរ",
+				"អ៊ីលីច",
+				"លេនីន"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"v l a a d i i m i ə",
+				"ʔ i i l i i c",
+				"l e e n i i n"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ឃុំកន្ទឺ",
+				"១"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"kʰ u m kʰ ɑ n t ɨ ɨ",
+				"l a m"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"ទ្រឹស្តីបទស៊ីនុស"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"t r ɨ h t ə y b ɑ t s i i n u h"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"បរិស្ថានវិទ្យា"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"p a ʔ r e ʔ s tʰ a a n v ɨ t y i e"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"(",
+				"ក្រុង",
+				")",
+				"ព្រះសីហនុ",
+				"(",
+				"កំពង់សោម",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"(",
+				"k r o ŋ",
+				")",
+				"p r e a h s ə y h a ʔ n u ʔ",
+				"(",
+				"k ɑ m p ʊ ə ŋ s a o m",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"ស្រុកប្រាសាទបាគង",
+				"''",
+				"ខេត្តសៀមរាប។",
+				"ស្រុកនេះមាន៩ឃុំ៖"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"s r o k p r a a s a a t b a a k ɔ ɔ ŋ",
+				"",
+				"kʰ a e t s i ǝ m r i e b ɑ ɑ",
+				"s r o k n e h m i e n kʰ o m"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ឃុនល"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"kʰ u n l ɔ ɔ l"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				":",
+				"ឥណ្ឌូនេស៊ី"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				":",
+				"ʔ ə n d u u n e e s i i"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"អៀង",
+				"សារី"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ʔ i ə ŋ",
+				"s a a r ə y"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"ស្រុកសំឡូត",
+				"ខេត្តបាត់ដំបង។",
+				"នេះមាន",
+				"''",
+				"'៦",
+				"''",
+				"'ភូមិ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"'",
+				"",
+				"s r o k s ɑ m l o u t",
+				"kʰ e e t b a t d ɑ m b ɑ ŋ",
+				"n i h m i e n",
+				"",
+				"ə l ɑ f",
+				"",
+				"pʰ u u m i ʔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"*ឆ្នាំ",
+				"១៩១២",
+				"ជាគ្រូនៅសាលា",
+				"ខេត្តកំពង់ចាម"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"c n a m",
+				"l o a ʔ",
+				"c i e k r u u n ɨ v s a a l i e",
+				"kʰ a e t k ɑ m p ʊ ə ŋ c a a m"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ក្រុងកំពង់ចាម"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"k r o ŋ k ɑ m p ʊ ə ŋ c a a m"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកអង្គរបុរី"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"s r o k ʔ ɑ ŋ k ɔ ɔ b o ʔ r i i"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"បំលែងឡាប្លាស"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"b ɑ m l ɛ ɛ ŋ l a a p l a a h"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ភ្នំពេញ",
+				"(",
+				"រាជធានី",
+				")",
+				"=="
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"p n u m p ɨ ɲ",
+				"(",
+				"r i e c tʰ i e n i i",
+				")",
+				"h ɑ m"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"ភ្នំគូលេន",
+				"''",
+				"ស្រុកស្វាយលើ",
+				"ស្រុកវ៉ារិន",
+				"ចំងាយ",
+				"ក្រុងសៀមរាប",
+				"និងប្រហែល",
+				"ប្រាសាទបន្ទាយស្រី។",
+				"ភ្នំគូលេនមានឈ្មោះដើមថា",
+				"'",
+				"''",
+				"មហិន្រ្ទព៌ត",
+				"''",
+				"'",
+				"ជាកន្លែងដែលព្រះបាទជ័យវរ្ម័នទី២",
+				"ប្រារព្ធធ្វើពិធីទេវរាជ",
+				"និងប្រកាសឯករាជ្យពីប្រទេសជ្វាក្នុងឆ្នាំ​៨០២",
+				"ដែលជាពេលដែលសម័យអង្គរកើតឡើង។",
+				"ភ្នំនេះជាទីក្រុងរបស់ចក្រខ្មែរ",
+				"(",
+				"អាណាចក្រខ្មែរ",
+				")",
+				"ដំបូងគេជិតកន្លះសតវត្សមុនពេលប្តូរទៅហិហរាល័យ",
+				"ដែលឥឡូង​នេះហៅថា",
+				"''",
+				"'រលួស",
+				"''",
+				"'។",
+				"មានប្រាសាទប្រហែល",
+				"២០​",
+				"ត្រូវបានរកឃើញនៅលើភ្នំនេះ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				5,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p n u m k u u l e e n",
+				"",
+				"s r o k s v a a y l ǝ ǝ",
+				"s r o k v a a r ə n",
+				"c ɑ m ŋ i e y",
+				"k r o ŋ s i ǝ m r i e p",
+				"n ɨ ŋ p r ɑ h a e l",
+				"p r a a s a a t b ɑ n t i e y s r ǝ y",
+				"p n u m k u u l e e n m i e n c m ʊ ə h d a ə m tʰ a a",
+				"'",
+				"",
+				"m ɔ h ə n p ɔ ɔ t",
+				"",
+				"'",
+				"c i e k ɑ n l a e ŋ d a e l p r e a h b a a t c o y v o a ʔ r e a ʔ m a n t i i",
+				"p r a a r e a ʔ p t v ə ə p i ʔ tʰ i i t e e v r i e c",
+				"n ɨ ŋ p r ɑ k a a h ʔ a e k r i e c p i i p r ɑ t e e h c n o ŋ c n a ŋ c n a",
+				"d a e l c i e p e e l d a e l s a ʔ m a y ʔ ɑ ŋ k a ə t l a ə ŋ",
+				"p n u m n i h c i e t i i k r o ŋ r ɔ b ɑ h c k r ɑ k m a e",
+				"(",
+				"ʔ a a n a a c k r ɑ k m a e",
+				")",
+				"d ɑ m b o u ŋ k e e c ɨ t k ɑ n l a h s a t v o u t ɨ v h a a r a ʔ r a y",
+				"d a e l ʔ ə y l o u ŋ n i h h a v tʰ a a",
+				"",
+				"r ɔ l u ə h",
+				"",
+				"ɑ",
+				"m i e n p r a a s a a t p r ɑ h a e l",
+				"ʔ ə f a w",
+				"t r ə v b a a n r ɔ ɔ k kʰ ə ə ɲ n ɨ v l ə ə p n u m n i h"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				5,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"រាជាធិរាជ",
+				"ដែលព្រះអង្គក៏មានព្រះរាជឱរសពីរអង្គទៀតដែរ។",
+				"ព្រះនាងបានប្រសូតនៅថ្ងៃ",
+				"១១",
+				"ខែកុម្ភៈ",
+				"ឆ្នាំ១៣៩៤",
+				"(",
+				"ថ្ងៃពុធ",
+				"១២",
+				"កើត",
+				"ខែតាបោង",
+				"មី.ស",
+				"."
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"r i e c i e tʰ i ʔ r i e c",
+				"d a e l p r e a h ʔ ɑ ŋ k a a m i e n p r i e c ʔ a o r ɔ ɔ s p i i r ɔ ʔ",
+				"p r e a h n i e ŋ b a a n p r ɑ s o u t n ɨ v t ŋ a y",
+				"l ɑ ɑ",
+				"kʰ a e k o m pʰ e a ʔ",
+				"c n a m l ɑ ɑ l ɑ ɑ",
+				"(",
+				"t ŋ a y p u t",
+				"ʔ a ʔ",
+				"k a ə t",
+				"kʰ a e t a a b a o ŋ",
+				"m i i h ɑ ɑ",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"កូស៊ីនុស"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k o u s i i n u h"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"សហរដ្ឋអាមេរិក"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"s a ʔ h a t ʔ a a m e e r ɨ k"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ទ្រឹស្តីបទ​ស៊ីនុស",
+				"(",
+				"ឬហៅថា​រូបមន្តស៊ីនុស",
+				")",
+				"ទ្រឹស្តីបទពីតាករ​៖"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"t r ɨ h t ə y b ɑ t s i i n u h",
+				"(",
+				"ʔ ɨ ɨ h a v tʰ a a r o u p m ʊ ə n s i i n u h",
+				")",
+				"t r ɨ h t ə y p i i t a a k r e a ʔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Cambodian",
+				"League",
+				":",
+				"2013"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k a m b oː d i ɑ n",
+				"l iː ɡ",
+				":",
+				"t r e t e r"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"គីរីវង់",
+				"(",
+				"២១-០៤",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k i i r i i v ʊ ə ŋ",
+				"(",
+				"ʔ a ʔ s a ʔ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"កោះជ្វាធ្លាប់ជាទីប្រជុំនៃសាសនានិងវប្បធម៌។",
+				"ឥណ្ឌា",
+				"បាននាំមកនូវព្រហ្មញ្ញសាសនានិកាយសិវៈ",
+				"និងព្រះពុទ្ឋសាសនា",
+				"ដែលបានចាក់ឬសយ៉ាងជ្រៅក្នុងសង្គមកោះជ្វា",
+				"លាយឡំជាមួយប្រពៃណីនិងវប្បធម៌ដ៏សំបូរបែប។",
+				"ឥស្លាមសាសនាដែលមកក្រោយជាបណ្ដើរៗបានជំនួយទីកន្លែងរបស់សាសនា​ទាំង២មុននេះ។"
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k ɑ h c v i e t l o a p c i e t i i p r ɑ c u m n e y s a a n i ŋ v o a p p a ʔ t",
+				"ʔ ə n d a a",
+				"b a a n n e a m m e a ʔ n ə v p r ɔ m ə ɲ s a a s n a a y s e ʔ v a ʔ",
+				"n ɨ ŋ p r e a h p u t s a a h n i e",
+				"d a e l b a a n c a k c ə ə h y a a ŋ c r ɨ v k n o ŋ k ʊ ə m k ʊ ə m k",
+				"l i e y l ɑ m c i e m u ə y p r ɑ p e y n i i n i ŋ v o a p b o u b a e b a e b ɑ",
+				"ʔ ǝ s l a a m s a a h n i e d a e l m e a ʔ k a a n c u m n u ə y n e a h n i e n e"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកកំពង់ត្របែក"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"s r o k k ɑ m p ʊ ə ŋ t r ɑ b a e k"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ខេត្តកំពង់ឆ្នាំង"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ a e t k ɑ m p ʊ ə ŋ c n a ŋ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ដ្កាយុពី"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"d k a a y u ʔ p i i"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"ទ្រឹស្តីបទពីតាករ"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"t r ɨ h t ə y p i i t a a k ɑ ɑ"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"បន្ទាប់ពីនាំ",
+				"PAP",
+				"អោយទទួលជោគជ័យក្នុងការបោះឆ្នោត៧ដងរួចមក",
+				"លោក",
+				"លី",
+				"ក្វាន់យូបានចុះចេញពីតំនែងនៅថ្ងៃទី",
+				"២៨",
+				"វិច្ឆិកា",
+				"១៩៩០",
+				"ហ្គោស",
+				"ចុកតុង។",
+				"លោក",
+				"លី",
+				"ក្វាន់យូបានក្លាយជានាយករដ្ឋមន្ត្រីដែលកាន់តំនែងយូរជាងគេនៅលើពិភពលោក។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ɑ n t o a p p i i n o a m",
+				"p ˈa p",
+				"ʔ a o y t ɔ t u ə l c o o k c o o y k n o ŋ k a a r a b ɑ h c n a o t ʔ ɑ ɑ",
+				"l o o k",
+				"l i i",
+				"k v a n y u u b a a n c o h c ə ɲ p i i t ɑ m n ɛ ɛ ŋ n ɨ v t ŋ a y t i i",
+				"ʔ ə",
+				"v ɨ c c e ʔ k a a",
+				"r o a ʔ",
+				"k o o h",
+				"c o k t o ŋ",
+				"l o o k",
+				"l i i",
+				"k v a n y o u b a a n k l a a y c i e n i e y k a r a t tʰ m e a ʔ n a e ŋ k e e n"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ខេត្តកំពង់ចាម"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"kʰ a e t k ɑ m p ʊ ə ŋ c a a m"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"អាល់បានី"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"ʔ a l b a a n i i"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"បច្ចុប្បន្ននេះ",
+				"គណៈកម្មាធិការជាតិអូឡាំពិក",
+				"(",
+				"NOC",
+				")",
+				"មានចំនួន២០៤",
+				"ដែលបានចូលរួមក្នុងចលនាអូឡាំពិកម។",
+				"តារាងខាងក្រោមនេះ",
+				"បង្ហាញអំពី",
+				"កូដ",
+				"OIC",
+				"មានតួអក្សរចំនួន៣",
+				"តំណាងឲ្យប្រទេសនិមួយៗ",
+				"ដែលបានដាក់ឲ្យប្រើប្រាស់ដោយគណៈកម្មាធិការអូឡាំពិកអន្តរជាតិ",
+				"(",
+				"IOC",
+				")",
+				"។"
+			],
+			"ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p a c c o p b ɑ n n e a h",
+				"k e a ʔ n a ʔ k a m m i e tʰ i ʔ k a a c i e t ʔ o u l a m p ɨ k",
+				"(",
+				"n oː k",
+				")",
+				"m i e n c ɑ m n u ə n ʔ a ʔ l e a ʔ",
+				"d a e l b a a n c o u l r u ə m k n o ŋ c ɑ l n i e ʔ o u l a m p i ʔ k m ɔ ɔ",
+				"t a a r i e ŋ kʰ a a ŋ k r a o m n i h",
+				"b ɑ ŋ h a a ɲ ʔ ɑ m p i i",
+				"k o u t",
+				"oː i k",
+				"m i e n t u ə ʔ a k c ɑ m n u ə n",
+				"t ɑ m n a a ŋ ʔ a o y p r ɑ t e e h n i m u ǝ y",
+				"d a e l b a a n d a k p r a ə p r a h d a o y k a a ʔ o u l a m p i ʔ k ɑ ɑ n t r",
+				"(",
+				"iː ɔ k",
+				")",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បន្ទាប់ពីវិលត្រលប់មកប្រទេសកម្ពុជាវិញ",
+				"ខៀវ",
+				"សំផន",
+				"បាន​ក្លាយ​ទៅ​ជា​សាស្ត្រាចារ្យ​បន្ទាប់​មក​ត្រូវ​បាន​តែងតាំង​ជា​រដ្ឋលេខា​ធិការ​ក្រសួង​ពាណិជ្ជកម្ម​នៅ​ឆ្នាំ១៩៦២",
+				"ក្នុង​របប",
+				"សង្គម​រាស្រ្ត​និយម​​",
+				"និងបាន",
+				"បង្កើត​កាសែត​មួយ​ឈ្មោះ​ថា",
+				"“",
+				"ឡុបស៊ែរវ៉ាទ័រ”",
+				"ដែល​មាន​ទិសដៅ​ឆ្លុះ​បញ្ចាំង​មតិ​របស់​បញ្ញា​ជន",
+				"គ្រូ​បង្រៀន",
+				"និង​មន្រ្តី​រាជការ​មួយចំនួន​ធំ",
+				"នរោត្ដម",
+				"សីហនុ"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"b ɑ n t o a p p i i v ɨ l t r ɑ l ɑ p m e a k p r ɑ t e e h k a m p u c i e v ɨ",
+				"kʰ i ə v",
+				"s ɑ m pʰ ɑ ɑ n",
+				"b a a n k l a a y t ɨ v c i e s a a s a t r a p b a n t r a p c n a ŋ tʰ a e ŋ t",
+				"k n o ŋ r ɔ b ɑ ɑ p",
+				"s ɑ ŋ k u m r i e s n e ʔ y u m",
+				"n ɨ ŋ b a a n",
+				"b ɑ ŋ k a ə t k a a s a e t m u ə y tʰ a a",
+				"“",
+				"l o p s a e v a a t o a",
+				"d a e l m i e n t ɨ h d a v c l o h b ɑ ɲ c a ŋ m e a ʔ b ɑ ɲ c a ŋ m e a",
+				"k r u u b ɑ ŋ r i ə n",
+				"n ɨ ŋ m ʊ ə n r i i r i e c k a a m u ə y c ɑ m n u ə n tʰ u m",
+				"n ɔ r o o t d ɑ m",
+				"s ə y h a ʔ n u ʔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"រមណីយដ្ឋានទឹកធ្លាក់ក្បាលឆាយ"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"r e a ʔ m e a ʔ n i i y e a ʔ tʰ a a n t ɨ k t l e a k k b a a l cʰ a a y"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"ទ្រឹស្តីបទស៊ីនុស"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"t r ɨ h t ə y b ɑ t s i i n u h"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"អាល់ហ្វ្រិដ",
+				"ណូបែល"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ʔ a l f r ə t",
+				"n o u b a e l"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"​លើក​ដំបូង​នៅ",
+				"Palo",
+				"Alto",
+				",",
+				"California",
+				",",
+				"សហរដ្ឋអាមេរិក",
+				"ចាប់​តាំង​ពី​ថ្ងៃ​ទី១៩",
+				"ដល់",
+				"២៥",
+				"ខែ​សីហា",
+				"ឆ្នាំ២០០៥",
+				"ក្នុង​ការិយាល័យ​នៃ",
+				"Socialtext",
+				"ដោយ​មាន​អ្នក​ចូលរួម​ប្រមាណ",
+				"២០០",
+				"នាក់។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"l ǝ ǝ k d ɑ m b o u ŋ n ɨ v",
+				"p a l o",
+				"ˈa l t o",
+				",",
+				"k a l i f ɔ r n i ɐ",
+				",",
+				"s a ʔ h a t ʔ a a m e e r ɨ k",
+				"c a p t a ŋ p i i t ə y t i i",
+				"d ɑ l",
+				"ʔ ə ʔ",
+				"kʰ a e s ə y h a a",
+				"c n a m ʔ a ʔ n a m",
+				"k n o ŋ k a a r e ʔ y a a l a y n e y",
+				"s ˌo t͡s i ˈa l t e k s t",
+				"d a o y m i e n n e a k c o u l r u ə m p r ɑ m a a n",
+				"ʔ a ʔ l a w",
+				"n e a k"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ជួន",
+				"ណាត"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"c u ə n",
+				"n a a t"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"កូស៊ីនុស"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k o u s i i n u h"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"បារាំង"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"b a a r a ŋ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ប្រាសាទអ៊ីវ៉ាឃឹនី"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"p r a a s a a t ʔ i i v a a kʰ ɨ n i i"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"អនុគមន៍ដឺក្រេទី២"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ʔ a ʔ n u k u m d ə ɨ k r e e t i i ʔ ɑ ɑ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"LA",
+				"ឡាវ"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"l aː",
+				"l a a v"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ភ្នំពេញ"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"p n u m p ɨ ɲ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				":",
+				"កាណាដា"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				":",
+				"k a a n a a d a a"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ដោយផ្អែកលើវចនានុក្រមសម្តេចព្រះសង្ឃរាជ",
+				"ជួន",
+				"ណាត",
+				"រូប",
+				"គឺជាធម្មជាតិដែល​ប្រែប្រួល​",
+				"ឬ​វិនាស​ដោយ​ហេតុ​ផ្សេងៗ​",
+				"មាន​ក្តៅ​",
+				"និង​ត្រជាក់​ជា​ដើម។"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d a o y p ʔ a e k l ə ə v c a ʔ n i e n u k r ɑ m s ɑ m s ɑ ŋ k r i e c",
+				"c u ə n",
+				"n a a t",
+				"r u u p",
+				"k ɨ ɨ c i e tʰ o a m c i e t t ə l p r a e p r u ə l",
+				"r ɨ v i ʔ n i e h d a o y h e e ŋ p s e e ŋ",
+				"m i e n k t a v",
+				"n ɨ ŋ t r ɑ c e a k c i e d a ə m"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បណ្ដាញទូរទស្សន៍កម្ពុជា",
+				"CTN",
+				"ប៉ុស្ដិ៍លេខ២១",
+				"(",
+				"ផ្សាយ២៤ម៉ោង",
+				")"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ɑ n d a a ɲ t u u t u h k a m p u c i e",
+				"s eː t eː ɛ n",
+				"p o h l e e kʰ l ɑ ɑ",
+				"(",
+				"p s a a y ʔ a o ŋ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ខ្នាតគោលនៅក្នុងប្រព័ន្ធខ្នាតអន្តរជាតិ"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k n a a t k o o l n ɨ v k n o ŋ k n i e t ʔ ɑ n t ɑ ɑ c i e t"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ជប៉ុន"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"c e a ʔ p o n"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ការសម្លាប់រង្គាលជនជាតិយួន",
+				"និងពួកអ្នកគាំទ្រខ្លួនដោយពួកខ្មែរក្រហមកាន់តែខ្លាំងឡើងនៅភូមិភាគបូព៌ាបន្ទាប់ពីការបះបោរខែឧសភា",
+				"។",
+				"នៅខែវិច្ឆិកា",
+				"វ៉ន-វេតបានដឹកនាំរដ្ឋប្រហារមួយមិនបានសម្រេច",
+				"។",
+				"កាលណោះក៏មានខ្មែរនិងយួនរាប់ម៉ឺននាក់ដែលនិរទេសខ្លួនលើទឹកដីវៀតណាមដែរ",
+				"។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k a a s a m l a p r ʊ ə ŋ k i e l c ɔ ɔ n c i e t y u ə n",
+				"n i ŋ p u ə k n e a k k u m t r u ə k l u ə k m a e k r ɑ ɑ pʰ a e k l a ŋ",
+				"ɔ",
+				"n ɨ v kʰ a e v ɨ c c e ʔ k a a",
+				"v a n v e e t b a a n d ə k n a m r a t p r ɑ h a a m u ə y m ɨ n b a a n s ɑ m r",
+				"ɔ",
+				"k a a l n ɑ h k a a n k m a e n ɨ ŋ y u ə n r a p n ɨ n e ʔ t e e h k l u ə n",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ម៉ែន",
+				"សំអន"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"m a e n",
+				"s ɑ m ʔ ɑ ɑ n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ឃុំប្ញស្សីក្រោក"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ u m p ɲ a h s ə y k r a o k"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុករំដួល"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"s r o k r u m d u ə l"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"(",
+				"ទ្រឹស្តីបទស៊ីនុស",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"(",
+				"t r ɨ h t ə y b ɑ t s i i n u h",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ក្រមង៉ុយ"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"k r ɑ m ɑ ŋ o y"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ព្រះរាជាណាចក្រកម្ពុជា"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"p r e a h r i e c i e n a a c k r ɑ k m p u c i e"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"សុះ",
+				"ស៊ូហាណា",
+				"(",
+				"Sos",
+				"Suhana",
+				")",
+				"'",
+				"''",
+				"(",
+				"កើតនៅថ្ងៃទី៤",
+				"មេសា",
+				"១៩៩២",
+				")",
+				"គឺជាកីឡាករបាល់ទាត់កម្ពុជា",
+				"ដែលលេងឲ្យក្លឹប",
+				"Phnom",
+				"Penh",
+				"Crown",
+				"ក្នុងក្របខណ្ឌ",
+				"Cambodian",
+				"League",
+				"។",
+				"គាត់លេងជាខ្សែបម្រើ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				3,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"s o h",
+				"s u u h a a n a a",
+				"(",
+				"s ɔ s",
+				"s u h ˈa n a",
+				")",
+				"'",
+				"",
+				"(",
+				"k a ə t n ɨ v t ŋ a y t i i",
+				"m e e s a a",
+				"r o ʔ",
+				")",
+				"k ɨ ɨ c i e k i i l a a k r ɔ b a l t o a t k ɑ m p u c i e",
+				"d a e l l e e ŋ ʔ a o y k l ə p",
+				"p h n ˈo m",
+				"p ɛ ŋ",
+				"k r a w n",
+				"k n o ŋ k r ɑ p kʰ ɑ n",
+				"k a m b oː d i ɑ n",
+				"l iː ɡ",
+				"ɔ",
+				"k o a t l e e ŋ c i e k s a e b m r a ə"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				3,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ជយវម៌្មទី៣"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"c e a ʔ y e a ʔ v e a ʔ t i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"''",
+				"'ផ្លូវជាតិ​លេខ៤",
+				"''",
+				"'",
+				"៖",
+				"ភ្នំពេញទៅក្រុងព្រះសីហនុ",
+				"កាត់​តាម​កំពង់ស្ពឺ",
+				"មាន​ប្រវែង",
+				"២២៦គ.ម។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"",
+				"p l ə v c i e t l e e kʰ l e e kʰ l e e k",
+				"",
+				"'",
+				"m a k k a ʔ",
+				"p n u m p ɨ ɲ t ɨ v k r o ŋ p r i h s ə y h ɑ ɑ n u ʔ",
+				"k a t t a m k ɑ m p ʊ ə ŋ s p ɨ ɨ",
+				"m i e n p r ɑ v a e ŋ",
+				"ʔ a ʔ l e a ʔ k ɔ ɔ m"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ជយវម៌្មទី៨"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"c e a ʔ y e a ʔ v e a ʔ m e a ʔ t i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ជាឃុំមួយ",
+				"ស្រុកទ្រាំង",
+				"ខេត្តតាកែវ",
+				"។"
+			],
+			"ner_tags": [
+				0,
+				5,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"c i e kʰ u m m u ə y",
+				"s r o k t r e a ŋ",
+				"kʰ a e t t a a k a e v",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកស៊ីធរកណ្ដាល"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"s r o k s i i tʰ r ɔ k ɑ n d a a l"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"អាល្លឺម៉ង់"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ʔ a a l l ɨ ɨ m ɑ ŋ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"អាជ្ញាធរអគ្គិសនីកម្ពុជា"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ʔ a c ɲ i e tʰ r ɔ ʔ a k k i h s a ʔ n i i k a m p u c i e"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"The",
+				"QR",
+				"codes",
+				"take",
+				"users",
+				"through",
+				"to",
+				"Labrinth",
+				"'s",
+				"YouTube",
+				"videos",
+				",",
+				"website",
+				"and",
+				"social",
+				"network",
+				"profile",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʰ ɛː",
+				"kʼ aː ɾ ə",
+				"k oː d ɛ s",
+				"t aː k ə",
+				"j uː z ə r s",
+				"θ r uː x",
+				"t ɔː",
+				"l a b r i n θ",
+				"ə s",
+				"j ˈə͡ʊ t ˈuː b e",
+				"v i d eː o s",
+				",",
+				"w e b s a j t",
+				"a n d",
+				"s oː s i a l",
+				"n ɛ t w u r k",
+				"p r o f i l e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ប្រជុំរឿងព្រេងខ្មែរ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r ɑ c u m r ɨ ə ŋ p r e e ŋ k m a e"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"នគរវ្នំ"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"n e a ʔ k r u v n u m"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ម៉ៅ",
+				"សារ៉េត",
+				"ម្ចាស់បទ",
+				"មេឃខ្មៅងងឹត",
+				",",
+				"ថ្ពាល់អភ័ព្វ",
+				"/",
+				"ថ្ពាល់សំណល់",
+				"..."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m a v",
+				"s a a r e e t",
+				"m c a h b ɑ t",
+				"m e e k k m a v ŋ ŋ ɨ t",
+				",",
+				"t p o a l ʔ a ʔ pʰ o a p",
+				"/",
+				"t p o a l s ɑ m n ɑ l",
+				". . ."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"កំពង់ឆ្នាំង",
+				"=="
+			],
+			"ner_tags": [
+				5,
+				0
+			],
+			"epi_tokens": [
+				"k ɑ m p ʊ ə ŋ c n a ŋ",
+				"h ɑ m"
+			],
+			"epi_ner_tags": [
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ពីរ៉ាមីត",
+				"ហើយនិងវិមាន",
+				"គ្រីតស៊ីនរបស់ជីសា។",
+				"ទីក្រុង",
+				"លុចស័រ",
+				"នៅភាគខាងត្បូងប្រទេសអេស៊ីមមានវត្ថុដែល"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p i i r a a m i i t",
+				"h a ǝ y n ɨ ŋ v i ʔ m i e n",
+				"k r i i t s i i n r ɔ b ɑ h c i i s a a",
+				"t i i k r o ŋ",
+				"l u c s a",
+				"n ɨ v pʰ i e k kʰ a a ŋ t b o u ŋ p r ɑ t e e h ʔ e e s i i m e a ʔ m a a"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ទ្រឹស្តីបទឆិវ៉ា",
+				"(",
+				"Ceva",
+				"'s",
+				"theorem",
+				")"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t r ɨ h t ə y b ɑ t cʰ ə v a a",
+				"(",
+				"t͡s e v ɑ",
+				"ə s",
+				"tʰ e͜oː r e m",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ប្រជុំរឿងព្រេងខ្មែរ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r ɑ c u m r ɨ ə ŋ p r e e ŋ k m a e"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"===",
+				"អ្នកស្រី",
+				"ហ៊ឹម",
+				"ស៊ីវន",
+				"==="
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"k a k k a n",
+				"n e a k s r ǝ y",
+				"h ɨ m",
+				"s i i v ɔ ɔ n",
+				"k a k k a n"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"នៅឆ្នាំ",
+				"១៩៨៣",
+				"លោកលី",
+				"ក្វាន់យូបានបង្កើតកិច្ចពិភាក្សាទ្រង់ទ្រាយធំអំពីការរៀបការ",
+				"(",
+				"the",
+				"Great",
+				"Marriage",
+				"Debate",
+				")",
+				"ដែលនៅពេលនោះលោកបាន​ជំរុញអោយ​បុរសៗ​យកភរិយាដែលមានការសិក្សាខ្ពស់។",
+				"លោកមានការបារម្ភអំពីកំនើនស្ត្រីដែលរៀនសូត្រជ្រៅជ្រះតែមិនរៀបការ។",
+				"ទស្សនៈនេះបានធ្វើអោយ​មជ្ឍដ្ឋាន​ស្ត្រី​ចប់ឧត្តមសិក្សាមានការខកចិត្ត។",
+				"ទោះជាយ៉ាងណាក៏ដោយ",
+				"'",
+				"''",
+				"អង្គភាពអភិវឌ្ឍសង្គម",
+				"''",
+				"'",
+				"(",
+				"Social",
+				"Development",
+				"Unit",
+				")",
+				"ត្រូវបានបង្កើតដើម្បីធ្វើមេអណ្ដើកដល់​បុរសនិង​ស្ត្រីដែលបញ្ចប់ការសិក្សាថ្នាក់ឧត្តម។",
+				"លោកក៏បានផ្ដល់ការលើកទឹកចិត្តដូចជាសំនងពន្ឋ",
+				"(",
+				"tax",
+				"rebates",
+				")",
+				"អាទិភាពសិក្សា",
+				"និង",
+				"ផ្ទះសំបែងដល់ស្ត្រី​ជាម្ដាយ​ដែលបញ្ចប់ការសិក្សាថ្នាក់ឧត្តមនិងមានកូនលើសពី២នាក់។",
+				"មកទល់ចុងទសវត្សរ៍៩០",
+				"អត្រាកំនើតបានធ្លាក់ចុះទាបរហូតធ្វើអោយរដ្ឋាភិបាលលោក",
+				"ហ្គោស",
+				"ចុកតុង",
+				"(",
+				"នាយករដ្ឋមន្ត្រីបន្តពីលោក",
+				"លី",
+				"ក្វាន់យូ",
+				")",
+				"មានលទ្ឋភាពពង្រីកការលើកទឹកចិត្តនេះដល់ស្ត្រីដែលរៀបការទាំងអស់",
+				"និងបានបន្ថែមអោយមាន",
+				"ប្រាក់លើកទឹកចិត្តបន្ថែមពេលមានកូន",
+				"(",
+				"Baby",
+				"bonus",
+				")",
+				"។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"n ɨ v c n a m",
+				"r o a ʔ",
+				"l o o k l i i",
+				"k v a n y o u b a a n b ɑ ŋ k a ə t k ə c p i e k r i e y t r i e y t r i e y",
+				"(",
+				"tʰ ɛː",
+				"ɡ r eː a t",
+				"m ˌɑ r i ˈɑ ʁ ə",
+				"d e b ˈa t e",
+				")",
+				"d a e l n ɨ v p e e l n u h l o o k b a a n c u m r o ɲ ʔ a o y p ʊ ə h k a a p",
+				"l o o k m i e n k a a r a m p i i k ɑ m n ə ə n s t r i i d a e l r i ǝ n s o u t r",
+				"t ʊ ə h s a ʔ n e a h b a a n t v a ə n tʰ a o y m e a ʔ c a p ʔ a t m a ʔ",
+				"t ʊ ə h c i e y a a ŋ n a a k ɑ ɑ d a o y",
+				"'",
+				"",
+				"ʔ ɑ ŋ k e a ʔ pʰ i e p ʔ a ʔ pʰ i ʔ v o a t s ɑ ŋ k u m",
+				"",
+				"'",
+				"(",
+				"s oː s i ɑ l",
+				"d ˌe v e l ˈo p m e n t",
+				"ˈu n i t",
+				")",
+				"t r ə v b a a n b ɑ ŋ k a ə t d a ə m b ə y t v ə ə m b ə y d a ə k d",
+				"l o o k k ɑ ɑ n p d ɑ l k a a l ǝ ǝ k t ɨ k c ə t d o u c c i e s ɑ ŋ p",
+				"(",
+				"t a k s",
+				"r e b a t e s",
+				")",
+				"ʔ a a t i ʔ pʰ i e p s ə k s a a",
+				"n ɨ ŋ",
+				"p t e a h s ɑ m b a e ŋ d ɑ l s t r i i d a e l b a ɲ c a p k a a n a k n a k n a k",
+				"m e a k t ʊ ə ŋ c o ŋ t ɔ ɔ h v o a h",
+				"ʔ a t r a a k ɑ m n a ə t b a a n t l e a k c o h t i e p r ɔ h o u t t v a a l l o",
+				"k o o h",
+				"c o k t o ŋ",
+				"(",
+				"n i e y k r ʊ ə t m ʊ ə n b ɑ n p i i l o o k",
+				"l i i",
+				"k v a n y u u",
+				")",
+				"m i e n l a t tʰ a ʔ pʰ i e p p ʊ ə ŋ r i i k a a l ə k t ɨ k c ə t n e",
+				"n ɨ ŋ b a a n b ɑ n tʰ a e m ʔ a o y m i e n",
+				"p r a k l ǝ ǝ k t ɨ k c ə t b ɑ n tʰ a e m p e e l m i e n k o u n",
+				"(",
+				"b a b iː",
+				"b oː n u s",
+				")",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"ទ្រឹស្តីបទមេអំបៅ"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"t r ɨ h t ə y p a ʔ m e e ʔ ɑ m b a v"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ទ្រឹស្តីបទស៊ីនុស"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"t r ɨ h t ə y b ɑ t s i i n u h"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"អាចារ្យ",
+				"ហែម",
+				"ចៀវ",
+				"ជាសាស្ត្រាចារ្យសាលាបាលីជាន់ខ្ពស់",
+				"។"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ a a c a a",
+				"h a e m",
+				"c i ə v",
+				"c i e s a a h s a a s a a l a a b a a l i i c o a n k p ʊ ə h",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ភ្នំពេញ"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"p n u m p ɨ ɲ"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"នរោត្ដម",
+				"សីហនុ"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"n ɔ r o o t d ɑ m",
+				"s ə y h a ʔ n u ʔ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"គីឡូម៉ែត្រការ៉េ"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k i i l o u m a e t k a a r e e"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ឃុំសឿ"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ u m s ɨ ə"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"បុរីវ៉ាទីកង់"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"b o ʔ r i i v a a t i i k ɑ ŋ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"Eagles",
+				"(",
+				"ក្រុមភ្លេង",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"eː ɡ l ɛ s",
+				"(",
+				"k r o m p l e e ŋ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"កំពង់ត្រឡាច",
+				"(",
+				"០៤-០៥",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k ɑ m p ʊ ə ŋ t r ɑ l a a c",
+				"(",
+				"p r ə v ə l ɑ ʔ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"១៩០៤",
+				"ក្រោយពី​ព្រះបិតុលា​ព្រះអង្គ​បាន​យាង​សោយព្រះទិវង្គត",
+				"ស៊ីសុវត្ថិ​ដែល​ជា​ព្រះរាជទាយាទ​​បាន​ឡើងគ្រង​រាជ្យ​ជា​ព្រះមហាក្សត្រ។",
+				"នៅ​ពេល​នោះ",
+				"ព្រះអង្គ​ក៏​បាន​ក្លាយ​ជា​ព្រះរាជាទាយាទ​នៃ​ព្រះរាជាណាចក្រកម្ពុជា។",
+				"នៅ​ក្នុង​គ.ស",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"l a ʔ l a w",
+				"k r a o y p i i p r e a h b e ʔ l i e p r e a h ʔ a ŋ k ʊ ə ŋ p r e a h t i v",
+				"s i i s o ʔ v o t tʰ e ʔ d a e l c i e p r i e c t i e y i e t p r i e c r i e p r i",
+				"n ɨ v p e e l n u h",
+				"p r e a h ʔ ɑ ŋ k ɑ ɑ ŋ k a a n k l a a h r i e c i e n i e c k r ɑ k r ɑ k",
+				"n ɨ v k n o ŋ k ɔ ɔ h",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"គ្រីស្តុប",
+				"កូឡុំ"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"k r i i s t o p",
+				"k o u l o m"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"អន្លង់វែង",
+				"(",
+				"២២-០១",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ ɑ n l ʊ ə ŋ v ɛ ɛ ŋ",
+				"(",
+				"ʔ ə ʔ a ʔ",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"អ្នកគ្រប់គ្រងកម្ពុជា"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"n e a k k r u p k r ɔ ɔ ŋ k ɑ m p u c i e"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"វត្តព្រះកែវមរកត"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"v o a t p r e a h k a e v e a ʔ m e a ʔ k ɑ t"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"លោកអេលីសេ",
+				"រីខ្លាស"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"l o o k ʔ e e l i i s e e",
+				"r i i k l a a h"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"ប្រាសាទបាគង",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p r a a s a a t b a a k ɔ ɔ ŋ",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"គណបក្សប្រជាជនកម្ពុជា"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k e a ʔ n a p k s a ʔ p r ɑ c i e c e a ʔ n e a ʔ p u c i e"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ស្កុតឡែន"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"s k o t l a e n"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ហ៊ុន-សែន"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"h u n s a e n"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"វត្តព្រះកែវមរកត"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"v o a t p r e a h k a e v e a ʔ m e a ʔ k ɑ t"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ខេត្តកំពត"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ a e t k ɑ m p ɔ ɔ t"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		}
+	],
+	"test": [
+		{
+			"tokens": [
+				"អនុគមន៍ដឺក្រេទី២"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ʔ a ʔ n u k u m d ə ɨ k r e e t i i ʔ ɑ ɑ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"2014",
+				"Cambodian",
+				"League",
+				"Most",
+				"Valuable",
+				"Player"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t r e t e r",
+				"k a m b oː d i ɑ n",
+				"l iː ɡ",
+				"m ɔ s t",
+				"v a l u ˈa b l e",
+				"p l ɑ ˈɛ ə r"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ព្រះនាងមហាបជាបតិគោតមី១។",
+				"ព្រះនាងមហាមាយាបានអភិសេកជាមួយព្រះបាទសុទ្ធោទនៈនៃសាក្យវង្ស",
+				"នៅនគរ",
+				"កបិលវត្ថុ",
+				"ព្រះសិទ្ធត្ថរាជកុមារ",
+				"(",
+				"ព្រះពុទ្ធ",
+				")",
+				"។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p r e a h n i e ŋ m ɔ h a a p c i e p t e ʔ k o o t m i i",
+				"p r e a h n i e ŋ m ɔ h a a m i e y i e pʰ i e pʰ e e k c i e m u ǝ y p r i h b",
+				"n ɨ v n ɔ k ɔ ɔ",
+				"k a ʔ b ə l v o a t",
+				"p r e a h s ə t tʰ a ʔ r i e c k o ʔ m i e",
+				"(",
+				"p r e a h p u t",
+				")",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				1,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"សិទ្ធិ",
+				"(",
+				"អង់គ្លេស៖",
+				"Sithi",
+				")",
+				"គឺ​ជា​គម្រោង​មួយ​របស់",
+				"មជ្ឈមណ្ឌលសិទ្ធិមនុស្សកម្ពុជា",
+				"ដែល​ត្រូវ​បាន​ដាក់​ឲ្យ​ប្រើប្រាស់​នៅ​ឆ្នាំ​២០០៩",
+				"ហើយ​មាន​គោល​បំណង​ក្នុង​ការ​លើក​កម្ពស់",
+				"និង​ផ្ដល់​ព័ត៌មាន​អំពី​សិទ្ធិ​មនុស្ស",
+				"ដល់​បណ្ដា​សង្គម​ស៊ីវិល",
+				"និង​ស្ថាប័ន​ដទៃ​ទៀត​ឲ្យ​កាន់​តែ​មាន​ប្រសិទ្ធភាព​ខ្ពស់។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s ə t",
+				"(",
+				"ʔ ɑ ŋ k l e e h",
+				"s ˈi θ i",
+				")",
+				"k ɨ ɨ c i e k u m r o o ŋ m u ə y b ɑ h",
+				"m ʊ ə c cʰ ɔ ɔ m ʊ ə n s ə t tʰ i m n u h k a m p u c i e",
+				"d a e l t r ə v b a n d a k n a h p r a h n a h c n a h",
+				"h a ǝ y m i e n k o o l b ɑ m n ɑ ɑ ŋ k n o ŋ k n o ŋ k n o ŋ k n o ŋ k n",
+				"n ɨ ŋ p d ɑ l p o a n ʔ ɑ m p i i s ə t",
+				"d ɑ l b ɑ n d a a s ɑ ŋ k i m s i i v ɨ l",
+				"n ɨ ŋ s tʰ a a b a n d a ʔ t i ə t pʰ i e p p r ɑ s ə t pʰ i e p p r"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"វណ្ណ",
+				"មូលីវណ្ណ"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"v o a n",
+				"m u u l i i v o a n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ព្រះនាង",
+				"''",
+				"'កម្ពុជរាជលក្ស្មីទី២",
+				"''",
+				"'",
+				"រជ្ជកាល",
+				"(",
+				"៩០០-៩២២",
+				")",
+				"ហឝ៌វម៌្មទី២។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"epi_tokens": [
+				"p r e a h n i e ŋ",
+				"",
+				"k a m p u c r i e c l e a k m i i t i i",
+				"",
+				"'",
+				"r ʊ ə c c e a ʔ k a a l",
+				"(",
+				"r o a ʔ l a w",
+				")",
+				"h a ʔ v e a ʔ v e a ʔ m e a ʔ t i i ʔ ɑ ɑ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"ធនាគារអេស៊ីលីដា"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"tʰ e a ʔ n i e k i e ʔ e e s i i l i i d a a"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"សាកលវិទ្យាល័យហ្វឹគឹអ៊ី"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"s a a k a ʔ l a ʔ v i t y i e l a y f ə k ɨ ʔ i i"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"តាជីគីស្ថាន"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"t a a c i i k i i s tʰ a a n"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ឦឝានវម៌្មទី១"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"ʔ ǝ v i e n v o a m t i i"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ex",
+				"Pierre",
+				"អាស៊ីខាង​ត្បូង"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ɛ k s",
+				"p iː r",
+				"ʔ a a s i i kʰ a a ŋ t b o u ŋ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ឃុំគារ"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ u m k i e"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ព្រះឧបគុត្តតេ្ថរ",
+				"ក៏នាំយកបណ្តាំទាំងនោះទៅក្រាបបង្គំទូលសេ្តចនាពេលនោះទៅ។",
+				"គ្រាន់តែថ្វាយ​ព្រះពរ​ប៉ុណ្ណឹងសេ្តចក៏ធ្វើជា​ចុតហ្មាយ",
+				"ផ្សព្វ​ផ្សាយ​ដល់​ប្រជា​រាស្រ្ត​គ្រប់ៗគ្នា",
+				"ព្រះរាជាណាចក្រកម្ពុជា",
+				"ដើម្បី​ឲ្យប្រជារាស្រ្ត​ទាំងអស់​ធ្វើបុណ្យ​ដាក់​បិណ្ឌ",
+				"ឬកាន់បិណ្ឌនៅក្នុង",
+				"រដូវវស្សាដោយផ្តាំផ្ញើទៀតថា",
+				"ឲ្យធ្វើចំនៅថៃ្ង",
+				"១រោច",
+				"ខែភទ្របទរហូតដល់",
+				"ថៃ្ង១៥រោច",
+				"ខែភទ្របទ",
+				"ឬដាច់ខែដោយហេតុនេះហើយដែល",
+				"នាំឲ្យមានពិធីកាន់បិណ្ឌជាប្រពៃណី",
+				"តាំង​ពីពេលនោះ​រហូត​មក​ដល់​សព្វ​ថៃ្ងនេះ​។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p r e a h ʔ u ʔ p a ʔ k u t tʰ ɑ ɑ",
+				"k ɑ ɑ n e a m y e a k b ɑ m t e a ŋ n u h t ɨ v k r a a p b ɑ ŋ k u m t o u l",
+				"k r o a n t a e t v a a y p r e a h p r o n p o n n ə ŋ s e e c k a ʔ c i e c o t c o",
+				"p s a p p s a a y d ɑ l p r ɑ c i e r i e k r o a h k r o a h k r o a",
+				"p r e a h r i e c i e n a a c k r ɑ k m p u c i e",
+				"d a ə m b ə y ʔ a o y p r ɑ c i e r i e s t v ə ə b o n b ə n",
+				"ʔ ɨ ɨ k a n b ə n n ɨ v k n o ŋ",
+				"r ɔ d ə v v o a h s a a d a o y p t a m p ɲ a ə t i ə t tʰ a a",
+				"ʔ a o y t v ə ə c ɑ m n ɨ v tʰ a y",
+				"r o o c",
+				"kʰ a e pʰ o a p t ɔ ɔ h o u t d ɑ l",
+				"tʰ a y ŋ ʔ ə r o o c",
+				"kʰ a e pʰ e a ʔ t r ɔ b ɑ t",
+				"r ɨ ɨ d a c kʰ a e d a o y h e e t n e h h a ǝ y d a e l",
+				"n o a m ʔ a o y m i e n p i ʔ tʰ i i k a n b ə n c i e p r ɑ p e y n i i",
+				"t a ŋ p i i p e e l n u h h o u t m e a k d ɑ l s a p n e h"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"កាល​ព្រះ​អង្គ​ប្រសូត្រ",
+				"ក្នុង​មួយ​រំពេច​នោះ",
+				"ក៏​ស្តេចទៅ",
+				"គឺ​ប្រថាប់​ឈរ​លើ​ប្រថពី​ដោយ​ព្រះ​យុគលបាទ​ដ៏​រាប​ស្មើ",
+				"បែរ​ព្រះ​ភ័ក្ត្រទៅ​ទិស​ឧត្តរ",
+				"ស្តេច​ទៅ",
+				"ដោយ​ព្រះ​បាទ​៧​ជំហាន",
+				"រួច​បន្លឺ​នូវ​អាសភិវាចាថា",
+				"``",
+				"''យើង​ជា​បុគ្គល​ខ្ពង់​ខ្ពស់​ក្នុង​លោក",
+				"យើង​ជា​បុគ្គល​ធំ​បំផុត​ក្នុង​លោក",
+				"យើង​ជា​បុគ្គល​ប្រសើរ​បំផុត​ក្នុង​លោក",
+				"នេះ​ជា​កំណើត​ចុង​ក្រោយរបស់​យើង",
+				"ភព​ថ្មី​មិន​មាន​តទៅ​ទៀត​ឡើយ​",
+				"''",
+				"''",
+				"។",
+				"ការ​យ៉ាង​ទៅ​យ៉ាង​នោះ",
+				"ក៏​បាន​ជា​អាការ​ដែល​ពិត",
+				"មិន​ប្រែប្រួល",
+				"ដោយ​ភាព​ជា​បុព្វនិមិត្ត​នៃ​ការ​សម្រេច​គុណ​វិសេស​ច្រើន​ប្រការ។",
+				"ម្យ៉ាង​ទៀត",
+				"ទ្រង់​លះ​កាមច្ឆន្ទៈ​ដោយ​នេក្ខម្មៈ",
+				"ស្តេច​ទៅ​ហើយ",
+				"ទ្រង់​លះព្យាបាទ​ដោយ​ការ​មិន​ព្យាបាទ",
+				"លះ​ថីនមិទ្ធៈ",
+				"ដោយ​អាលោកសញ្ញា",
+				"ទ្រង់​លះ​ឧទ្ធច្ចកុក្កុច្ចៈ​ដោយ​ការ​មិន​រាយ​មាយ",
+				"លះ​វិចិកិច្ឆា​ដោយ​ការ​កំណត់​ធម៌",
+				"ស្តេច​ទៅ​ហើយ",
+				"ទ្រង់​ទម្លាយ​អវិជ្ជា​ដោយ​ព្រះ​ប្រាជ្ញា​ញាណ",
+				"ទ្រង់​បន្ទោរបង់​អរតិ​ដោយ​បាមោជ្ជៈ",
+				"ទ្រង់​បើក​ទ្វារ",
+				"ជ្ឈាន",
+				"ទ្រង់​ញុំាង​វិតក្កៈ",
+				"និង​វិចារ​អោយ​ស្ងប់​ដោយ​ទុតិយជ្ឈាន",
+				"ទ្រង់​នឿយ​ណាយ​បីតិ​ដោយ​តតិយជ្ឈាន",
+				"ទ្រង់​លះ​សុខ",
+				"និង​ទុក្ខ​ដោយ​ចតុត្ថជ្ឈាន",
+				"ទ្រង់​ឈាន​កន្លង​រូប​សញ្ញា",
+				"បដិឃ​សញ្ញា",
+				"និង​នានត្តសញ្ញា​ដោយ​អាកាសានញ្ចយតនសមាបត្តិ",
+				"ទ្រង់​ឈាន​កន្លង​អាកាសានញ្ចយតនសញ្ញា",
+				"ដោយ​វិញ្ញាណញ្ចាយតនសមាបត្តិ",
+				"ទ្រង់​ឈាន​កន្លង​វិញ្ញាណញ្ចា​យតន​សញ្ញា",
+				"ដោយ​អាកិញ្ចញ្ញាយតនសមាបត្តិ",
+				"ទ្រង់​ឈាន​កន្លង​អាកិញ្ចញ្ញាយតនសញ្ញា",
+				"ដោយ​នេវសញ្ញានាសញ្ញា​សមាបត្តិ",
+				"ស្តេច​ទៅហើយ",
+				"ទ្រង់​លះ​និច្ចសញ្ញា",
+				"ដោយ​អនិច្ចានុបស្សនា",
+				"លះ​សុខសញ្ញា",
+				"ដោយ​ទុក្ខានុបស្សនា",
+				"លះ​អត្តសញ្ញា​ដោយ​អនត្តានុបស្សនា",
+				"លះ​ការ​ភ្លើត​ភ្លើន​ដោយ​និព្វិទានុបស្សនា",
+				"លះ​តម្រេក​ដោយ​វិរាគានុបស្សនា",
+				"លះ​សមុទ័យ​ដោយ​និរោធោ​នុបស្សនា",
+				"...",
+				"ទ្រង់​កាច់​បំបាក់​កិលេស​ដែល​តាំង​នៅ​រួម​នឹង​ទិដ្ឋិ",
+				"ដោយ​សោតាបត្តិមគ្គ",
+				"លះកិលេស​គ្រោតគ្រាត",
+				"ដោយ​សកទាគាមិមគ្គ",
+				"លះ​កិលេស​យ៉ាង​ល្អិត​ដោយ​អនាគាមិមគ្គ",
+				"ទ្រង់​កាត់​កិលេស​ទាំង​អស់​បាន​ដោយ​អរហត្តមគ្គ",
+				"ស្តេច​ទៅហើយ​។",
+				"ព្រះ​អង្គ​មាន​ព្រះ​នាម​ថា",
+				"'",
+				"''",
+				"តថាគត",
+				"''",
+				"'",
+				"ព្រោះ​ស្តេច​ទៅ​យ៉ាង​នេះ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k a a l p r e a h ʔ ɑ ŋ p r ɑ s o u t",
+				"k n o ŋ m u ə y r u m p ɨ c n ʊ ə h",
+				"k ɑ ɑ s t a c t ɨ v",
+				"k ɨ ɨ p r ɑ tʰ a p cʰ ɑ ɑ l ǝ ǝ p r e a h p r e a h y o k l e a ʔ b a",
+				"b a e p r e a h pʰ e a k t ɨ v t ɨ h ʔ u t",
+				"s t a c t ɨ v",
+				"d a o y p r e a h b a a t c u m h a a n",
+				"r u ə c b ɑ n l ɨ ɨ n ə v ʔ a a h pʰ i ʔ v i e c a a tʰ a a",
+				"ə",
+				"y ǝ ǝ ŋ c i e b o k k p ʊ ə ŋ k p ʊ ə h k n o ŋ l o o k",
+				"y ǝ ǝ ŋ c i e b o k k u m b ɑ m pʰ o t k n o ŋ l o o k",
+				"y ǝ ǝ ŋ c i e b o k k u l p r ɑ s a ǝ b ɑ m pʰ o t k n o ŋ l o o k",
+				"n i h c i e k ɑ m n a ə t c o ŋ k r a o y r ɔ b ɑ h y ǝ ǝ ŋ",
+				"pʰ o a p t m ə y m ɨ n m i e n t ə t t i ə t l a ə y",
+				"",
+				"",
+				"ɔ",
+				"k a a y a a ŋ t ɨ v y a a ŋ n ʊ ə h",
+				"k ɑ ɑ b a a n c i e ʔ a a k a a d a e l p ɨ t",
+				"m ɨ n p r a e p r u ə l",
+				"d a o y pʰ i e p c i e b o p n i ʔ m ɨ t k a a s a m r a c k r a ə n p r ɑ k a a",
+				"m y a a ŋ t i ə t",
+				"t r ʊ ə ŋ l e a h k a a m cʰ a n t e a ʔ n e e k kʰ a m",
+				"s t a c t ɨ v h a ǝ y",
+				"t r ʊ ə ŋ l e a h p y i e b a a t d a o y k a a m ɨ n p y i e b a a t",
+				"l e a h tʰ i i n m ɨ t",
+				"d a o y ʔ a a l o o k s ɑ ɲ ɲ a a",
+				"t r ʊ ə ŋ l e a h ʔ u t c k o k k o c c a o c k a a m ɨ n r i e y m i e y",
+				"l e a h v ɨ c e ʔ cʰ a a d a o y k ɑ m n ɑ t",
+				"s t a c t ɨ v h a ǝ y",
+				"t r ʊ ə ŋ t u m l i e y ʔ a ʔ v ɨ c c i e d a o y p r a h p r a h p r a h p r a",
+				"t r ʊ ə ŋ b ɑ n t o o b ɑ ŋ ʔ ɑ ɑ t d a o y b a a m a o c c e a ʔ",
+				"t r ʊ ə ŋ b a ə k t v i e",
+				"c cʰ i e n",
+				"t r ʊ ə ŋ ɲ u ŋ v ɨ t k k a ʔ",
+				"n ɨ ŋ v ɨ c a a ʔ a o y s ŋ a p d a o y t u t cʰ i e n",
+				"t r ʊ ə ŋ n ɨ ə y n a a y b ə y d a o y tʰ e a ʔ cʰ i e n",
+				"t r ʊ ə ŋ l e a h s o k",
+				"n ɨ ŋ t u k d a o y cʰ a a n",
+				"t r ʊ ə ŋ cʰ i e n k ɑ n l ɑ ɑ ŋ r o u p s ɑ ɲ ɲ a a",
+				"p a ʔ d ə k s ɑ ɲ ɲ a a",
+				"n ɨ ŋ n i e n t s ɑ ɲ a a n ɲ a a y t ɑ ɑ n s a ʔ m a a b a t",
+				"t r ʊ ə ŋ cʰ i e n k ɑ n l ɑ ɑ ŋ ʔ a a s a a n ɲ ɑ ɲ t ɑ ɑ ɲ",
+				"d a o y v ɨ ɲ ɲ a a n ɲ c a a y t ɑ ɑ n s a ʔ m a a b a t",
+				"t r ʊ ə ŋ cʰ i e n k ɑ n v ɨ ɲ ɲ a a n ɲ a ɲ c a a y ɑ t ɑ n s ɑ",
+				"d a o y ʔ a a k ə ɲ ɲ a a y t ɑ ɑ n s a ʔ m a a b a t",
+				"t r ʊ ə ŋ cʰ i e n k ɑ n l ɑ ɑ ŋ ʔ a a k ə ɲ ɲ a a y t ɑ ɑ n s",
+				"d a o y n e e v s a ɲ ɲ a a n i e s ɑ ɲ a a s a ʔ m a a b a t",
+				"s t a c t ɨ v h a ǝ y",
+				"t r ʊ ə ŋ l e a h n ɨ c s ɑ ɲ ɲ a a",
+				"d a o y ʔ ɑ ɑ n ɨ c c a a n u ʔ p a h s n a a",
+				"l e a h s o k s ɑ ɲ ɲ a a",
+				"d a o y t u k kʰ a a n u p s s a ʔ n a a",
+				"l e a h ʔ a t s ɑ ɲ ɲ a a d a o y ʔ a ʔ n o a h n a a",
+				"l e a h k a a p l ǝ ǝ n d a o y n i p n i p n i p n i p",
+				"l e a h t ɑ m r e e k d a o y v i ʔ r i e k i e n u ʔ p a h",
+				"l e a h s a ʔ m o t o y d a o y n i ʔ r o o tʰ o o n u p s n a a",
+				". . .",
+				"t r ʊ ə ŋ k a c b ɑ m b a k k ə l e e h d a e l n ɨ ŋ t ɨ t",
+				"d a o y s a o t a a b a t k",
+				"l e a h k e ʔ l e e h k r o o t k r i e t",
+				"d a o y s ɑ ɑ k t i e k i e m ɨ m k",
+				"l e a h k e ʔ l e e h y a a ŋ l ə t d a o y ʔ a ʔ n i e k i e m ɨ m k",
+				"t r ʊ ə ŋ k a t k ə l e e h t e a ŋ ʔ ɑ h b a a n d a o y ʔ ɑ ɑ h ɑ t",
+				"s t a c t ɨ v h a ǝ y",
+				"p r e a h ʔ ɑ ŋ k m i e n p r e a h n i e m tʰ a a",
+				"'",
+				"",
+				"t ɑ tʰ a a k ɔ ɔ t",
+				"",
+				"'",
+				"p r ʊ ə h s t ə c t ɨ v y a a ŋ n e h"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកព្រៃកប្បាស",
+				"ខេត្តតាកែវ",
+				"មាន៦ភូមិ",
+				"។"
+			],
+			"ner_tags": [
+				5,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s r o k p r e y k a p b a a h",
+				"kʰ a e t t a a k a e v",
+				"m i e n ʔ a pʰ u u m i ʔ",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				5,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ប្រាសាទតាព្រហ្ម"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"p r a a s a a t t a a p r ɔ ɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"រស់",
+				"សេរីសុទ្ធា"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"r ʊ ə h",
+				"s e e r i i s o t"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"គាត",
+				"ឈន់"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"k i e t",
+				"cʰ ʊ ə n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ទួលគោក",
+				"(",
+				"១២-០៤",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t u ə l k o o k",
+				"(",
+				"ʔ a ʔ p a k",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"សូយ៌្យវម៌្មទី២"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"s o u y e a ʔ v o a m t i i"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ប្រជុំរឿងព្រេងខ្មែរ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r ɑ c u m r ɨ ə ŋ p r e e ŋ k m a e"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ក្នុងការចូល​ប្រឡូក​ជា​អ្នកនយោបាយ",
+				"ដំបូងឡើយ​",
+				"លោក​ចូល​ជា​សមាជិក​របស់​គណបក្ស​សមរង្ស៊ី",
+				"ឈរឈ្មោះ​ជា​តំណាងរាស្ដ្រ​តាំងពី​ឆ្នាំ​១៩៩៨",
+				"ប៉ុន្ដែ​មិនជា​ប់ឆ្នោត​ទេ",
+				"។",
+				"ក្រោយមក​បាន​ជាប់ឆ្នោត",
+				"តំណាងរាស្ដ្រ​នៅ​ឆ្នាំ​២០០៣",
+				"កាលនោះ",
+				"លោក​មាន​អាយុ​៣៨​ឆ្នាំ",
+				"។ឆ្នាំ២០០៥លោកបានលើកដៃគាំទ្រកាត់កោះត្រល់ទៅអោយវៀតណាម",
+				"បន្ទាប់មក",
+				"ឆ្នាំ​២០០៦",
+				"ក៏​ចេញមក​បង្កើត​គណបក្សខ្លួនឯង",
+				"គណបក្សសម្ព័ន្ធដើម្បីប្រជាធិបតេយ្យ​មកដល់បច្ចុប្បន្ននេះ។​"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"epi_tokens": [
+				"k n o ŋ k a a c o u l p r ɑ l o u k c i e n e a ʔ k a a n y a o b a a y",
+				"d ɑ m b o u ŋ l a ə y",
+				"l o o k c o u l c i e s a ʔ m a a c ɨ k r ɔ b ɑ h k s ɑ ɑ m r ɔ ɔ ŋ s i i",
+				"cʰ ɔ ɔ c m ʊ ə h c i e t ɑ m n a ŋ r i e c n a ŋ",
+				"p o n d a e m ɨ n c i e c n a o t t e e",
+				"ɔ",
+				"k r a o y m e a k b a n c o a p c n a o t",
+				"t ɑ m n a a ŋ r i e s n a v c n a m",
+				"k a a l n u h",
+				"l o o k m i e n ʔ a a y o ʔ c n a m",
+				"c n a m l o o k b a a n l ǝ ǝ k d a y k a h t r ɑ l t ɨ v ʔ a o y v i ə t n a a",
+				"b ɑ n t o a p m ɔ ɔ k",
+				"c n a m ʔ a ʔ n a m",
+				"k ɑ ɑ ɲ m e a k b ɑ ŋ k a ə t k u n a p k l u ə n ʔ a e ŋ",
+				"k e a ʔ n a p k s a m p o a n d a ə m b i i p r ɑ c i e tʰ i p t e e y m e a ʔ k"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ក្រុងស្ទឹងសែន"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"k r o ŋ s t ɨ ŋ s a e n"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				":",
+				"ជប៉ុន"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				":",
+				"c e a ʔ p o n"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ឱរ៉ាល់",
+				"(",
+				"០៥-០៤",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ a o r a l",
+				"(",
+				"l ə ħ ə l ɑ f",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ឃុំស្លក្រាម"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ u m s l a a k r a a m"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"នួន",
+				"ជា"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"n u ə n",
+				"c i e"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"យឝោវម៌្មទី១"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"y e a ʔ v o o m e a ʔ t i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ខេត្ត​ហួ​ផាន់",
+				"ជា​ខេត្ត​មួយ​នៃ​ប្រទេស​លាវ",
+				"(",
+				"ឡាវ",
+				")",
+				"នៅ​ភាគ​ឦសាន​នៃ​​ប្រទេស​។",
+				"វៀតណាម។​"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"kʰ e e t h u ə pʰ a n",
+				"c i e kʰ e e t m u ə y n e y p r ɑ t e e h l i e v",
+				"(",
+				"l a a v",
+				")",
+				"n ɨ v pʰ i e k ʔ ə y s a a n n e y p r ɑ t e e h",
+				"v i ə t n a a m ɑ ɑ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"បើ",
+				"''a",
+				"''",
+				"2",
+				"ស្មើសូន្យ",
+				"ចំពោះ",
+				"''z",
+				"''",
+				"ខ្លះ",
+				"វិធីសាស្រ្តហ្រ្វូបេនៀស",
+				"ដែលជាវិធីសាស្រ្តផ្នែកមួយនៃវិធីសាស្រ្តនេះ",
+				"គឺត្រូវនឹងចំនុចទោល",
+				"។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b a ə",
+				"a",
+				"",
+				"t r eː m",
+				"s m a ə s o u n",
+				"c ɑ m p ʊ ə h",
+				"z",
+				"",
+				"k l a h",
+				"v i ʔ tʰ i i s a a s r a t f o u b e e n i ǝ h",
+				"d a e l c i e v i ʔ tʰ i i s a a s n a e k m u ə y n e y v i ʔ v i ʔ tʰ i i s",
+				"k ɨ ɨ t r ə v n ɨ ŋ c ɑ m n u c t o o l",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បេណាហ្សៀរ",
+				"ប៊ូតូ"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"b e e n a a s i ǝ",
+				"b u u t o u"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"តមក​ជា​ច្រើន​ជំនាន់​",
+				"'",
+				"''",
+				"ព្រះបាទ​អញ្ជនៈ",
+				"''",
+				"'​បាន​សោយរាជ្យ​នៅ​ក្នុង​នគរ​នេះ។",
+				"ព្រះ​អង្គ​មាន​ប្អូន​ស្រី​ម្នាក់",
+				"ព្រះនាម",
+				"''",
+				"'​កញ្ចនា",
+				"''",
+				"'។",
+				"ព្រះ​នាង​កញ្ចនា​បាន​រៀប​អភិសេក​នឹង​ព្រះ​បាទ​",
+				"''",
+				"'សីហហនុ",
+				"''",
+				"កបិលវត្ថុ",
+				"មាន​ព្រះរាជ​បុត្រា​៥​ព្រះ​អង្គ​គឺ",
+				"'",
+				"''",
+				"ព្រះ​សុទ្ធោទនៈ១",
+				"''",
+				"'",
+				"'",
+				"''",
+				"ព្រះ​សុក្កោទនៈ១",
+				"''",
+				"'",
+				"'",
+				"''",
+				"ព្រះ​អមិតោទនៈ១",
+				"''",
+				"'",
+				"'",
+				"''",
+				"ព្រះធោតោទនៈ១",
+				"''",
+				"'",
+				"និង​",
+				"''",
+				"'ព្រះ​ខណិតោទនៈ១",
+				"''",
+				"'",
+				"មាន​ព្រះ​រាជ​បុត្រី​២​ព្រះអង្គ",
+				"គឺ​ព្រះ​នាង​​",
+				"''",
+				"'អមិតា១",
+				"''",
+				"'",
+				"និង​ព្រះនាង​",
+				"''",
+				"'បមិតា១",
+				"''",
+				"'។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ɑ m e a k c i e c r a ə n c u m n o a n",
+				"'",
+				"",
+				"p r e a h b a a t ʔ ɑ ɲ c e a ʔ n e a ʔ",
+				"",
+				"b a a n s a o y n i e c n o ŋ k n e h",
+				"p r e a h ʔ ɑ ŋ k m i e n p ʔ o u n s r ǝ y m n a k",
+				"p r e a h n i e m",
+				"",
+				"k ɑ ɲ c ɑ n a a",
+				"",
+				"ɑ",
+				"p r e a h n i e ŋ k ɑ ɲ c a a n i e b a n r i e p n ɨ ŋ p r e a h b a a t",
+				"",
+				"s ə y h a ʔ n u ʔ",
+				"",
+				"k a ʔ b ə l v o a t",
+				"m i e n p r e a h r i e c b o t r i e p r e a h ʔ ɑ ŋ k ɨ ɨ",
+				"'",
+				"",
+				"p r e a h s o t tʰ o o t n e a ʔ",
+				"",
+				"'",
+				"'",
+				"",
+				"p r e a h s o k k a o t n e a ʔ",
+				"",
+				"'",
+				"'",
+				"",
+				"p r e a h ʔ ɑ ɑ m ɨ t a o t n e a ʔ",
+				"",
+				"'",
+				"'",
+				"",
+				"p r e a h tʰ o o t a o t n e a ʔ",
+				"",
+				"'",
+				"n ɨ ŋ",
+				"",
+				"p r e a h kʰ a ʔ n e ʔ t a o t n e a ʔ",
+				"",
+				"'",
+				"m i e n p r e a h r i e c b o t r ə y ʔ ɑ ŋ k e a ʔ",
+				"k ɨ ɨ p r e a h n i e ŋ",
+				"",
+				"ʔ ɑ ɑ m ɨ t a a",
+				"",
+				"'",
+				"n ɨ ŋ p r e a h n i e ŋ",
+				"",
+				"b ɑ m ɨ t a a",
+				"",
+				"ɑ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ប្រជុំរឿងព្រេងខ្មែរ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r ɑ c u m r ɨ ə ŋ p r e e ŋ k m a e"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ខេត្តបន្ទាយមានជ័យ"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ a e t b ɑ n t i e y m i e n c e y"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ពុទ្ធប្រវត្តិសង្ខេប"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p u t p r ɑ v o a t s ɑ ŋ kʰ e e p"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"''",
+				"'កំណែប្រែទី២",
+				"''",
+				"'៖",
+				"មានឈ្មោះថា",
+				"'",
+				"''",
+				"វចនានុក្រម",
+				"ខ្មែរ",
+				"''",
+				"'",
+				"ត្រូវបានរៀបចំ",
+				"វិទ្យាស្ថានពុទ្ធសាសនបណ្ឌិត្យ។",
+				"វចនានុក្រមនេះ",
+				"វិទ្យាស្ថានពុទ្ធសាសនបណ្ឌិត្យ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"",
+				"k ɑ m n a e p r a e t i i ʔ",
+				"",
+				"ç a m",
+				"m i e n c m ʊ ə h tʰ a a",
+				"'",
+				"",
+				"v e a ʔ c a ʔ n a a n u ʔ k r ɑ m",
+				"k m a e",
+				"",
+				"'",
+				"t r ə v b a a n r i ə p c ɑ m",
+				"v ɨ t y i e h tʰ a a n p u t s a a s ɑ n b ɑ n d ɨ t",
+				"v e a ʔ c a ʔ n a a n u ʔ k r ɑ m e a ʔ n i h",
+				"v ɨ t y i e h tʰ a a n p u t s a a s ɑ n b ɑ n d ɨ t"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ឯកឧត្តម",
+				"ស",
+				"ខេង",
+				"កើតនៅថ្ងៃទី១៥",
+				"ខែមករា",
+				"ឆ្នាំ១៩៥១នៅភូមិអណ្តូងស្នាក",
+				"ឃុំក្របៅ",
+				"ព្រៃវែង។",
+				"ឯកឧត្តមបច្ចុប្បន្នកាន់តំណែងជាឧបនាយករដ្ឋមន្រ្តី",
+				"ក្រសួងមហាផ្ទៃ។",
+				"ឯកឧត្តមមានភរិយាឈ្មោះ",
+				"លោកជំទាវ",
+				"ញ៉ែម",
+				"សាខន",
+				"និងមានកូនចំនួន៣នាក់។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʔ a e k ʔ u t t ɑ ɑ m",
+				"s ɑ ɑ",
+				"kʰ e e ŋ",
+				"k a ə t n ɨ v t ŋ a y t i i",
+				"kʰ a e m kʰ a e m k r i e",
+				"c n a m n a v pʰ u u m ʔ ə n t o u ŋ s n a a k",
+				"kʰ u m k r ɑ b a v",
+				"p r e y v ɛ ɛ ŋ",
+				"ʔ a e k ʔ u t m e a ʔ p c o p b a n n a e ŋ c i e ʔ u ʔ p a ʔ n i e y k r ɑ",
+				"k r ɑ s u ə ŋ m h a a p t e y",
+				"ʔ a e k ʔ u ʔ t a ʔ m e a ʔ m i e n pʰ e a ʔ r i ʔ y i e c m ʊ ə h",
+				"l o o k c u m t i e v",
+				"ɲ a e m",
+				"s a a kʰ ɑ ɑ n",
+				"n i ŋ m i e n k o u n c ɑ m n u ə n n e a k"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ស៊ីហ្គេមលើកទី២០"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"s i i k e e m l ǝ ǝ k t i i ʔ ə l"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"គណបក្សសម្ព័ន្ធដើម្បីប្រជាធិបតេយ្យ",
+				"''",
+				"'",
+				"(",
+				"អង់គ្លេស",
+				":",
+				"League",
+				"for",
+				"Democracy",
+				"Party",
+				",",
+				"ហៅកាត់ថា",
+				":",
+				"'",
+				"''",
+				"LDP",
+				"''",
+				"'",
+				",",
+				"ប្រមុខ៖",
+				"លោក",
+				"ខឹម",
+				"វាសនា",
+				")",
+				"គឺជាចលនានយោបាយមួយ"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"k e a ʔ n a p k s a m p o a n d a ə m b ə y p r ɑ c i e tʰ i p t e e y",
+				"",
+				"'",
+				"(",
+				"ʔ ɑ ŋ k l e e h",
+				":",
+				"l iː ɡ",
+				"f ɔ r",
+				"d e m o k r a s iː",
+				"p ˈɑ r t i",
+				",",
+				"h a v k a t tʰ a a",
+				":",
+				"'",
+				"",
+				"ˌɛ l d ˌe p ˈe",
+				"",
+				"'",
+				",",
+				"p r ɑ m o k kʰ a ʔ",
+				"l o o k",
+				"kʰ ə m",
+				"v i e h s n a a",
+				")",
+				"k ɨ ɨ c i e c ɑ l n i e n y o o b a a y m u ə y"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ខេត្តពោធិ៍សាត់"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ a e t p o o s a t"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ឆាវ",
+				"ភី"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"cʰ a a v",
+				"pʰ i i"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ពួកសាសនទូតអេស្ប៉ាញ",
+				"និង",
+				"ព័រទុយហ្គាល់បានធ្វើទស្សនកិច្ចមកកាន់ប្រទេសនេះចាប់តាំងពីសតវត្សទី១៦មកម៉្លេះ",
+				"ហើយ",
+				"កម្ពុជាក៏បានក្លាយជាដែនអាណាព្យាបាលបារាំងនៅសតវត្សទី១៩",
+				"សហភាពឥណ្ឌូចិន។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"p u ə k s a a s ɑ n t u u t ʔ e e h",
+				"n ɨ ŋ",
+				"p o a t u y k o a l b a ǝ n t ʊ ə h m e a ʔ k a n p r ɑ t e e h n e h c a p t a",
+				"h a ǝ y",
+				"k a m p u ʔ c i e k a ʔ b a a n k l a a y c i e d a e n ʔ a a n a a p y a a ŋ n a v",
+				"s a ʔ h a ʔ pʰ i e p ʔ ə n d o u c ə n"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ឦឝានវម៌្មទី១"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"ʔ ǝ v i e n v o a m t i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"អេស្ប៉ាញបានជ្រើសរើសបុត្ររបស់ព្រះបាទសត្ថា"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ʔ e e h p a a ɲ b a a n c r ǝ ǝ s r ǝ ǝ s b o t r ɑ r ɑ b a h p r e a h b a"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"អង្កត់ធ្នូ"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"ʔ ɑ ŋ k ɑ t t n o u"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ហ៊ុន",
+				"សែន"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"h u n",
+				"s a e n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ប្រជុំរឿងព្រេងខ្មែរ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r ɑ c u m r ɨ ə ŋ p r e e ŋ k m a e"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"==",
+				"ការធ្វើបាតុកម្មទាមទារឲ្យដោះលែងអាចារ្យ",
+				"ហែម",
+				"ចៀវ",
+				"និងការគេចពីការតាមចាប់ខ្លួន",
+				"=="
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"h ɑ m",
+				"k a a r e a ʔ t v ə ə b a a t o k m m i e t i e r ʔ a o y d ɑ h l ɛ ɛ ŋ ʔ",
+				"h a e m",
+				"c i ə v",
+				"n ɨ ŋ k a a k ɨ c p i i k a a t a a m c a p k l u ə n",
+				"h ɑ m"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"ប្រាសាទរោងរមុង",
+				"''",
+				"'​ស្ថិតនៅខាងស្តាំផ្លូវ",
+				"ប្រាសាទភ្នំបាខែង។",
+				"ប្រាសាទនេះស្ថាបនាឡើងអំពីឥដ្ឋ",
+				"ផ្នែកខាងលើនៃប្រាសាទបានបាត់បង់អស់ទៅហើយ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p r a a s a a t r o o ŋ r ɔ m u ŋ",
+				"",
+				"s tʰ ə t n a v kʰ a a ŋ s t a m p l ə v",
+				"p r a a s a a t p n u m b a a kʰ a e ŋ",
+				"p r a a s a a t e a ʔ n i h s tʰ a a p n i e l a ə ŋ ʔ ɑ m p i i ʔ ǝ t",
+				"p n a e k kʰ a a ŋ l ǝ ǝ n i e p r a a s a t b a n b ɑ ŋ ʔ ɑ h t ɨ v h a"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ពញារាមទី២"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p ɔ ɲ i e r i e m t i i ʔ"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"សាកលវិទ្យាល័យអាគីតា"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"s a a k a ʔ l a ʔ v ɨ t y i e l a y ʔ a a k i i t a a"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"រាជាធិរាជ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"r i e c i e tʰ i ʔ r i e c"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Yahoo",
+				"!"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"j a h oː",
+				"!"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"លំហកំពុងតែពង្រីកខ្លួន។",
+				"មកទល់ពេលនេះ",
+				"ល្បឿនពន្លឺ។",
+				"ការណ៍នេះមិនប្រឆាំងនឹងទ្រឹស្ដីរ៉ឹឡាទីវីតេពិសេសទេ",
+				"ព្រោះលំហខ្លួនឯងពង្រីកខ្លួន។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"l u m h ɑ ɑ k ɑ m p u ŋ t a e p ʊ ə ŋ r i i k k l u ə n",
+				"m e a k t ʊ ə l p e e l n i h",
+				"l b ɨ ǝ n p ʊ ə n l ɨ ɨ",
+				"k a a n e h m ɨ n p r ɑ cʰ a ŋ n ɨ ŋ t r ɨ h l a a t i i v i i t e e p i ʔ",
+				"p r ʊ ə k l u m h a k l u ə n ʔ a e ŋ p ʊ ə ŋ p ʊ ə ŋ k l u ə n"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"យុគអន្ធកាលនៃកម្ពុជា"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"y u k ʔ ɑ n k a a l n e y k ɑ m p u c i e"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"កំឡុងរជ្ជកាលឦឝានវម៌្ម",
+				"ប្រាសាទដែលមានឈ្មោះថា",
+				"ប្រាសាទក្រវាន់ត្រូវបានកសាងឡើង។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"k ɑ m l o ŋ r e a c c e a ʔ k a a l ʔ a ʔ f i e n v o a m",
+				"p r a a s a a t d a e l m i e n c m ʊ ə h tʰ a a",
+				"p r a a s a a t k r ɑ v a n t r ə v b a a n e k s a a ŋ l a ə ŋ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"កត្តាអាំងតេក្រាល"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k a t t a a ʔ a ŋ t e e k r a a l"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"កោះត្រឡាច។",
+				"ឯលោកទាំងបីមិនទាន់បញ្ជូនទៅភ្លាមៗទេ",
+				"ព្រោះរង់ចាំសេចក្តីសម្រេច"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k ɑ h t r ɑ l a a c",
+				"ʔ a e l o o k t e a ŋ b ə y m ɨ n t o a n b ɑ ɲ c u u n t ɨ v p l i e m t e e",
+				"p r ʊ ə h r ʊ ə ŋ c a m s a c k t i i s ɑ m r ɨ c"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ប្រជុំរឿងព្រេងខ្មែរ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r ɑ c u m r ɨ ə ŋ p r e e ŋ k m a e"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				".kh"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"kʰ aː tʼ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ប្រជុំរឿងព្រេងខ្មែរ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r ɑ c u m r ɨ ə ŋ p r e e ŋ k m a e"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ពហុកីឡដ្ឋានជាតិអូឡាំពិក"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"p h o ʔ k i i l a t tʰ a a n c i e t ʔ o u l a m p ɨ k"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"មេដ្យាន"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"m e e t y i e n"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"កូរ៉េខាងត្បូង",
+				"៩០៧គ.ម"
+			],
+			"ner_tags": [
+				5,
+				0
+			],
+			"epi_tokens": [
+				"k o u r e e kʰ a a ŋ t b o u ŋ",
+				"l ɑ ɑ k ɔ ɔ m"
+			],
+			"epi_ner_tags": [
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកសៀមរាប"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"s r o k s i ǝ m r i e p"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"អនុគមន៍បែតា"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"ʔ a ʔ n u k u m b a e t a a"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ជយវម៌្មទី៩",
+				"រឺ",
+				"ជយវរ្ម័នទី៨",
+				"(",
+				"១២៤៣-១២៩៥",
+				")"
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"c e a ʔ y e a ʔ v e a ʔ t i i",
+				"r ɨ ɨ",
+				"c e a ʔ y e a ʔ v e a ʔ n e a ʔ t i i",
+				"(",
+				"ʔ ə ʔ ə ʔ ə ʔ ə ʔ",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ស៊ីដនីយ៏",
+				"(",
+				"១",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s i i d ɑ n i i y ɑ ɑ",
+				"(",
+				"l a m",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ភ្នំពេញ"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"p n u m p ɨ ɲ"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"ប្រាសាទបន្ទាយសំរែ",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p r a a s a a t b ɑ n t i e y s ɑ m r a e",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ខេត្តខូឈិ"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ a e t kʰ o u cʰ i ʔ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"ស្រុកសំឡូត",
+				"ខេត្តបាត់ដំបង។",
+				"នេះមាន",
+				"''",
+				"'៧",
+				"''",
+				"'ភូមិ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"'",
+				"",
+				"s r o k s ɑ m l o u t",
+				"kʰ e e t b a t d ɑ m b ɑ ŋ",
+				"n i h m i e n",
+				"",
+				"ʔ",
+				"",
+				"pʰ u u m i ʔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"វត្តព្រះកែវមរកត"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"v o a t p r e a h k a e v e a ʔ m e a ʔ k ɑ t"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ក្រុងសៀមរាប"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"k r o ŋ s i ǝ m r i e p"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"អាស៊ី"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ʔ a a z i i"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"សាកលវិទ្យាល័យអង្គរ",
+				"AU"
+			],
+			"ner_tags": [
+				3,
+				0
+			],
+			"epi_tokens": [
+				"s a a k ɑ l v i t y i e l a y ʔ ɑ ŋ k ɔ ɔ",
+				"a u"
+			],
+			"epi_ner_tags": [
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ព្រះបាទ​សម្ដេច​ព្រះ",
+				"ស៊ីសុវត្ថិ",
+				"ព្រះ​ចៅ​ក្រុង​កម្ពុជា​ធិបតី"
+			],
+			"ner_tags": [
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"p r e a h b a a t s ɑ m d ə c p r e a h",
+				"s i i s o ʔ v a t",
+				"p r e a h c a v k r o ŋ k a m p u c i e tʰ ɨ p t i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ព្រះអាទិត្យ"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"p r e a h ʔ a a t ɨ t"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"រូបមន្តអយល័រក្នុង",
+				"(",
+				"ខ្មែរយើងភាគច្រើនអានថាអឺលែរ",
+				")",
+				"​។"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"r u u p m ʊ ə n ʔ ɑ ɑ y l o a k n o ŋ",
+				"(",
+				"k m a e y ǝ ǝ ŋ pʰ i e k c r a ə n ʔ a a n tʰ a a ʔ ə ɨ l ɛ ɛ",
+				")",
+				"ɑ"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ព្រះអង្គម្ចាស់",
+				"នរោត្ដម",
+				"សីហនុ",
+				"(",
+				"1922–2012",
+				")",
+				"''នាយករដ្ឋមន្ត្រី",
+				"''",
+				"(",
+				"10th",
+				"term",
+				")"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p r e a h ʔ ɑ ŋ k u m c a h",
+				"n ɔ r o o t d ɑ m",
+				"s ə y h a ʔ n u ʔ",
+				"(",
+				"ɛ t ɛ f 2 : % t e : e t",
+				")",
+				"n i e y k r u t m ʊ ə n t r ə y",
+				"",
+				"(",
+				"ɛ d uː t eː h ɑː",
+				"t ɛ r m",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"កម្មវិធីអភិវឌ្ឍន៍សហប្រជាជាតិ"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"k a m v i ʔ tʰ i i ʔ a ʔ pʰ i ʔ v a t p r ɑ c i e c i e t"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"កាសែតស្រឡាញ់ខ្មែរ"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k a a s a e t s r ɑ l a ɲ k m a e"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ធរណីន្ទ្រវម៌្មទី៣"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"tʰ e a ʔ n i i n t r ɔ v o a m t i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកស្វាយទាប"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"s r o k s v a a y t i e p"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ក្នុងឆ្នាំ១៩៩៧",
+				"កម្ពុជាបានបង្កើតកម្លាំងការងារជំនុំជម្រះខ្មែរក្រហមដើម្បីជំនុំជម្រះពួកមេដឹកនាំដែលនៅសេសសល់​ចំពោះឧក្រិដ្ឋកម្មសង្គ្រាមនិងឧក្រិដ្ឋកម្មផ្សេងៗប្រឆាំងមនុស្សជាតិ",
+				"ក៏ប៉ុន្តែការដំណើរការនៅយឺតយ៉ាវ",
+				"ហ៊ុន-សែន",
+				"ទោះបីយ៉ាងណាដើមកំណើតរបស់រដ្ឋាភិបាលនេះជារបបដែលមានវៀតណាមនៅពីក្រោយខ្នងនៅទសវត្ស១៩៨០",
+				"ដែលស្ទាក់ស្ទើរដើម្បីនាំយកពួកមេដឹកនាំខ្មែរក្រហមធ្វើការជំនុំជម្រះ",
+				"។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k n o ŋ c n a m l ɑ ɑ",
+				"k a m p u ʔ c i e b a ŋ k a ə ŋ k a a ŋ a ʔ ŋ a a c u m n u m c u m n e a ŋ",
+				"k ɑ ɑ p o n t a e k a a d ɑ m n a ə k a a n ɨ v y ɨ ɨ t y a a v",
+				"h u n s a e n",
+				"t ʊ ə h b i i y a a ŋ n a a d a ə m k ɑ m n a ə t r e a ʔ b a h r a t tʰ a",
+				"d a e l s t e a k s t ǝ ǝ d a ə m b i i n a ŋ y e a ʔ p u ə k m e e d ə k n a",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ប្រាសាទតាព្រហ្ម"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"p r a a s a a t t a a p r ɔ ɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"ប្រាសាទបាយ័ន",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p r a a s a a t b a a y a n",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ក្រមង៉ុយ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"k r ɑ m ɑ ŋ o y"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ប្រាសាទបឹងមាលា",
+				"ឬប្រាសាទបេងមាលា"
+			],
+			"ner_tags": [
+				3,
+				0
+			],
+			"epi_tokens": [
+				"p r a a s a a t b ə ŋ m i e l i e",
+				"ʔ ɨ ɨ p r a a s a a t b e e ŋ m i e l i e"
+			],
+			"epi_ner_tags": [
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ប្រាសាទបាគង"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"p r a a s a a t b a a k ɔ ɔ ŋ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ប្រាសាទបន្ទាយស្រី"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"p r a a s a a t b ɑ n t i e y s r ǝ y"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ក្រោយ​ពីវ្រះបាទឝ្រី​ន្ទ្រវម៌្មទី២",
+				"ដាក់​រាជ្យ",
+				"ហើយ​យាង​ទៅ​គង់​យ៉ាង​ស្ងាត់ស្ងៀម​ក្នុង​ព្រៃ",
+				"ឝ្រីន្ទ្រជយវម៌្មដែល​ជា​ព្រះ​ញាតិ",
+				"ទ្រង់​ឡើង​សោយរាជ្យ​ស្នង​ព្រះអង្គ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"k r a o y p i i v r a h b a a t p r i n t r ɔ v o a m",
+				"d a k r i e c",
+				"h a ə y y a a ŋ t ɨ v k ʊ ə ŋ ŋ i ə m k n o ŋ p r e y",
+				"p r i i n t r ɔ c y e a ʔ v o a m d a e l c i e p r i e p r i e",
+				"t r ʊ ə ŋ l a ə ŋ s a o y r i e c s n ɑ ŋ k ɑ ɑ ŋ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"និងគណបក្សជាតិនិយមចិនបានគាំទ្រពួកគេនៅក្នុងការវាយប្រឆាំងនឹងពួកជប៉ុន។",
+				"យ៉ាងណាៗ",
+				"ពួកគេមិនមានអំណាចគ្រប់គ្រាន់ដើម្បីប្រយុទ្ធគ្នាក្នុងសមរភូមិជាក់ស្ដែងនៅលើកដំបូង។",
+				"មេដឹកនាំវៀតមិញ",
+				"ហូ-ជីមិញត្រូវបានសង្ស័យនឹងក្លាយជាជនកុម្មុយនិស្ត",
+				"និងត្រូវដាក់គុកអស់រយៈពេលមួយឆ្នាំដោយគណបក្សជាតិនិយមចិន។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"n i ŋ k e a ʔ n a ʔ c i e t i ʔ n i ʔ y e a ʔ m e a ʔ c ə n b a a n k e e n",
+				"y a a ŋ n a a",
+				"p u ə k k e e m ɨ n m i e n ʔ ɑ m n a a c k r o p k r i e k n i e k n o ŋ s ɑ",
+				"m e e d ə k n o a m v i ə t m ɨ ɲ",
+				"h o u c i i m ɨ ɲ t r ə v b a a n s ɑ ŋ s a ŋ k l a a y c i e c e a ʔ n e ʔ",
+				"n ɨ ŋ t r ə v d a k k ʊ ə k ʔ ɑ h r ɔ y e a ʔ p e e l m u ǝ y c n a m d"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកចន្រ្ទា"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"s r o k c ɑ n t i e"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ជយវម៌្មទី៣"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"c e a ʔ y e a ʔ v e a ʔ t i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"កាណាដា"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"k a a n a a d a a"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ហ្គាតេម៉ាឡា"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"k i e t e e m a a l a a"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"សមាគមប្រជាជាតិអាស៊ីអាគ្នេយ៍"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"s a ʔ m a a k u m p r ɑ c i e c i e t ʔ a a s i i ʔ a a k"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"The",
+				"plan",
+				"was",
+				"launched",
+				"in",
+				",",
+				"less",
+				"than",
+				"three",
+				"months",
+				"after",
+				"John",
+				"F.",
+				"Kennedy",
+				"became",
+				"the",
+				"U.S.",
+				"President",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tʰ ɛː",
+				"p l a n",
+				"w a s",
+				"l a n t ʃ e d",
+				"i n",
+				",",
+				"l ɛ s",
+				"tʰ a n",
+				"θ r eː",
+				"m ɔ n θ s",
+				"a f t ə r",
+				"d ʒ ɔ h n",
+				"f ɛ",
+				"k e n n e d yː",
+				"b e k ɑ m e",
+				"tʰ ɛː",
+				"} : % E s",
+				"p r ˌe s i d ˈe n t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"នេប៉ាល់ត្រូវបានចែកជាស្រុក៧៥។",
+				"ស្រុកនីមួយៗ",
+				"ដើរតួជាអង្គភាពរដ្ឋបាលឯករាជ្យមួយ។",
+				"ស្រុកមួយប្រកបដោយអង្គភាពតូចៗផ្សេងៗជាច្រើនដូចជា",
+				"គណៈអភិវឌ្ឍន៍ភូមិ",
+				"(",
+				"គ.អ.ភ",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"n e e p a l t r ə v b a a n c a e k c i e s r o k c i e s r o k",
+				"s r o k n i i m u ə y s r o k",
+				"d a ə r ɔ t u ə c i e ʔ ɑ ŋ k e a ʔ pʰ i e p r a t tʰ a ʔ b a a l ʔ",
+				"s r o k m u ə y p r ɑ k ɑ ɑ p d a o y ʔ ɑ ŋ k e a ʔ pʰ i e p t o u c ʔ",
+				"k e a ʔ n a ʔ pʰ i ʔ v o a",
+				"(",
+				"k ɔ ɔ ʔ ɑ ɑ pʰ ɔ ɔ",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"train": [
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"បារាំង"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"b a a r a ŋ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"អនុគមន៍ត្រីកោណមាត្រ"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ʔ a ʔ n u k u m t r i i k a o n a ʔ m i e t"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ក្នុង​រាជ្យ​ព្រះអង្គ​មាន​ប្រតិកម្ម​យ៉ាង​ខ្លាំងក្លា​របស់​អ្នក​កាន់​ព្រហ្មញ្ញសាសនា",
+				"ទៅ​លើ​ព្រះពុទ្ធ​សាសនា",
+				"ដោយ​ពេល​នោះ​មាន​ការ​វាយ",
+				"ឬ​កោស​លុប​បំផ្លាញ​ព្រះពុទ្ធ​បដិមា",
+				"ដែល​គេ​បាន​សាង​យ៉ាង​ច្រើន​នៅ​ក្នុង​រាជ្យ​វ្រះបាទ​ជយវម៌្មទី៨",
+				"ឥន្ទ្រវម៌្មទី២",
+				"ដែល​សោយរាជ្យ​មុន​ព្រះអង្គ​នោះ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"k n o ŋ r i e c p r e a h ʔ ɑ ŋ k m i e n p r ɑ t e a ŋ k l a ŋ k l a ŋ k l",
+				"t ɨ v l ǝ ǝ p r u h p u t s a a h n i e",
+				"d a o y p e e l n ʊ ə h m i e n k a a v i e y",
+				"r ɨ ɨ k a o h l u p b ɑ m p l a a ɲ p r e a h p u t p u t",
+				"d a e l k e e b a a n s a a ŋ n a v k n o ŋ r a c c e a ʔ y e a ʔ v e a ʔ m e a",
+				"ʔ ǝ n t r ɔ v o a m t i i ʔ ɔ ɔ",
+				"d a e l s a o y r i e c m u n p r e a h ʔ ɑ ŋ k n u h"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ជយវម៌្មទី៨"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"c e a ʔ y e a ʔ v e a ʔ m e a ʔ t i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ព្រះវិហារ",
+				"=="
+			],
+			"ner_tags": [
+				5,
+				0
+			],
+			"epi_tokens": [
+				"p r e a h v i ʔ h i e",
+				"h ɑ m"
+			],
+			"epi_ner_tags": [
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"មេដ្យាន"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"m e e t y i e n"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ប៉ុលពត"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"p o l p ɔ ɔ t"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"*២៨",
+				"វិច្ឆិកា",
+				"១៩៩០",
+				"៖",
+				"លោក",
+				"ហ្គោស",
+				"ចុកតុង",
+				"បានក្លាយជានាយករដ្ឋមន្ត្រីទី២របស់សិង្ហបុរី"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"ʔ ə y m e ʔ",
+				"v ɨ c c e ʔ k a a",
+				"r o a ʔ",
+				"m a k k a ʔ",
+				"l o o k",
+				"k o o h",
+				"c o k t o ŋ",
+				"b a a n k l a a y c i e n i e y k r i t t i i ʔ r ɑ b ɑ h s ə ŋ h a ʔ b o r i i"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកត្រាំកក់",
+				"ខេត្តតាកែវ",
+				"មាន៧ភូមិ",
+				"។"
+			],
+			"ner_tags": [
+				5,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s r o k t r a m k ɑ k",
+				"kʰ a e t t a a k a e v",
+				"m i e n ʔ u ʔ pʰ u u m i ʔ",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				5,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ទី១៩",
+				"អង្គឌួង",
+				"(",
+				"១៨៤០",
+				"-",
+				"១៨៥៩",
+				")",
+				"ប្រទេសខ្មែរនៅតែស្ថិតក្រោមអំណាចសៀម",
+				"និងយួននៅឡើយ។",
+				"ពួកនេះនៅប្រចាំការអមព្រះអង្គ",
+				"ដើម្បីសម្រេចកិច្ចការរបស់ខ្មែរ។",
+				"ចាប់តាំងពីបានឡើងសោយរាជ្យមក",
+				"អង្គឌួងទ្រង់តូចព្រះទ័យយ៉ាងខ្លាំងចំពោះការបាត់បង់ទឹកដីយ៉ាងច្រើន",
+				"ដែលពួកយួន",
+				"និងសៀមប្រវ័ញ្ចយកទៅដោយខុសច្បាប់។",
+				"ព្រះអង្គបានខិតខំរកគ្រប់មធ្យោបាយដើម្បីរំដោះទឹកដី",
+				"និងគេចឲ្យផុតពីភាពចំណុះគេនេះ។"
+			],
+			"ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t i i l ə y",
+				"ʔ ɑ ŋ k e a ʔ d u ə ŋ",
+				"(",
+				"l ə l e a ʔ",
+				"-",
+				"l ə ʔ ə",
+				")",
+				"p r ɑ t e e h k m a e n ɨ v t a e s tʰ ə t k r a o m ʔ ɑ m n a a c s i ǝ m",
+				"n ɨ ŋ y u ə n n ɨ v l a ə y",
+				"p u ə k n i h n ɨ v p r ɑ c a m k a a ʔ ɑ ɑ m p r e a h ʔ ɑ ŋ",
+				"d a ə m b ə y s ɑ m r a c k ə c k a a r ɔ b ɑ h k m a e r",
+				"c a p t a ŋ p i i b a a n l a ə ŋ s a o y r i e c y e a ʔ m e a ʔ k ɑ ɑ",
+				"ʔ ɑ ŋ k e a ʔ d u ə ŋ t r ʊ ə ŋ t o u c p r e a h t o a ŋ k l a ŋ k l",
+				"d a e l p u ə k y u ə n",
+				"n i ŋ s i ǝ m p r ɑ v a ɲ c ɑ ɑ k t ɨ v d a o y kʰ o h c b a p",
+				"p r e a h ʔ ɑ ŋ kʰ a a n kʰ ə t kʰ ɑ m r ɑ k k r u p m u t y a o b a y",
+				"n ɨ ŋ k ɨ c ʔ a o y pʰ o t p i i pʰ i e p c ɑ m n o h k e e n e h"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ស្រុកគិរីសាគរ"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"s r o k k i ʔ r i i s a a k ɔ ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកថ្មគោល"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"s r o k t m e a ʔ k o o l"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ជយវម៌្មទី៨"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"c e a ʔ y e a ʔ v e a ʔ m e a ʔ t i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ខេត្តបាត់ដំបង"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ e e t b a t d ɑ m b ɑ ɑ ŋ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"វត្តបុទម"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"v o a t b o t o m"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ជួន",
+				"ណាត"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"c u ə n",
+				"n a a t"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ឆាវ",
+				"ភី"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"cʰ a a v",
+				"pʰ i i"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ឃុំពន្លៃ"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ u m p ʊ ə n l a y"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ម៉ារី",
+				"ស្កូដូស្កា",
+				"គុយរី"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"m a a r i i",
+				"s k o u d o u s k a a",
+				"k u y r i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"ប្រទេសន័រវេ"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"p r ɑ t e e h n o a v e e"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ហិរណ្យវម៌្ម",
+				"ដែលកំពុងបានគ្រប់គ្រងនៅកម្ពុជានៅពេលនោះដែរ។",
+				"ទ្រង់ជាក្មួយរបស់ព្រះមហាក្សត្រទាំងពីរដែលបានសោយរាជ្យនៅចេនឡា",
+				"(",
+				"ភវវម៌្ម",
+				"និង",
+				"មហេន្ទ្រវម៌្ម",
+				")",
+				"និងជាបុត្រនៃព្រះភគិនីរបស់ក្សត្រចេនឡាទាំងពីរអង្គ",
+				"ដែលបានគ្រប់គ្រងបុរ",
+				"(",
+				"ក្សត្របុរី",
+				")",
+				"នៅភាគខាងជើងកម្ពុជា។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"h e ʔ r ɑ n v o a m",
+				"d a e l k ɑ m p u ŋ b a a n k r u p k r ɔ ɔ ŋ n ɨ v k ɑ m p u c i e n ɨ v p",
+				"t r ʊ ə ŋ c i e k m u ə y r ɔ b ɑ h p r e a h m ɔ h a a k t r a t e a ŋ p i",
+				"(",
+				"pʰ e a ʔ v e a ʔ v o a m",
+				"n ɨ ŋ",
+				"m ɔ h e e n t r ɔ v o a m",
+				")",
+				"n ɨ ŋ c i e b o t p r e a h pʰ e a ʔ pʰ e a ʔ k i ˨ n i i b ɑ h k a t r",
+				"d a e l b a a n k r u p k r ɔ ɔ ŋ b o",
+				"(",
+				"k s a t b o ʔ r ə y",
+				")",
+				"n ɨ v pʰ i e k kʰ a a ŋ c ə ə ŋ k ɑ m p u c i e"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ខឹម",
+				"វាសនា"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"kʰ ə m",
+				"v i e h s n a a"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ស",
+				"ខេង"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"s ɑ ɑ",
+				"kʰ e e ŋ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ក្រុងកំពង់ឆ្នាំង"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"k r o ŋ k ɑ m p ʊ ə ŋ c n a ŋ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"ស្រុកឯកភ្នំ",
+				"ខេត្តបាត់ដំបង។",
+				"នេះមាន",
+				"''",
+				"'៥",
+				"''",
+				"'ភូមិ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"'",
+				"",
+				"s r o k ʔ a e k p n u m",
+				"kʰ e e t b a t d ɑ m b ɑ ŋ",
+				"n i h m i e n",
+				"",
+				"ʔ",
+				"",
+				"pʰ u u m i ʔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"កណ្ដាល",
+				"=="
+			],
+			"ner_tags": [
+				5,
+				0
+			],
+			"epi_tokens": [
+				"k ɑ n d a a l",
+				"h ɑ m"
+			],
+			"epi_ner_tags": [
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"រាជ",
+				"សម្បត្តិ"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"r i e c",
+				"s ɑ m b a t"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				".kh"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"kʰ aː tʼ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"ស្រុកភ្នំស្រុក",
+				"''",
+				"'",
+				"ខេត្តបន្ទាយមានជ័យ។",
+				"ស្រុកនេះមាន៦ឃុំ៖៖"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"s r o k p n u m s r o k",
+				"",
+				"'",
+				"kʰ a e t b ɑ n t i e y m i e n c e a ʔ y ɑ ɑ",
+				"s r o k n i h m i e n ʔ l o m kʰ o m"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ទ្រឹស្តីបទមីកេល"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"t r ɨ h t ə y b ɑ t m i i k e e l"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"នេប៉ាល់",
+				"១",
+				"៣២១គ.ម"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"n e e p a l",
+				"l a m",
+				"ʔ a ʔ k ɔ ɔ m"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"រូបមន្តប្រេឆ្នៃដឺ"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"r u u p m ʊ ə n p r e e c n a y d ɨ ɨ"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ស្រុកបទុមសាគរ"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"s r o k p a ʔ t u m s a a k ɔ ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ខណ្ឌទួលគោក"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ ɑ n t u ə l k o o k"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកទ្រាំង",
+				"ខេត្តតាកែវ",
+				"មាន១១ភូមិ",
+				"។"
+			],
+			"ner_tags": [
+				5,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s r o k t r e a ŋ",
+				"kʰ a e t t a a k a e v",
+				"m i e n l a ʔ pʰ u u m i ʔ",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				5,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"អនុគមន៍ហ្គាំម៉ា"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"ʔ a ʔ n u k u m k o a m m a a"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ឃុំសំរោង"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ u m s ɑ m r o o ŋ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ប្រជុំរឿងព្រេងខ្មែរ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r ɑ c u m r ɨ ə ŋ p r e e ŋ k m a e"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ប្រាសាទបក្សីចាំក្រុង",
+				"ស្ថិតនៅកណ្តាលព្រៃស្រោងខាងឆេ្វងផ្លូវ",
+				"ភ្នំបាខែង",
+				"ប្រហែល១៥០ម៉ែត្រមានកាំជណ្តើរស្ថាបនា",
+				"ដោយថ្មបាយកៀ្រម",
+				"និងឥដ្ឋពណ៌‌ក្រហម។",
+				"នៅម្តុំប្រាសាទនេះ​ក៏មានប្រាសាទតូចៗមួយចំនួនទៀតកសាងអំពីឥដ្ឋ",
+				"ដែលខ្លះបាំងបាត់ដោយរុក្ខជាតិ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p r a a s a a t b a k s ə y c a m k r o ŋ",
+				"s tʰ ə t n a v k ɑ n t a a l p r a y s r a o ŋ cʰ e e ŋ c e e ŋ p l ə v",
+				"p n u m b a a kʰ a e ŋ",
+				"p r ɑ h a e l ʔ a e l ʔ a e t r ɑ m a a n k a m c ʊ ə n tʰ a ə n a a",
+				"d a o y t m e a ʔ b a a y k i ə m",
+				"n ɨ ŋ ʔ ə t p ʊ ə n k r ɑ h ɑ ɑ m",
+				"n ɨ v m t o m p r a a s a a t n i h k a a t t o u c ʔ a m n u ə y c ɑ m n u ə n t",
+				"d a e l k l a h b a ŋ b a t d a o y r o k c i e t"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"ស្រុកមង្គលបុរី",
+				"ខេត្តបន្ទាយមានជ័យ។",
+				"នេះមាន",
+				"'",
+				"''",
+				"១៧",
+				"''",
+				"'ភូមិ",
+				"។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"'",
+				"",
+				"s r o k m ʊ ə ŋ k ʊ ə l b o ʔ r i i",
+				"kʰ a e t b ɑ n t i e y m i e n c e a ʔ y ɑ ɑ",
+				"n i h m i e n",
+				"'",
+				"",
+				"l ɔ h",
+				"",
+				"pʰ u u m i ʔ",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ជប៉ុន"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"c e a ʔ p o n"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"យន្តការ៨ចំណុច",
+				"''",
+				"គណបក្សសម្ព័ន្ធដើម្បីប្រជាធិបតេយ្យ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"y ʊ ə n k a a c ɑ m n o c",
+				"",
+				"k e a ʔ n a p k s a m p o a n d a ə m b i i p r ɑ c i e tʰ i p t e e y"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"រីម",
+				"គីន"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"r i i m",
+				"k i i n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ខេត្តរតនគិរី"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"kʰ a e t t ɑ ɑ t ɑ ɑ n k i ʔ r i i"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"សារមន្ទីរទួលស្លែង"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"s a a r a ʔ m ʊ ə n t i i t u ə l s l a e ŋ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"គិតពីស្ដេចកន",
+				"ស្រីជេដ្ឋា",
+				"មកដល់",
+				"ព.ស",
+				"."
+			],
+			"ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k ɨ t p i i s d a c k ɑ ɑ n",
+				"s r ǝ y c e e t tʰ a a",
+				"m ɔ ɔ k d ɑ l",
+				"p ɔ ɔ h",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ជយវម៌្មទី៦",
+				"រឺ",
+				"ជយវម៌្មទី៧",
+				"(",
+				"តាមរៀង",
+				")"
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"c e a ʔ y e a ʔ v e a ʔ m e a ʔ t i i ʔ ə y",
+				"r ɨ ɨ",
+				"c e a ʔ y e a ʔ v e a ʔ m e a ʔ t i i ʔ u ʔ",
+				"(",
+				"t a a m r i ə ŋ",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ភ្នំពេញ"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"p n u m p ɨ ɲ"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"ក្រឡាពាសសួស",
+				"''",
+				"'",
+				"ប្រ.សតវត្សទី១៦",
+				"សម័យលង្វែកមាន"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"k r ɑ l a a p i e h s u ǝ h",
+				"",
+				"'",
+				"p r ɑ ɑ s a t v a t t i i l ə y",
+				"s a ʔ m a y l ʊ ə ŋ v a e k m i e n"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ប្រជុំរឿងព្រេងខ្មែរ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r ɑ c u m r ɨ ə ŋ p r e e ŋ k m a e"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ខេត្តកោះកុង"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ e e t k ɑ h k o ŋ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"សំណុំបើកបណ្តាញគឺជា",
+				"ARPANET",
+				"សញ្ញា",
+				"I",
+				"នៅ",
+				"NPL",
+				"អង់គ្លេស"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"s ɑ m n o m b a ə k b ɑ n t a a ɲ k ɨ ɨ c i e",
+				"a r p a n e t",
+				"s a ɲ ɲ a a",
+				"i",
+				"n ɨ v",
+				"ɛ n p i ə æ l",
+				"ʔ ɑ ŋ k l e e h"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ក្សត្រនៃកម្ពុជា"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k s a t n a y k a m p u c i e"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ប្រជុំរឿងព្រេងខ្មែរ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r ɑ c u m r ɨ ə ŋ p r e e ŋ k m a e"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ពហុកីឡដ្ឋាន​ជាតិ​អូឡាំពិក​​​​​",
+				"ភ្នំពេញ។",
+				"ពហុកីឡដ្ឋាន​មាន​លទ្ឋភាព​ទទួល​ទស្សនិកជន​បាន​ប្រមាណ​៥​ម៉ឺន​នាក់។",
+				"វា​ត្រូវ​បាន​គូរ​ប្លង់​ដោយ​ស្ថាបត្យករ​ខ្មែរ​ដ៏​ល្បី​គឺ​​លោក",
+				"វណ្ណ",
+				"មូលីវណ្ណ។"
+			],
+			"ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"p h o ʔ k i i l a t tʰ a a n c i e t ʔ o u l a m p ɨ k",
+				"p n u m p ɨ ɲ",
+				"p h o ʔ k i i l a t tʰ a a n m i e n l a t tʰ e a n n ɨ k c ʊ ə n b a a n b a",
+				"v i e t r ə v b a a n k o u p l ɑ ŋ d a o y k ə ɨ l a o k k ə ɨ l a o k",
+				"v o a n",
+				"m u u l i i v o a n"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ប្រាសាទតាព្រហ្ម"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"p r a a s a a t t a a p r ɔ ɔ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ស្ទឹងសៀមរាប",
+				"(",
+				"ខេត្តសៀមរាប",
+				")"
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"s t ɨ ŋ s i ǝ m r i e p",
+				"(",
+				"kʰ a e t s i ǝ m r i e p",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ឃុំរូងជ្រៃ"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ u m r u u ŋ c r e y"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"កំប្រុកព័ណ៌"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k ɑ m p r o k p o a n"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"សង្គ្រាមឥណ្ឌូចិនលើកទី១",
+				"''",
+				"'",
+				"(",
+				")",
+				"(",
+				"ក៏ត្រូវបានគេស្គាល់ដែរថាជា",
+				"'",
+				"''",
+				"ឥណ្ឌូចិន",
+				"''",
+				"'",
+				",",
+				"'",
+				"''",
+				"សង្គ្រាមប្រឆំាងបារំាង",
+				"''",
+				"'",
+				",",
+				"'",
+				"''",
+				"សង្គ្រាមបារំាងវៀតណាម",
+				"''",
+				"'",
+				",",
+				"'",
+				"''",
+				"សង្គ្រាម",
+				"ហ្រ្វំាងគុង-វៀតមិញ",
+				"''",
+				"'",
+				",",
+				"'",
+				"''",
+				"សង្គ្រាមឥណ្ឌូចិន",
+				"''",
+				"'",
+				",",
+				"'",
+				"''",
+				"សង្គ្រាមកខ្វក់",
+				"''",
+				"'",
+				"ក្នុងប្រទេសបារំាង",
+				",",
+				"ហើយ",
+				"'",
+				"''",
+				"សង្គ្រាមតស៊ូប្រឆំាងបារំាង",
+				"''",
+				"'",
+				"វៀតណាម",
+				")",
+				"បានធ្វើឡើងនៅក្នុងតំបន់ឥណ្ឌូចិន",
+				"គ្រប់គ្រងដោយប្រទេសបារាំង",
+				"បារំាងឥណ្ឌូចិន",
+				"ចាប់ពី",
+				"ថ្ងៃទី១៩",
+				"ខែធ្នូ",
+				"ឆ្នាំ",
+				"១៩៤៦",
+				"រហូតដល់",
+				"ថ្ងៃទី១",
+				"ខែសីហា",
+				"ឆ្នាំ១៩៥៤",
+				"រវាងភាគី",
+				"យោធាចេញច្បំាងឆ្ងាយបារំាងរបស់បារំាងប្រឆំាងបារំាង",
+				",",
+				"ដឹកនាំដោយ",
+				"បារំាង",
+				"គាំទ្រដោយទាហានជាតិវៀតណាមរបស់ស្តេចBảo",
+				"Đại",
+				"និងភាគីម្ខាងទៀតគឺ",
+				"វៀតមិញ",
+				",",
+				"ដឹកនាំដោយ",
+				"ហូជីមិញ",
+				"និង",
+				"Võ",
+				"Nguyên",
+				"Giáp។",
+				"ការប្រយុទ្ធភាគច្រើនមានទីតំាងនៅ",
+				"ទូនគីននៅវៀតណាមភាគខាងជើង",
+				"ទោះជាការប្រឆំាងគ្នាព័ទ្ធជុំវិញប្រទេសទំាងមូល",
+				"ហើយក៏លាតសន្ធឹងចូលដល់ជិតខាងនៃប្រទេសក្រោមអាណាព្យាបាលបារំាងឥណ្ឌូចិន",
+				"ឡាវ",
+				"និង",
+				"កម្ពជា។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"s ɑ ŋ k r i e m ʔ ə n d o u c ə n l ǝ ǝ k t i i",
+				"",
+				"'",
+				"(",
+				")",
+				"(",
+				"k ɑ ɑ t r ə v b a a n k e e h k o a l d a e tʰ a a c i e",
+				"'",
+				"",
+				"ʔ ə n d u u c ə n",
+				"",
+				"'",
+				",",
+				"'",
+				"",
+				"s ɑ ŋ k r i e m p r ɑ cʰ a ŋ b a a r a ŋ",
+				"",
+				"'",
+				",",
+				"'",
+				"",
+				"s ɑ ŋ k r i e m b a a r a ŋ v i ə t n a a m",
+				"",
+				"'",
+				",",
+				"'",
+				"",
+				"s ɑ ŋ k r i e m",
+				"r v a ŋ k u ŋ v i ə t m ɨ ɲ",
+				"",
+				"'",
+				",",
+				"'",
+				"",
+				"s ɑ ŋ k r i e m ʔ ə n d o u c ə n",
+				"",
+				"'",
+				",",
+				"'",
+				"",
+				"s ɑ ŋ k r i e m k ɑ k v ɑ k",
+				"",
+				"'",
+				"k n o ŋ p r ɑ t e e h b a a r a ŋ",
+				",",
+				"h a ǝ y",
+				"'",
+				"",
+				"s ɑ ŋ k r i e m e a ʔ s u u p r ɑ cʰ a ŋ b a a r a ŋ",
+				"",
+				"'",
+				"v i ə t n a a m",
+				")",
+				"b a a n t v ə ə l a ə ŋ n ɨ v k n o ŋ t ɑ m b ɑ n ʔ ʊ ə n d o u c ə",
+				"k r u p k r ɔ ɔ ŋ d a o y p r ɑ t e e h b a a r a ŋ",
+				"b a a r u m a a ŋ ʔ i n d o u c ə n",
+				"c a p p i i",
+				"t ŋ a y t i i",
+				"kʰ a e t n u u",
+				"c n a m",
+				"l a ʔ l a w",
+				"r ɔ h o u t d ɑ l",
+				"t ŋ a y t i i",
+				"kʰ a e s ə y h a a",
+				"c n a m l ɑ ɑ ʔ l ɑ ɑ",
+				"r ɔ v i e ŋ pʰ i e k i i",
+				"y o o tʰ i e c ə ɲ c b a ŋ c ŋ a a y b a a r a ŋ r ɑ b a ŋ b r a cʰ a",
+				",",
+				"d ə k n o a m d a o y",
+				"b a a r u m a a ŋ",
+				"k e a m t r ɔ d a o y t i e h a a n c i e t n a a m r ɔ b ɑ h s t a c b a o",
+				"d a j ˨ˀ˩ ʔ",
+				"n ɨ ŋ pʰ i e k i i m kʰ a a ŋ t i ə t k ɨ ɨ",
+				"v i ə t m ɨ ɲ",
+				",",
+				"d ə k n o a m d a o y",
+				"h o u c i i m ɨ ɲ",
+				"n ɨ ŋ",
+				"j ɔ ˨˩˦",
+				"ŋ w i ə ŋ ˧˧",
+				"j aː p ɔː",
+				"k a a p r ɑ y u t pʰ i e k c r a ə n m i e n t i i t ɑ ɑ ŋ n ɨ v",
+				"t u u n k i i n n ɨ v v i ə t n a a m pʰ i e k kʰ a a ŋ c ə ə ŋ",
+				"t ʊ ə h c i e k a a p r ɑ cʰ a ŋ k n i e p o u t c u m v ɨ ɲ p r ɑ t e e h",
+				"h a ǝ y k ɑ ɑ t s ɑ n c o u l d ɑ l c ɨ t kʰ a a ŋ n a a p r a ʔ t e e h",
+				"l a a v",
+				"n ɨ ŋ",
+				"k a m p e a ʔ c i e"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ជយវម៌្មទី១"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"c e a ʔ y e a ʔ v e a ʔ t i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"រស់",
+				"សេរីសុទ្ធា"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"r ʊ ə h",
+				"s e e r i i s o t"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ឃុំសន្តិភាព"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"kʰ u m s ɑ n t e ʔ pʰ i e p"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ឦឝានវម៌្មទី២"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"ʔ ǝ v i e n v o a m t i i ʔ ɑ ɑ"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ឈីលី"
+			],
+			"ner_tags": [
+				0,
+				5
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"cʰ i i l i i"
+			],
+			"epi_ner_tags": [
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"តំបន់វាលរាប",
+				"៖",
+				"(",
+				"ភ្នំពេញ",
+				"កណ្ដាល",
+				"កំពង់ចាម",
+				"ស្វាយរៀង",
+				"ព្រៃវែង",
+				"និង​តាកែវ",
+				")",
+				"ប្រមូល​ផ្ដុំ​ប្រជាជន​ចំនួន",
+				"៥",
+				"៨៩៨",
+				"៣០៥នាក់",
+				"ស្មើនឹង",
+				"៥១",
+				",",
+				"៥៧",
+				"%",
+				"។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ɑ m b ɑ n v i e l r i e p",
+				"m a k k a ʔ",
+				"(",
+				"p n u m p ɨ ɲ",
+				"k ɑ n d a a l",
+				"k ɑ m p ʊ ə ŋ c a a m",
+				"s v a a y r i ə ŋ",
+				"p r e y v ɛ ɛ ŋ",
+				"n ɨ ŋ t a a k a e v",
+				")",
+				"p r ɑ m o u l p d o m p r ɑ c i e c ɑ n c ɑ m n u ə n",
+				"ʔ ə",
+				"r ɨ ʔ l ɨ ʔ",
+				"l ɑ ɑ n e a k",
+				"s m a ǝ n ɨ ŋ",
+				"ʔ ə l a ʔ",
+				",",
+				"ʔ ə ʔ",
+				"tʼ i m",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"កោះជ្វា",
+				"ស្ទឹងស៊ីលីវូងហូរចូល",
+				"ផ្នែកខាងជើងនៅចាការតាជា​ខ្ពង់រាបមួយដែលមានកំពស់ប្រហែល៨ម៉ែត្រពីផ្ទៃសមុទ្រ"
+			],
+			"ner_tags": [
+				5,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"k ɑ h c v i e",
+				"s t ɨ ŋ s i i l i i v u u ŋ h o u c o u l",
+				"p n a e k kʰ a a ŋ c ǝ ǝ ŋ n ɨ v c a a k a a r a t a a c i e p r a ʔ p r ɑ"
+			],
+			"epi_ner_tags": [
+				5,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"គាត",
+				"ឈន់"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"k i e t",
+				"cʰ ʊ ə n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"កូឡុំប៊ី"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"k o u l o m b i i"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ស",
+				"ខេង"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"s ɑ ɑ",
+				"kʰ e e ŋ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"សូយ៌្យវម៌្មទី២"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"s o u y e a ʔ v o a m t i i"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកស្វាយចេក",
+				"មាន",
+				"០៨",
+				"ឃុំ"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s r o k s v a a y c e e k",
+				"m i e n",
+				"l ə",
+				"kʰ u m"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ទ្រឹស្តីបទរូទ"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"t r ɨ h t ə y p a ʔ t r u u t"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"តាមរឿងនិទានតៗគ្នាទាក់ទងនឹងឈ្មោះកែប",
+				"គឺដើមឡើយមានស្តេចមួយ",
+				"អង្គព្រះនាម",
+				"សាគររាជ",
+				"ដែលមានមន្តអាគម​",
+				"ខ្លាំងពូកែបានប្រើសិល្ប៍សេកមន្ត",
+				"អង្គរធំ",
+				"ហើយបានលួចយកសេះសរបស់មេទ័ព",
+				"នោះមក",
+				"ជាមួយពលសេនាខ្លួនមួយចំនួន។",
+				"ពេលមេទ័ពផ្អើលឆោឡោដេញតាមចាប់ស្តេចសាគររាជ",
+				"និង",
+				"ពលសេនាក៏បានភៀស",
+				"ខ្លួនមកដល់ភូមិភាគនិរតីតំបន់ឆ្នេរសមុទ្រ។",
+				"ពេលឈប់សម្រាកនៅមាត់សមុទ្រ",
+				"ទ័ពដែលដេញតាមពីក្រោយក៏",
+				"មកដល់។",
+				"ដោយមានការភិតភ័យស្តេច",
+				"សាគររាជ",
+				"បានឡើងបំផាយសេះ",
+				"ប៉ុន្តែ",
+				"សេះសនោះក៏កញ្ជ្រោលឡើង",
+				"ធ្វើឱ្យព្រះអង្គធ្លាក់ពីលើសេះ",
+				"ឯកែបសេះក៏ធ្លាក់មក",
+				"ជាមួយនៅទីនោះដែរ។",
+				"ដោយទ័ពដេញតាមកាន់តែមកកៀក",
+				"ព្រះអង្គក៏ភិតភ័យ",
+				"ឡើងផាយសេះ",
+				"រត់ភៀសខ្លួនជាបន្តទៀត",
+				"ដោយទុក",
+				"ចោលកែបសេះនៅទីនោះ។",
+				"តំណមកគេក៏បានហៅ",
+				"ទីនោះឈ្មោះថា",
+				"កែបសេះ",
+				"ហើយយូរៗទៅក៏ហៅ",
+				"ខ្លីមកត្រឹមពាក្យ",
+				"“កែប”",
+				"រហូតដល់សព្វថ្ងៃនេះ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t a a m r ɨ ə ŋ n i ʔ t i e n t e a k t e a ŋ n ɨ ŋ c m ʊ ə ŋ k a e p",
+				"k ɨ ɨ d a ə m l a ə y m i e n s t a c m u ə y",
+				"ʔ ɑ ŋ k e a ʔ p r e a h n i e m",
+				"s a a k r ɔ r i e c",
+				"d a e l m i e n m ʊ ə n ʔ a a k u m",
+				"k l a ŋ p u u k a e b a a n p r a ə s e e k m ʊ ə n",
+				"ʔ ɑ ŋ k ɔ ɔ tʰ u m",
+				"h a ǝ y b a a n l u ə c y ɑ ɑ k s e h s ɑ ɑ r ɑ b ɑ h m e e t o a p",
+				"n ʊ ə h m ɔ ɔ k",
+				"c i e m u ə y p ʊ ə l s e e n i e k l u ə n m u ə y c ɑ m n u ə n",
+				"p e e l m e e t o a p ʔ a ǝ l cʰ a o l a o d ə ɲ t a a m c a p s t a c s a a k r",
+				"n ɨ ŋ",
+				"p ʊ ə l s e e n i e k ɑ ɑ b a a n pʰ i ə h",
+				"k l u ə n m e a k d ɑ l pʰ u u m i ʔ pʰ i e k n i i t ə y b ɑ n c n e e r",
+				"p e e l cʰ u p s ɑ m r a a k n ɨ v m o a t s a ʔ m o t",
+				"t o a p d a e l d ə ɲ t a a m p i i k r a o y k ɑ ɑ",
+				"m ɔ ɔ k d ɑ l",
+				"d a o y m i e n k a a pʰ i t pʰ e y s t a c",
+				"s a a k r ɔ r i e c",
+				"b a a n l a ə ŋ b ɑ m pʰ a a y s e h",
+				"p o n t a e",
+				"s e h s a ʔ n ʊ ə h k ɑ ɑ k ɑ ɲ c r o o l l a ə ŋ",
+				"t v ə ə ʔ a o y p r e a h ʔ ɑ ŋ k e a ʔ p i i l ǝ ǝ s e h",
+				"ʔ a e k a e p s e h k a t l e a k m ɔ ɔ k",
+				"c i e m u ə y n ɨ v t i i n u h d a e r",
+				"d a o y t o a p d ə ɲ t a a m k a n t a e m k a k i ə k",
+				"p r e a h ʔ ɑ ŋ k ɑ ɑ pʰ ɨ t pʰ e y",
+				"l a ə ŋ pʰ a a y s e h",
+				"r ʊ ə t pʰ i ə h k l u ə n c i e b ɑ n t i ə t",
+				"d a o y t u k",
+				"c a o l k a e p s e h n ɨ v t i i n u h",
+				"t ɑ m n ɑ ɑ m e a k k e e k ɑ ɑ b a a n h a v",
+				"t i i n u h c m ʊ ə h tʰ a a",
+				"k a e p s e h",
+				"h a ǝ y y u u t ɨ v k ɑ ɑ h a v",
+				"k l i i m e a ʔ k a ʔ t r ə m p i e k",
+				"k a e p",
+				"r ɔ h o u t d ɑ l s a p v a t ŋ a y n e h"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"ក្រម​ង៉ុយ",
+				"''",
+				"'​គឺជា​កវី​ម្នាក់​ដែល​មិន​សរសេរ​នូវ​កំណាព្យកាព្យឃ្លោង​ដែល​លោក​ច្រៀង​នោះ​",
+				"ឡើយ",
+				"។",
+				"ស្នាដៃ​របស់​លោក​ដែល​គង់វង្ស​មកដល់​សព្វថ្ងៃនេះ​កើតមានឡើង​ដោយ​ការអញ្ជើញ​",
+				"ភ្នំពេញ",
+				"ហើយ​ធ្វើ​ការកត់ត្រា​ទុក",
+				"។​"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"k r ɑ m ŋ o y",
+				"",
+				"k ɨ ɨ c i e k v i i m n e a k d a e l m ɨ n s ɑ ɑ p k ɑ m n a o p k r i e ŋ n",
+				"l a ə y",
+				"ɔ",
+				"s n a a d a y b ɑ h l o o k d a e l k ʊ ə ŋ m e a k d ɑ l s a p c ə ə ɲ c",
+				"p n u m p ɨ ɲ",
+				"h a ǝ y t v ə ə k a t t r a a t u k",
+				"ɑ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"កូរ៉េខាងជើង"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"k o u r e e kʰ a a ŋ c ə ə ŋ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"១៩៨១",
+				"អគ្គលេខាធិការ",
+				"នៃក្រសួងការបរទេស",
+				",",
+				"ប្រធានខុទ្ទកាល័យផ្ទាល់របស់",
+				"សម្ដេច",
+				"ហ៊ុន",
+				"សែន",
+				"ក្រសួងការបរទេស"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"r o a",
+				"ʔ a k k e a ʔ l e e kʰ a a tʰ i ʔ k a a",
+				"n e y k r ɑ s u ə ŋ k a a r ɑ b ɑ ɑ t e e h",
+				",",
+				"p r ɑ tʰ i e n kʰ o t k a a l a y p t o a l r ɔ b ɑ h",
+				"s ɑ m d a c",
+				"h u n",
+				"s a e n",
+				"k r ɑ s u ə ŋ k a a r ɑ b ɑ ɑ t e e h"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ហេង",
+				"សំរិន"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"h e e ŋ",
+				"s ɑ m r ə n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"មន្ត្រី",
+				"''",
+				"'កិរ្តិបណ្ឌិត",
+				"''",
+				"'",
+				"រជ្ជកាល",
+				"(",
+				"ជយវម៌្មទី៦",
+				")",
+				"ជយវម៌្មទី៦",
+				"បាននាំយកអត្ថបទបុរាណពីដែនដីបរទេសចូលមកកម្ពុជទេឝ",
+				"យ៉ាងណាក្ដីវាមិនបាននៅគង់វង្សទេ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ʊ ə n t r ə y",
+				"",
+				"k e ʔ r t e ʔ b ɑ n d ɨ t",
+				"",
+				"'",
+				"r ʊ ə c c e a ʔ k a a l",
+				"(",
+				"c e a ʔ y e a ʔ v e a ʔ m e a ʔ t i i ʔ ə y",
+				")",
+				"c e a ʔ y e a ʔ v e a ʔ m e a ʔ t i i ʔ ə y",
+				"b a a n n e a m y e a k ʔ a t tʰ a ʔ p a t b o ʔ r i e n p i i d a e n d i i b r",
+				"y a a ŋ n a a k d ǝ y v i e m ɨ n b a a n n ɨ v k ʊ ə ŋ v ʊ ə ŋ t e e"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"In",
+				"November",
+				"2010",
+				",",
+				"Microsoft",
+				"announced",
+				"that",
+				"the",
+				"OpenStreetMap",
+				"community",
+				"could",
+				"use",
+				"Bing",
+				"vertical",
+				"aerial",
+				"imagery",
+				"as",
+				"a",
+				"backdrop",
+				"in",
+				"its",
+				"editors",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"i n",
+				"n o v e m b e r",
+				"t r̩ n t",
+				",",
+				"m i k r o s o f t",
+				"ɐ n ˈa ʊ n s t",
+				"tʰ a t",
+				"tʰ ɛː",
+				"ˈo p ə n s t r ˈeː t m ˈa p",
+				"k ɔ m j uː n i t iː",
+				"k uː l d",
+				"ˈu s e",
+				"b i ŋ",
+				"v e r t i k a l",
+				"eː r i ɑ l",
+				"i m aː d͡ʒ ɛ r iː",
+				"a s",
+				"aː",
+				"b a k d r ɔ p",
+				"i n",
+				"i t ɛ s",
+				"e d i t ɔ r s",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"ប្រាសាទមេបុណ្យខាងលិច",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p r a a s a a t m e e b o n kʰ a a ŋ l ɨ c",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ប្រជុំរឿងព្រេងខ្មែរ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r ɑ c u m r ɨ ə ŋ p r e e ŋ k m a e"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ថ្ងៃ",
+				"២២",
+				"ធ្នូ",
+				"២០០៨",
+				"នរោត្តម-សីហមុនី",
+				"កែប",
+				"ប៉ៃលិន",
+				"ព្រះសីហនុទៅជាខេត្ត",
+				"ដូចគ្នា",
+				"ហើយកែសម្រួលព្រំដែនខេត្តជាច្រើនត្រង់ចំណុចខ្លះ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				5,
+				5,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ŋ a y",
+				"ʔ ə ʔ",
+				"t n u u",
+				"ʔ a ʔ l a w",
+				"n e a ʔ r o o t m e a ʔ s ə y h a ʔ m o a ʔ n i i",
+				"k a e p",
+				"p a y l ɨ n",
+				"p r e a h s ə y h a ʔ n u ʔ t ɨ v c i e kʰ a e t",
+				"d o u c k n i e",
+				"h a ǝ y k a e s a m r u ə l p r u m d a e n kʰ e e t c i e c r a ŋ c ɑ m n o c k"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				5,
+				5,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"''",
+				"ស្រុកមង្គលបុរី",
+				"ខេត្តបន្ទាយមានជ័យ។",
+				"នេះមាន",
+				"'",
+				"''",
+				"១៣",
+				"''",
+				"'ភូមិ",
+				"។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"'",
+				"",
+				"s r o k m ʊ ə ŋ k ʊ ə l b o ʔ r i i",
+				"kʰ a e t b ɑ n t i e y m i e n c e a ʔ y ɑ ɑ",
+				"n i h m i e n",
+				"'",
+				"",
+				"l ɑ ɑ",
+				"",
+				"pʰ u u m i ʔ",
+				"ɔ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ស្រុកកំពង់ស្វាយ"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"s r o k k ɑ m p ʊ ə ŋ s v a a y"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"សំទុះប៉ះ"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"s ɑ m t u h p a h"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ខៀវ",
+				"ពណ្ណារី"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"kʰ i ə v",
+				"p ʊ ə n n a a r i i"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"ប្រាសាទមេបុណ្យខាងកើត"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"p r a a s a a t m e e b o n kʰ a a ŋ k a ə t"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ចាន់",
+				"ស៊ី",
+				"(",
+				"1932–1984",
+				")",
+				"''Chairman",
+				"of",
+				"the",
+				"Council",
+				"of",
+				"Ministers",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"c a n",
+				"s i i",
+				"(",
+				"ɛ m ɛ s ɛ r ɛ k ɛ ɒ",
+				")",
+				"t ʃ eː r m ɑ n",
+				"ɔ f",
+				"tʰ ɛː",
+				"k u n s i l",
+				"ɔ f",
+				"m i n i s t ɛ r s",
+				""
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"នួន",
+				"ជា"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"n u ə n",
+				"c i e"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ក្រុមបាល់ទាត់ជម្រើសជាតិកម្ពុជា",
+				"អាយុក្រោម២៣ឆ្នាំ"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"k r o m b a l t o a t c u m r a ə h c i e t k a m p u c i e",
+				"ʔ a a y u k r a o m ʔ a o c n a m"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"ជយវម៌្មទី៩"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"c e a ʔ y e a ʔ v e a ʔ t i i"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"ប្រសិនបើ",
+				"លោកអ្នកធ្វើ",
+				"ដំណើររយៈពេលខ្លីទៅ",
+				"ខេត្តកំពង់ធំ",
+				"អ្នកអាចធ្វើដំណើរបានតាមរថយន្តឈ្នួលបាន​",
+				"ដោយចេញដំណើរពីផ្សារថ្មី",
+				"ប៉ុន្តែវាពុំសូវមានសុវត្តិភាព",
+				"ដូចការ",
+				"ធ្វើដំណើរតាមរថយន្តក្រុងនោះទេ។"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p r ɑ s ə n b a ə",
+				"l o o k n e a k t v ə ə",
+				"d ɑ m n a ə r e a ʔ y e a ʔ p e e l k l i i t ɨ v",
+				"kʰ a e t k ɑ m p ʊ ə ŋ tʰ u m",
+				"n e a k ʔ a a c t v ə ə d ɑ m n a ə n t a a m r ɑ tʰ y ʊ ə n c n u ə l",
+				"d a o y c ə ɲ d ɑ m n a ə p i i p s a a r a t m ə y",
+				"p o n t a e v i e p u m s ə v m i e n s o ʔ v o t pʰ i e p",
+				"d o u c k a a",
+				"t v ə ə d ɑ m n a ə r e a ʔ t a a m r ʊ ə t y ʊ ə ŋ n ʊ ə ŋ t e e"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"កំពស់ត្រីកោណ"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k ɑ m p ʊ ə h t r ə y k a o n"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ព្រះនាងមហាបជាបតិគោតមី"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"p r e a h n i e ŋ m ɔ h a a p c i e p t e ʔ k o o t m i i"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"បញ្ជូនបន្ត",
+				"ធរណីន្ទ្រវម៌្មទី២"
+			],
+			"ner_tags": [
+				0,
+				1
+			],
+			"epi_tokens": [
+				"b ɑ ɲ c u u n b ɑ n",
+				"tʰ e a ʔ n i i n t r ɔ v o a m t i i ʔ"
+			],
+			"epi_ner_tags": [
+				0,
+				1
+			]
+		},
+		{
+			"tokens": [
+				"សហរដ្ឋអាមេរិក"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"s a ʔ h a t ʔ a a m e e r ɨ k"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"ខេត្តតាកែវ",
+				"មានពីគឺ៖"
+			],
+			"ner_tags": [
+				5,
+				0
+			],
+			"epi_tokens": [
+				"kʰ a e t t a a k a e v",
+				"m i e n p i i k ɨ ɨ"
+			],
+			"epi_ner_tags": [
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"ប្តូរទីតាំង",
+				"កូស៊ីនុស"
+			],
+			"ner_tags": [
+				0,
+				3
+			],
+			"epi_tokens": [
+				"p t o u t i i t a ŋ",
+				"k o u s i i n u h"
+			],
+			"epi_ner_tags": [
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"ទស្សន​វិស័យ​នៃ​អាជ្ញាធរ​ជាតិ​ទទួល​បន្ទុក​កិច្ចកា​រអភិវឌ្ឍន៍បច្ចេក​វិទ្យាគមនា​គមន៍ព័ត៌មាន​វិទ្យា",
+				"គឺជា​អនុ​សាសន៍​ដ៏​ខ្ពង់​ខ្ពស់​របស់​សម្តេច",
+				"អគ្គ​មហា​សេនា​បតី​តេជោ",
+				"ហ៊ុន",
+				"សែន",
+				"បាន​ថ្លែង​នៅ​ក្នុង​សន្និ​សិទ្ធ​សារ​ព័ត៌​មាន",
+				"Asian",
+				"Wall",
+				"Street",
+				"កាល​ពី​ថ្ងៃ​ទី",
+				"៣១",
+				"ខែ​កក្កដា",
+				"ឆ្នាំ​១៩៩៩"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ʊ ə h s ɑ n v i ʔ s a y n a y ʔ a a c ʔ a a c c i e t t u k k a a ʔ a ʔ p",
+				"k ɨ ɨ c i e ʔ a ʔ n u ʔ k p ʊ ə h r ɔ b ɑ h s ɑ m t a c",
+				"ʔ a k k e a ʔ h a a s e e n i e b ɑ t e e c o o",
+				"h u n",
+				"s a e n",
+				"b a a n t l a e ŋ n ɨ v k n o ŋ s ə n s a t p o a n",
+				"a s ˈi a n",
+				"w a l",
+				"s t r eː t",
+				"k a a l p i i t ŋ a y t i i",
+				"l a ʔ",
+				"kʰ a e k k k ɑ ɑ d a a",
+				"c n a m l ɑ ɑ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	]
+}
