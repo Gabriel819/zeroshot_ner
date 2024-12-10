@@ -1,0 +1,11053 @@
+{
+	"id_mapping": {
+		"0": "O",
+		"1": "B-PER",
+		"2": "I-PER",
+		"3": "B-ORG",
+		"4": "I-ORG",
+		"5": "B-LOC",
+		"6": "I-LOC"
+	},
+	"validation": [
+		{
+			"tokens": [
+				"Bagtyýarlyk-Lebap"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"b ˌɑ ʁ t ɯ j ˌɑ r ɫ ɯ q l ˈe β ɑ p"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Har­kiw"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"x ˈɑ r k ˈi β"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Kinonyň",
+				"sazyny",
+				"meşhur",
+				"kompozitorymyz",
+				"Nury",
+				"Halmämmedow",
+				"ýazdy",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k i n ˈo n ʊ ŋ",
+				"θ ɑ ð ˈɯ n ɯ",
+				"m ˈe ʃ x ʊ r",
+				"q ˌo m p o ð ˌi t o r ˈʊ m ʊ ð",
+				"n ˈʊ r ʊ",
+				"x ˌɑ ɫ m æ m m ˈe d o β",
+				"j ˈɑ ð ð ɯ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fath",
+				"Aly"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"f ˌɑ t h",
+				"ˈɑ ɫ ɯ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Awtory",
+				"Beýik",
+				"Saparmyrat",
+				"Turkmenbaşy",
+				"-",
+				"Ruhnama",
+				"Turkmenbaşy",
+				"tarapyndan",
+				"ýazylan",
+				"kitap",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"o β t ˈo r ʊ",
+				"b ˈe j i k",
+				"θ ˌɑ p ɑ r m ˈɯ r ɑ t",
+				"t ˌʊ r k m e n m ˈɑ ʃ ɯ",
+				"-",
+				"r ʊ x n ˈo m o",
+				"t ˌʊ r k m e n m ˈɑ ʃ ɯ",
+				"t ˌɑ r ɑ p ˈɯ n n ɑ n",
+				"j ɑ ð ˈɯ ɫ ɑ n",
+				"k ˈi t ɑː p",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Daniel",
+				"Defo"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"d ˈɑ n iː l",
+				"d ˈe f ˌo"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Bagration"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"b ˌɑ ʁ r ɑ t ˈi o n"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Jeýms",
+				"Joýs"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒ ˈe j m θ",
+				"d͡ʒ ˈo j θ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Sakar",
+				"etraby"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"θ ˈɑ q ɑ r",
+				"e t r ˈɑ β ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ebumüslim",
+				"Horasan",
+				"''",
+				"'",
+				"hazirki",
+				"wagtda",
+				"Eýran",
+				"Ýokary",
+				"Ligada",
+				"basleşige",
+				"dowam",
+				"edyar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ˌe β ʊ m ˈø θ l ø m",
+				"x o r ˈo θ o n",
+				"",
+				"'",
+				"x ɑ ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"ˈe j r ɑ n",
+				"j o q ˈo r ʊ",
+				"l i ʁ ˈɑ d ɑ",
+				"b ˌɑ θ l e ʃ ˈi ʁ e",
+				"d ˈo β ɑː m",
+				"e d ˈɯ ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ýunus",
+				"Emre",
+				"(",
+				"1240-1320",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"j ˈʊ n ʊ θ",
+				"ˈe m r e",
+				"(",
+				"ˌe n t o ˈo r θ θ",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Boleslaw",
+				"Prus"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"b o ɫ ˈe θ ɫ o β",
+				"p r ˈʊ θ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Sloweniýa"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"θ ɫ ˌo β e n ˈi j ɑ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Gurban",
+				"Berdiýew",
+				"(",
+				"1999",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ ˈʊ r β ɑː n",
+				"b e r d ˈi j œ β",
+				"(",
+				"ˈɛ β t",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Halkara",
+				"nebit",
+				"we",
+				"gaz",
+				"uniwersiteti",
+				"''",
+				"'",
+				"Aşgabat",
+				"şäherinde",
+				"ýerleşýän",
+				"Türkmen",
+				"nebit-gaz",
+				"döwlet",
+				"kompaniýasynyñ",
+				"iñ",
+				"esasy",
+				"bilim",
+				"merkezlerinden",
+				"biridir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"x ɑ ɫ q ˈɑː r ɑ",
+				"n ˈe β i t",
+				"β ˈe",
+				"ɡ ˈɑ ð",
+				"ˌʊ n i β ˌe r θ i t ˈe t i",
+				"",
+				"'",
+				"ɑ ʃ ʁ ˈɑ β ɑ t",
+				"ʃ ˌæ h e r ˈi n n e",
+				"j e r l ˈe ʃ j æ n",
+				"t ˈø r k m œ n",
+				"n e β ˈi t ʁ ɑ ð",
+				"d ˈœ β l œ t",
+				"q ˌo m p o n ˌi j ɑ θ ˈɯ n ɯ n",
+				"ˈiː n",
+				"e θ ˈɑː θ ɯ",
+				"b ˈi l i m",
+				"m ˌe r k e ð l e r ˈi n n e n",
+				"b i r ˈi d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ýagdaýy",
+				"düzetmek",
+				"üçin",
+				"Ýungingen",
+				"tewton",
+				"kawaleriýasynyň",
+				"ikinji",
+				"liniýasyny",
+				"söweşe",
+				"girizdi",
+				",",
+				"emma",
+				"polýaklar",
+				"hem",
+				"Ýagaýlonyň",
+				"baştutanlygyndaky",
+				"rezerwleri",
+				"herekete",
+				"geçirdiler",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"j ɑ ʁ d ˈɑ j ɯ",
+				"d ˌø ð œ t m ˈœ k",
+				"ˈø t͡ʃ ø n",
+				"j ʊ n ʁ ˈi n ʁ e n",
+				"t ˈœ β t o n",
+				"q ˌo β o ɫ ˌe r i j ɑ θ ˈɯ n ɯ ŋ",
+				"i k ˈi n d͡ʒ i",
+				"l ˌi n i j ɑ θ ˈɯ n ɯ",
+				"θ œ β ˈœ ʃ œ",
+				"ɡ i r ˈi ð ð i",
+				",",
+				"ˈe m m ɑː",
+				"p o ɫ j ˈɑ q ɫ ɑ r",
+				"h ˈe m",
+				"j ˌɑ ʁ ɑ j ɫ ˈo n ʊ ŋ",
+				"b ˌɑ ʃ t ʊ t ˌo n ɫ ʊ ʁ ɯ n d ˈɑː q ɯ",
+				"r ˌe ð e r β l ˈe r i",
+				"h ˌe r e k ˈe t e",
+				"ɡ ˌe t͡ʃ i r d ˈi l e r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Aşgabat",
+				"kinoteatry",
+				"''",
+				"'",
+				",",
+				"Aşgabat",
+				"şäheriniñ",
+				"Magtymguly",
+				"şaýoly",
+				"ugrynda",
+				"(",
+				"Köpetdag",
+				"stadiony",
+				"ýany",
+				")",
+				"ýerleşýän",
+				"kinoteatrdyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ɑ ʃ ʁ ˈɑ β ɑ t",
+				"k ˌi n o t e ˈɑ t r ɯ",
+				"",
+				"'",
+				",",
+				"ɑ ʃ ʁ ˈɑ β ɑ t",
+				"ʃ ˌæ h e r ˈi n i n",
+				"m ˌɑ ʁ t ɯ m ʁ ˈʊ ɫ ʊ",
+				"ʃ ɑ j ˈo ɫ ʊ",
+				"ʊ ʁ r ˈʊ n n o",
+				"(",
+				"k œ p ˈœ t d ɑ ʁ",
+				"θ θ ˌɑ d i ˈo n ʊ",
+				"j ˈɑː n ɯ",
+				")",
+				"j e r l ˈe ʃ j æ n",
+				"k ˌi n o t e ˈɑ t r d ɯ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jeýms",
+				"Madison",
+				"(",
+				"1751-1836",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d͡ʒ ˈe j m θ",
+				"m ɑ d ˈi θ o n",
+				"(",
+				"ˌe m ʃ ˈe r k ˈe θ",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Şwed",
+				"ýazyjysy",
+				"Astrid",
+				"Anna",
+				"Emiliýa",
+				"Lindgren",
+				"1907-nji",
+				"ýylyň",
+				"14-nji",
+				"noýabrynda",
+				",",
+				"Şwesiýanyň",
+				"Günortasyndaky",
+				"Wimmerbýu",
+				"atly",
+				"kiçeňräk",
+				"şäherçede",
+				",",
+				"fermeriň",
+				"maşgalasynda",
+				"dünýä",
+				"inipdir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ʃ β ˈe d",
+				"j ˌɑ ð ɯ d͡ʒ ˈɯ θ ɯ",
+				"ˈɑ θ θ r i d",
+				"ˈɑ n n ɑ",
+				"ˌe m i l ˈi j ɑ",
+				"l ˈi n n ʁ r e n",
+				"ˌe n t i ˈi n d͡ʒ i",
+				"j ˈɯ ɫ ɯ ŋ",
+				"r ˈɑː n d͡ʒ i",
+				"n ˌo j ɑ β r ˈɯ n n ɑ",
+				",",
+				"ʃ β ˌe θ i j ˈɑ n ɯ ŋ",
+				"ɡ ˌø n o r t ˌo θ ʊ n d ˈɑː q ɯ",
+				"β i m m ˈe r β j ʊ",
+				"ˈɑ t ɫ ɯ",
+				"k i t͡ʃ ˈe ŋ r æː k",
+				"ʃ ˌæ h e r t͡ʃ ˈe d e",
+				",",
+				"f ˌe r m ˈe r i ŋ",
+				"m ˌɑ ʃ ʁ ɑ ɫ ɑ θ ˈɯ n n ɑ",
+				"d ˈø n j æː",
+				"i n ˈi p d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistanyň",
+				"Döwlet",
+				"lukmançylyk",
+				"uniwersitety"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"d ˈœ β l œ t",
+				"ɫ ˌʊ q m o n t͡ʃ ˈʊ ɫ ɯ q",
+				"ˌʊ n i β ˌe r θ i t ˈe t ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mançester",
+				"Ýunaýted"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"m ɑ n t͡ʃ ˈe θ θ e r",
+				"j ʊ n ˈo j t e d"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				".so",
+				"-",
+				"Somali'nin",
+				"internet",
+				"kody",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"θ ˈo",
+				"-",
+				"θ ˌo m o ɫ ˈi n i n",
+				"i n t ˈe r n e t",
+				"q ˈo d ʊ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistanyň",
+				"çäginde",
+				"beýleki",
+				"döwletleriň",
+				"pullaryny",
+				"peýdalanmak",
+				"Türkmenistanyň",
+				"degişli",
+				"kanunçylyk",
+				"namalary",
+				"we",
+				"Türkmenistanyň",
+				"Merkezi",
+				"banky",
+				"kadalaýyn",
+				"namalary",
+				"bilen",
+				"kadalaşdyrylýar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"t͡ʃ æ ʁ ˈi n n e",
+				"b e j l ˈe k i",
+				"d ˌœ β l œ t l ˈœ r i ŋ",
+				"p ˌʊ ɫ ɫ o r ˈʊ n ʊ",
+				"p ˌe j d ɑ ɫ ɑ n m ˈɑ q",
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"d e ʁ ˈi ʃ l i",
+				"q ˌɑ n ʊ n t͡ʃ ˈʊ ɫ ʊ q",
+				"n ˌɑ m ɑ ɫ ˈɑ r ɯ",
+				"β ˈe",
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"m e r k ˈe ð i",
+				"b ˈɑ n q ɯ",
+				"q ˌɑ d ɑ ɫ ˈɑ j ɯ n",
+				"n ˌɑ m ɑ ɫ ˈɑ r ɯ",
+				"b ˈi l e n",
+				"q ˌɑ d ɑ ɫ ˌɑ ʃ d ɯ r ˈɯ ɫ j ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nýu-Ýork",
+				"şäheri"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"n j ˈʊ j o r k",
+				"ʃ æ h ˈe r i"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Sudan"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"θ ˈʊ d o n"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Gençlerbirliği",
+				"Sport",
+				"Topary",
+				"''",
+				"'",
+				"hazirki",
+				"wagtda",
+				"Türkiýe",
+				"Futbol",
+				"Ligasy'nda",
+				"basleşige",
+				"dowam",
+				"edyar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ɡ ˌe n t͡ʃ l e r β i r l ˈi j i",
+				"θ p ˈo r t",
+				"t o p ˈo r ʊ",
+				"",
+				"'",
+				"x ɑ ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"t ø r k ˈø j e",
+				"f ˌʊ t β o ɫ",
+				"l ˌi ʁ ɑ θ ˈɯ n n ɑ",
+				"b ˌɑ θ l e ʃ ˈi ʁ e",
+				"d ˈo β ɑː m",
+				"e d ˈɯ ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Gubadag",
+				"etraby"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"ɡ ʊ β ˈo d o ʁ",
+				"e t r ˈɑ β ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Soýuzdaş",
+				"güýçleriň",
+				"sag",
+				"ganatyny",
+				"bolsa",
+				",",
+				"Beýik",
+				"knýaz",
+				"Witautasyň",
+				"goşuny",
+				"saklaýardy",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"θ o j ˈʊ ð ð o ʃ",
+				"ɡ øː j t͡ʃ l ˈe r i ŋ",
+				"θ ˈɑ ʁ",
+				"ɡ ˌɑ n ɑ t ˈɯ n ɯ",
+				"b ˈo ɫ θ o",
+				",",
+				"b ˈe j i k",
+				"k n j ˈɑː ð",
+				"β ˌi t ɑ ʊ t ˈo θ ʊ ŋ",
+				"ɡ o ʃ ˈʊ n ʊ",
+				"θ ˌɑ q ɫ ɑ j ˈɑ r d ɯ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Robert",
+				"Bosch",
+				"GmbH"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"r ˈo β e r t",
+				"b ˈo θ χ",
+				"ʁ m b h ˈɑ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Norwegiýa"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"n ˌo r β e ʁ ˈi j ɑ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Babek",
+				"8",
+				"asyryň",
+				"ahyrynda",
+				"garyp",
+				"maşgalada",
+				"doglupdyr",
+				"."
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈɑ β e k",
+				"k ˈɑ",
+				"ɑ θ ˈɯ r ɯ ŋ",
+				"ˌɑ x ɯ r ˈɯ n n ɑ",
+				"ɡ ˈɑ r ɯ p",
+				"m ˌɑ ʃ ʁ ɑ ɫ ˈɑ d ɑ",
+				"d o ʁ ɫ ˈʊ p d ʊ r",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mihail",
+				"Zoşenko"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"m i h ˈɑ i l",
+				"ð o ʃ ˈe n q o"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bagtyýarlyk",
+				"etraby"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"b ˌɑ ʁ t ɯ j ˈɑ r ɫ ɯ q",
+				"e t r ˈɑ β ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Abdylla",
+				"ibn",
+				"Mübärek"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɑ β d ˈɯ ɫ ɫ ɑ",
+				"ˈi β n",
+				"m ø β ˈæ r œ k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Mao",
+				"Dun"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"m ˈɑ o",
+				"d ˈʊ n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Gazagystan"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ɡ ˌɑ ð ɑ ʁ ˈɯ θ θ ɑ n"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Ol",
+				"Fransiýanyň",
+				",",
+				"Italiýanyň",
+				",",
+				"Şweýsariýanyň",
+				",",
+				"Germaniýanyň",
+				",",
+				"Awstriýanyň",
+				",",
+				"Lihtenşteýniň",
+				"we",
+				"Sloweniýanyň",
+				"bir",
+				"bölegini",
+				"eýeleýär",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈo ɫ",
+				"f r ˌɑ n θ i j ˈɑ n ɯ ŋ",
+				",",
+				"ˌi t ɑ ɫ i j ˈɑ n ɯ ŋ",
+				",",
+				"ʃ β ˌe j θ ɑ r i j ˈɑ n ɯ ŋ",
+				",",
+				"ɡ ˌe r m ɑ n i j ˈɑ n ɯ ŋ",
+				",",
+				"ˌo β θ θ r i j ˈɑ n ɯ ŋ",
+				",",
+				"l ˌi h t e n ʃ t ˈe j n i ŋ",
+				"β ˈe",
+				"θ ɫ ˌo β e n i j ˈɑ n ɯ ŋ",
+				"b ˈi r",
+				"b ˌœ l œ ʁ ˈø n i",
+				"ˌe j e l ˈe j æː r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Halkyň",
+				"arasyndaky",
+				"gürrüňlere",
+				"görä",
+				",",
+				"ol",
+				"ölmeziniň",
+				"öň",
+				"ýanynda",
+				"hossarlaryna",
+				":",
+				"«Ölenimden",
+				"soň",
+				"meniň",
+				"jesedimi",
+				"Amyderýa",
+				"bilen",
+				"Watanyma",
+				"sary",
+				"akdyryp",
+				"goýberiň",
+				",",
+				"men",
+				"suw",
+				"bilen",
+				"baryp",
+				",",
+				"öz",
+				"dogduk",
+				"mekanymyň",
+				"topragyna",
+				"siňeýin»",
+				"diýip",
+				",",
+				"sargyt",
+				"edipdir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"x ˈɑ ɫ q ɯ ŋ",
+				"ˌɑ r ɑ θ ɯ n d ˈɑː q ɯ",
+				"ɡ ˌø r r ø ŋ l ˈœ r œ",
+				"ɡ ˈœ r æː",
+				",",
+				"ˈo ɫ",
+				"ˌœ l m œ ð ˈø n ø ŋ",
+				"ˈœ ŋ",
+				"j ɑː n ˈɯ n n ɑ",
+				"x ˌo θ θ o r ɫ ɑ r ˈɯ n ɑ",
+				":",
+				"ˌœ l œ n ˈø m n e n",
+				"θ ˈo ŋ",
+				"m ˈe n i ŋ",
+				"d͡ʒ ˌe θ e d ˈi m i",
+				"ˌɑ m ɯ d ˈe r j ɑ",
+				"b ˈi l e n",
+				"β ˌɑ t ɑ n ˈɯ m ɑ",
+				"θ ˈɑː r ɯ",
+				"ɑ q d ˈɯ r ɯ p",
+				"ɡ o j b ˈe r i ŋ",
+				",",
+				"m ˈe n",
+				"θ ˈʊ β",
+				"b ˈi l e n",
+				"b ˈɑ r ɯ p",
+				",",
+				"ˈœː ð",
+				"d ˈo ʁ d ʊ q",
+				"m ˌe k ɑ n ˈɯ m ɯ ŋ",
+				"t ˌo p r o ʁ ˈʊ n o",
+				"θ i ŋ ˈe j i n",
+				"d ˈi j i p",
+				",",
+				"θ ˈɑ r ʁ ɯ t",
+				"e d ˈi p d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistanda",
+				"administratiw",
+				"bölek",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ø θ θ ˈɑ n n ɑ",
+				"ˌɑ d m i n i θ θ r ˈɑ t i β",
+				"b ˈœː l œ k",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dünýä",
+				"edebiýatynyň",
+				"iň",
+				"belli",
+				"kyssaçylarynyň",
+				"biri",
+				",",
+				"beýik",
+				"rus",
+				"ýazyjysy",
+				"we",
+				"akyldary",
+				"Fýodor",
+				"Dostoýewskiýiň",
+				"ýazan",
+				"romany",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d ˈø n j æː",
+				"ˌe d e β ˌi j ɑ t ˈɯ n ɯ ŋ",
+				"ˈi ŋ",
+				"b ˈe l l i",
+				"q ˌɯ θ θ ɑ t͡ʃ ˌɯ ɫ ɑ r ˈɯ n ɯ ŋ",
+				"b ˈiː r i",
+				",",
+				"b ˈe j i k",
+				"r ˈʊ θ",
+				"j ˌɑ ð ɯ d͡ʒ ˈɯ θ ɯ",
+				"β ˈe",
+				"ˌɑ q ɯ ɫ ɫ ˈɑ r ɯ",
+				"f j ˌo d o r",
+				"d ˌo θ θ o j œ β θ k ˈi j i ŋ",
+				"j ˈɑ ð ɑ n",
+				"r o m ˈo n ʊ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mary"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"m ˈɑ r ɯ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Zigfrid",
+				"Lenz"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ð ˈi ʁ f r i d",
+				"l ˈe n ð"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Aman",
+				"Kekilow"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ˈɑ m ɑː n",
+				"k e k ˈi l o β"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Gökdepe"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ɡ œ k d ˈœ p œ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Norwegiýa"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"n ˌo r β e ʁ ˈi j ɑ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Sepahan",
+				"FK"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"θ e p ˈɑ x ɑ n",
+				"f k"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Aleksandr",
+				"Dýuma"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɑ ɫ ˈe k θ ɑ n n r",
+				"d j ˈʊ m o"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Nowak",
+				"Jokowiç"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"n ˈo β o q",
+				"d͡ʒ o q ˈo β i t͡ʃ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Paýtagt",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p ˈɑ j t ɑ ʁ t",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ebu",
+				"Jafer",
+				"Taberi",
+				"-",
+				"görnükli",
+				"taryhçy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈe β ʊ",
+				"d͡ʒ ˈɑ f ˌe r",
+				"t ɑ β ˈe r i",
+				"-",
+				"ɡ œ r n ˈø k l ø",
+				"t ɑ r ˈɯ x t͡ʃ ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Onore",
+				"de",
+				"Balzak"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"o n ˈo r e",
+				"d ˈe",
+				"b ˈɑ ɫ ð ɑ q"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Kastamonu",
+				"Uniwersiteti"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ˈɑ",
+				"q ˌɑ θ θ ɑ m ˈo n ʊ",
+				"ˌʊ n i β ˌe r θ i t ˈe t i"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Jon",
+				"F.",
+				"Kennedi"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒ ˈo n",
+				"f ˌɛ",
+				"k e n n ˈe d i"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenabat"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ˈɑ β ɑ t"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Ol",
+				"Pifagoryň",
+				"adyndan",
+				"gelip",
+				"çykýar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈo ɫ",
+				"p ˌi f ɑ ʁ ˈo r ʊ ŋ",
+				"ɑ d ˈɯ n n ɑ n",
+				"ɡ ˈe l i p",
+				"t͡ʃ ˈɯ q j ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Çehiýa",
+				",",
+				"Slowakiýa",
+				",",
+				"Awstriýa"
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"t͡ʃ e h ˈi j ɑ",
+				",",
+				"θ ɫ ˌo β o q ˈi j ɑ",
+				",",
+				"o β θ θ r ˈi j ɑ"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kayseri",
+				"Erciyesspor",
+				"Sport",
+				"Topary",
+				"''",
+				"'",
+				"hazirki",
+				"wagtda",
+				"Türkiýe",
+				"Futbol",
+				"Ligasy'nda",
+				"basleşige",
+				"dowam",
+				"edyar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"q ˌɑ ɯ θ ˈe r i",
+				"ˌe r t͡ʃ i j ˈe θ θ p o r",
+				"θ p ˈo r t",
+				"t o p ˈo r ʊ",
+				"",
+				"'",
+				"x ɑ ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"t ø r k ˈø j e",
+				"f ˌʊ t β o ɫ",
+				"l ˌi ʁ ɑ θ ˈɯ n n ɑ",
+				"b ˌɑ θ l e ʃ ˈi ʁ e",
+				"d ˈo β ɑː m",
+				"e d ˈɯ ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Senagat",
+				"Bank",
+				"''",
+				"'",
+				",",
+				"Türkmenistan'da",
+				"bir",
+				"bank",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"θ e n ˈɑ ʁ ɑ t",
+				"b ˈɑ n k",
+				"",
+				"'",
+				",",
+				"t ˌø r k m œ n ø θ θ ˈɑ n n ɑ",
+				"b ˈi r",
+				"b ˈɑ n k",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"2006-nji",
+				"ýylda",
+				"28035",
+				"ilata",
+				"eýe",
+				"bolan",
+				"bu",
+				"şäher",
+				"Gürgen",
+				",",
+				"Kümmet",
+				"Gowuz",
+				",",
+				"Marawadepe",
+				"ýolunyň",
+				"üstündedir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				6,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌœ t i θ ˈɛ n d͡ʒ i",
+				"j ˈɯ ɫ ɫ ɑ",
+				"ˈœ k t m ʃ",
+				"i l ˈɑ t ɑ",
+				"ˈe j e",
+				"b ˈo ɫ o n",
+				"b ˈʊː",
+				"ʃ ˈæ h e r",
+				"ɡ ˈø r ʁ œ n",
+				",",
+				"k ˈø m m œ t",
+				"ɡ ˈo β ʊ ð",
+				",",
+				"m ˌɑ r o β ɑ d ˈe p e",
+				"j o ɫ ˈʊ n ʊ ŋ",
+				"ˌø θ θ ø n n ˈœ d ø r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				6,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Köýtendag"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k œ j t ˈe n n ɑ ʁ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Siminşäher",
+				"''",
+				"'",
+				"(",
+				"Parsça",
+				":",
+				"سیمین",
+				"شهر",
+				")",
+				"Eýranyň",
+				"Türkmensähra",
+				"sebitinde",
+				",",
+				"Gülistan",
+				"welaýatynda",
+				"Türkmen",
+				"oturumly",
+				"bir",
+				"şäheridir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"θ ˌi m i n ʃ ˈæ h e r",
+				"",
+				"'",
+				"(",
+				"p ˈɑ r θ t͡ʃ ɑ",
+				":",
+				"s ˈiː m iː n",
+				"ʃ ˈə h ə r",
+				")",
+				"e j r ˈɑ n ɯ ŋ",
+				"t ˌø r k m œ n θ ˈæ h r ɑ",
+				"θ ˌe β i t ˈi n n e",
+				",",
+				"ɡ ø l ˈø θ θ ɑ n",
+				"β ˌe l ɑ j ɑ t ˈɯ n n ɑ",
+				"t ˈø r k m œ n",
+				"ˌo t ʊ r ˈʊ m ɫ ʊ",
+				"b ˈi r",
+				"ʃ ˌæ h e r ˈi d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Koreýa",
+				"Respublikasy"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"q o r ˈe j ɑ",
+				"r ˌe θ p ʊ β l i k ˈɑ θ ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Guam"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ɡ ˈʊ ɑ m"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistan",
+				"landşaftynyn",
+				"esasy",
+				"bolegini",
+				"meýdany",
+				"boýunça",
+				"Sahara",
+				"we",
+				"Gobi",
+				"çolluklerinden",
+				"son",
+				"dünýäde",
+				"uçunji",
+				"orny",
+				"eýeleýan",
+				"Garagum",
+				"çoli",
+				"tutýar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ˈø θ θ ɑː n",
+				"ɫ ˌɑ n n ʃ ɑ f t ˈɯ n ɯ n",
+				"e θ ˈɑː θ ɯ",
+				"b ˌo ɫ e ʁ ˈi n i",
+				"m e j d ˈɑː n ɯ",
+				"b o j ˈʊ n t͡ʃ o",
+				"θ ɑ x ˈɑ r ɑ",
+				"β ˈe",
+				"ɡ ˈo β i",
+				"t͡ʃ ˌo ɫ ɫ ʊ q l e r ˈi n n e n",
+				"θ ˈo n",
+				"d ø n j ˈæː d e",
+				"ʊ t͡ʃ ˈʊ n d͡ʒ i",
+				"ˈo r n ʊ",
+				"ˌe j e l ˈe j ɑ n",
+				"ɡ ɑ r ˈɑ ʁ ʊ m",
+				"t͡ʃ ˈo ɫ i",
+				"t ˈʊ t j ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tractor",
+				"Sazi",
+				"FK"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"t r ˈɑ t͡s t o r",
+				"θ ˈɑ ð i",
+				"f k"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Soltan",
+				"Sanjar",
+				"mowzeleýi"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"θ ˈo ɫ t o n",
+				"θ ˈɑ n d͡ʒ ɑ r",
+				"m ˌo β ð e l ˈe j i"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Hambarabat",
+				"''",
+				"'",
+				"(",
+				"Parsça",
+				":",
+				"خمبرآباد",
+				")",
+				"Eýranyň",
+				"Türkmensähra",
+				"sebiti",
+				",",
+				"Gülistan",
+				"welaýatynyň",
+				"Bender",
+				"Türkmen",
+				"etrabynyň",
+				"Merkez",
+				"etrapçasynyň",
+				"bir",
+				"obasydyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"x ˌɑ m m ɑ r ˈɑ β ɑ t",
+				"",
+				"'",
+				"(",
+				"p ˈɑ r θ t͡ʃ ɑ",
+				":",
+				"χ ˌə m b ɾ ˈɑː b ɑ d",
+				")",
+				"e j r ˈɑ n ɯ ŋ",
+				"t ˌø r k m œ n θ ˈæ h r ɑ",
+				"θ e β ˈi t i",
+				",",
+				"ɡ ø l ˈø θ θ ɑ n",
+				"β ˌe l ɑ j ɑ t ˈɯ n ɯ ŋ",
+				"b ˈe n n e r",
+				"t ˈø r k m œ n",
+				"ˌe t r ɑ β ˈɯ n ɯ ŋ",
+				"m ˈe r k e ð",
+				"ˌe t r ɑ p t͡ʃ ɑ θ ˈɯ n ɯ ŋ",
+				"b ˈi r",
+				"ˌo β o θ ˈʊ d ʊ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wiliam",
+				"Leýn",
+				"Kreýg"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"β i l ˈi ɑ m",
+				"l ˈe j n",
+				"k r ˈe j ʁ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"2011-2012-nji",
+				"ýyl",
+				"aralykda",
+				"MTS",
+				"Türkmenistan",
+				"ýapylanda",
+				",",
+				"Türkmenistanda",
+				"mobil",
+				"aragatnaşygy",
+				"üpjün",
+				"edýän",
+				"ýeke-täk",
+				"kompaniýa",
+				"bolupdyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌo t ˌe ˈo p iː d ˈe ˈe n d͡ʒ i",
+				"j ˈɯ ɫ",
+				"ˌɑ r ɑ ɫ ˈɯ q d ɑ",
+				"m θ θ",
+				"t ˌø r k m œ n ˈø θ θ ɑː n",
+				"j ˌɑ p ɯ ɫ ˈɑ n n ɑ",
+				",",
+				"t ˌø r k m œ n ø θ θ ˈɑ n n ɑ",
+				"m ˈo β i l",
+				"ˌɑ r ɑ ʁ ˌɑ t n ɑ ʃ ˈɯ ʁ ɯ",
+				"ø p d͡ʒ ˈø n",
+				"ˈe d j æː n",
+				"j e k ˈe - t æː k",
+				"q ˌo m p o n ˈi j ɑ",
+				"b o ɫ ˈʊ p d ʊ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Endrýu",
+				"Jekson",
+				"(",
+				"1767-1845",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈe n n r j ʊ",
+				"d͡ʒ ˈe k θ o n",
+				"(",
+				"ˌe m m e k ˈi ˈe m k ˈɑː ʃ",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dünýä",
+				"edebiýatynyň",
+				"iň",
+				"belli",
+				"kyssaçylarynyň",
+				"biri",
+				",",
+				"beýik",
+				"rus",
+				"ýazyjysy",
+				"we",
+				"akyldary",
+				"Fýodor",
+				"Dostoýewskiýiň",
+				"ýazan",
+				"romany",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d ˈø n j æː",
+				"ˌe d e β ˌi j ɑ t ˈɯ n ɯ ŋ",
+				"ˈi ŋ",
+				"b ˈe l l i",
+				"q ˌɯ θ θ ɑ t͡ʃ ˌɯ ɫ ɑ r ˈɯ n ɯ ŋ",
+				"b ˈiː r i",
+				",",
+				"b ˈe j i k",
+				"r ˈʊ θ",
+				"j ˌɑ ð ɯ d͡ʒ ˈɯ θ ɯ",
+				"β ˈe",
+				"ˌɑ q ɯ ɫ ɫ ˈɑ r ɯ",
+				"f j ˌo d o r",
+				"d ˌo θ θ o j œ β θ k ˈi j i ŋ",
+				"j ˈɑ ð ɑ n",
+				"r o m ˈo n ʊ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Çarlz",
+				"Dikkens"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"t͡ʃ ˈɑ r l ð",
+				"d ˈi k k e n θ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Bursaspor",
+				"Sport",
+				"Topary",
+				"''",
+				"'",
+				"hazirki",
+				"wagtda",
+				"Türkiýe",
+				"Futbol",
+				"Ligasy'nda",
+				"basleşige",
+				"dowam",
+				"edyar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"b ʊ r θ ˈo θ p o r",
+				"θ p ˈo r t",
+				"t o p ˈo r ʊ",
+				"",
+				"'",
+				"x ɑ ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"t ø r k ˈø j e",
+				"f ˌʊ t β o ɫ",
+				"l ˌi ʁ ɑ θ ˈɯ n n ɑ",
+				"b ˌɑ θ l e ʃ ˈi ʁ e",
+				"d ˈo β ɑː m",
+				"e d ˈɯ ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ol",
+				"baş",
+				"weziriň",
+				"maslahatyna",
+				"gulak",
+				"asyp",
+				",",
+				"kitabyny",
+				"gaýtadan",
+				"redaktirleýär",
+				"we",
+				"ony",
+				"1525-nji",
+				"ýylda",
+				"soltan",
+				"Ajaýyp",
+				"Süleýmana",
+				"hödürleýär",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈo ɫ",
+				"b ˈɑ ʃ",
+				"β e ð ˈi r i ŋ",
+				"m ˌɑ θ ɫ ɑ x ɑ t ˈɯ n ɑ",
+				"ɡ ˈʊ ɫ o q",
+				"ˈɑ θ ɯ p",
+				",",
+				"k ˌi t ɑ β ˈɯ n ɯ",
+				"ɡ ɑ j t ˈɑ d ɑ n",
+				"r ˌe d ɑ q t i r l ˈe j æː r",
+				"β ˈe",
+				"ˈo n ʊ",
+				"ˌe m m e θ ˈe n d͡ʒ ˈi",
+				"j ˈɯ ɫ ɫ ɑ",
+				"θ ˈo ɫ t o n",
+				"ɑ d͡ʒ ˈɑː j ɯ p",
+				"θ ˌø l œ j m ˈɑ n ɑ",
+				"h ˌœ d ø r l ˈœ j æː r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tebigaty",
+				"goramagyň",
+				"halkara",
+				"bileleşigi"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"t ˌe β i ʁ ˈɑ t ɯ",
+				"ɡ ˌo r o m ˈo ʁ ɯ ŋ",
+				"x ɑ ɫ q ˈɑː r ɑ",
+				"b ˌi l e l e ʃ ˈi ʁ i"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"HTTU",
+				"Aşgabat"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"h t t ˈʊ",
+				"ɑ ʃ ʁ ˈɑ β ɑ t"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Orta",
+				"Gündogar",
+				"tehniki",
+				"uniwersiteti"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ˈo r t o",
+				"ɡ ˌø n n o ʁ ˈo r",
+				"t e h n ˈi k i",
+				"ˌʊ n i β ˌe r θ i t ˈe t i"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Prezidentlige",
+				"Gurbanguly",
+				"Berdimuhamedow",
+				"ikinji",
+				"möhlete",
+				"gaýtadan",
+				"saýlandy",
+				"."
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p r ˌe ð i d e n t l ˈi ʁ e",
+				"ɡ ˌʊ r β o n ʁ ˈʊ ɫ ʊ",
+				"b ˌe r d i m ˌʊ x o m ˈe d o β",
+				"i k ˈi n d͡ʒ i",
+				"m œ h l ˈœ t œ",
+				"ɡ ɑ j t ˈɑ d ɑ n",
+				"θ ɑ j ɫ ˈɑ n n ɯ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nisa-Çandybil",
+				"FT"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"n ˌi θ ɑ t͡ʃ ɑ n n ˈɯ β i l",
+				"f t ˈe"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Nowak",
+				"Jokowiç"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"n ˈo β o q",
+				"d͡ʒ o q ˈo β i t͡ʃ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Jon",
+				"Adams"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒ ˈo n",
+				"ˈɑ d ɑ m θ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Paýtagt",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p ˈɑ j t ɑ ʁ t",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Makedoniýa",
+				"Respublikasy"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"m ˌɑ q e d o n ˈi j ɑ",
+				"r ˌe θ p ʊ β l i k ˈɑ θ ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Hakkari",
+				"''",
+				"'",
+				",",
+				"Türkiýe'nin",
+				"ili",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"x ɑ q q ˈɑ r i",
+				"",
+				"'",
+				",",
+				"t ˌø r k ø j ˈe n i n",
+				"ˈi l i",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Liwan"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"l ˈi β ɑː n"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Ngugi",
+				"Wa",
+				"Thiongo"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"n ʁ ˈʊː ʁ i",
+				"β ˈɑ",
+				"t h i ˈo n ʁ o"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Mali"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"m ˈɑ ɫ i"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Ýurduň",
+				"günortasyndaky",
+				"Tehas",
+				"bolsa",
+				"bu",
+				"ugurda",
+				"ikinji",
+				"orunda",
+				"durýar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"j ˈʊ r d ʊ ŋ",
+				"ɡ ˌø n o r t ˌo θ ʊ n d ˈɑː q ɯ",
+				"t ˈe x ɑ θ",
+				"b ˈo ɫ θ o",
+				"b ˈʊː",
+				"ʊ ʁ ˈʊ r d o",
+				"i k ˈi n d͡ʒ i",
+				"o r ˈʊ n n o",
+				"d ˈʊ r j ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Agamuhammet",
+				"han"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ˌɑ ʁ ɑ m ʊ x ˈo m m e t",
+				"x ˈɑ n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bu",
+				"ýerdäki",
+				"gala",
+				"1645-nji",
+				"ýylda",
+				"şwedler",
+				"tarapyndan",
+				"doly",
+				"diýen",
+				"ýaly",
+				"weýran",
+				"edilipdir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈʊː",
+				"j e r d ˈæː k ɪ",
+				"ɡ ˈɑ ɫ ɑ",
+				"ˌe n β ˈeː ˈɑː m ˈe d͡ʒ ˈe n d͡ʒ ˈi",
+				"j ˈɯ ɫ ɫ ɑ",
+				"ʃ β ˈe d l e r",
+				"t ˌɑ r ɑ p ˈɯ n n ɑ n",
+				"d ˈo ɫ ʊ",
+				"d ˈi j e n",
+				"j ˈɑː ɫ ɯ",
+				"β ˈe j r ɑː n",
+				"ˌe d i l ˈi p d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kardemir",
+				"Karabükspor"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"q ɑ r d ˈe m i r",
+				"q ˌɑ r ɑ β ˈø k θ p o r"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dünýä",
+				"edebiýatynyň",
+				"iň",
+				"belli",
+				"kyssaçylarynyň",
+				"biri",
+				",",
+				"beýik",
+				"rus",
+				"ýazyjysy",
+				"we",
+				"akyldary",
+				"Fýodor",
+				"Dostoýewskiýiň",
+				"ýazan",
+				"romany",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d ˈø n j æː",
+				"ˌe d e β ˌi j ɑ t ˈɯ n ɯ ŋ",
+				"ˈi ŋ",
+				"b ˈe l l i",
+				"q ˌɯ θ θ ɑ t͡ʃ ˌɯ ɫ ɑ r ˈɯ n ɯ ŋ",
+				"b ˈiː r i",
+				",",
+				"b ˈe j i k",
+				"r ˈʊ θ",
+				"j ˌɑ ð ɯ d͡ʒ ˈɯ θ ɯ",
+				"β ˈe",
+				"ˌɑ q ɯ ɫ ɫ ˈɑ r ɯ",
+				"f j ˌo d o r",
+				"d ˌo θ θ o j œ β θ k ˈi j i ŋ",
+				"j ˈɑ ð ɑ n",
+				"r o m ˈo n ʊ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"O'Genri"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"o ɡ ˈe n r i"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Rus",
+				"goşunyna",
+				"Pýotr",
+				"Bagration",
+				"baştutanlyk",
+				"edýärdi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"r ˈʊ θ",
+				"ɡ ˌo ʃ ʊ n ˈʊ n o",
+				"p j ˈo t r",
+				"b ˌɑ ʁ r ɑ t ˈi o n",
+				"b ˌɑ ʃ t ʊ t ˈo n ɫ ʊ q",
+				"e d j ˈæ r d i",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"HTTU",
+				"Aşgabat"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"h t t ˈʊ",
+				"ɑ ʃ ʁ ˈɑ β ɑ t"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Hazirki",
+				"wagtda",
+				"bu",
+				"flang",
+				"goragchy",
+				"we",
+				"yarymgoragchy",
+				"Interda",
+				"kapitanlyk",
+				"derejesini",
+				"berk",
+				"eyelap",
+				"dur",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"x ɑ ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"b ˈʊː",
+				"f ɫ ˈɑ n ʁ",
+				"ɡ o r ˈo ʁ t͡S ʊ",
+				"β ˈe",
+				"ˌɯ ɑ r ˌɯ m ʁ o r ˈo ʁ t͡S ʊ",
+				"i n t ˈe r d ɑ",
+				"q ˌɑ p i t ˈɑ n ɫ ɯ q",
+				"d ˌe r e d͡ʒ e θ ˈi n i",
+				"b ˈe r k",
+				"e j ˈe l ɑː p",
+				"d ˈʊː r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ol",
+				"Seutda",
+				"(",
+				"Ispaniýada",
+				")",
+				"doglyp",
+				",",
+				"Kordowada",
+				"okapdyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈo ɫ",
+				"θ e ˈʊ t d o",
+				"(",
+				"ˌi θ p ɑ n i j ˈɑ d ɑ",
+				")",
+				"d ˈo ʁ ɫ ʊ p",
+				",",
+				"q ˌo r d o β ˈo d o",
+				"o q ˈo p d ʊ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ömrüni",
+				"Türkmen",
+				"halysyna",
+				"bagyşlan",
+				"Nazjan",
+				"Niýazy",
+				"2010-njy",
+				"ýylyň",
+				"mart",
+				"aýynyň",
+				"26-nji",
+				"gününde",
+				"aradan",
+				"çykar",
+				"we",
+				"Kümmet",
+				"Gowuzyň",
+				"Akgaýa",
+				"gönamçylygynda",
+				"jaýlanar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"œ m r ˈø n ø",
+				"t ˈø r k m œ n",
+				"x ˌɑ ɫ ɯ θ ˈɯ n ɑ",
+				"b ɑ ʁ ˈɯ ʃ ɫ ɑ n",
+				"n ˈɑ ð d͡ʒ ɑ n",
+				"n i j ˈɑ ð ɯ",
+				"ˌœ t r i n d͡ʒ ˈɯ",
+				"j ˈɯ ɫ ɯ ŋ",
+				"m ˈɑ r t",
+				"ɑː j ˈɯ n ɯ ŋ",
+				"θ ˈœ β i",
+				"ɡ ø n ˈø n n œ",
+				"ɑ r ˈɑ d ɑ n",
+				"t͡ʃ ˈɯ q ɑ r",
+				"β ˈe",
+				"k ˈø m m œ t",
+				"ɡ o β ˈʊ ð ʊ ŋ",
+				"ɑ q ʁ ˈɑ j ɑ",
+				"ɡ ˌœ n ɑ m t͡ʃ ˌɯ ɫ ɯ ʁ ˈɯ n n ɑ",
+				"d͡ʒ ɑ j ɫ ˈɑ n ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Makaveli",
+				"Tha",
+				"Don",
+				"Tupac",
+				"Shakuryň",
+				"lakamydyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ˌɑ q ɑ β ˈe l i",
+				"t x ˈɑ",
+				"d ˈo n",
+				"t ˈʊ p o q",
+				"ʃ ɑ q ˈʊ r ʊ ŋ",
+				"ɫ ˌɑ q ɑ m ˈɯ d ɯ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistanda",
+				"bir",
+				"etrap",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ø θ θ ˈɑ n n ɑ",
+				"b ˈi r",
+				"ˈe t r ɑː p",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"test": [
+		{
+			"tokens": [
+				"Günorta",
+				"Afrika",
+				"Respublikasy"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɡ ø n ˈo r t o",
+				"ɑ f r ˌi k ɑ",
+				"r ˌe θ p ʊ β l i k ˈɑ θ ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mýanma"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"m j ˈɑ n m ɑ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				".kg"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k ʁ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Istiqlol",
+				"Tähran"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"i θ θ ˈi q ɫ o ɫ",
+				"t ˈæ h r ɑ n"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistan",
+				"Howayollary",
+				"paytagt",
+				"Aşgabady",
+				"Yewropa",
+				"we",
+				"Aziya",
+				"menzillerine",
+				"baglayar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ˈø θ θ ɑː n",
+				"x ˌo β o j o ɫ ɫ ˈo r ʊ",
+				"p ɑ ˈɯ t ɑ ʁ t",
+				"ˌɑ ʃ ʁ ɑ β ˈɑ d ɯ",
+				"ˌy œ β r ˈo p o",
+				"β ˈe",
+				"ɑ ð ˈi j ɑ",
+				"m ˌe n ð i l l e r ˈi n e",
+				"b ɑ ʁ ɫ ˈɑ j ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Roald",
+				"Dal"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"r ˈo ɑ ɫ ɫ",
+				"d ˈɑː ɫ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ol",
+				"goldaw",
+				"tapmak",
+				"maksady",
+				"bilen",
+				"kitabyny",
+				"Ýewropanyň",
+				"belli",
+				"syýasy",
+				"we",
+				"harby",
+				"işgärlerine",
+				"iberipdir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈo ɫ",
+				"ɡ ˈo ɫ ɫ o β",
+				"t ɑ p m ˈɑ q",
+				"m ɑ q θ ˈɑ d ɯ",
+				"b ˈi l e n",
+				"k ˌi t ɑ β ˈɯ n ɯ",
+				"j ˌœ β r o p ˈo n ʊ ŋ",
+				"b ˈe l l i",
+				"θ ɯ j ˈɑ θ ɯ",
+				"β ˈe",
+				"x ˈɑ r β ɯ",
+				"ˌi ʃ ʁ æ r l e r ˈi n e",
+				"ˌi β e r ˈi p d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Karel",
+				"Çapek"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"q ˈɑ r e l",
+				"t͡ʃ ˈɑ p e k"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"La",
+				"Masiýa",
+				"futbol",
+				"akademiýasy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɫ ˈɑ",
+				"m ɑ θ ˈi j ɑ",
+				"f ˌʊ t β o ɫ",
+				"ˌɑ q ɑ d ˌe m i j ˈɑ θ ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"FT",
+				"Rostow"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"f t ˈe",
+				"r ˈo θ θ o β"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Seýşel",
+				"Adalary"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"θ ˈe j ʃ e l",
+				"ˌɑ d ɑ ɫ ˈɑ r ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Barak",
+				"Obama"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"b ˈɑ r ɑ q",
+				"o β ˈo m o"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Reý",
+				"Bredberi"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"r ˈe j",
+				"b r e d β ˈe r i"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				".ru"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"r ˈʊ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"HTTU",
+				"Aşgabat"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"h t t ˈʊ",
+				"ɑ ʃ ʁ ˈɑ β ɑ t"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Togrul",
+				"beg"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"t ˈo ʁ r ʊ ɫ",
+				"b ˈe ʁ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistanyň",
+				"Merkezi",
+				"banky"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"m e r k ˈe ð i",
+				"b ˈɑ n q ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Garagalpagystan",
+				"respublikasinda",
+				"yerlesiyar",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ ˌɑ r ɑ ʁ ˌɑ ɫ p ɑ ʁ ˈɯ θ θ ɑ n",
+				"r ˌe θ p ʊ β l ˌi k ɑ θ ˈi n n ɑ",
+				"ˌy e r l e θ ˈi j ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ol",
+				"ýerde",
+				"häzirki",
+				"döwürde",
+				"Müsür",
+				"döwleti",
+				"ýerleşýär",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈo ɫ",
+				"j ˈe r d e",
+				"h æː ð ˈi r k i",
+				"d œ β ˈø r d œ",
+				"m ˈø θ ø r",
+				"d œ β l ˈœ t ø",
+				"j e r l ˈe ʃ j æː r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Al-Makdisi"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"ˌɑ ɫ m ɑ q d ˈi θ i"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				".mm"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ˌɛ m ˈe m"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Lihtenşteýn"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"l i h t ˈe n ʃ t e j n"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistan"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ˈø θ θ ɑː n"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Çaykur",
+				"Rizespor",
+				"Sport",
+				"Topary",
+				"''",
+				"'",
+				"hazirki",
+				"wagtda",
+				"Türkiýe",
+				"Futbol",
+				"Ligasy'nda",
+				"basleşige",
+				"dowam",
+				"edyar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"t͡ʃ ɑ ˈɯ q ʊ r",
+				"r i ð ˈe θ p o r",
+				"θ p ˈo r t",
+				"t o p ˈo r ʊ",
+				"",
+				"'",
+				"x ɑ ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"t ø r k ˈø j e",
+				"f ˌʊ t β o ɫ",
+				"l ˌi ʁ ɑ θ ˈɯ n n ɑ",
+				"b ˌɑ θ l e ʃ ˈi ʁ e",
+				"d ˈo β ɑː m",
+				"e d ˈɯ ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kilimanjaro"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"k ˌi l i m ɑ n d͡ʒ ˈɑ r o"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Sakar",
+				"etraby"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"θ ˈɑ q ɑ r",
+				"e t r ˈɑ β ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Aktokaý",
+				"obasy",
+				"Türkmeniň",
+				"beýik",
+				"akyldary",
+				"Magtymguly",
+				"pyragynyň",
+				"guburi",
+				"bilen",
+				"tanalýar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɑ q t ˈo q o j",
+				"o β ˈo θ ʊ",
+				"t ø r k m ˈœ n ø ŋ",
+				"b ˈe j i k",
+				"ˌɑ q ɯ ɫ ɫ ˈɑ r ɯ",
+				"m ˌɑ ʁ t ɯ m ʁ ˈʊ ɫ ʊ",
+				"p ˌɯ r ɑ ʁ ˈɯ n ɯ ŋ",
+				"ɡ ʊ β ˈʊ r i",
+				"b ˈi l e n",
+				"t ɑ n ˈɑ ɫ j ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Arap",
+				"dili"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ˈɑ r ɑ p",
+				"d ˈi l i"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Tähran"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"t ˈæ h r ɑ n"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Täçmämmed",
+				"Suhanguly1865nji",
+				"ýylda",
+				"Gökdepe",
+				"etrabynyñ",
+				"Ýangala",
+				"obasynda",
+				"eneden",
+				"bolýar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t æ t͡ʃ m ˈæ m m e d",
+				"θ ˌʊ x o n ʁ ˈʊ ɫ ʊ ɫ ˈʊ ɫ ʊ ɯ ɾ j ˈɑ β n d͡ʒ ˈ",
+				"j ˈɯ ɫ ɫ ɑ",
+				"ɡ œ k d ˈœ p œ",
+				"ˌe t r ɑ β ˈɯ n ɯ n",
+				"j ɑ n ʁ ˈɑ ɫ ɑ",
+				"ˌo β o θ ˈʊ n n o",
+				"e n ˈe d e n",
+				"b ˈo ɫ j ɑː r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ol",
+				"takmynan",
+				",",
+				"1733-nji",
+				"ýylda",
+				"Gürgen",
+				"derýasynyň",
+				"boýunda",
+				",",
+				"Hajygowşan",
+				"diýen",
+				"ýerde",
+				"eneden",
+				"dogulýar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈo ɫ",
+				"t ɑ q m ˈɯ n ɑ n",
+				",",
+				"ˌe m m e θ ˈe ˈɛ n d͡ʒ i",
+				"j ˈɯ ɫ ɫ ɑ",
+				"ɡ ˈø r ʁ œ n",
+				"d ˌe r j ɑ θ ˈɯ n ɯ ŋ",
+				"b o j ˈʊ n n o",
+				",",
+				"x ˌɑ d͡ʒ ɯ ʁ ˈo β ʃ o n",
+				"d ˈi j e n",
+				"j ˈe r d e",
+				"e n ˈe d e n",
+				"d o ʁ ˈʊ ɫ j ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Owganystan"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ˌo β ʁ o n ˈʊ θ θ ɑ n"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Biotehnologik",
+				"maglumatlar",
+				"milli",
+				"merkezi"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"b ˌi o t ˌe h n o ɫ ˈo ɡ i k",
+				"m ˌɑ ʁ ɫ ʊ m ˈo t ɫ o r",
+				"m ˈi l l i",
+				"m e r k ˈe ð i"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kelala",
+				"''",
+				"'",
+				"(",
+				"Parsça",
+				":",
+				"کلاله",
+				")",
+				"Eýranyň",
+				"Türkmensähra",
+				"sebitinde",
+				",",
+				"Gülistan",
+				"welaýatynda",
+				"Türkmen",
+				",",
+				"Pars",
+				"we",
+				"Zawullly",
+				"oturymly",
+				"bir",
+				"şäherdir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"k e l ˈɑ ɫ ɑ",
+				"",
+				"'",
+				"(",
+				"p ˈɑ r θ t͡ʃ ɑ",
+				":",
+				"k l ˈɑ l e",
+				")",
+				"e j r ˈɑ n ɯ ŋ",
+				"t ˌø r k m œ n θ ˈæ h r ɑ",
+				"θ ˌe β i t ˈi n n e",
+				",",
+				"ɡ ø l ˈø θ θ ɑ n",
+				"β ˌe l ɑ j ɑ t ˈɯ n n ɑ",
+				"t ˈø r k m œ n",
+				",",
+				"p ˈɑ r θ",
+				"β ˈe",
+				"ð o β ˈʊ ɫ ɫ ʊ",
+				"ˌo t ʊ r ˈʊ m ɫ ʊ",
+				"b ˈi r",
+				"ʃ æ h ˈe r d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Muş",
+				"(",
+				"il",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"m ˈʊ ʃ",
+				"(",
+				"ˈi l",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Barak",
+				"Obama",
+				"(",
+				"1961-",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈɑ r ɑ q",
+				"o β ˈo m o",
+				"(",
+				"ˈe n β ˈeː",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"William",
+				"Henry",
+				"Harrison",
+				"(",
+				"1773-1841",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"β i l l ˈi ɑ m",
+				"h ˈe n r ɯ",
+				"x ɑ r r ˈi θ o n",
+				"(",
+				"ˌe m m e m ˈɑː ɾ",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Bucaspor",
+				"''",
+				"'",
+				"häzirki",
+				"wagtda",
+				"Türkiýe",
+				"Futbol",
+				"Ligasy'nda",
+				"basleşige",
+				"dowam",
+				"edyär",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"b ʊ q ˈo θ p o r",
+				"",
+				"'",
+				"h æː ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"t ø r k ˈø j e",
+				"f ˌʊ t β o ɫ",
+				"l ˌi ʁ ɑ θ ˈɯ n n ɑ",
+				"b ˌɑ θ l e ʃ ˈi ʁ e",
+				"d ˈo β ɑː m",
+				"e d ˈɯ æː r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Peru",
+				"Birleşen",
+				"Milletler",
+				"Guramasynyň",
+				"we",
+				"onuň",
+				"beýleki",
+				"ähli",
+				"guramalarynyň",
+				"agzasydyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p ˈe r ʊ",
+				"b i r l ˈe ʃ e n",
+				"m i l l ˈe t l e r",
+				"ɡ ˌʊ r o m o θ ˈɯ n ɯ ŋ",
+				"β ˈe",
+				"ˈo n ʊ ŋ",
+				"b e j l ˈe k i",
+				"ˈæː h l i",
+				"ɡ ˌʊ r o m ˌo ɫ ɑ r ˈɯ n ɯ ŋ",
+				"ˌɑ ʁ ð ɑ θ ˈɯ d ɯ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ebu",
+				"Seýit",
+				"Mäneli"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ˈe β ʊ",
+				"θ ˈe j i t",
+				"m æ n ˈe l i"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Paul",
+				"Heýs"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"p ˈɑ ʊ ɫ",
+				"h ˈe j θ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ebu",
+				"Jafer",
+				"Taberi",
+				"-",
+				"görnükli",
+				"taryhçy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈe β ʊ",
+				"d͡ʒ ˈɑ f ˌe r",
+				"t ɑ β ˈe r i",
+				"-",
+				"ɡ œ r n ˈø k l ø",
+				"t ɑ r ˈɯ x t͡ʃ ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Polşa"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"p ˈo ɫ ʃ o"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Özünden",
+				"soň",
+				":",
+				"Alp",
+				"Arslan"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"œː ð ˈø n n œ n",
+				"θ ˈo ŋ",
+				":",
+				"ˈɑ ɫ p",
+				"ˈɑ r θ ɫ ɑ n"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"``",
+				"Belkiniň",
+				"powestleri",
+				"''",
+				"—",
+				"A.S.",
+				"Puşkin"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ˈə",
+				"b e l k ˈi n i ŋ",
+				"p ˌo β e θ θ l ˈe r i",
+				"",
+				"k ɑ ɾ ɴ",
+				"ˈɑː θ ɯ",
+				"p ˈʊ ʃ k i n"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Köneürgenç"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"k ˌœː n œ ˈø r ʁ œ n t͡ʃ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Ýungingeniň",
+				"wepat",
+				"bolmagyndan",
+				"we",
+				"tewton",
+				"goşunynyň",
+				"käbir",
+				"bölekleriniň",
+				"söweşi",
+				"dowam",
+				"etdirmekden",
+				"ýüz",
+				"öwreninden",
+				"soňra",
+				"Ordeniň",
+				"goşuny",
+				"uly",
+				"basga",
+				"düşüp",
+				"gaçyp",
+				"ugrady",
+				"."
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"j ˌʊ n ʁ i n ʁ ˈe n i ŋ",
+				"β ˈe p ɑ t",
+				"b ˌo ɫ m o ʁ ˈʊ n n ɑ n",
+				"β ˈe",
+				"t ˈœ β t o n",
+				"ɡ ˌo ʃ ʊ n ˈʊ n ʊ ŋ",
+				"k ˈæ β i r",
+				"b ˌœ l œ k l œ r ˈi n i ŋ",
+				"θ œ β ˈœ ʃ ø",
+				"d ˈo β ɑː m",
+				"ˌe t d i r m ˈe k d e n",
+				"j ˈø ð",
+				"ˌœ β r œ n ˈø n n e n",
+				"θ ˈo ŋ r o",
+				"o r d ˈe n i ŋ",
+				"ɡ o ʃ ˈʊ n ʊ",
+				"ˈʊ ɫ ʊ",
+				"b ˈɑ θ ʁ ɑ",
+				"d ˈø ʃ ø p",
+				"ɡ ˈɑ t͡ʃ ɯ p",
+				"ʊ ʁ r ˈo d ʊ",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Isa",
+				"Pygamber"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ˈi θ ɑ",
+				"p ɯ ʁ ˈɑ m m e r"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Gurbanguly",
+				"Berdimuhamedow"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɡ ˌʊ r β o n ʁ ˈʊ ɫ ʊ",
+				"b ˌe r d i m ˌʊ x o m ˈe d o β"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Ilkibaşda",
+				"şafiler",
+				"Bagdat",
+				"we",
+				"Kayirde",
+				"hereket",
+				"edipdirler",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌi l k i β ˈɑ ʃ d ɑ",
+				"ʃ ɑ f ˌi l e r",
+				"b ˈɑ ʁ d ɑ t",
+				"β ˈe",
+				"q ˌɑ ɯ ˈi r d e",
+				"h e r ˈe k e t",
+				"ˌe d i p d ˈi r l e r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Gurbanguly",
+				"Berdimuhamedow"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɡ ˌʊ r β o n ʁ ˈʊ ɫ ʊ",
+				"b ˌe r d i m ˌʊ x o m ˈe d o β"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Sepahan",
+				"FK"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"θ e p ˈɑ x ɑ n",
+				"f k"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Köneürgenç"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"k ˌœː n œ ˈø r ʁ œ n t͡ʃ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Altyn",
+				"Asyr",
+				"FK"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ˈɑ ɫ t ɯ n",
+				"ˈɑ θ ɯ r",
+				"f k"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Günorta",
+				"Afrika",
+				"Respublikasy"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɡ ø n ˈo r t o",
+				"ɑ f r ˌi k ɑ",
+				"r ˌe θ p ʊ β l i k ˈɑ θ ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Osman",
+				"soltany",
+				"Myrat",
+				"III",
+				"uly",
+				"ýitgiler",
+				"çekip",
+				",",
+				"tutuş",
+				"Zakawkaziýany",
+				"şeýle",
+				"hem",
+				"Azerbaýjany",
+				"basyp",
+				"alypdyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈo θ m o n",
+				"θ o ɫ t ˈo n ʊ",
+				"m ˈɯ r ɑ t",
+				"ˈiː i",
+				"ˈʊ ɫ ʊ",
+				"j i t ʁ ˈi l e r",
+				"t͡ʃ ˈe k i p",
+				",",
+				"t ˈʊ t ʊ ʃ",
+				"ð ˌɑ q o β q ˌo ð i j ˈɑ n ɯ",
+				"ʃ ˈe j l e",
+				"h ˈe m",
+				"ˌɑ ð e r β ɑ j d͡ʒ ˈɑ n ɯ",
+				"b ˈɑ θ ɯ p",
+				"ɑ ɫ ˈɯ p d ɯ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Azerbaýjan",
+				"XIX-XX",
+				"asyryň",
+				"başlarynda"
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɑ ð e r β ˈɑ j d͡ʒ ɑ n",
+				"χ ˈi χ ˈi χ χ",
+				"ɑ θ ˈɯ r ɯ ŋ",
+				"b ˌɑ ʃ ɫ ɑ r ˈɯ n n ɑ"
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tomas",
+				"Jeferson",
+				"(",
+				"1743-1826",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˈo m o θ",
+				"d͡ʒ e f ˌe r θ o n",
+				"(",
+				"ˌe m e ˈo m e k ˈe",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Persepolis",
+				"FK"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"p ˌe r θ e p ˈo ɫ i θ",
+				"f k"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Bu",
+				"etrap",
+				"we",
+				"Kümmet",
+				"Gowuz",
+				"şäheri",
+				"Ebusehil",
+				"Mesihi",
+				"we",
+				"Seýit",
+				"Ysmaýyl",
+				"Cürcany",
+				"ýaly",
+				"taryhda",
+				"ady",
+				"galan",
+				"meşhur",
+				"lukmanlaryn",
+				"dogduk",
+				"diýarydyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈʊː",
+				"ˈe t r ɑː p",
+				"β ˈe",
+				"k ˈø m m œ t",
+				"ɡ ˈo β ʊ ð",
+				"ʃ æ h ˈe r i",
+				"ˌe β ʊ θ ˈe h i l",
+				"m e θ ˈi h i",
+				"β ˈe",
+				"θ ˈe j i t",
+				"ɯ θ m ˈɑ j ɯ ɫ",
+				"k ø r t͡ʃ ˈɑ n ɯ",
+				"j ˈɑː ɫ ɯ",
+				"t ɑ r ˈɯ x d ɑ",
+				"ˈɑː d ɯ",
+				"ɡ ˈɑ ɫ ɑ n",
+				"m ˈe ʃ x ʊ r",
+				"ɫ ˌʊ q m o n ɫ ˈo r ɯ n",
+				"d ˈo ʁ d ʊ q",
+				"d ˌi j ɑ r ˈɯ d ɯ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Goramak",
+				"boýunça",
+				"tagallalara",
+				"bagly",
+				"görnüşler",
+				"''",
+				"'",
+				"(",
+				")",
+				"—",
+				"Tebigaty",
+				"goramagyň",
+				"halkara",
+				"bileleşiginiň",
+				"(",
+				"TGHB",
+				",",
+				"IUCN",
+				")",
+				"görnüş",
+				"subkategoriýasy",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ɡ ˌo r o m ˈo q",
+				"b o j ˈʊ n t͡ʃ o",
+				"t ˌɑ ʁ ɑ ɫ ɫ ɑ ɫ ˈɑ r ɑ",
+				"b ˈɑː ʁ ɫ ɯ",
+				"ɡ œ r n ˈø ʃ l œ r",
+				"",
+				"'",
+				"(",
+				")",
+				"k ɑ ɾ ɴ",
+				"t ˌe β i ʁ ˈɑ t ɯ",
+				"ɡ ˌo r o m ˈo ʁ ɯ ŋ",
+				"x ɑ ɫ q ˈɑː r ɑ",
+				"b ˌi l e l ˌe ʃ i ʁ ˈi n i ŋ",
+				"(",
+				"t ʁ h β",
+				",",
+				"ˈi ʊ t͡ʃ n",
+				")",
+				"ɡ ˈœ r n ø ʃ",
+				"θ ˌʊ β q o t ˌe ʁ o r i j ˈɑ θ ɯ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"1991-nji",
+				"ýylyň",
+				"dekabrynda",
+				"Gyrgyzystan",
+				"Garaşsyz",
+				"Döwletleriň",
+				"Arkalaşygyna",
+				"giren",
+				"şertnama",
+				"gol",
+				"çekipdir.Gyrgyzystanyň",
+				"garaşsyzlygy",
+				"ilkinji",
+				"ykrar",
+				"eden",
+				"döwlet",
+				"Türkiýedir",
+				"(",
+				"24-nji",
+				"dekabr",
+				"1991",
+				")",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌe n β e ˈe n d͡ʒ i",
+				"j ˈɯ ɫ ɯ ŋ",
+				"d ˌe k ɑ β r ˈɯ n n ɑ",
+				"ɡ ˌɯ r ʁ ɯ ð ˈɯ θ θ ɑ n",
+				"ɡ ɑ r ˈɑ ʃ θ ɯ ð",
+				"d ˌœ β l œ t l ˈœ r i ŋ",
+				"ˌɑ r q ɑ ɫ ˌɑ ʃ ɯ ʁ ˈɯ n ɑ",
+				"ɡ ˈi r e n",
+				"ʃ e r t n ˈɑː m ɑ",
+				"ɡ ˈo ɫ",
+				"t͡ʃ ˌe k i p d ˌi r ʁ ɯ ð ɯ θ θ ˈɑ n ɯ ŋ",
+				"ɡ ˌɑ r ɑ ʃ θ ɯ ð ɫ ˈɯ ʁ ɯ",
+				"i l k ˈi n d͡ʒ i",
+				"ˈɯ q r ɑ r",
+				"ˈe d e n",
+				"d ˈœ β l œ t",
+				"t ˌø r k ø j ˈe d i r",
+				"(",
+				"2 ˈɑː n d͡ʒ i",
+				"d ˈe k ɑ β r",
+				"ˈe n β β",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Gomer"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"ɡ ˈo m e r"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"HTTU",
+				"Aşgabat"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"h t t ˈʊ",
+				"ɑ ʃ ʁ ˈɑ β ɑ t"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Taýland"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"t ˈɑ j ɫ ɑ n n"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Tagtabit"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"t ɑ ʁ t ˈɑ β i t"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Indoneziýa",
+				"Kommunistik",
+				"Partiýasy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ˌi n n o n e ð ˈi j ɑ",
+				"q ˌo m m ʊ n ˈi θ θ i k",
+				"p ˌɑ r t i j ˈɑ θ ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Bütindünýä",
+				"Saglyk",
+				"Guramasy",
+				"(",
+				"BSG",
+				")",
+				"nyñ",
+				"'",
+				"''",
+				"(",
+				"WHO",
+				")",
+				"'",
+				"''",
+				"hödürledigi",
+				"zehin",
+				"klaslandyryş",
+				"tablissasy",
+				"."
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˌø t ø n n ˈø n j æ",
+				"θ ˈɑ ʁ ɫ ɯ q",
+				"ɡ ˌʊ r o m ˈo θ ɯ",
+				"(",
+				"b θ ʁ",
+				")",
+				"n ˈɯ ŋ",
+				"'",
+				"",
+				"(",
+				"β x ˈo",
+				")",
+				"'",
+				"",
+				"h ˌœ d ø r l œ d ˈø ʁ i",
+				"ð ˈe h i n",
+				"q ɫ ˌɑ θ ɫ ɑ n n ˈɯ r ɯ ʃ",
+				"t ˌɑ β l i θ θ ˈɑ θ ɯ",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Millard",
+				"Filmor",
+				"(",
+				"1800-1874",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ˈi l l ɑ r d",
+				"f ˌi l m o r",
+				"(",
+				"ˌe k t i ˈɛ k ˈe f ˈɑ",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Gaziantepspor",
+				"Sport",
+				"Topary",
+				"''",
+				"'",
+				"hazirki",
+				"wagtda",
+				"Türkiýe",
+				"Futbol",
+				"Ligasy'nda",
+				"basleşige",
+				"dowam",
+				"edyar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ɡ ˌɑ ð i ɑ n t ˈe p θ p o r",
+				"θ p ˈo r t",
+				"t o p ˈo r ʊ",
+				"",
+				"'",
+				"x ɑ ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"t ø r k ˈø j e",
+				"f ˌʊ t β o ɫ",
+				"l ˌi ʁ ɑ θ ˈɯ n n ɑ",
+				"b ˌɑ θ l e ʃ ˈi ʁ e",
+				"d ˈo β ɑː m",
+				"e d ˈɯ ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ahal-teke",
+				"aty"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ˌɑ x ɑ ɫ t ˈe k e",
+				"ˈɑ t ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"44-nji",
+				"ýer",
+				"Ýohan",
+				"Kroýf",
+				"(",
+				"413",
+				"gol",
+				")",
+				","
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɑː ˈɑ n d͡ʒ i",
+				"j ˈe r",
+				"j ˈo x o n",
+				"k r ˈo j f",
+				"(",
+				"β θ m",
+				"ɡ ˈo ɫ",
+				")",
+				","
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"HTTU",
+				"Aşgabat"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"h t t ˈʊ",
+				"ɑ ʃ ʁ ˈɑ β ɑ t"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Babegiň",
+				"gozgalaňy"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"b ɑ β ˈe ʁ i ŋ",
+				"ɡ ˌo ð ʁ o ɫ ˈo ŋ ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ak",
+				"işany",
+				"özüniň",
+				"sypaýylary",
+				"bilen",
+				"maslahatlaşyp",
+				",",
+				"üç",
+				"gezek",
+				"töwella",
+				"edip",
+				",",
+				"Garagumdan",
+				"(",
+				"Tejen",
+				"aýagyndan",
+				")",
+				"getirdişi",
+				",",
+				"onuň",
+				"öz",
+				"döwrüniň",
+				"iň",
+				"uly",
+				"ylym",
+				"ussadydygy",
+				"hem-de",
+				"öz",
+				"islegi",
+				"boýunça",
+				"Köneürgençde",
+				"(",
+				"gadymy",
+				"Horezmde",
+				")",
+				"medresede",
+				"sapak",
+				"berýändigi",
+				",",
+				"aram-aram",
+				"özüniňem",
+				"ondan",
+				"sapak",
+				"alyp",
+				"durýandygy",
+				"ýadyna",
+				"düşse-de",
+				",",
+				"gahar-gazabyna",
+				"bäs",
+				"gelip",
+				"bilmedik",
+				"han",
+				":"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈɑː q",
+				"i ʃ ˈɑ n ɯ",
+				"œ ð ˈø n ø ŋ",
+				"θ ˌɯ p ɑ j ɯ ɫ ˈɑ r ɯ",
+				"b ˈi l e n",
+				"m ˌɑ θ ɫ ɑ x ɑ t ɫ ˈɑ ʃ ɯ p",
+				",",
+				"ˈø t͡ʃ",
+				"ɡ ˈe ð e k",
+				"t œ β ˈœ l ɫ ɑ",
+				"ˈe d i p",
+				",",
+				"ɡ ˌɑ r ɑ ʁ ˈʊ m n o n",
+				"(",
+				"t ˈe d͡ʒ e n",
+				"ˌɑ j ɑ ʁ ˈɯ n n ɑ n",
+				")",
+				"ɡ ˌe t i r d ˈi ʃ i",
+				",",
+				"ˈo n ʊ ŋ",
+				"ˈœː ð",
+				"d œ β r ˈø n ø ŋ",
+				"ˈi ŋ",
+				"ˈʊ ɫ ʊ",
+				"ˈɯ ɫ ɯ m",
+				"ˌʊ θ θ o d ʊ d ˈʊ ʁ ɯ",
+				"h ˈe m d e",
+				"ˈœː ð",
+				"i θ l ˈe ʁ i",
+				"b o j ˈʊ n t͡ʃ o",
+				"k ˌœ n œ ø r ʁ ˈœ n t͡ʃ d e",
+				"(",
+				"ɡ ɑ d ˈɯ m ɯ",
+				"x o r ˈe ð m n e",
+				")",
+				"m ˌe d r e θ ˈe d e",
+				"θ ˈɑ p ɑ q",
+				"b ˌe r j æ n n ˈi ʁ i",
+				",",
+				"ˌɑ r ɑ m ɑː r ɑ m",
+				"ˌœ ð ø n ˈø ŋ œ m",
+				"ˈo n n o n",
+				"θ ˈɑ p ɑ q",
+				"ˈɑ ɫ ɯ p",
+				"d ˌʊ r j ɑ n n ˈɯ ʁ ɯ",
+				"j ɑ d ˈɯ n ɑ",
+				"d ø ʃ θ ˈœ d e",
+				",",
+				"ɡ ˌɑ x ɑ r - ʁ ˌɑ ð ɑ β ˈɯ n ɑ",
+				"b ˈæː θ",
+				"ɡ ˈe l i p",
+				"b i l m ˈe d i k",
+				"x ˈɑ n",
+				":"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistanyn",
+				"gok",
+				"ekerancylyga",
+				"yoritleshdirilen",
+				"hojalyklaryn",
+				"aglabasy",
+				"Aşgabat",
+				",",
+				"Gökdepe",
+				"etraplarynda",
+				"yerleshendir",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ n",
+				"ɡ ˈo q",
+				"ˌe k e r ˌɑ n t͡s ɯ ɫ ˈɯ ʁ ɑ",
+				"j ˌo r i t l ˌe ʃ d i r ˈi l e n",
+				"x ˌo d͡ʒ o ɫ ʊ q ɫ ˈo r ɯ n",
+				"ˌɑ ʁ ɫ ɑ β ˈɑ θ ɯ",
+				"ɑ ʃ ʁ ˈɑ β ɑ t",
+				",",
+				"ɡ œ k d ˈœ p œ",
+				"ˌe t r ɑ p ɫ ɑ r ˈɯ n n ɑ",
+				"ˌɯ e r l e θ h ˈe n n i r",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistanyň",
+				"Ýokary",
+				"Ligasy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"j o q ˈo r ʊ",
+				"l i ʁ ˈɑ θ ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mustafa",
+				"Kemal",
+				"Atatürk"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"m ʊ θ θ ˈo f ˌo",
+				"k ˈe m ɑ ɫ",
+				"ɑ t ˈɑ t ø r k"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				".id"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ˈi d"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Bab-el-Mandeb"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"b ˌɑ β e l m ˈɑ n n e β"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				".kr"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k r"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ankaragücü",
+				"Sport",
+				"Topary",
+				"''",
+				"'",
+				"hazirki",
+				"wagtda",
+				"Türkiýe",
+				"Futbol",
+				"Ligasy'nda",
+				"basleşige",
+				"dowam",
+				"edyar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ˌɑ n q ɑ r ɑ ʁ ˈø d͡ʒ ø",
+				"θ p ˈo r t",
+				"t o p ˈo r ʊ",
+				"",
+				"'",
+				"x ɑ ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"t ø r k ˈø j e",
+				"f ˌʊ t β o ɫ",
+				"l ˌi ʁ ɑ θ ˈɯ n n ɑ",
+				"b ˌɑ θ l e ʃ ˈi ʁ e",
+				"d ˈo β ɑː m",
+				"e d ˈɯ ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistanda",
+				"iňlis",
+				"dilini",
+				"gysga",
+				"wagtda",
+				"öwrenip",
+				"boljak",
+				"okuw",
+				"merkezleri",
+				"hyzmat",
+				"berýär",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ø θ θ ˈɑ n n ɑ",
+				"ˈi ŋ l i θ",
+				"d i l ˈi n i",
+				"ɡ ˈɯ θ ʁ ɑ",
+				"β ˈɑ ʁ t d ɑ",
+				"œ β r ˈœ n ø p",
+				"b o ɫ d͡ʒ ˈo q",
+				"ˈo q ʊ β",
+				"m ˌe r k e ð l ˈe r i",
+				"x ˈɯ ð m ɑ t",
+				"b ˈe r j æː r",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kastamonu",
+				"Uniwersiteti"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"q ˌɑ θ θ ɑ m ˈo n ʊ",
+				"ˌʊ n i β ˌe r θ i t ˈe t i"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Amsterdam",
+				"kanal",
+				"arkaly",
+				"Demirgazyk",
+				"deňzi",
+				"bilen",
+				"birleşýär",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɑ m θ θ ˈe r d ɑ m",
+				"q ˈɑ n ɑ ɫ",
+				"ɑ r q ˈɑ ɫ ɯ",
+				"d ˌe m i r ʁ ˈɑ ð ɯ q",
+				"d ˈe ŋ ð i",
+				"b ˈi l e n",
+				"b i r l ˈe ʃ j æː r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Şrýodingeriň",
+				"pişigi",
+				"''",
+				"'",
+				"eksperimenti",
+				",",
+				"Awstriýaly",
+				"fizikaçy",
+				"Erwin",
+				"Şrýodinger",
+				"tarapyndan",
+				"öňe",
+				"sürülüpdür",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ʃ r j ˌo d i n ʁ ˈe r i ŋ",
+				"p i ʃ ˈi ʁ i",
+				"",
+				"'",
+				"ˌe k θ p e r i m ˈe n t i",
+				",",
+				"ˌo β θ θ r i j ˈɑ ɫ ɯ",
+				"f ˌi ð i k ˈɑ t͡ʃ ɯ",
+				"ˈe r β i n",
+				"ʃ r j o d ˈi n ʁ e r",
+				"t ˌɑ r ɑ p ˈɯ n n ɑ n",
+				"ˈœ ŋ œ",
+				"θ ˌø r ø l ˈø p d ø r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Halaç",
+				"etraby"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"x ˈɑ ɫ ɑ t͡ʃ",
+				"e t r ˈɑ β ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				".bf",
+				"''",
+				"'",
+				"-",
+				"Burkina-Fasonyň",
+				"Internet",
+				"kody",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"b f",
+				"",
+				"'",
+				"-",
+				"b ˌʊ r q i n ˌɑ f ˌɑ θ ˈo n ʊ ŋ",
+				"i n t ˈe r n e t",
+				"q ˈo d ʊ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Günorta",
+				"Afrika",
+				"''",
+				"'",
+				"—",
+				"Afrika",
+				"kontinentiniň",
+				"günorta",
+				"bölegini",
+				"eýeleýän",
+				"sebit",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ɡ ø n ˈo r t o",
+				"ɑ f r ˌi k ɑ",
+				"",
+				"'",
+				"k ɑ ɾ ɴ",
+				"ɑ f r ˌi k ɑ",
+				"q ˌo n t i n e n t ˈi n i ŋ",
+				"ɡ ø n ˈo r t o",
+				"b ˌœ l œ ʁ ˈø n i",
+				"ˌe j e l ˈe j æ n",
+				"θ ˈe β i t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Köşk",
+				",",
+				"düýbi",
+				"Fransiýada",
+				"ýerleşýän",
+				"Bouygues",
+				"kompaniýasy",
+				"tarapyndan",
+				"gurylandyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k ˈœ ʃ k",
+				",",
+				"d ˈøː j b i",
+				"f r ˌɑ n θ i j ˈɑ d ɑ",
+				"j e r l ˈe ʃ j æ n",
+				"b ˌo ʊ ˈʊ ʁ ʊ e θ",
+				"q ˌo m p o n i j ˈɑ θ ɯ",
+				"t ˌɑ r ɑ p ˈɯ n n ɑ n",
+				"ɡ ˌʊ r ʊ ɫ ˈo n n ʊ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Lesoto"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"l e θ ˈo t o"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Zimbabwe"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"ð i m m ˈɑ β β e"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ordu",
+				"Sport",
+				"Topary",
+				"''",
+				"'",
+				"hazirki",
+				"wagtda",
+				"Türkiýe",
+				"Futbol",
+				"Ligasy'nda",
+				"basleşige",
+				"dowam",
+				"edyar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ˈo r d ʊ",
+				"θ p ˈo r t",
+				"t o p ˈo r ʊ",
+				"",
+				"'",
+				"x ɑ ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"t ø r k ˈø j e",
+				"f ˌʊ t β o ɫ",
+				"l ˌi ʁ ɑ θ ˈɯ n n ɑ",
+				"b ˌɑ θ l e ʃ ˈi ʁ e",
+				"d ˈo β ɑː m",
+				"e d ˈɯ ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				".no"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"n ˈo"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Marek",
+				"Grechuta",
+				"''",
+				"'",
+				"(",
+				"10.12.1945",
+				"-",
+				"09.10.2006",
+				")",
+				"Polşanyň",
+				"aýdymçy",
+				"we",
+				"şahyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"m ˈɑ r e k",
+				"ʁ r e χ ˈʊ t o",
+				"",
+				"'",
+				"(",
+				"ˈɛː ˈe n n o m ˈe t ə d ˈy r t ʃ",
+				"-",
+				"ˌo β β e θ ˈe",
+				")",
+				"p o ɫ ʃ ˈo n ʊ ŋ",
+				"ɑ j d ˈɯ m t͡ʃ ɯ",
+				"β ˈe",
+				"ʃ ˈɑː x ɯ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Türkmen",
+				"döwlet",
+				"ykdysadyýet",
+				"we",
+				"dolandyryş",
+				"instituty"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"t ˈø r k m œ n",
+				"d ˈœ β l œ t",
+				"ˌɯ q d ɯ θ ɑ d ˈɯ j e t",
+				"β ˈe",
+				"d ˌo ɫ o n n ˈʊ r ɯ ʃ",
+				"ˌi n θ θ i t ˈʊ t ʊ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Garaşsyz",
+				"Döwletleriň",
+				"Arkalaşygy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡ ɑ r ˈɑ ʃ θ ɯ ð",
+				"d ˌœ β l œ t l ˈœ r i ŋ",
+				"ˌɑ r q ɑ ɫ ɑ ʃ ˈɯ ʁ ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Aşgabadyñ",
+				"Halkara",
+				"Howa",
+				"Menzili",
+				"''",
+				"'",
+				",",
+				"Türkmenistanda",
+				"bar",
+				"bolan",
+				"üç",
+				"Halkara",
+				"Howa",
+				"Menzillerinden",
+				"biridir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ˌɑ ʃ ʁ ɑ β ˈɑ d ɯ n",
+				"x ɑ ɫ q ˈɑː r ɑ",
+				"x ˈo β ɑː",
+				"m e n ð ˈi l i",
+				"",
+				"'",
+				",",
+				"t ˌø r k m œ n ø θ θ ˈɑ n n ɑ",
+				"b ˈɑː r",
+				"b ˈo ɫ o n",
+				"ˈø t͡ʃ",
+				"x ɑ ɫ q ˈɑː r ɑ",
+				"x ˈo β ɑː",
+				"m ˌe n ð i l l e r ˈi n n e n",
+				"b i r ˈi d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jon",
+				"Taýler"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"d͡ʒ ˈo n",
+				"t ˈɑ j l e r"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Tekirdağ",
+				"''",
+				"'",
+				",",
+				"Türkiýe'nin",
+				"ili",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"t e k ˈi r d ɑː",
+				"",
+				"'",
+				",",
+				"t ˌø r k ø j ˈe n i n",
+				"ˈi l i",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		}
+	],
+	"train": [
+		{
+			"tokens": [
+				"Şrýodingeriň",
+				"pişigi"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ʃ r j ˌo d i n ʁ ˈe r i ŋ",
+				"p i ʃ ˈi ʁ i"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Belorussiýa"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"b ˌe l o r ʊ θ θ ˈi j ɑ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kardemir",
+				"Karabükspor",
+				"''",
+				"'",
+				"Sport",
+				"Topary",
+				"hazirki",
+				"wagtda",
+				"Türkiýe",
+				"Futbol",
+				"Ligasy'nda",
+				"basleşige",
+				"dowam",
+				"edyar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"q ɑ r d ˈe m i r",
+				"q ˌɑ r ɑ β ˈø k θ p o r",
+				"",
+				"'",
+				"θ p ˈo r t",
+				"t o p ˈo r ʊ",
+				"x ɑ ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"t ø r k ˈø j e",
+				"f ˌʊ t β o ɫ",
+				"l ˌi ʁ ɑ θ ˈɯ n n ɑ",
+				"b ˌɑ θ l e ʃ ˈi ʁ e",
+				"d ˈo β ɑː m",
+				"e d ˈɯ ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Stambul",
+				"tehniki",
+				"uniwersiteti"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ˈɑ",
+				"θ θ ˈɑ m m ʊ ɫ",
+				"t e h n ˈi k i",
+				"ˌʊ n i β ˌe r θ i t ˈe t i"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Aradan",
+				"çykmasady",
+				",",
+				"Mahatma",
+				"Gandi",
+				"almalydy",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɑ r ˈɑ d ɑ n",
+				"t͡ʃ ˌɯ q m ɑ θ ˈɑ d ɯ",
+				",",
+				"m ɑ x ˈɑ t m ɑ",
+				"ɡ ˈɑ n n i",
+				"ˌɑ ɫ m ɑ ɫ ˈɯ d ɯ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				".kz"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k ð ˈɛ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Gaplaňgyr"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ɡ ɑ p ɫ ˈɑ ŋ ŋ ɯ r"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Farap",
+				"etraby"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"f ˌɑ r ɑ p",
+				"e t r ˈɑ β ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Tomas",
+				"Jeferson"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"t ˈo m o θ",
+				"d͡ʒ e f ˌe r θ o n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Aşgabat",
+				"FK"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ɑ ʃ ʁ ˈɑ β ɑ t",
+				"f k"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mýanma"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"m j ˈɑ n m ɑ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Sigizmund",
+				"III",
+				"Wazanyň",
+				"baýdagy",
+				"üç",
+				"zolakdan",
+				"(",
+				"ýokarky",
+				"we",
+				"aşaky",
+				"–",
+				"gyzyl",
+				"we",
+				"ortada",
+				"ak",
+				")",
+				"ybarat",
+				"bolupdyr",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"θ i ʁ ˈi ð m ʊ n n",
+				"ˈiː i",
+				"β ɑ ð ˈɑ n ɯ ŋ",
+				"b ɑ j d ˈɑ ʁ ɯ",
+				"ˈø t͡ʃ",
+				"ð o ɫ ˈo q d o n",
+				"(",
+				"j o q ˈo r q ʊ",
+				"β ˈe",
+				"ɑ ʃ ˈɑ q ɯ",
+				"p ˈe",
+				"ɡ ˈɯ ð ɯ ɫ",
+				"β ˈe",
+				"o r t ˈo d o",
+				"ˈɑː q",
+				")",
+				"ɯ β ˈɑ r ɑ t",
+				"b o ɫ ˈʊ p d ʊ r",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ýemen"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"j ˈe m e n"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Gökdepe",
+				"türkmeniň",
+				"Käbesidir",
+				"."
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ œ k d ˈœ p œ",
+				"t ø r k m ˈœ n ø ŋ",
+				"k ˌæ β e θ ˈi d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"``",
+				"Biziň",
+				"zamanamyzyň",
+				"gahrymanlary",
+				"''",
+				"—",
+				"M.",
+				"Lermontow"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ˈə",
+				"b ˈi ð i ŋ",
+				"ð ˌɑ m ɑ n ɑ m ˈɯ ð ɯ ŋ",
+				"ɡ ˌɑ x r ɯ m ɑ n ɫ ˈɑ r ɯ",
+				"",
+				"k ɑ ɾ ɴ",
+				"m ˈɛ",
+				"l e r m ˈo n t o β"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Belarus",
+				"döwlet",
+				"uniwersiteti"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"b e l ˈɑ r ʊ θ",
+				"d ˈœ β l œ t",
+				"ˌʊ n i β ˌe r θ i t ˈe t i"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Şrýodingeriň",
+				"pişigi"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ʃ r j ˌo d i n ʁ ˈe r i ŋ",
+				"p i ʃ ˈi ʁ i"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Isabel",
+				"Alýende"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"i θ ˈɑ β e l",
+				"ɑ ɫ j ˈe n n e"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Serdar",
+				"2011-2012-nji",
+				"ýyl",
+				"Eýran",
+				"Ýokarý",
+				"Ligasynda",
+				"Sepahan",
+				"topary",
+				"bilen",
+				"birinji",
+				"oruny",
+				"eýeledi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"θ ˈe r d ɑː r",
+				"ˌo t ˌe ˈo p iː d ˈe ˈe n d͡ʒ i",
+				"j ˈɯ ɫ",
+				"ˈe j r ɑ n",
+				"j ˈo q o r j",
+				"l ˌi ʁ ɑ θ ˈɯ n n ɑ",
+				"θ e p ˈɑ x ɑ n",
+				"t o p ˈo r ʊ",
+				"b ˈi l e n",
+				"b i r ˈi n d͡ʒ i",
+				"o r ˈʊ n ʊ",
+				"ˌe j e l ˈe d i",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Garagum",
+				"çölünde",
+				"maldarçylygyň",
+				"esasy",
+				"suw",
+				"üpjünçiligi",
+				"guýular",
+				"arkalydyr",
+				"."
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ ɑ r ˈɑ ʁ ʊ m",
+				"t͡ʃ œ l ˈø n n œ",
+				"m ˌɑ ɫ ɫ ɑ r t͡ʃ ɯ ɫ ˈɯ ʁ ɯ ŋ",
+				"e θ ˈɑː θ ɯ",
+				"θ ˈʊ β",
+				"ˌø p d͡ʒ ø n t͡ʃ ø l ˈø ʁ i",
+				"ɡ ʊ j ˈʊ ɫ o r",
+				"ˌɑ r q ɑ ɫ ˈɯ d ɯ r",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Reformasiýadan",
+				"soň",
+				"Knýazlaryň",
+				"arasyndaky",
+				"uruş",
+				"ideologiki",
+				"häsiýete",
+				"eýe",
+				"bolýar",
+				"."
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"r e f ˌo r m o θ i j ˈɑ d ɑ n",
+				"θ ˈo ŋ",
+				"k n j ɑ ð ɫ ˈɑ r ɯ ŋ",
+				"ˌɑ r ɑ θ ɯ n d ˈɑː q ɯ",
+				"ˈʊ r ʊ ʃ",
+				"ˌi d e ˌo ɫ o ɡ ˈi k i",
+				"h ˌæ θ i j ˈe t e",
+				"ˈe j e",
+				"b ˈo ɫ j ɑː r",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"``",
+				"Dubrowskiý",
+				"''",
+				"—",
+				"A.S.",
+				"Puşkin"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ˈə",
+				"d ʊ β r ˈo β θ k i j",
+				"",
+				"k ɑ ɾ ɴ",
+				"ˈɑː θ ɯ",
+				"p ˈʊ ʃ k i n"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Yerleşyän",
+				"yerleri",
+				"Jakarta"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ˌy e r l e ʃ ˈy æ n",
+				"j e r l ˈe r i",
+				"d͡ʒ ɑ q ˈɑ r t ɑ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Meredow",
+				"Raşit",
+				"Öwezgeldiyewiç",
+				"''",
+				"'",
+				",",
+				"Türkmenistanyn",
+				"Daşary",
+				"işler",
+				"ministri",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"m e r ˈe d o β",
+				"r ˈɑ ʃ i t",
+				"ˌœ β œ ð ʁ ˌœ l l i j ˈœ β i t͡ʃ",
+				"",
+				"'",
+				",",
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ n",
+				"d ɑ ʃ ˈɑ r ɯ",
+				"ˈi ʃ l e r",
+				"m i n ˈi θ θ r i",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Tupac",
+				"Amaru",
+				"Shakur",
+				"''",
+				"'",
+				"(",
+				"D",
+				":",
+				"1971-nji",
+				"ýylyň",
+				"16-njy",
+				"iýuny",
+				",",
+				"–",
+				"Ö",
+				":",
+				"1996-njy",
+				"ýylyň",
+				"13-nji",
+				"sentýabry",
+				")",
+				",",
+				"Amerikaly",
+				"rap",
+				"music"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"t ˈʊ p o q",
+				"ɑ m ˈɑ r ʊ",
+				"ʃ ˈɑ q ʊ r",
+				"",
+				"'",
+				"(",
+				"d ˈe",
+				":",
+				"ˌe n t m i ˈe n d͡ʒ i",
+				"j ˈɯ ɫ ɯ ŋ",
+				"r β ˈɯ n d͡ʒ ɯ",
+				"i j ˈʊ n ʊ",
+				",",
+				"p ˈe",
+				"ˈœː",
+				":",
+				"ˌe n t s e ˈɑ n d͡ʒ ɯ",
+				"j ˈɯ ɫ ɯ ŋ",
+				"ˈe r m ˈe n d͡ʒ i",
+				"θ e n t j ˈɑ β r ɯ",
+				")",
+				",",
+				"ˌɑ m e r i k ˈɑ ɫ ɯ",
+				"r ˈɑ p",
+				"m ˈʊ θ i t͡s"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Türkiýäniň",
+				"esaslandyryjysy",
+				"Mustafa",
+				"Kemal",
+				"Atatürküň",
+				"ýaşan",
+				"kyn",
+				"döwründe",
+				"bitiren",
+				"uly",
+				"işleri",
+				",",
+				"alyp",
+				"baran",
+				"üstünlikli",
+				"syýasatlary",
+				",",
+				"syýasy",
+				"meselelerdäki",
+				"öňdengörüjiligi",
+				"bilen",
+				"dünýäde",
+				"meşhur",
+				"bolan",
+				"şahsyýetdir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˌø r k ø j ˈæ n i ŋ",
+				"ˌe θ ɑ θ ɫ ˌɑ n n ɯ r ɯ d͡ʒ ˈɯ θ ɯ",
+				"m ʊ θ θ ˈo f ˌo",
+				"k ˈe m ɑ ɫ",
+				"ˌɑ t ɑ t ˈø r k ø ŋ",
+				"j ˈɑ ʃ ɑ n",
+				"q ˈɯ n",
+				"d œ β r ˈø n n œ",
+				"b i t ˈi r e n",
+				"ˈʊ ɫ ʊ",
+				"i ʃ l ˈe r i",
+				",",
+				"ˈɑ ɫ ɯ p",
+				"b ˈɑ r ɑ n",
+				"ˌø θ θ ø n l ˈø k l ø",
+				"θ ˌɯ j ɑ θ ɑ t ɫ ˈɑ r ɯ",
+				",",
+				"θ ɯ j ˈɑ θ ɯ",
+				"m ˌe θ e l ˌe l e r d ˈæː k ɪ",
+				"ˌœ ŋ ŋ œ n ʁ ˌœ r ø d͡ʒ ø l ˈø ʁ i",
+				"b ˈi l e n",
+				"d ø n j ˈæː d e",
+				"m ˈe ʃ x ʊ r",
+				"b ˈo ɫ o n",
+				"ʃ ˌɑ x θ ɯ j ˈe t d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				".us"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ˈʊ θ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Japarbaý",
+				"Türkmenlerinden",
+				"bolan",
+				"Anna",
+				"ahun",
+				"eýranyň",
+				"Türkmensähra",
+				"sebitinde",
+				"bäşýusga",
+				"obasynda",
+				"dogdu",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d͡ʒ ɑ p ˈɑ r β ɑ j",
+				"t ˌø r k m œ n l œ r ˈi n n e n",
+				"b ˈo ɫ o n",
+				"ˈɑ n n ɑ",
+				"ˈɑ x ʊ n",
+				"e j r ˈɑ n ɯ ŋ",
+				"t ˌø r k m œ n θ ˈæ h r ɑ",
+				"θ ˌe β i t ˈi n n e",
+				"b æ ʃ j ˈʊ θ ʁ o",
+				"ˌo β o θ ˈʊ n n o",
+				"d ˈo ʁ d ʊ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				":",
+				"Türkmen",
+				"film",
+				","
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				":",
+				"t ˈø r k m œ n",
+				"f ˌi l m",
+				","
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Magtymguly",
+				"ilkinjileriň",
+				"hatarynda",
+				"halkyň",
+				"ulanýan",
+				"dilini",
+				"öz",
+				"çylşyrymly",
+				"dini-pelsepi-sosial",
+				"temalarda",
+				"ýazylan",
+				"şygyrlaryna",
+				"sygdyrmagy",
+				"başarypdyr",
+				"."
+			],
+			"ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ˌɑ ʁ t ɯ m ʁ ˈʊ ɫ ʊ",
+				"ˌi l k i n d͡ʒ i l ˈe r i ŋ",
+				"x ˌɑ t ɑ r ˈɯ n n ɑ",
+				"x ˈɑ ɫ q ɯ ŋ",
+				"ʊ ɫ ˈo n j ɑ n",
+				"d i l ˈi n i",
+				"ˈœː ð",
+				"t͡ʃ ˌɯ ɫ ʃ ɯ r ˈɯ m ɫ ɯ",
+				"d ˌi n i p ˌe l θ e p ˌi θ o θ ˈi ɑ ɫ",
+				"t ˌe m ɑ ɫ ˈɑ r d ɑ",
+				"j ɑ ð ˈɯ ɫ ɑ n",
+				"ʃ ˌɯ ʁ ɯ r ɫ ɑ r ˈɯ n ɑ",
+				"θ ˌɯ ʁ d ɯ r m ˈɑ ʁ ɯ",
+				"b ˌɑ ʃ ɑ r ˈɯ p d ɯ r",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Halyl",
+				"Kulyýew",
+				"''",
+				"'",
+				"-",
+				"1936-njy",
+				"ýylyň",
+				"7-nji",
+				"sentýabrynda",
+				"Lebap",
+				"welaýatynyň"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"x ˈɑ ɫ ɯ ɫ",
+				"q ʊ ɫ ˈʊ j œ β",
+				"",
+				"'",
+				"-",
+				"ˌe n θ ʊ ˈɯ n d͡ʒ ɯ",
+				"j ˈɯ ɫ ɯ ŋ",
+				"ˈe n d͡ʒ i",
+				"θ ˌe n t j ɑ β r ˈɯ n n ɑ",
+				"l ˈe β ɑ p",
+				"β ˌe l ɑ j ɑ t ˈɯ n ɯ ŋ"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Gadymy",
+				"Nusaý"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"ɡ ɑ d ˈɯ m ɯ",
+				"n ˈʊ θ o j"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Türkmenistandaky",
+				"uniwersitetler",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n ˌø θ θ ɑ n d ˈɑː q ɯ",
+				"ˌʊ n i β ˌe r θ i t ˈe t l e r",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ýabany",
+				"tebigatyň",
+				"bütindünýä",
+				"gaznasy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"j ɑ β ˈɑ n ɯ",
+				"t ˌe β i ʁ ˈɑ t ɯ ŋ",
+				"b ˌø t ø n n ˈø n j æ",
+				"ɡ ɑ ð n ˈɑ θ ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Barak",
+				"Obama",
+				",",
+				"Amerikanyň",
+				"Birleşen",
+				"Ştatlarynyň",
+				"Prezidenti",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				5,
+				6,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈɑ r ɑ q",
+				"o β ˈo m o",
+				",",
+				"ˌɑ m e r i k ˈɑ n ɯ ŋ",
+				"b i r l ˈe ʃ e n",
+				"ʃ t ˌɑ t ɫ ɑ r ˈɯ n ɯ ŋ",
+				"p r ˌe ð i d ˈe n t i",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				5,
+				6,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Aman",
+				"Kekilow"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ˈɑ m ɑː n",
+				"k e k ˈi l o β"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Minudeşt",
+				"etraby",
+				"(",
+				"Parsça",
+				":",
+				"شهرستان",
+				"مینودشت",
+				")",
+				"Eýranyň",
+				"Türkmensähra",
+				"sebiti",
+				",",
+				"Gülistan",
+				"welaýatynyň",
+				"13",
+				"etrabyndan",
+				"biridir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m i n ˈʊ d e ʃ t",
+				"e t r ˈɑ β ɯ",
+				"(",
+				"p ˈɑ r θ t͡ʃ ɑ",
+				":",
+				"ʃ ˌə h ə r ˈʊ s t ɑ n",
+				"m iː n ˈo d o ʃ t",
+				")",
+				"e j r ˈɑ n ɯ ŋ",
+				"t ˌø r k m œ n θ ˈæ h r ɑ",
+				"θ e β ˈi t i",
+				",",
+				"ɡ ø l ˈø θ θ ɑ n",
+				"β ˌe l ɑ j ɑ t ˈɯ n ɯ ŋ",
+				"ˈe m",
+				"ˌe t r ɑ β ˈɯ n n ɑ n",
+				"b i r ˈi d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Georgiý",
+				"Agrikola"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"ɡ e ˈo r ʁ i j",
+				"ˌɑ ʁ r i k ˈo ɫ o"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Oguzhan",
+				"etraby"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"o ʁ ˈʊ ð x o n",
+				"e t r ˈɑ β ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"1991-nji",
+				"ýylda",
+				"Türkmenistanda",
+				"doglan",
+				"Mingazow",
+				"ilkinji",
+				"gezek",
+				"16",
+				"ýaşynda",
+				"Aşgabat",
+				"FK",
+				"futbol",
+				"ýygyndy",
+				"komandasynda",
+				"oýnap",
+				"başlaýar",
+				"we",
+				"şol",
+				"ýyl",
+				"hem",
+				"öz",
+				"komandasynyň",
+				"Türkmenistanyň",
+				"Ýokary",
+				"kubogyny",
+				"almagyna",
+				"goşant",
+				"goşýar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌe n β e ˈe n d͡ʒ i",
+				"j ˈɯ ɫ ɫ ɑ",
+				"t ˌø r k m œ n ø θ θ ˈɑ n n ɑ",
+				"d ˈo ʁ ɫ o n",
+				"m i n ʁ ˈɑ ð o β",
+				"i l k ˈi n d͡ʒ i",
+				"ɡ ˈe ð e k",
+				"ˈœ β",
+				"j ɑ ʃ ˈɯ n n ɑ",
+				"ɑ ʃ ʁ ˈɑ β ɑ t",
+				"f k",
+				"f ˌʊ t β o ɫ",
+				"j ɯ ʁ ˈɯ n n ɯ",
+				"q ˌo m o n n o θ ˈɯ n n ɑ",
+				"ˈo j n ɑ p",
+				"b ɑ ʃ ɫ ˈɑ j ɑ r",
+				"β ˈe",
+				"ʃ ˈo ɫ",
+				"j ˈɯ ɫ",
+				"h ˈe m",
+				"ˈœː ð",
+				"q ˌo m o n n o θ ˈɯ n ɯ ŋ",
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"j o q ˈo r ʊ",
+				"q ˌʊ β o ʁ ˈʊ n ʊ",
+				"ˌɑ ɫ m ɑ ʁ ˈɯ n ɑ",
+				"ɡ ˈo ʃ o n t",
+				"ɡ ˈo ʃ j ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				".br"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"β r"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Tunjeli",
+				"(",
+				"il",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"t ʊ n d͡ʒ ˈe l i",
+				"(",
+				"ˈi l",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Amasya",
+				"''",
+				"'",
+				"Türkiýäniň",
+				"bir",
+				"ili",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ɑ m ˈɑ θ ɯ ɑ",
+				"",
+				"'",
+				"t ˌø r k ø j ˈæ n i ŋ",
+				"b ˈi r",
+				"ˈi l i",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Gyzyl",
+				"kitap"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ɡ ˈɯ ð ɯ ɫ",
+				"k ˈi t ɑː p"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Çep",
+				"aÿagyny",
+				"gowy",
+				"ulanÿan",
+				"Welsli",
+				"futbolist",
+				"futbol",
+				"kariÿerasynda",
+				"diñe",
+				"Mançester",
+				"Ýunaýtediñ",
+				"formasyny",
+				"geÿdi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t͡ʃ ˈe p",
+				"ˌɑ j ɑ ʁ ˈɯ n ɯ",
+				"ɡ ˈo β ʊ",
+				"ʊ ɫ ˈo n θ ɑ n",
+				"β ˈe l θ l i",
+				"f ˌʊ t β ˈo ɫ i θ θ",
+				"f ˌʊ t β o ɫ",
+				"q ˌɑ r i θ ˌe r ɑ θ ˈɯ n n ɑ",
+				"d ˈi ɲ e",
+				"m ɑ n t͡ʃ ˈe θ θ e r",
+				"j ˌʊ n o j t ˈe d i ŋ",
+				"f ˌo r m o θ ˈʊ n ʊ",
+				"ɡ ˈe j d i",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bangladeş"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"b ɑ n ʁ ɫ ˈɑ d e ʃ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Halkara",
+				"Futbol",
+				"taryh",
+				"we",
+				"hasabat",
+				"federasýasy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"x ɑ ɫ q ˈɑː r ɑ",
+				"f ˌʊ t β o ɫ",
+				"t ˈɑ r ɯ x",
+				"β ˈe",
+				"x ɑ θ ˈɑ β ɑ t",
+				"f ˌe d e r ɑ θ j ˈɑ θ ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Isa",
+				"Mesih",
+				"Hudaýyň",
+				"Ogludyr",
+				",",
+				"ýöne",
+				"Hudaý",
+				"däldir",
+				"we",
+				"Ondan",
+				"öň",
+				"dünýäde",
+				"doglan",
+				"däldir"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈi θ ɑ",
+				"m ˈe θ i h",
+				"x ʊ d ˈo j ɯ ŋ",
+				"o ʁ ɫ ˈʊ d ʊ r",
+				",",
+				"j ˈœː n œ",
+				"x ˈʊ d o j",
+				"d ˈæ l l i r",
+				"β ˈe",
+				"ˈo n n o n",
+				"ˈœ ŋ",
+				"d ø n j ˈæː d e",
+				"d ˈo ʁ ɫ o n",
+				"d ˈæ l l i r"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				".af",
+				"''",
+				"'",
+				"-",
+				"Owganystanyň",
+				"Internet",
+				"kody",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ˈɑː f",
+				"",
+				"'",
+				"-",
+				"ˌo β ʁ o n ʊ θ θ ˈɑ n ɯ ŋ",
+				"i n t ˈe r n e t",
+				"q ˈo d ʊ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Amyderýa"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"ˌɑ m ɯ d ˈe r j ɑ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Iň",
+				"uly",
+				"şäheri",
+				"Ýangon"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5
+			],
+			"epi_tokens": [
+				"ˈi ŋ",
+				"ˈʊ ɫ ʊ",
+				"ʃ æ h ˈe r i",
+				"j ˈɑ n ʁ o n"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Babarap",
+				"''",
+				"'",
+				"—",
+				"Türkmenistanyň",
+				"Gökdepe",
+				"şäherçesinde",
+				"ýerleşýän",
+				"oba",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"b ɑ β ˈɑ r ɑ p",
+				"",
+				"'",
+				"k ɑ ɾ ɴ",
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"ɡ œ k d ˈœ p œ",
+				"ʃ ˌæ h e r t͡ʃ e θ ˈi n n e",
+				"j e r l ˈe ʃ j æ n",
+				"ˈoː β o",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Arap",
+				"dili"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ˈɑ r ɑ p",
+				"d ˈi l i"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Romen",
+				"Gari"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"r ˈo m e n",
+				"ɡ ˈɑ r i"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Türkmensähra"
+			],
+			"ner_tags": [
+				1
+			],
+			"epi_tokens": [
+				"t ˌø r k m œ n θ ˈæ h r ɑ"
+			],
+			"epi_ner_tags": [
+				1
+			]
+		},
+		{
+			"tokens": [
+				"Ebu",
+				"Bekir",
+				"es-Suly",
+				"-",
+				"arap",
+				"şahyry",
+				",",
+				"alym",
+				",",
+				"küştçi",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈe β ʊ",
+				"b ˈe k i r",
+				"e θ θ ˈʊ ɫ ʊ",
+				"-",
+				"ˈɑ r ɑ p",
+				"ʃ ɑ x ˈɯ r ɯ",
+				",",
+				"ˈɑː ɫ ɯ m",
+				",",
+				"k ˈø ʃ t͡ʃ t͡ʃ ø",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bereket"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"b e r ˈe k e t"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Daniel",
+				"Defo"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"d ˈɑ n iː l",
+				"d ˈe f ˌo"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"HTTU",
+				"Aşgabat"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"h t t ˈʊ",
+				"ɑ ʃ ʁ ˈɑ β ɑ t"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Giresun",
+				"(",
+				"il",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɡ i r ˈe θ ʊ n",
+				"(",
+				"ˈi l",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Oňa",
+				"türkmenler",
+				"Mäne",
+				"baba",
+				"diýýärler",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈo ŋ o",
+				"t ø r k m ˈœ n l œ r",
+				"m ˈæ n e",
+				"b ˈɑː β ɑ",
+				"d i j j ˈæ r l e r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Durdy",
+				"Törrük",
+				"''",
+				"'",
+				"Türkmensähranyň",
+				"at",
+				"gazanan",
+				"halypa",
+				"bagşylaryndan",
+				"biridir",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"d ˈʊ r d ʊ",
+				"t ˈœ r r ø k",
+				"",
+				"'",
+				"t ˌø r k m œ n θ æ h r ˈɑ n ɯ ŋ",
+				"ˈɑː t",
+				"ɡ ɑ ð ˈɑ n ɑ n",
+				"x ɑ ɫ ˈɯ p ɑ",
+				"b ˌɑ ʁ ʃ ɯ ɫ ɑ r ˈɯ n n ɑ n",
+				"b i r ˈi d i r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ýann",
+				"M'wila"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"j ˈɑ n n",
+				"m β ˈi l ɑ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Başga",
+				"wagt",
+				"bolsa",
+				"Afrikada",
+				"haýwanlary",
+				"awlap",
+				",",
+				"Kubada",
+				"balyk",
+				"tutup",
+				"ýaşapdyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈɑ ʃ ʁ ɑ",
+				"β ˈɑ ʁ t",
+				"b ˈo ɫ θ o",
+				"ɑ f r ˌi k ˈɑ d ɑ",
+				"x ˌɑ j β ɑ n ɫ ˈɑ r ɯ",
+				"ˈo β l ɑː p",
+				",",
+				"q ʊ β ˈo d o",
+				"b ˈɑː ɫ ɯ q",
+				"t ˈʊ t ʊ p",
+				"j ɑ ʃ ˈɑ p d ɯ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Beşiktaş",
+				"Jimnastik",
+				"Topary",
+				"''",
+				"'",
+				"hazirki",
+				"wagtda",
+				"Türkiýe",
+				"Futbol",
+				"Ligasy'nda",
+				"basleşige",
+				"dowam",
+				"edyar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"b e ʃ ˈi k t ɑ ʃ",
+				"d͡ʒ i m n ˈɑ θ θ i k",
+				"t o p ˈo r ʊ",
+				"",
+				"'",
+				"x ɑ ð ˈi r k i",
+				"β ˈɑ ʁ t d ɑ",
+				"t ø r k ˈø j e",
+				"f ˌʊ t β o ɫ",
+				"l ˌi ʁ ɑ θ ˈɯ n n ɑ",
+				"b ˌɑ θ l e ʃ ˈi ʁ e",
+				"d ˈo β ɑː m",
+				"e d ˈɯ ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Halkara",
+				"Basketbol",
+				"Asossasiýasy"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"x ɑ ɫ q ˈɑː r ɑ",
+				"b ɑ θ k ˈe t β o ɫ",
+				"ˌɑ θ o θ θ ˌo θ i j ˈɑ θ ɯ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"3nji",
+				"orun",
+				":",
+				"Worskla",
+				"FC",
+				"(",
+				"5,000",
+				"$",
+				"sowgat",
+				"aldy",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"θ ˈi",
+				"ˈo r ʊ n",
+				":",
+				"β ˈo r θ k ɫ ɑ",
+				"f k",
+				"(",
+				"ʃ ˈo t t ˈi",
+				"ʃ ˈe",
+				"θ ˈo β ʁ o t",
+				"ˈɑ ɫ ɫ ɯ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fýodor",
+				"Dostoýewskiý"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"f j ˌo d o r",
+				"d ˌo θ θ o j ˈœ β θ k i j"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Jon",
+				"Adams",
+				"(",
+				"1735-1826",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d͡ʒ ˈo n",
+				"ˈɑ d ɑ m θ",
+				"(",
+				"ˌe m m e m ˈe r ð e θ",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Daşkent"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"d ˈɑ ʃ k e n t"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Türkmenistanyň",
+				"Döwlet",
+				"migrasiýa",
+				"gullugy",
+				"''",
+				"'",
+				"-",
+				"Türkmenistanyň",
+				"migrasiýa",
+				"ulgamyny",
+				"düzgünleşdirmek",
+				",",
+				"migrasiýa",
+				"babatdaky",
+				"döwlet",
+				"syýasatynyň",
+				"durmuşa",
+				"geçirilmegini",
+				",",
+				"Türkmenistanyň",
+				"migrasiýa",
+				"meseleleri",
+				"boýunça",
+				"halkara",
+				"borçnamalarynyň",
+				"berjaý",
+				"edilmegini",
+				"üpjün",
+				"edýän",
+				"döwlet",
+				"dolandyryş",
+				"gullugy",
+				"bolup",
+				"durýar",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"d ˈœ β l œ t",
+				"m ˌi ʁ r ɑ θ ˈi j ɑ",
+				"ɡ ʊ ɫ ɫ ˈʊ ʁ ʊ",
+				"",
+				"'",
+				"-",
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"m ˌi ʁ r ɑ θ ˈi j ɑ",
+				"ˌʊ ɫ ʁ o m ˈʊ n ʊ",
+				"d ˌø ð ʁ ø n l ˌœ ʃ d ø r m ˈe k",
+				",",
+				"m ˌi ʁ r ɑ θ ˈi j ɑ",
+				"b ˌɑ β ɑ t d ˈɑː q ɯ",
+				"d ˈœ β l œ t",
+				"θ ˌɯ j ɑ θ ɑ t ˈɯ n ɯ ŋ",
+				"d ʊ r m ˈʊ ʃ o",
+				"ɡ ˌe t͡ʃ i r ˌi l m e ʁ ˈi n i",
+				",",
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"m ˌi ʁ r ɑ θ ˈi j ɑ",
+				"m ˌe θ e l e l ˈe r i",
+				"b o j ˈʊ n t͡ʃ o",
+				"x ɑ ɫ q ˈɑː r ɑ",
+				"b ˌo r t͡ʃ n ɑ m ˌɑ ɫ ɑ r ˈɯ n ɯ ŋ",
+				"b ˈe r d͡ʒ ɑ j",
+				"ˌe d i l m e ʁ ˈi n i",
+				"ø p d͡ʒ ˈø n",
+				"ˈe d j æː n",
+				"d ˈœ β l œ t",
+				"d ˌo ɫ o n n ˈʊ r ɯ ʃ",
+				"ɡ ʊ ɫ ɫ ˈʊ ʁ ʊ",
+				"b ˈo ɫ ʊ p",
+				"d ˈʊ r j ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wiliam",
+				"Leýn",
+				"Kreýg"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"β i l ˈi ɑ m",
+				"l ˈe j n",
+				"k r ˈe j ʁ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kongo",
+				"Respublikasy"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"q ˈo n ʁ o",
+				"r ˌe θ p ʊ β l i k ˈɑ θ ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Russiýa",
+				"Premýer",
+				"Liga"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"r ʊ θ θ ˈi j ɑ",
+				"p r ˈe m j e r",
+				"l ˈi ʁ ɑ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Taekwando"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"t ˌɑ e k β ˈɑ n n o"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Kakasy",
+				":",
+				"Çagry",
+				"beg",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"q ɑ q ˈɑ θ ɯ",
+				":",
+				"t͡ʃ ˈɑ ʁ r ɯ",
+				"b ˈe ʁ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Paýtagt",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p ˈɑ j t ɑ ʁ t",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tupac",
+				"Shakur"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"t ˈʊ p o q",
+				"ʃ ˈɑ q ʊ r"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Mämmetweli",
+				"Kemine"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"m ˌæ m m e t β ˈe l i",
+				"k e m ˈi n e"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bagrisskiý",
+				"Eduard",
+				"Georgiewiç",
+				"-",
+				"rus",
+				"sowet",
+				"şahyry"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ɑ ʁ r ˈi θ θ k i j",
+				"e d ˈʊ ɑ r d",
+				"ɡ ˌe o r ʁ i ˈœ β i t͡ʃ",
+				"-",
+				"r ˈʊ θ",
+				"θ ˈo β e t",
+				"ʃ ɑ x ˈɯ r ɯ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Beyoncé",
+				"Knowles"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"b ˌe ɯ ˈo n t͡s e",
+				"k n ˈo β l œ θ"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"**",
+				"Belarus",
+				"döwlet",
+				"uniwersiteti"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ˈɑ",
+				"b e l ˈɑ r ʊ θ",
+				"d ˈœ β l œ t",
+				"ˌʊ n i β ˌe r θ i t ˈe t i"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				".ru"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"r ˈʊ"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Döwlet",
+				"(",
+				"Eflatun",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"d ˈœ β l œ t",
+				"(",
+				"e f ɫ ˈɑ t ʊ n",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ruslan",
+				"Mingazow"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"r ˈʊ θ ɫ o n",
+				"m i n ʁ ˈɑ ð o β"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Bagdat",
+				"''",
+				"'",
+				"—",
+				"şäher",
+				",",
+				"Yrak",
+				"respublikasynyň",
+				"paýtagty",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"b ˈɑ ʁ d ɑ t",
+				"",
+				"'",
+				"k ɑ ɾ ɴ",
+				"ʃ ˈæ h e r",
+				",",
+				"ˈɯ r ɑ q",
+				"r ˌe θ p ʊ β l ˌi k ɑ θ ˈɯ n ɯ ŋ",
+				"p ɑ j t ˈɑ ʁ t ɯ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				".cn"
+			],
+			"ner_tags": [
+				3
+			],
+			"epi_tokens": [
+				"k n"
+			],
+			"epi_ner_tags": [
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Ruanda"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"r ʊ ˈɑ n n o"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Magtymguly",
+				"adyndaky",
+				"Türkmen",
+				"döwlet",
+				"uniwersiteti"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"m ˌɑ ʁ t ɯ m ʁ ˈʊ ɫ ʊ",
+				"ˌɑ d ɯ n d ˈɑː q ɯ",
+				"t ˈø r k m œ n",
+				"d ˈœ β l œ t",
+				"ˌʊ n i β ˌe r θ i t ˈe t i"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mawritaniýa"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"m ˌo β r i t ɑ n ˈi j ɑ"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Rubin",
+				"FT"
+			],
+			"ner_tags": [
+				3,
+				4
+			],
+			"epi_tokens": [
+				"r ˈʊ β i n",
+				"f t ˈe"
+			],
+			"epi_ner_tags": [
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Rual",
+				"Amundsen"
+			],
+			"ner_tags": [
+				1,
+				2
+			],
+			"epi_tokens": [
+				"r ˈʊ ɑ ɫ",
+				"ɑ m ˈʊ n n θ e n"
+			],
+			"epi_ner_tags": [
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Gazagystan",
+				"respublikasinda",
+				"yerlesiyar",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ ˌɑ ð ɑ ʁ ˈɯ θ θ ɑ n",
+				"r ˌe θ p ʊ β l ˌi k ɑ θ ˈi n n ɑ",
+				"ˌy e r l e θ ˈi j ɑ r",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bu",
+				"şäher",
+				"Türkmensähra",
+				"sebitiniň",
+				"iň",
+				"günbatarynda",
+				"ýerleşýär",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈʊː",
+				"ʃ ˈæ h e r",
+				"t ˌø r k m œ n θ ˈæ h r ɑ",
+				"θ ˌe β i t ˈi n i ŋ",
+				"ˈi ŋ",
+				"ɡ ˌø n m ɑ t ɑ r ˈɯ n n ɑ",
+				"j e r l ˈe ʃ j æː r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bu",
+				"bazar",
+				"Merkezi",
+				"Aziýanyñ",
+				"iñ",
+				"uly",
+				"5-nji",
+				"bazarydyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈʊː",
+				"b ˈɑ ð ɑː r",
+				"m e r k ˈe ð i",
+				"ˌɑ ð i j ˈɑ n ɯ n",
+				"ˈiː n",
+				"ˈʊ ɫ ʊ",
+				"ð ˈɛ n d͡ʒ i",
+				"b ˌɑ ð ɑ r ˈɯ d ɯ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Köýtendag",
+				"etraby"
+			],
+			"ner_tags": [
+				5,
+				6
+			],
+			"epi_tokens": [
+				"k œ j t ˈe n n ɑ ʁ",
+				"e t r ˈɑ β ɯ"
+			],
+			"epi_ner_tags": [
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Hamzaýew",
+				"Maşýan",
+				"(",
+				"1915-1965",
+				")",
+				"—türkmen",
+				"dilçileriniň",
+				"görnüklileriniň",
+				"biri",
+				",",
+				"Türkmenistanyň",
+				"Ylymlar",
+				"akademiýasynyň",
+				"habarçy-agzasy",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"x ɑ m ð ˈɑ j œ β",
+				"m ˈɑ ʃ j ɑ n",
+				"(",
+				"ˌe n t e r m ˈe θ θ",
+				")",
+				"t ˈø r k m œ n",
+				"d ˌi l t͡ʃ i l e r ˈi n i ŋ",
+				"ɡ ˌœ r n ø k l ˌø l œ r ˈø n ø ŋ",
+				"b ˈiː r i",
+				",",
+				"t ˌø r k m œ n ø θ θ ˈɑ n ɯ ŋ",
+				"ɯ ɫ ˈɯ m ɫ ɑ r",
+				"ˌɑ q ɑ d ˌe m i j ɑ θ ˈɯ n ɯ ŋ",
+				"x ˌɑ β ɑ r t͡ʃ ˌɯ ɑ ʁ ð ˈɑ θ ɯ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wýetnam"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"β j ˈe t n ɑ m"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		},
+		{
+			"tokens": [
+				"Piri",
+				"Reis",
+				"bu",
+				"kartalary",
+				"öz",
+				"daýysy",
+				"Kemal",
+				"Reis",
+				"bilen",
+				"Ortaýer",
+				"deňzinde",
+				"syýahat",
+				"eden",
+				"wagtlarynda",
+				"çyzypdyr",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p ˈi r i",
+				"r ˈe i θ",
+				"b ˈʊː",
+				"q ˌɑ r t ɑ ɫ ˈɑ r ɯ",
+				"ˈœː ð",
+				"d ɑ j ˈɯ θ ɯ",
+				"k ˈe m ɑ ɫ",
+				"r ˈe i θ",
+				"b ˈi l e n",
+				"o r t ˈo j e r",
+				"d e ŋ ð ˈi n n e",
+				"θ ɯ j ˈɑ x ɑ t",
+				"ˈe d e n",
+				"β ˌɑ ʁ t ɫ ɑ r ˈɯ n n ɑ",
+				"t͡ʃ ɯ ð ˈɯ p d ɯ r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Müsür"
+			],
+			"ner_tags": [
+				5
+			],
+			"epi_tokens": [
+				"m ˈø θ ø r"
+			],
+			"epi_ner_tags": [
+				5
+			]
+		}
+	]
+}
