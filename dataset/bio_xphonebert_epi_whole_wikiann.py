@@ -8,6 +8,7 @@ from datasets import load_dataset
 class BIOXphoneBERTEpiWikiAnnDataset(Dataset):
     def __init__(self, lang, split, max_seq_len, ratio=100):
         super(BIOXphoneBERTEpiWikiAnnDataset, self).__init__()
+        self.lang = lang
         # High-resource languages
         if lang == 'english':
             self.file = json.load(open('./data/english_wikiann.json'))
@@ -124,9 +125,10 @@ class BIOXphoneBERTEpiWikiAnnDataset(Dataset):
 
         ##### Epi token pre-process #####
         for i, ele in enumerate(orig_epi_tokens):
-            tmp_ipa = self.ipa_tokenizer(ele)
-            epi_tokens.append(tmp_ipa)
-            ch_input_ids = self.tokenizer(tmp_ipa, return_tensors="pt")
+            if self.lang not in ['esperanto', 'khmer', 'turkmen', 'amharic', 'maltese', 'oriya', 'sanskrit', 'interlingua', 'guarani', 'belarusian', 'kurdish', 'sindhi']:
+                ele = self.ipa_tokenizer(ele)
+                epi_tokens.append(ele)
+            ch_input_ids = self.tokenizer(ele, return_tensors="pt")
             real_ner = orig_epi_ner_tags[i]
             len_ch_input_ids = len(ch_input_ids['input_ids'][0])
             if len_ch_input_ids == 3:
