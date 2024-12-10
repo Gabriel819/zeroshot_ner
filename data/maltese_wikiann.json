@@ -1,0 +1,13297 @@
+{
+	"id_mapping": {
+		"0": "O",
+		"1": "B-PER",
+		"2": "I-PER",
+		"3": "B-ORG",
+		"4": "I-ORG",
+		"5": "B-LOC",
+		"6": "I-LOC"
+	},
+	"validation": [
+		{
+			"tokens": [
+				"232",
+				"–",
+				"Sierra",
+				"Leone"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"t ˌe b ə l ˈe t ə",
+				"e t ɹ ˈaː",
+				"s iː ˈe r ɹ aː",
+				"l e ˈo n e"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Huwa",
+				"għamel",
+				"id-debutt",
+				"internazzjonali",
+				"tiegħu",
+				"Malta",
+				"fl-2012",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈuː a",
+				"ˈaː m e l",
+				"ˌɪ d eː d e ˈe b u tː",
+				"ˌɪ n t e r n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t ˌiː uː",
+				"m ˈa l t a",
+				"ˌe f f e ˈe l l e u ˈə",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-Mosta",
+				"tinsab",
+				"fuq",
+				"ir-rotta",
+				"prinċipali",
+				"li",
+				"minn",
+				"il-Belt",
+				"Valletta",
+				"tagħti",
+				"għaċ-Ċirkewwa",
+				"u",
+				"kuljum",
+				"jgħaddi",
+				"minnha",
+				"ammont",
+				"kbir",
+				"ta’",
+				"traffiku",
+				"li",
+				"jkun",
+				"qed",
+				"jaqsam",
+				"il-gżira",
+				"min-naħa",
+				"għall-oħra",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɪ l m ˈo s t a",
+				"t ˈɪ n s a p",
+				"f u ˈə",
+				"ɪ r ɹ ˈoː tː a",
+				"p ɹ ˌɪ n t͡ʃ ə i p ˈa l ɪ",
+				"l ˈɪ",
+				"m ˈi n n",
+				"ɪ l b ˈə l t",
+				"v a l l ˈe tː a",
+				"t ˈaː t ɪ",
+				"ˌa t͡ʃ ə t͡ʃ ə ˌi r k e͡u ˈu a",
+				"ˈu",
+				"k uː l ˈi͡u u m",
+				"i͡uː ˈa dː ɪ",
+				"m ˈɪ n n n a",
+				"ˈa m m o n t",
+				"k ˈe b iː r",
+				"t ˈa",
+				"t ɹ aː f f ˈɪ k uː",
+				"l ˈɪ",
+				"ˈi͡u k uː n",
+				"ˈe d e",
+				"ˌi a ˈə s a m",
+				"ɪ l ɡ z ˈə ɪ ɹ ˌaː",
+				"m ɪ n n ˈa h a",
+				"a l l ˈo h ɹ aː",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Barċellona",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"b ˌa r t͡ʃ ə e l l ˈo n a",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"2002",
+				"2006",
+				"–",
+				"''Ma",
+				"kkwalifikatx",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˈe i m p",
+				"t ˈe i͡u ˈə",
+				"e t ɹ ˈaː",
+				"m ˈa",
+				"k ˌe k e ˌu a l ˌɪ f ɪ k ˈa t ʃ e",
+				""
+			],
+			"epi_ner_tags": [
+				3,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Superliga",
+				"Albaniża",
+				"(",
+				"1",
+				"livell",
+				")",
+				"'",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"s ˌu p e r l ˈɪ ɡ a",
+				"ˌa l b a n ˈɪ z a",
+				"(",
+				"ˈe t ɹ e",
+				"l ˈɪ v e l l",
+				")",
+				"'",
+				""
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Patri",
+				"Marjanu",
+				"Vella",
+				"-",
+				"poeta"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p ˈa t ɹ ɪ",
+				"m ˌa ɹ i ˈa n uː",
+				"v ˈe l l a",
+				"-",
+				"p o ˈe t a"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Borussia",
+				"Dortmund",
+				"(",
+				"1P",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˌo ɹ u s s ˈɪ a",
+				"d ˌe o r t m ˈu n d e",
+				"(",
+				"ˌe p ˈe",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Stazzjoni",
+				"uffiċjali",
+				"fuq",
+				"YouTube"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"s t ˌa t s e t s ˌe i ˈo n ɪ",
+				"ˌu f f ɪ t͡ʃ ə i ˈa l ɪ",
+				"f u ˈə",
+				"y ˈo u t u b ˈə"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"Grawnd",
+				"Nazzjonali",
+				"Ta",
+				"'",
+				"Qali"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɡ ɹ aː ˈu n d e",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t ˈaː",
+				"'",
+				"ˈa l ɪ"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Borussia",
+				"Dortmund",
+				"(",
+				"2P",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˌo ɹ u s s ˈɪ a",
+				"d ˌe o r t m ˈu n d e",
+				"(",
+				"ˌe p ˈe",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"2006",
+				"–",
+				"L-ewwel",
+				"rawnd"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˈe i͡u ˈə",
+				"e t ɹ ˈaː",
+				"ˌe l e͡u ˈu e l",
+				"ɹ aː ˈu n d e"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Partit",
+				"Laburista",
+				"jew",
+				"PL",
+				"Joseph",
+				"Muscat",
+				";"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"p ˈa r t ɪ t",
+				"l ˌa b u ɹ ˈɪ s t a",
+				"ˈi͡e uː",
+				"p ˌe ˈe l l e",
+				"i ˈo s e pː",
+				"m ˈu s c a t",
+				";"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Royale",
+				"Union",
+				"Saint-Gilloise"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ɹ ˌoː y ˈa l e",
+				"u n ˈɪ o n",
+				"s ˌa ɪ n t ɡ ˌiː l l o ˈɪ s e"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Liebru",
+				"tas-savana",
+				"Afrikana"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"l iː b ɹ ˈə u",
+				"t ˌa s s a v ˈa n a",
+				"ˌa f ɹ ɪ k ˈa n a"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Ludwig",
+				"van",
+				"Beethoven"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"l ˌu d e ˈu ɪ k",
+				"v ˈa n",
+				"b ˈə e tː ˌo v e n"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Il-Maġi",
+				"huma",
+				"deskritti",
+				"bħala",
+				"``",
+				"jintefgħu",
+				"fl-art",
+				"''",
+				",",
+				"``",
+				"jinżlu",
+				"għar-rkoptejhom",
+				"''",
+				"jew",
+				"``",
+				"jinklinaw",
+				"''",
+				"fil-qima",
+				"quddiem",
+				"Ġesù",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"ɪ l m ˈa d͡ʒ ɪ",
+				"ˈu m a",
+				"d ˌe e s k e ɹ ˈɪ tː ɪ",
+				"b h ˈa l a",
+				"ˈə",
+				"ˌi͡u ɪ n t ˈe f f u",
+				"ˈe f f e ˈe l l a r t",
+				"",
+				",",
+				"ˈə",
+				"ˌi͡u ɪ n z ˈə l u",
+				"ˌa r ɹ c o p t e ˈi͡uː o m",
+				"",
+				"ˈi͡e uː",
+				"ˈə",
+				"ˌi͡u ɪ n k ˌe l ɪ n ˈa u",
+				"",
+				"f ɪ l ˈə ɪ m ˌa",
+				"ˈə u d ˌiː m",
+				"d͡ʒ ˈe s u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Senġi",
+				"tal-blat",
+				"tal-Punent"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"s ˈe n d͡ʒ ɪ",
+				"t ˈa l b l a t",
+				"t a l p ˈu n e n t"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"irqiq",
+				"ta",
+				"'",
+				"Tschudi"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"ɪ ɹ ˈə ɪ ˈə",
+				"t ˈaː",
+				"'",
+				"t s cː u d ˈe ɪ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Kamil",
+				"Mikulčík",
+				"u",
+				"Nela",
+				"Pocisková"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"k ˈa m ɪ l",
+				"m ˌɪ k uː l t͡ʃ ˈiː k e",
+				"ˈu",
+				"n ˈe l a",
+				"p ˌo c ɪ s c ˈo v aː"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Anastasju",
+				"Cuschieri",
+				"-",
+				"Il-Poeta",
+				"tal-Madonna"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌa n a s t a s ˈi͡u u",
+				"c u s cː ˈiː ɹ ɪ",
+				"-",
+				"ˌɪ l p o ˈe t a",
+				"t ˌa l m a d e ˈo n n a"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ir-rivali",
+				"prinċipali",
+				"tal-klabb",
+				"huma",
+				"Skënderbeu",
+				"u",
+				"Tirana",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ r ɹ ɪ v ˈa l ɪ",
+				"p ɹ ˌɪ n t͡ʃ ə i p ˈa l ɪ",
+				"t a l k ˈe l a pː",
+				"ˈu m a",
+				"s k ˌə n d e e r b ˈə u",
+				"ˈu",
+				"t ɪ ɹ ˈaː n a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Montenegro",
+				"fil-Festival",
+				"tal-Eurovision"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"m ˌo n t e n ˈe ɡ ɹ oː",
+				"f ˌɪ l f e s t ˈɪ v a l",
+				"t ˌa l e ˌu ɹ oː v ɪ s ˈɪ o n"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Ħaż-Żebbuġ",
+				"(",
+				"Città",
+				"Rohan",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"h a z ˈə z e bː ˌu t͡ʃ",
+				"(",
+				"c ˈɪ tː a",
+				"ɹ ˈoː a n",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Carlos",
+				"Eugênio",
+				"Simon"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"c ˈa r l o s",
+				"ˌe͡uː ɡ eː n ˈɪ o",
+				"s ˈɪ m o n"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"381",
+				"–",
+				"Serbja",
+				"u",
+				"Montenegro"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ˈe k k a",
+				"e t ɹ ˈaː",
+				"s e r b ˈi a",
+				"ˈu",
+				"m ˌo n t e n ˈe ɡ ɹ oː"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"*Is-Sinjorina",
+				"Agatha",
+				"Barbara",
+				"(",
+				"1982-1987",
+				")"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ s s ɪ n ˌi o ɹ ˈɪ n a",
+				"a ɡ ˈa tː a",
+				"b a r b ˈa ɹ aː",
+				"(",
+				"ˌe f f e k ˈoː ɹ e k ˈə n e",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"It-tim",
+				"li",
+				"jikklassifika",
+				"fir-raba",
+				"'",
+				"post",
+				"jikkompeti",
+				"fi",
+				"''play-off",
+				"''",
+				"fuq",
+				"żewġ",
+				"logħbiet",
+				"(",
+				"waħda",
+				"ġewwa",
+				"u",
+				"l-oħra",
+				"barra",
+				"minn",
+				"daru",
+				")",
+				"kontra",
+				"l-ħames",
+				"klassifikat",
+				"CONMEBOL",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"ˈɪ tː ɪ m",
+				"l ˈɪ",
+				"ˌi͡u ɪ k ˌe k e l ˌa s s ɪ f ˈɪ k a",
+				"f ɪ r ɹ ˈaː b a",
+				"'",
+				"p ˈo s t",
+				"ˌi͡u ɪ k ˌe c o i m p ˈe t ɪ",
+				"f ˈiː",
+				"p l a ˈy o f f",
+				"",
+				"f u ˈə",
+				"z ˈe u t͡ʃ",
+				"l ˌoː b i ˈə t",
+				"(",
+				"ˌu a h d ˈe a",
+				"d͡ʒ e͡u ˈu a",
+				"ˈu",
+				"l ˈo h ɹ aː",
+				"b ˈa r ɹ aː",
+				"m ˈi n n",
+				"d e ˈa ɹ u",
+				")",
+				"c ˈo n t ɹ a",
+				"l h ˈa m e s",
+				"k ˌe l a s s ɪ f ˈɪ k a t",
+				"c o n m ˈe b o l",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"George",
+				"Abela",
+				"kiseb",
+				"200",
+				"vot",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ i͡e ˈo r ɡ i͡e",
+				"a b ˈə l a",
+				"k ˈiː s e p",
+				"t ˈe n n o",
+				"v ˈo t",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-karriera",
+				"tiegħu",
+				"qattagħha",
+				"Milan",
+				",",
+				"fejn",
+				"matul",
+				"dan",
+				"iż-żmien",
+				"minbarra",
+				"l-ħafna",
+				"unuri",
+				"miksuba",
+				",",
+				"hu",
+				"sar",
+				"l-iktar",
+				"plejer",
+				"li",
+				"għamel",
+				"dehriet",
+				"kemm",
+				"għat-tim",
+				"Milanist",
+				",",
+				"kemm",
+				"Serie",
+				"A",
+				"u",
+				"anki",
+				"tim",
+				"nazzjonali",
+				"Taljan",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l k a r ɹ iː ˈe ɹ aː",
+				"t ˌiː uː",
+				"a tː ˈaː a",
+				"m ˈɪ l a n",
+				",",
+				"f ˈe i͡u n",
+				"m ˈa t u l",
+				"d ˈa n",
+				"ɪ z ˈə z ˈə m iː n",
+				"m i n b ˈaː ɹ aː",
+				"l h ˈa f n a",
+				"u n ˈuː ɹ ɪ",
+				"m ˌɪ k e s ˈu b a",
+				",",
+				"ˈu",
+				"s ˈa r",
+				"l ɪ k ˈe t a r",
+				"p l ˈe i͡e r",
+				"l ˈɪ",
+				"ˈaː m e l",
+				"d ˌe eː ɹ ˈiː e t",
+				"k ˈe m m",
+				"ˈa tː ɪ m",
+				"m ɪ l ˈa n ɪ s t",
+				",",
+				"k ˈe m m",
+				"s e ɹ ˈiː e",
+				"ˈa",
+				"ˈu",
+				"ˈa n k iː",
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t a l ˈi a n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"****Sottoġeneru",
+				"Tupaia",
+				"''",
+				"(",
+				"Raffles,1821",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s ˌo tː o d͡ʒ e n ˈe ɹ u",
+				"t ˌu p a ˈɪ a",
+				"",
+				"(",
+				"ɹ ˈaː f f l e s s e n k ˈaː p ˈe",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Serbja",
+				"fil-Festival",
+				"tal-Eurovision"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"s e r b ˈi a",
+				"f ˌɪ l f e s t ˈɪ v a l",
+				"t ˌa l e ˌu ɹ oː v ɪ s ˈɪ o n"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Stazzjon",
+				"uffiċjali",
+				"fuq",
+				"YouTube"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3
+			],
+			"epi_tokens": [
+				"s t ˌa t s e t s e ˈi o n",
+				"ˌu f f ɪ t͡ʃ ə i ˈa l ɪ",
+				"f u ˈə",
+				"y ˈo u t u b ˈə"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Victoria",
+				"Hotspurs",
+				"FC"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"v ˌɪ c t o ɹ ˈɪ a",
+				"ˈo t s p u r s",
+				"ˌe f f e k ˈa"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"ġurdien",
+				"ta",
+				"'",
+				"denbu",
+				"oħxon",
+				"ta",
+				"'",
+				"Tate"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"d͡ʒ u r d ˈe iː n",
+				"t ˈaː",
+				"'",
+				"d e ˈe n b u",
+				"o h ʃ ˈe o n",
+				"t ˈaː",
+				"'",
+				"t ˈa t e"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Nicolaus",
+				"II",
+				"Bernoulli",
+				"(",
+				"1695–1726",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"n ɪ c ˈo l a͡u s",
+				"ˈɪ ɪ",
+				"b ˈə r n o ˌu l l ɪ",
+				"(",
+				"ˌe n n e t ˈe f f e",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Tim",
+				"nazzjonali",
+				"tal-futbol",
+				"tal-Awstrija"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t a l f ˈu t b o l",
+				"t ˌa l a ˌu s t ɹ ɪ ˈi a"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Attwalment",
+				",",
+				"il-klabb",
+				"jikkompeti",
+				"Ewwel",
+				"Diviżjoni",
+				"Belġjana",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ˌa tː u ˈa l m e n t",
+				",",
+				"ɪ l k ˈe l a pː",
+				"ˌi͡u ɪ k ˌe c o i m p ˈe t ɪ",
+				"e͡u ˈu e l",
+				"d ˌe ɪ v ɪ z ˈə i ˌo n ɪ",
+				"b ˈə l d͡ʒ i ˌa n a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Manchester",
+				"United",
+				"FC"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"m a n cː ˈe s t e r",
+				"ˌu n ɪ t ˈe d e",
+				"ˌe f f e k ˈa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dun",
+				"Ġorġ",
+				"Preca",
+				"``",
+				"dejjem",
+				"xtaq",
+				"li",
+				"s-soċji",
+				"jkunu",
+				"jgħallmu",
+				"fl-iskejjel",
+				".",
+				"''"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d ˈe u n",
+				"d͡ʒ ˈo r t͡ʃ",
+				"p ɹ ˈe c a",
+				"ˈə",
+				"d ˌe e ˈiː e m",
+				"ʃ ˌe t a ˈə",
+				"l ˈɪ",
+				"ˌe s s o t͡ʃ ə ˈi͡u ɪ",
+				"i͡u k ˈuː n uː",
+				"i͡uː ˈa l l m u",
+				"ˌe f l ɪ s k e ˈiː e l",
+				".",
+				""
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-kuntratt",
+				"tiegħu",
+				"spiċċa",
+				"fl-2012",
+				",",
+				"li",
+				"ppermettilu",
+				"jiffirma",
+				"ma",
+				"'",
+				"KV",
+				"Mechelen",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ɪ l k ˈuː n t ɹ aː tː",
+				"t ˌiː uː",
+				"s p ˌɪ t͡ʃ ə t͡ʃ ə ˌa",
+				"ˌe f f e ˈe l l e u ˈə",
+				",",
+				"l ˈɪ",
+				"pː ˌe r m e tː ˈɪ l u",
+				"ˌi͡u ɪ f f ˈɪ r m a",
+				"j ˈi s t a x",
+				"'",
+				"k ˌa v ˈe",
+				"m e cː ˈe l e n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jacky",
+				"Mathijssen",
+				"(",
+				"Diċ",
+				"2010–Mar",
+				"12",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌi a c k ˈe y",
+				"m ˌa tː ɪ ˈi͡u s s e n",
+				"(",
+				"d e ˈɪ t͡ʃ ə",
+				"t e j f t e j m ˈa r",
+				"d ˌe e t s ˈe e",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Nicolaus",
+				"I",
+				"Bernoulli",
+				"(",
+				"1687–1759",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"n ɪ c ˈo l a͡u s",
+				"ˈi",
+				"b ˈə r n o ˌu l l ɪ",
+				"(",
+				"ˌe ɡ i͡e k ˌiː e n n e ʃ ˈe t ə",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"*Dr.",
+				"Ċensu",
+				"Tabone",
+				"(",
+				"1989-1994",
+				")"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d ˌe e ˈe r ɹ e",
+				"t͡ʃ ə ˈe n s u",
+				"t a b ˈo n e",
+				"(",
+				"ˌe n t e k ˈaː f e ˈy ɔ",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"FC",
+				"Kuban",
+				"Krasnodar"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌe f f e k ˈa",
+				"k ˈuː b a n",
+				"k ˌe ɹ aː s n o d ˈe a r"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Istati",
+				"Uniti",
+				"l-famili",
+				"jeċċelebraw",
+				"din",
+				"il-festa",
+				"billi",
+				"jieklu",
+				"d-dundjan",
+				"."
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɪ s t ˈa t ɪ",
+				"u n ˈɪ t ɪ",
+				"ˈe l f a m ˌɪ l ɪ",
+				"ˌi͡e t͡ʃ ə t͡ʃ ə ˌe l e b ɹ ˈə a ˌu",
+				"d ˈe ɪ n",
+				"ɪ l f ˈe s t a",
+				"b ˈiː l l ɪ",
+				"ˌi͡u iː k ˈe l u",
+				"d ˌe e ˌu n d e ˈi a n",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Is-",
+				"''",
+				"'Serbja",
+				"''",
+				"'",
+				"daħlet",
+				"fil-Eurovision",
+				"għall-ewwel",
+				"darba",
+				"bħala",
+				"pajjiż",
+				"indipendenti",
+				"fl-edizzjoni",
+				"2007",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"ˈɪ s",
+				"",
+				"s e r b ˈi a",
+				"",
+				"'",
+				"d e ˈa h l e t",
+				"f ˌɪ l e ˌu ɹ oː v ɪ s ˈɪ o n",
+				"ˌa l l e͡u ˈu e l",
+				"d ˈa r r b a",
+				"b h ˈa l a",
+				"p ˌa iː ɪ z ˈə",
+				"ˌɪ n d e ˌɪ p e n d e ˈe n t ɪ",
+				"f l ˌe d e ˌɪ t s e t s ˌe i ˈo n ɪ",
+				"t ˈe iː ˈi m m e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tard",
+				"f'Awwissu",
+				"2011",
+				",",
+				"Mario",
+				"Been",
+				"tħabbar",
+				"bħala",
+				"kowċ",
+				"ġdid",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˈa r d e",
+				"f ˌa u u ˈɪ s s u",
+				"t ˈe n n e",
+				",",
+				"m a ɹ ˈɪ o",
+				"b ˈə e n",
+				"t h ˈa bː a r",
+				"b h ˈa l a",
+				"c o ˈu t͡ʃ ə",
+				"d͡ʒ d e ˈɪ d e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Grupp",
+				"F",
+				"Tazza",
+				"tad-Dinja",
+				"tal-Futbol",
+				"2006",
+				"''",
+				"'",
+				"li",
+				"saret",
+				"Ġermanja",
+				",",
+				"kien",
+				"jikkonsisti",
+				"minn",
+				"erba",
+				"'",
+				"timijiet",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ɡ ɹ ˈu pː",
+				"ˈe f f e",
+				"t ˌa t s e t s ˈe a",
+				"t ˌa d e ˌa d e ɪ n ˈi a",
+				"t a l f ˈu t b o l",
+				"t ˈe i͡u ˈə",
+				"",
+				"'",
+				"l ˈɪ",
+				"s ˈaː ɹ e t",
+				"d͡ʒ ˌe r m a n ˈi a",
+				",",
+				"ç ˈiː n",
+				"ˌi͡u ɪ k ˌe c o n s ˈɪ s t ɪ",
+				"m ˈi n n",
+				"ˈe r b a",
+				"'",
+				"t ˌɪ m ɪ ˈi͡u iː t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Jean",
+				"Parisot",
+				"de",
+				"la",
+				"Valette"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˈi͡e a n",
+				"p a ɹ ˈɪ s o t",
+				"d ˈe e",
+				"l ˈa",
+				"v a l ˈe tː e"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Dan",
+				"jiddistingwih",
+				"fundamentalment",
+				"minn",
+				"Mozart",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"d ˈa n",
+				"ˌi͡u ɪ dː ˌɪ s t ɪ n ɡ ˈu ɪː",
+				"f ˌu n d e ˌa m e n t ˈa l m e n t",
+				"m ˈi n n",
+				"m o t s ˈe a r t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Jista",
+				"'",
+				"jkun",
+				"li",
+				"Sofonisba",
+				"Anguissola",
+				"kellha",
+				"influwenza",
+				"fuq",
+				"il-karriera",
+				"tagħha",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈi s t a",
+				"'",
+				"ˈi͡u k uː n",
+				"l ˈɪ",
+				"s ˌo f o n ˈɪ s b a",
+				"ˌa n ɡ u ɪ s s ˈo l a",
+				"k ˈe l l l a",
+				"ˌɪ n f l u ˌu e n t s ˈe a",
+				"f u ˈə",
+				"ˌɪ l k a r ɹ iː ˈe ɹ aː",
+				"t a h ˌə a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Gareth",
+				"Bale",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ɡ ˈa ɹ e tː",
+				"b ˈa l e",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Tim",
+				"nazzjonali",
+				"tal-futbol",
+				"tal-Ingilterra"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t a l f ˈu t b o l",
+				"t ˌa l ɪ n ɡ iː l t ˈe r ɹ aː"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Lussemburgu",
+				"kellha",
+				"preparati",
+				"żewġ",
+				"atleti",
+				",",
+				"imma",
+				"ma",
+				"ħaditx",
+				"sehem",
+				"minħabba",
+				"li",
+				"wieħed",
+				"minnhom",
+				"ma",
+				"laħaqx",
+				"il-kriterji",
+				"proposti",
+				"mill-KOI",
+				",",
+				"u",
+				"l-ieħor",
+				"safa",
+				"'",
+				"imweġġa",
+				"qabel",
+				"il-Logħob",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"l ˌu s s e m b ˈu r ɡ u",
+				"k ˈe l l l a",
+				"p ɹ ˌe p a ɹ ˈaː t ɪ",
+				"z ˈe u t͡ʃ",
+				"a t l ˈe t ɪ",
+				",",
+				"ˈɪ m m a",
+				"j ˈi s t a x",
+				"h ˌa d e ˈɪ t ʃ e",
+				"s ˈeː e m",
+				"m ɪ n h ˈa bː a",
+				"l ˈɪ",
+				"ˌu iː h ˈe d e",
+				"m ˈɪ n n n o m",
+				"j ˈi s t a x",
+				"l ˌa h a ˈə ʃ e",
+				"ˌɪ l k e ɹ ˌɪ t e ɹ ˈi͡u ɪ",
+				"p ɹ oː p ˈo s t ɪ",
+				"m ɪ l l c ˈo ɪ",
+				",",
+				"ˈu",
+				"l ˈiː h o r",
+				"s ˈa f a",
+				"'",
+				"ˌɪ m u ˈe d͡ʒ d͡ʒ a",
+				"ˈa b e l",
+				"ɪ l l ˈoː o p",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Liebru",
+				"tal-ġnub",
+				"bojod"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"l iː b ɹ ˈə u",
+				"t ˈa l d͡ʒ n uː p",
+				"b ˌo i ˈo d e"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"ġurdien",
+				"ta",
+				"'",
+				"Robinson"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"d͡ʒ u r d ˈe iː n",
+				"t ˈaː",
+				"'",
+				"ɹ oː b ˈiː n s o n"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Alessandro",
+				"Cordaro",
+				"(",
+				"2002–09",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌa l e s s a n d ˈe ɹ oː",
+				"c ˌo r d e ˈa ɹ oː",
+				"(",
+				"e t s ˌe i m e ˈə d e",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-pajjiż",
+				"imiss",
+				"Kroazja",
+				"fit-Tramuntana",
+				",",
+				"il-Punent",
+				"u",
+				"n-Nofsinhar",
+				",",
+				"Serbja",
+				"lejn",
+				"il-Lvant",
+				",",
+				"u",
+				"Montenegro",
+				"għall-Lbiċ",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l p a ˌiː ɪ z ˈə",
+				"ˈɪ m ɪ s s",
+				"k ˌe ɹ oː ˌa t s e ˈi a",
+				"f ˌɪ t t ɹ aː m u n t ˈa n a",
+				",",
+				"ɪ l p ˈu n e n t",
+				"ˈu",
+				"ˈe n n o f s ˈɪ n n a r",
+				",",
+				"s e r b ˈi a",
+				"l ˈe͡i n n",
+				"ˈɪ l l v a n t",
+				",",
+				"ˈu",
+				"m ˌo n t e n ˈe ɡ ɹ oː",
+				"ˈa l l l b iː t͡ʃ ə",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"5",
+				"Intlagħbet",
+				"iStati",
+				"Uniti",
+				"minħabba",
+				"li",
+				"l-istadju",
+				"tal-Angwilla",
+				"mhuwiex",
+				"impjant",
+				"espedjanti",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t s ˈe e",
+				"ˌɪ n t l aː b ˈə t",
+				"ˈɪ s t ˈa t ɪ",
+				"u n ˈɪ t ɪ",
+				"m ɪ n h ˈa bː a",
+				"l ˈɪ",
+				"l ˌɪ s t a d e ˈi͡u u",
+				"t ˌa l a n ɡ u ˈɪ l l a",
+				"mː ˌu u ˈiː ʃ e",
+				"ˌɪ i m p ˈi a n t",
+				"ˌe s p e d ˌe i ˈa n t ɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ordni",
+				"Militari",
+				"Sovran",
+				"ta",
+				"'",
+				"Malta"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o r d ˈe n ɪ",
+				"m ˌɪ l ɪ t ˈa ɹ ɪ",
+				"s ˈo v ɹ aː n",
+				"t ˈaː",
+				"'",
+				"m ˈa l t a"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"irqiq",
+				"tal-Brażil"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"ɪ ɹ ˈə ɪ ˈə",
+				"t a l b ɹ ˈə a z ˈə ɪ l"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Il-Ġeorġja",
+				"għamlu",
+				"t-tieni",
+				"dehra",
+				"tagħhom",
+				"f'dan",
+				"il-festival",
+				"edizzjoni",
+				"tal-2008",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l d͡ʒ e o r d͡ʒ ˈi a",
+				"ˈa m l u",
+				"tː ˈiː n ɪ",
+				"d e ˈeː ɹ aː",
+				"t ˌa h o m",
+				"e f d ˈe a n",
+				"ˌɪ l f e s t ˈɪ v a l",
+				"ˌe d e ˌɪ t s e t s ˌe i ˈo n ɪ",
+				"t ˈa l t ə ˈi k e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"**Sottofamilja",
+				"Caluromyinae",
+				"''",
+				"(",
+				"Kirsch,1977",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s ˌo tː o f ˌa m ɪ l ˈi a",
+				"c ˌa l u ɹ ˌoː m y ɪ n ˈa e",
+				"",
+				"(",
+				"k ˈiː r s cː",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pika",
+				"ta",
+				"'",
+				"Turuchan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"p ˈɪ k a",
+				"t ˈaː",
+				"'",
+				"t u ɹ ˈu cː a n"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Paul",
+				"Van",
+				"Himst",
+				"(",
+				"26",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p ˈa͡u l",
+				"v ˈa n",
+				"ˈɪ m s t",
+				"(",
+				"t ˌe k ˈa k k a",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Thomas",
+				"Vermaelen",
+				"(",
+				"1999-00",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"tː ˈo m a s",
+				"v ˌe r m a ˈe l e n",
+				"(",
+				"ɹ e t ˈe s s e",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hu",
+				"beda",
+				"l-karriera",
+				"tiegħu",
+				"ma",
+				"'",
+				"Ħamrun",
+				"Spartans",
+				"u",
+				"lagħab",
+				"wkoll",
+				"għall",
+				"Naxxar",
+				"Lions",
+				",",
+				"Lija",
+				"Athletic",
+				"u",
+				"Marsaxlokk",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				3,
+				4,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"ˈu",
+				"b ˈə d e ˌa",
+				"l k ˌa r ɹ iː ˈe ɹ aː",
+				"t ˌiː uː",
+				"j ˈi s t a x",
+				"'",
+				"h a ˈi m ɹ u n",
+				"s p ˈa r t a n s",
+				"ˈu",
+				"l ˈaː a p",
+				"ˈu c o l l",
+				"ˈa l l",
+				"n a ʃ ʃ ˈe a r",
+				"l ˈɪ o n s",
+				",",
+				"l ɪ ˈi a",
+				"a tː l ˈe t ɪ c",
+				"ˈu",
+				"m ˌa r s a ʃ l o k ˈe k e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				3,
+				4,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Glen",
+				"De",
+				"Boeck",
+				"(",
+				"2001–03",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ l ˈe n",
+				"d ˈe e",
+				"b o ˈe c k e",
+				"(",
+				"t e : t ˌe iː d ˈe e ˈu m e",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"L-għada",
+				",",
+				"huwa",
+				"ġie",
+				"sostitwit",
+				"minn",
+				"Leonardo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"ˈe l l aː d ˌe a",
+				",",
+				"ˈuː a",
+				"d͡ʒ ˈiː",
+				"s ˌo s t ɪ t ˈu ɪ t",
+				"m ˈi n n",
+				"l ˌe o n a r d ˈe o",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mary",
+				"Meilak",
+				"(",
+				"1905-1975",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ˈa ɹ y",
+				"m ˌe ɪ l ˈa k e",
+				"(",
+				"ɹ ˌe t s e ˈe n e f f e",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"L-Imdina",
+				"(",
+				"Città",
+				"Notabile",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ˌe l ɪ m d e ˈɪ n a",
+				"(",
+				"c ˈɪ tː a",
+				"n ˌo t a b ˈiː l e",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"It-",
+				"''",
+				"Tagħrif",
+				"''",
+				"inħadem",
+				"minn",
+				"Ninu",
+				"Cremona",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"ˈɪ t",
+				"",
+				"t ˈaː ɹ ɪ f",
+				"",
+				"ˌɪ n h a d ˈe e m",
+				"m ˈi n n",
+				"n ˈɪ n uː",
+				"c ɹ e m ˈo n a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Huwa",
+				"għandu",
+				"wkoll",
+				"xi",
+				"uffiċini",
+				"Lussemburgu",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ˈuː a",
+				"ˈa n d u",
+				"ˈu c o l l",
+				"ʃ ˈiː",
+				"ˌu f f ɪ t͡ʃ ə ˈi n ɪ",
+				"l ˌu s s e m b ˈu r ɡ u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Manchester",
+				"United",
+				"FC"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"m a n cː ˈe s t e r",
+				"ˌu n ɪ t ˈe d e",
+				"ˌe f f e k ˈa"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Il-klabb",
+				"attwalment",
+				"jilgħab",
+				"Premier",
+				"League",
+				"Malti",
+				"u",
+				"ġew",
+				"rebbieħa",
+				"tal-kampjonat",
+				"fi",
+				"tliet",
+				"okkażjonijiet",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɪ l k ˈe l a pː",
+				"ˌa tː u ˈa l m e n t",
+				"i͡u ˈɪ l l a p",
+				"p ɹ ˈe m iː r",
+				"l ˌe a ɡ ˈu e",
+				"m ˈa l t ɪ",
+				"ˈu",
+				"d͡ʒ ˈe͡u",
+				"ɹ e bː ˈiː h a",
+				"t ˌa l k a ˌi m p i ˈo n a t",
+				"f ˈiː",
+				"t l ˈiː t",
+				"ˌo k e k a z ˈə i ˌo n ɪ ˌi͡u iː t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bħalissa",
+				"huma",
+				"jilgħab",
+				"Ewwel",
+				"Diviżjoni",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"b h a l ˈɪ s s a",
+				"ˈu m a",
+				"i͡u ˈɪ l l a p",
+				"e͡u ˈu e l",
+				"d ˌe ɪ v ɪ z ˈə i ˌo n ɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hu",
+				"mdawwar",
+				"fit-tramuntana",
+				"Ċina",
+				"u",
+				"fin-nofsinhar",
+				",",
+				"il-lvant",
+				"u",
+				"l-punent",
+				"mir-Repubblika",
+				"Indja",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ˈu",
+				"m d ˌe a u ˈu a r",
+				"f ˌɪ tː ɹ aː m u n t ˈa n a",
+				"t͡ʃ ə ˈi n a",
+				"ˈu",
+				"f ˌɪ n n o f s ˈɪ n n a r",
+				",",
+				"ˈɪ l l v a n t",
+				"ˈu",
+				"l p ˈu n e n t",
+				"m ˌɪ r ɹ e p u bː l ˈɪ k a",
+				"ˌɪ n d e ˈi a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Eddie",
+				"Fenech",
+				"Adami"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ˈe dː iː",
+				"f ˈe n e cː",
+				"ˌa d e ˈa m ɪ"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Senġi",
+				"ta",
+				"'",
+				"wiċċu",
+				"qasir"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"s ˈe n d͡ʒ ɪ",
+				"t ˈaː",
+				"'",
+				"ˌu ɪ t͡ʃ ə t͡ʃ ə ˌu",
+				"ˈa s ɪ r"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Il-kampjonat",
+				"kien",
+				"imwettaq",
+				"f'7",
+				"timijiet",
+				",",
+				"u",
+				"Floriana",
+				"kienu",
+				"rebbieħa",
+				"tal-kampjonat",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l k a ˌi m p i ˈo n a t",
+				"ç ˈiː n",
+				"ˌɪ m u ˌe tː a ˈə",
+				"ˈe f f e",
+				"t ˌɪ m ɪ ˈi͡u iː t",
+				",",
+				"ˈu",
+				"f l ˌo ɹ ɪ ˈa n a",
+				"ç ˈi͡e n u",
+				"ɹ e bː ˈiː h a",
+				"t ˌa l k a ˌi m p i ˈo n a t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Neymar",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"n e ˈy m a r",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"St.",
+				"Georges",
+				"4-0",
+				"Sliema",
+				"Wanderers"
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				3,
+				4
+			],
+			"epi_tokens": [
+				"ˌe s s e t ˈe e",
+				"ɡ i͡e ˈo r ɡ i͡e s",
+				"ˈa l l o m",
+				"s l ˈiː m a",
+				"ˌu a n d e ˈe ɹ e r s"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				3,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Statistika",
+				"Premier",
+				"League",
+				"Malti",
+				"fl-istaġun",
+				"'",
+				"''",
+				"1949–50",
+				"''",
+				"'",
+				"."
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s t ˌa t ɪ s t ˈɪ k a",
+				"p ɹ ˈe m iː r",
+				"l ˌe a ɡ ˈu e",
+				"m ˈa l t ɪ",
+				"ˌe f f e l ɪ s t ˈa d͡ʒ u n",
+				"'",
+				"",
+				"ˌe d e e ˈa t s e ˈe t ɹ e ˌa k ˈa k k a",
+				"",
+				"'",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fenek",
+				"ta",
+				"'",
+				"denbu",
+				"qotni",
+				"tal-muntanji",
+				"ta",
+				"'",
+				"Appalach"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"f e n ˈe k e",
+				"t ˈaː",
+				"'",
+				"d e ˈe n b u",
+				"ˈo t n ɪ",
+				"t ˌa l m u n t a n ˈi͡u ɪ",
+				"t ˈaː",
+				"'",
+				"a pː ˈa l a cː"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Premier",
+				"League",
+				"2009–10"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"p ɹ ˈe m iː r",
+				"l ˌe a ɡ ˈu e",
+				"e t ˌe iː e ˈe n o"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"LOST",
+				"(",
+				"Serje",
+				"televiżiva",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"l ˈo s t",
+				"(",
+				"s ˈe ɹ i͡e",
+				"t ˌe l e v ɪ z ˈə ɪ v ˌa",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Talpa",
+				"marsupjal",
+				"ta",
+				"'",
+				"Nofsinhar"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"t ˈa l p a",
+				"m ˌa r s u p ˈi a l",
+				"t ˈaː",
+				"'",
+				"n o f s ˈɪ n n a r"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Huwa",
+				"wkoll",
+				"il-promotur",
+				"tal-kantawtur",
+				"Walter",
+				"Micallef",
+				",",
+				"u",
+				"li",
+				"għalih",
+				"ipproduċa",
+				"żewġ",
+				"albums",
+				",",
+				"''M'Jien",
+				"Xejn",
+				"''",
+				"fl-2003",
+				"u",
+				"''Ħamsin",
+				"''",
+				"fl-2007",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈuː a",
+				"ˈu c o l l",
+				"ˌɪ l p ɹ oː m ˈo t u r",
+				"t ˌa l k a n t a ˈu t u r",
+				"u ˈa l t e r",
+				"m ɪ c ˈa l l e f",
+				",",
+				"ˈu",
+				"l ˈɪ",
+				"ˈa l ɪː",
+				"ˌɪ pː ɹ oː d e ˈu t͡ʃ ə ˌa",
+				"z ˈe u t͡ʃ",
+				"ˈa l b u m s",
+				",",
+				"m ˈi͡u iː n",
+				"ʃ e ˈe i͡u n",
+				"",
+				"ˌe f f e ˈe l l e t ɹ ˈe k e",
+				"ˈu",
+				"h ˈa m s ɪ n",
+				"",
+				"ˌe f f e ˈe l l e t ˈe ɹ e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"FC",
+				"BATE",
+				"Borisov"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌe f f e k ˈa",
+				"b ˈa t e",
+				"b o ɹ ˈɪ s o f"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"In-nofsinhar",
+				"tat-Tuneżija",
+				"huwa",
+				"ddominat",
+				"deżert",
+				"tas-Saħara",
+				",",
+				"li",
+				"jitfa",
+				"'",
+				"s-sħana",
+				"tremenda",
+				"tiegħu",
+				"fuq",
+				"dan",
+				"il-pajjiż",
+				"kif",
+				"ukoll",
+				"b'mod",
+				"partikolari",
+				"fuq",
+				"il-pajjiżi",
+				"tal-mediterran",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ n n o f s ˈɪ n n a r",
+				"t ˌa tː u n e z ˈə ɪ ˌi a",
+				"ˈuː a",
+				"dː o m ˈɪ n a t",
+				"d e ˈe z e r t",
+				"t ˌa s s a h ˈa ɹ aː",
+				",",
+				"l ˈɪ",
+				"i͡u ˈɪ t f a",
+				"'",
+				"ˈe s s h a n ˌa",
+				"t ɹ ˌe m e n d ˈe a",
+				"t ˌiː uː",
+				"f u ˈə",
+				"d ˈa n",
+				"ˌɪ l p a ˌiː ɪ z ˈə",
+				"ç ˈiː f",
+				"ˈu c o l l",
+				"b m ˈo d e",
+				"p ˌa r t ɪ c o l ˈa ɹ ɪ",
+				"f u ˈə",
+				"ˌɪ l p a ˌiː ɪ z ˈə ɪ",
+				"t ˌa l m e d ˌe ɪ t ˈe r ɹ aː n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Tim",
+				"nazzjonali",
+				"tal-futbol",
+				"tal-Każakistan"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t a l f ˈu t b o l",
+				"t ˌa l k a z a k ˈiː s t a n"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Organizzazzjoni",
+				"Dinjija",
+				"tas-Saħħa"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌo r ɡ a n ˌɪ t s e t s ˌe a t s ˌe t s e i ˈo n ɪ",
+				"d ˌe ɪ n ˌi͡u ɪ ˈi a",
+				"t a s s ˈa h h a"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Premier",
+				"League",
+				"Malti",
+				"''",
+				"'",
+				"ma",
+				"'",
+				"Valletta",
+				"(",
+				"2010–11",
+				",",
+				"2011–12",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				5,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p ɹ ˈe m iː r",
+				"l ˌe a ɡ ˈu e",
+				"m ˈa l t ɪ",
+				"",
+				"'",
+				"j ˈi s t a x",
+				"'",
+				"v a l l ˈe tː a",
+				"(",
+				"t e j t ˌe j a t e j",
+				",",
+				"t e j f t e j l k ˈa k k a",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				5,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"(",
+				"bejn",
+				"Indja",
+				"u",
+				"Ċina",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"(",
+				"b ˈe͡iː n",
+				"ˌɪ n d e ˈi a",
+				"ˈu",
+				"t͡ʃ ə ˈi n a",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ġan",
+				"Anton",
+				"Vassallo",
+				"(",
+				"1817–1868",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d͡ʒ ˈa n",
+				"ˈa n t o n",
+				"v a s s ˈa l l o",
+				"(",
+				"e m k ˌa ˈe n n e h ˈa k k a",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hu",
+				"beda",
+				"l-karriera",
+				"ma",
+				"'",
+				"Hibernians",
+				"FC",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ˈu",
+				"b ˈə d e ˌa",
+				"l k ˌa r ɹ iː ˈe ɹ aː",
+				"j ˈi s t a x",
+				"'",
+				"ɪ b ˈə r n ɪ ˌa n s",
+				"ˌe f f e k ˈa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Matul",
+				"Kampjonati",
+				"Ewropej",
+				"li",
+				"saru",
+				"ġewwa",
+				"pajjiżu",
+				",",
+				"lagħab",
+				"żewġ",
+				"logħbiet",
+				"u",
+				"sofra",
+				"tliet",
+				"gowls",
+				"."
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ˈa t u l",
+				"k ˌa i m p ˌi o n ˈa t ɪ",
+				"ˌe͡u ɹ oː p ˈe i͡u",
+				"l ˈɪ",
+				"s ˈa ɹ u",
+				"d͡ʒ e͡u ˈu a",
+				"p ˌa iː ɪ z ˈə u",
+				",",
+				"l ˈaː a p",
+				"z ˈe u t͡ʃ",
+				"l ˌoː b i ˈə t",
+				"ˈu",
+				"s ˈo f ɹ aː",
+				"t l ˈiː t",
+				"ɡ ˈo u l s",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Fenek",
+				"ta",
+				"'",
+				"denbu",
+				"qotni",
+				"tal-artijiet",
+				"baxxi",
+				"tal-Veneżwela"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"f e n ˈe k e",
+				"t ˈaː",
+				"'",
+				"d e ˈe n b u",
+				"ˈo t n ɪ",
+				"t ˌa l a r t ɪ ˈi͡u iː t",
+				"b a ʃ ʃ ˈe ɪ",
+				"t ˌa l v e n e z ˈə u ˌe l a"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"L-Arġentina",
+				"kellha",
+				"tilgħab",
+				"mingħajr",
+				"l-imweġġa",
+				"'",
+				"Zumelzú",
+				"u",
+				"Varallo",
+				",",
+				"imma",
+				"t-tieni",
+				"wieħed",
+				"xorta",
+				"waħda",
+				"ġie",
+				"skjerat",
+				"mal-ewwel",
+				"ħdax",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌe l a r d͡ʒ e n t ˈɪ n a",
+				"k ˈe l l l a",
+				"t ˈɪ l l a p",
+				"m ˈiː n a͡i r",
+				"l ˌɪ m u ˈe d͡ʒ d͡ʒ a",
+				"'",
+				"t s ˌe u m e l t s ˈe u",
+				"ˈu",
+				"v a ɹ ˈaː l l o",
+				",",
+				"ˈɪ m m a",
+				"tː ˈiː n ɪ",
+				"ˌu iː h ˈe d e",
+				"ʃ ˈo r t a",
+				"ˌu a h d ˈe a",
+				"d͡ʒ ˈiː",
+				"s k e ˈi͡e ɹ aː t",
+				"m ˌa l e͡u ˈu e l",
+				"h d ˈe a ʃ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"test": [
+		{
+			"tokens": [
+				"Emerson",
+				"Ferreira",
+				"da",
+				"Rosa"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"e m ˈe r s o n",
+				"f ˌe r ɹ e ˈɪ ɹ aː",
+				"d ˈe a",
+				"ɹ ˈoː s a"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Huma",
+				"qagħdu",
+				"sentejn",
+				"Diviżjoni",
+				"1",
+				"kif",
+				"kienu",
+				"relegati",
+				"fl-istaġun",
+				"1961-1962",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈu m a",
+				"aː d ˈe u",
+				"s e n t ˈe i͡u n",
+				"d ˌe ɪ v ɪ z ˈə i ˌo n ɪ",
+				"ˈe t ɹ e",
+				"ç ˈiː f",
+				"ç ˈi͡e n u",
+				"ɹ ˌe l e ɡ ˈa t ɪ",
+				"ˌe f f e l ɪ s t ˈa d͡ʒ u n",
+				"e f f e r e ˈe f f e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sirt",
+				"hija",
+				"magħrufa",
+				"bħala",
+				"l-belt",
+				"fejn",
+				"twieled",
+				",",
+				"għex",
+				",",
+				"u",
+				"miet",
+				"Muammar",
+				"Gaddhafi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"s ˈɪ r t",
+				"ˌiː a",
+				"m aː ɹ ˈu f a",
+				"b h ˈa l a",
+				"l b ˈə l t",
+				"f ˈe i͡u n",
+				"t ˌu iː l ˈe d e",
+				",",
+				"ˈe ʃ e",
+				",",
+				"ˈu",
+				"m ˈiː t",
+				"m u ˈa m m a r",
+				"ɡ a dː ˈa f ɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"82",
+				"–",
+				"Korea",
+				"t'Isfel"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6
+			],
+			"epi_tokens": [
+				"k ˌiː l o m ˈe t ɹ ɪ",
+				"e t ɹ ˈaː",
+				"c o ɹ ˈe a",
+				"t ˈɪ s f e l"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Greċja",
+				",",
+				"detentur",
+				"tat-titlu",
+				",",
+				"kienet",
+				"imdaħħla",
+				"fl-urna",
+				"tal-aqwa",
+				"timijiet",
+				"."
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ ɹ ˌe t͡ʃ ə ˈi a",
+				",",
+				"d ˌe e t ˈe n t u r",
+				"t a tː ˈɪ t l u",
+				",",
+				"k ˈiː n e t",
+				"ˌɪ m d e ˈa h h l a",
+				"f l ˈu r n a",
+				"t ˌa l a ˈə u ˌa",
+				"t ˌɪ m ɪ ˈi͡u iː t",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Huwa",
+				"ried",
+				"ukoll",
+				"jilħaq",
+				"ftehim",
+				"Italja",
+				"u",
+				"Franza",
+				"minn",
+				"naħa",
+				",",
+				"u",
+				"Libja",
+				"u",
+				"Alġerija",
+				"minn",
+				"naħa",
+				"l-oħra",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈuː a",
+				"ɹ iː ˈe d e",
+				"ˈu c o l l",
+				"ˌi͡u ɪ l h a ˈə",
+				"f t ˈeː ɪ m",
+				"ˌɪ t a l ˈi a",
+				"ˈu",
+				"f ɹ aː n t s ˈe a",
+				"m ˈi n n",
+				"n ˈa h a",
+				",",
+				"ˈu",
+				"l ɪ b ˈi a",
+				"ˈu",
+				"ˌa l d͡ʒ e ɹ ɪ ˈi a",
+				"m ˈi n n",
+				"n ˈa h a",
+				"l ˈo h ɹ aː",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Soċjetà",
+				"tad-Duttrina",
+				"Nisranija"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"s ˌo t͡ʃ ə ˈi͡e t a",
+				"t ˌa d e ˌe u tː ɹ ˈɪ n a",
+				"n ˌɪ s ɹ aː n ɪ ˈi a"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Igor",
+				"'",
+				"Stravinskij"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˈɪ ɡ o r",
+				"'",
+				"s t ɹ ˌaː v ɪ n s k ˈiː i͡u"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Malta",
+				"–",
+				"Carmel",
+				"Busuttil"
+			],
+			"ner_tags": [
+				3,
+				0,
+				1,
+				2
+			],
+			"epi_tokens": [
+				"m ˈa l t a",
+				"e t ɹ ˈaː",
+				"c ˈa r m e l",
+				"b u s ˈu tː ɪ l"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"'",
+				"(",
+				"Danimarka",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"'",
+				"(",
+				"d ˌe a n ɪ m ˈa r k a",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Titjiriet",
+				"internazzjonali",
+				"jiġu",
+				"kanċellati",
+				"jew",
+				"devjati",
+				"lejn",
+				"Kanada",
+				"u",
+				"l-Karibew",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˌɪ t i͡u ɪ ɹ ˈiː e t",
+				"ˌɪ n t e r n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"i͡u ˈɪ d͡ʒ u",
+				"k ˌa n t͡ʃ ə e l l ˈa t ɪ",
+				"ˈi͡e uː",
+				"d ˌe e v i ˈa t ɪ",
+				"l ˈe͡i n n",
+				"k ˌa n a d ˈe a",
+				"ˈu",
+				"ˌe l k a ɹ ɪ b ˈə u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kien",
+				"hu",
+				"l-ewwel",
+				"wieħed",
+				"li",
+				"ħareġ",
+				"u",
+				"fetaħ",
+				"l-ewwel",
+				"dar",
+				"tal-Mużew",
+				"barra",
+				"Ħamrun",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ç ˈiː n",
+				"ˈu",
+				"l e͡u ˈu e l",
+				"ˌu iː h ˈe d e",
+				"l ˈɪ",
+				"h ˈa ɹ e t͡ʃ",
+				"ˈu",
+				"f ˈe t a h",
+				"l e͡u ˈu e l",
+				"d ˈe a r",
+				"t ˌa l m u z ˈe u",
+				"b ˈa r ɹ aː",
+				"h a ˈi m ɹ u n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mar",
+				"Ruma",
+				"bejn",
+				"l-1588",
+				"u",
+				"l-1592",
+				"."
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ˈa r",
+				"ɹ ˈu m a",
+				"b ˈe͡iː n",
+				"ˈe l l e ɹ ˌe k ˈa",
+				"ˈu",
+				"ˈe l l e ɹ ˌe t ˈe",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"grazzjuż",
+				"ta",
+				"'",
+				"Aceramarca"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"ɡ ɹ ˌaː t s e t s ˌe i͡u u z ˈə",
+				"t ˈaː",
+				"'",
+				"ˌa c e ɹ aː m ˈa r c a"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Il-klabb",
+				"il-ġdid",
+				"kien",
+				"bl-għadma",
+				"maqlugħa",
+				"kontra",
+				"Żejtun",
+				"Corinthians",
+				",",
+				"Naxxar",
+				",",
+				"Gudja",
+				",",
+				"Attard",
+				",",
+				"Xgħajra",
+				"Tornadoes",
+				",",
+				"Qrendi",
+				",",
+				"Sirens",
+				",",
+				"Kirkop",
+				"u",
+				"Santa",
+				"Luċija",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				3,
+				0,
+				3,
+				0,
+				3,
+				0,
+				3,
+				4,
+				0,
+				3,
+				0,
+				3,
+				0,
+				3,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ɪ l k ˈe l a pː",
+				"ˌɪ l d͡ʒ d e ˈɪ d e",
+				"ç ˈiː n",
+				"b ˌe ˈe l l aː d ˈe m a",
+				"m a ˈə l uː ˌa",
+				"c ˈo n t ɹ a",
+				"z e ˈi͡u t u n",
+				"c ˌo ɹ ɪ n tː ˈɪ a n s",
+				",",
+				"n a ʃ ʃ ˈe a r",
+				",",
+				"ɡ ˌu d e ˈi a",
+				",",
+				"a tː ˈa r d e",
+				",",
+				"ʃ ˌeː a ˈi͡u ɹ aː",
+				"t ˌo r n a d e ˈo e s",
+				",",
+				"ˈə ɹ e n d ˌe ɪ",
+				",",
+				"s ˈɪ ɹ e n s",
+				",",
+				"k ˈiː r c o p",
+				"ˈu",
+				"s ˈa n t a",
+				"l ˌu t͡ʃ ə i ˈi a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				3,
+				0,
+				3,
+				0,
+				3,
+				0,
+				3,
+				4,
+				0,
+				3,
+				0,
+				3,
+				0,
+				3,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Rużar",
+				"Briffa",
+				"(",
+				"1906–1963",
+				")",
+				"—",
+				"poeta"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɹ ˈu z a r",
+				"b ɹ ˈə ɪ f f ˌa",
+				"(",
+				"e t ˌe ˈu ɡ ɹ e t s ˈe e f",
+				")",
+				"h ˈa k k a",
+				"p o ˈe t a"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kritika",
+				"oħra",
+				"kienet",
+				"il-fatt",
+				"li",
+				"l-ebda",
+				"plejer",
+				"maskili",
+				"li",
+				"jilgħab",
+				"barra",
+				"Ewropa",
+				"kien",
+				"nominat",
+				"għal",
+				"dan",
+				"l-unur",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k ˌe ɹ ɪ t ˈɪ k a",
+				"ˈo h ɹ aː",
+				"k ˈiː n e t",
+				"ˈɪ l f a tː",
+				"l ˈɪ",
+				"l e b d ˈe a",
+				"p l ˈe i͡e r",
+				"m a s k ˈiː l ɪ",
+				"l ˈɪ",
+				"i͡u ˈɪ l l a p",
+				"b ˈa r ɹ aː",
+				"e͡u ɹ ˈoː p a",
+				"ç ˈiː n",
+				"n o m ˈɪ n a t",
+				"ˈa l l",
+				"d ˈa n",
+				"l ˈu n uː r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Wolverhampton",
+				"Wanderers",
+				"FC"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌu o l v ˌe r ɹ aː ˈi m p t o n",
+				"ˌu a n d e ˈe ɹ e r s",
+				"ˌe f f e k ˈa"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Wolfgang",
+				"Amadeus",
+				"Mozart"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"u ˈo l f ɡ a n k",
+				"ˌa m a d e ˈe u s",
+				"m o t s ˈe a r t"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Huma",
+				"huma",
+				"affiljati",
+				"UEFA",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"ˈu m a",
+				"ˈu m a",
+				"ˌa f f ɪ l i ˈa t ɪ",
+				"u ˈe f a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"ġurdien",
+				"ta",
+				"'",
+				"denbu",
+				"oħxon",
+				"ta",
+				"'",
+				"żaqqu",
+				"bajda"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"d͡ʒ u r d ˈe iː n",
+				"t ˈaː",
+				"'",
+				"d e ˈe n b u",
+				"o h ʃ ˈe o n",
+				"t ˈaː",
+				"'",
+				"z a ˈə",
+				"b ˌa i͡u d ˈe a"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Mario",
+				"Azzopardi",
+				"(",
+				"1950–",
+				")",
+				"—",
+				"direttur",
+				"ċinematografiku",
+				"u",
+				"televiżiv",
+				",",
+				"u",
+				"attur"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m a ɹ ˈɪ o",
+				"ˌa t s e t s ˌe o p a r d ˈe ɪ",
+				"(",
+				"e s s ˈe t ɹ e",
+				")",
+				"h ˈa k k a",
+				"d ˌe ɪ ɹ ˈe tː u r",
+				"t͡ʃ ə ˌi n e m ˌa t o ɡ ɹ aː f ˈɪ k uː",
+				"ˈu",
+				"t ˌe l e v ɪ z ˈə ɪ f",
+				",",
+				"ˈu",
+				"ˈa tː u r"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Senġi",
+				"ta",
+				"'",
+				"widnejh",
+				"tondi",
+				"tan-Namib"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"s ˈe n d͡ʒ ɪ",
+				"t ˈaː",
+				"'",
+				"ˌu ɪ d e n ˈe i͡uː",
+				"t o n d ˈe ɪ",
+				"t a n n ˈa m ɪ p"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Pika",
+				"ta",
+				"'",
+				"Sardinja"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"p ˈɪ k a",
+				"t ˈaː",
+				"'",
+				"s ˌa r d e ɪ n ˈi a"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Il-bqija",
+				"tal-gżira",
+				",",
+				"jiġifieri",
+				"Irlanda",
+				"ta",
+				"'",
+				"Fuq",
+				"hija",
+				"parti",
+				"ntegrali",
+				"Renju",
+				"Unit",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			],
+			"epi_tokens": [
+				"ɪ l b ˈə ɪ ˌi a",
+				"t a l ɡ z ˈə ɪ ɹ ˌaː",
+				",",
+				"ˌi͡u ɪ d͡ʒ ɪ f ˈiː ɹ ɪ",
+				"ˌɪ r l a n d ˈe a",
+				"t ˈaː",
+				"'",
+				"f u ˈə",
+				"ˌiː a",
+				"p ˈa r t ɪ",
+				"n t e ɡ ɹ ˈaː l ɪ",
+				"ɹ e n ˈi͡u u",
+				"ˈu n ɪ t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				6,
+				6,
+				6,
+				0,
+				0,
+				0,
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Ritchie",
+				"De",
+				"Laet"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ɹ ˈɪ t cː iː",
+				"d ˈe e",
+				"l ˈa e t"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Ludwig",
+				"van",
+				"Beethoven"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"l ˌu d e ˈu ɪ k",
+				"v ˈa n",
+				"b ˈə e tː ˌo v e n"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Dan",
+				"il-foss",
+				"kien",
+				"ta’",
+				"użu",
+				"kbir",
+				"waqt",
+				"l-Assedju",
+				"l-Kbir",
+				"u",
+				"kien",
+				"ta’",
+				"protezzjoni",
+				"tajba",
+				"għall-vapuri",
+				"ta’",
+				"l-",
+				"Ordni",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"d ˈa n",
+				"ˈɪ l f o s s",
+				"ç ˈiː n",
+				"t ˈa",
+				"u z ˈə u",
+				"k ˈe b iː r",
+				"ˈu aː t",
+				"l ˌa s s e d e ˈi͡u u",
+				"ˈe l l e k ˈe b iː r",
+				"ˈu",
+				"ç ˈiː n",
+				"t ˈa",
+				"p ɹ ˌoː t e t s ˌe t s e i ˈo n ɪ",
+				"t a ˈi͡u b a",
+				"ˌa l l v a p ˈu ɹ ɪ",
+				"t ˈa",
+				"ˈe l l e",
+				"o r d ˈe n ɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Minfloku",
+				"jinħatar",
+				"Konrad",
+				"Mizzi",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"m ɪ n f l ˈo k uː",
+				"ˌi͡u ɪ n h ˈa t a r",
+				"c o n ɹ ˈaː d e",
+				"m ˌɪ t s e t s ˈe ɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Baħar",
+				"Mediterran",
+				"(",
+				"proprju",
+				")"
+			],
+			"ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈa h a r",
+				"m ˌe d e ɪ t ˈe r ɹ aː n",
+				"(",
+				"p ɹ oː p ɹ ˈi͡u u",
+				")"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Johann",
+				"Wolfgang",
+				"von",
+				"Goethe"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"i ˈoː a n n",
+				"u ˈo l f ɡ a n k",
+				"v ˈo n",
+				"ɡ o ˈe tː e"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Soċjetà",
+				"tad-Duttrina",
+				"Nisranija"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"s ˌo t͡ʃ ə ˈi͡e t a",
+				"t ˌa d e ˌe u tː ɹ ˈɪ n a",
+				"n ˌɪ s ɹ aː n ɪ ˈi a"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"irqiq",
+				"skur"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"ɪ ɹ ˈə ɪ ˈə",
+				"s k ˈuː r"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Impuls",
+				"FC",
+				"Dilijan"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ɪ ˈi m p u l s",
+				"ˌe f f e k ˈa",
+				"d ˌe ɪ l ɪ ˈi a n"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Hu",
+				"bħalissa",
+				"jilgħab",
+				"ma",
+				"'",
+				"Mons",
+				"Ewwel",
+				"Diviżjoni",
+				"(",
+				"D1",
+				")",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈu",
+				"b h a l ˈɪ s s a",
+				"i͡u ˈɪ l l a p",
+				"j ˈi s t a x",
+				"'",
+				"m ˈo n s",
+				"e͡u ˈu e l",
+				"d ˌe ɪ v ɪ z ˈə i ˌo n ɪ",
+				"(",
+				"d ˌe e ˈe t ɹ e",
+				")",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Saint",
+				"Vincent",
+				"u",
+				"l-Grenadini"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"s ˈa ɪ n t",
+				"v ˈɪ n c e n t",
+				"ˈu",
+				"ˈe l ɡ ɹ e n ˌa d e ˌɪ n ɪ"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Tim",
+				"nazzjonali",
+				"tal-futbol",
+				"ta",
+				"'",
+				"Franza"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t a l f ˈu t b o l",
+				"t ˈaː",
+				"'",
+				"f ɹ aː n t s ˈe a"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Senġi",
+				"ta",
+				"'",
+				"widnejh",
+				"tondi",
+				"tan-Namib"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"s ˈe n d͡ʒ ɪ",
+				"t ˈaː",
+				"'",
+				"ˌu ɪ d e n ˈe i͡uː",
+				"t o n d ˈe ɪ",
+				"t a n n ˈa m ɪ p"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Pangolin",
+				"ta",
+				"'",
+				"Temminck"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"p a n ɡ ˈo l ɪ n",
+				"t ˈaː",
+				"'",
+				"t e m m ˈɪ n c k e"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Skond",
+				"FIFA",
+				",",
+				"is-sħana",
+				"estrema",
+				"affettwat",
+				"ħażin",
+				"lill-Isvizzera",
+				"wara",
+				"li",
+				"wasslu",
+				"l-logħba",
+				"3-0",
+				"fuq",
+				"punt",
+				"wieħed",
+				"."
+			],
+			"ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s c ˈo n d e",
+				"f ˈɪ f a",
+				",",
+				"ɪ s s h ˈa n a",
+				"e s t ɹ ˈe m a",
+				"ˌa f f e tː ˈu a t",
+				"h a z ˈə ɪ n",
+				"l ˌɪ l l ɪ s v ˌɪ t s e t s e ˈe ɹ aː",
+				"u ˈa ɹ a",
+				"l ˈɪ",
+				"u ˈa s s l u",
+				"l l ˈoː b a",
+				"ˈe f f e ˈo r ɹ e",
+				"f u ˈə",
+				"p ˈu n t",
+				"ˌu iː h ˈe d e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kampjonati",
+				"Ewropej",
+				"tal-Futbol",
+				"2008"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"k ˌa i m p ˌi o n ˈa t ɪ",
+				"ˌe͡u ɹ oː p ˈe i͡u",
+				"t a l f ˈu t b o l",
+				"t ˈe iː ˌi m m e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Fis-1970ijiet",
+				",",
+				"l-AS",
+				"kisbu",
+				"ewwel",
+				"diviżjoni",
+				"filwaqt",
+				"li",
+				"l-VG",
+				"kien",
+				"jilgħabu",
+				"fit-tieni",
+				"livell",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"f ˌɪ s n e ˌe f f e ˌiː ɪ ˈi͡u iː t",
+				",",
+				"ˈe l l a ˈɛ s",
+				"k ˈiː s b u",
+				"e͡u ˈu e l",
+				"d ˌe ɪ v ɪ z ˈə i ˌo n ɪ",
+				"f ˌɪ l u a ˈə t",
+				"l ˈɪ",
+				"ˌe l l e v ˌe ɡ ˈi͡e",
+				"ç ˈiː n",
+				"ˌi͡u ɪ l l ˈa b u",
+				"f ɪ t t ˈiː n ɪ",
+				"l ˈɪ v e l l",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"SK",
+				"Rapid",
+				"Wien"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌe s s e k ˈa",
+				"ɹ aː p ˈɪ d e",
+				"ˈu iː n"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Opossum",
+				"ta",
+				"'",
+				"denbu",
+				"qasir",
+				"tal-ġnub",
+				"ħomor",
+				"tal-Amażonja"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"o p ˈo s s u m",
+				"t ˈaː",
+				"'",
+				"d e ˈe n b u",
+				"ˈa s ɪ r",
+				"t ˈa l d͡ʒ n uː p",
+				"h ˈo m o r",
+				"t ˌa l a m a z ˈə o n ˌi a"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Meta",
+				"aktar",
+				"tard",
+				"Alessandro",
+				"Nesta",
+				"rega",
+				"'",
+				"safa",
+				"l-kowċ",
+				"Leonardo",
+				"għażel",
+				"lil",
+				"Bonera",
+				"biex",
+				"joħodlu",
+				"postu",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ˈe t a",
+				"a k ˈe t a r",
+				"t ˈa r d e",
+				"ˌa l e s s a n d ˈe ɹ oː",
+				"n ˈe s t a",
+				"ɹ ˈe ɡ a",
+				"'",
+				"s ˈa f a",
+				"ˈe l c o ˈu t͡ʃ ə",
+				"l ˌe o n a r d ˈe o",
+				"ˈa z e l",
+				"h ˈi n n",
+				"b o n ˈe ɹ aː",
+				"b i ˈə ʃ e",
+				"ˌi o h o d ˈe l u",
+				"p ˈo s t u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Il-Baħrejn",
+				"''",
+				"'",
+				"huwa",
+				"nazzjon",
+				"Asja",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ˌɪ l b a h ɹ ˈe i͡u n",
+				"",
+				"'",
+				"ˈuː a",
+				"n ˌa t s e t s e ˈi o n",
+				"a s ˈi a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kampjonati",
+				"Ewropej",
+				"tal-Futbol",
+				"2008"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"k ˌa i m p ˌi o n ˈa t ɪ",
+				"ˌe͡u ɹ oː p ˈe i͡u",
+				"t a l f ˈu t b o l",
+				"t ˈe iː ˌi m m e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"L-Ewwel",
+				"Diviżjoni",
+				"Maltija"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌe l e͡u ˈu e l",
+				"d ˌe ɪ v ɪ z ˈə i ˌo n ɪ",
+				"m ˌa l t ɪ ˈi a"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Premier",
+				"League",
+				"2009–10"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"p ɹ ˈe m iː r",
+				"l ˌe a ɡ ˈu e",
+				"e t ˌe iː e ˈe n o"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"KS",
+				"Vllaznia",
+				"Shkodër"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"k ˌiː ˈe s s e",
+				"v l l ˌa t s e n ˈɪ a",
+				"sː c o d ˈe ə r"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Madankollu",
+				",",
+				"dawn",
+				"urew",
+				"il-kariżma",
+				"mġedda",
+				"u",
+				"l-passjoni",
+				"taħt",
+				"id-direzzjoni",
+				"tal-kowċ",
+				"Jürgen",
+				"Klopp",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"m ˌa d e a n c ˈo l l u",
+				",",
+				"d ˈa͡uː n",
+				"ˈu ɹ e͡u",
+				"ˌɪ l k a ɹ ɪ z ˈə m a",
+				"m d͡ʒ ˈe dː a",
+				"ˈu",
+				"ˈe l p a s s i ˌo n ɪ",
+				"t ˈa h t",
+				"ˌɪ d e ˌɪ ɹ e t s ˌe t s e i ˈo n ɪ",
+				"t ˌa l c o ˈu t͡ʃ ə",
+				"i͡u ˈu r ɡ i͡e n",
+				"k ˈe l o pː",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-kampjonat",
+				"kien",
+				"imwettaq",
+				"f'6",
+				"timijiet",
+				",",
+				"u",
+				"Hibernians",
+				"kienu",
+				"rebbieħa",
+				"tal-kampjonat",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l k a ˌi m p i ˈo n a t",
+				"ç ˈiː n",
+				"ˌɪ m u ˌe tː a ˈə",
+				"ˈe f f e",
+				"t ˌɪ m ɪ ˈi͡u iː t",
+				",",
+				"ˈu",
+				"ɪ b ˈə r n ɪ ˌa n s",
+				"ç ˈi͡e n u",
+				"ɹ e bː ˈiː h a",
+				"t ˌa l k a ˌi m p i ˈo n a t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"''",
+				"Premier",
+				"League",
+				"Malti",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"",
+				"p ɹ ˈe m iː r",
+				"l ˌe a ɡ ˈu e",
+				"m ˈa l t ɪ",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-partita",
+				"finali",
+				"kienet",
+				"kontra",
+				"Rumanija",
+				"u",
+				"ntrebħet",
+				"1–0",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l p a r t ˈɪ t a",
+				"f ɪ n ˈa l ɪ",
+				"k ˈiː n e t",
+				"c ˈo n t ɹ a",
+				"ɹ ˌu m a n ɪ ˈi a",
+				"ˈu",
+				"n t ɹ ˈe b h e t",
+				"d ˈe e t ɹ ˈe t ɹ ə",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Charles",
+				"Clews",
+				"(",
+				"1919–2009",
+				")",
+				"—",
+				"attur",
+				"u",
+				"komiku"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"cː ˈa r l e s",
+				"c l ˈe͡u s",
+				"(",
+				"e d ˌe e t ˈe e ˈi m e",
+				")",
+				"h ˈa k k a",
+				"ˈa tː u r",
+				"ˈu",
+				"c o m ˈɪ k uː"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"San",
+				"Ġwann",
+				"(",
+				"Malta",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"s ˈa n",
+				"d͡ʒ ˈu a n n",
+				"(",
+				"m ˈa l t a",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Minkejja",
+				"dan",
+				",",
+				"mill-ġimgħa",
+				"tal-għeluq",
+				"tal-istaġun",
+				"huma",
+				"dejqu",
+				"d-distakk",
+				"għal",
+				"punt",
+				"wieħed",
+				";",
+				"il-logħba",
+				"finali",
+				"rathom",
+				"jirbħu",
+				"4-1",
+				"f'darhom",
+				"kontra",
+				"Lierse",
+				"SK",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"m i n t͡ʃ ˈe͡iː a",
+				"d ˈa n",
+				",",
+				"m ɪ l l d͡ʒ ˈɪ m m a",
+				"t ˌa l l e l u ˈə",
+				"t ˌa l ɪ s t ˈa d͡ʒ u n",
+				"ˈu m a",
+				"d e ˈe i͡u",
+				"d ˌe e d ˌe ɪ s t a k ˈe k e",
+				"ˈa l l",
+				"p ˈu n t",
+				"ˌu iː h ˈe d e",
+				";",
+				"ɪ l l ˈoː b a",
+				"f ɪ n ˈa l ɪ",
+				"ɹ ˈaː tː o m",
+				"i͡u ˈɪ r b h h uː",
+				"ˈa l l a s",
+				"f d e ˈa r ɹ o m",
+				"c ˈo n t ɹ a",
+				"l ˈiː r s e",
+				"ˌe s s e k ˈa",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Iżda",
+				"l-akbar",
+				"ħabib",
+				"u",
+				"idolu",
+				"li",
+				"kellha",
+				"fil-qasam",
+				"teatrali",
+				"kien",
+				"Francis",
+				"Ebejer",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"iː z ˈə d a",
+				"l a k ˈe b a r",
+				"h ˈa b iː p",
+				"ˈu",
+				"ˌɪ d e ˈo l u",
+				"l ˈɪ",
+				"k ˈe l l l a",
+				"f ɪ l ˈa s a m",
+				"t ˌe a t ɹ ˈaː l ɪ",
+				"ç ˈiː n",
+				"f ɹ ˈaː n c ɪ s",
+				"e b ˈə i͡e r",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bħal",
+				"issa",
+				"jilgħab",
+				"Tieni",
+				"Diviżjoni",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"b h ˈa l",
+				"ˈi s s a",
+				"i͡u ˈɪ l l a p",
+				"t ˈiː n ɪ",
+				"d ˌe ɪ v ɪ z ˈə i ˌo n ɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"West",
+				"Ham",
+				"United",
+				"FC"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˈu e s t",
+				"ˈa m",
+				"ˌu n ɪ t ˈe d e",
+				"ˌe f f e k ˈa"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"UEFA",
+				",",
+				"(",
+				"Ewropa",
+				")"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"u ˈe f a",
+				",",
+				"(",
+				"e͡u ɹ ˈoː p a",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Fábio",
+				"Pereira",
+				"da",
+				"Silva"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"f aː b ˈiː o",
+				"p ˌe ɹ e ˈɪ ɹ aː",
+				"d ˈe a",
+				"s ˈɪ l v a"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Hu",
+				"skorja",
+				"tliet",
+				"gowls",
+				"bħal",
+				"sieħbu",
+				"fl-attakk",
+				",",
+				"Fernando",
+				"Torres",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"ˈu",
+				"s c o ɹ ˈi a",
+				"t l ˈiː t",
+				"ɡ ˈo u l s",
+				"b h ˈa l",
+				"s iː ˈe h b u",
+				"ˌe f l a tː a k ˈe k e",
+				",",
+				"f ˌe r n a n d ˈe o",
+				"t ˈo r ɹ e s",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"ġurdien",
+				"ta",
+				"'",
+				"Guajira"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"d͡ʒ u r d ˈe iː n",
+				"t ˈaː",
+				"'",
+				"ɡ ˌu a i͡u ˈɪ ɹ aː"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Tupaja",
+				"ta",
+				"'",
+				"denbu",
+				"lixx",
+				"ta",
+				"'",
+				"Borneo"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"t ˌu p a ˈi a",
+				"t ˈaː",
+				"'",
+				"d e ˈe n b u",
+				"l ɪ ʃ ˈe ʃ e",
+				"t ˈaː",
+				"'",
+				"b o r n ˈe o"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Tazza",
+				"tad-Dinja",
+				"li",
+				"jmiss",
+				"se",
+				"ssir",
+				"Brażil",
+				"."
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"t ˌa t s e t s ˈe a",
+				"t ˌa d e ˌa d e ɪ n ˈi a",
+				"l ˈɪ",
+				"ˈi͡u m ɪ s s",
+				"s ˈe",
+				"s s ˈɪ r",
+				"b ɹ ˈə a z ˈə ɪ l",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-grawnd",
+				"innifushu",
+				"jissodisfa",
+				"l-kriterji",
+				"UEFA",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l ɡ ɹ aː ˈu n d e",
+				"ˌɪ n n ɪ f ˈu s s u",
+				"ˌi͡u ɪ s s ˌo d e ˈɪ s f a",
+				"ˌe l k e ɹ ˌɪ t e ɹ ˈi͡u ɪ",
+				"u ˈe f a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				";",
+				"UEFA",
+				"(",
+				"13",
+				")"
+			],
+			"ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				";",
+				"u ˈe f a",
+				"(",
+				"ˌe m m e ˈu",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pika",
+				"ta",
+				"'",
+				"Sardinja"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"p ˈɪ k a",
+				"t ˈaː",
+				"'",
+				"s ˌa r d e ɪ n ˈi a"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"L-Art",
+				",",
+				"il-pjaneta",
+				"li",
+				"fih",
+				"ngħixu",
+				"aħna",
+				"l-bnedmin",
+				",",
+				"huwa",
+				"it-tielet",
+				"wieħed",
+				"'l",
+				"hinn",
+				"Xemx",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ˈe l l a r t",
+				",",
+				"ˌɪ l p i a n ˈe t a",
+				"l ˈɪ",
+				"f ˈɪː",
+				"nː ɪ ʃ ˈe u",
+				"a h ˌə n a",
+				"ˌe l l b n e d ˈe m ɪ n",
+				",",
+				"ˈuː a",
+				"ɪ tː ˈiː l e t",
+				"ˌu iː h ˈe d e",
+				"ˈe l l e",
+				"ˈɪ n n",
+				"ʃ e ˈe m ʃ e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Daniel",
+				"Parejo",
+				"Muñoz"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"d e ˈa n iː l",
+				"p ˌa ɹ e ˈi o",
+				"m u n ˈo t s e"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"L-edizzjoni",
+				"tal-1974",
+				"intrebhet",
+				"minn",
+				"Frans",
+				"Sammut",
+				"bir-rumanz",
+				"tieghu",
+				"''Samuraj",
+				"''",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"l ˌe d e ˌɪ t s e t s ˌe i ˈo n ɪ",
+				"t ˈa l n e f ˈə",
+				"ɪ n t ɹ ˈe bː e t",
+				"m ˈi n n",
+				"f ɹ ˈaː n s",
+				"s ˈa m m u t",
+				"b ˌiː r ɹ u m ˈa n t s e",
+				"t ˈiː ɡː u",
+				"s ˌa m u ɹ ˈaː i͡u",
+				"",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Jean",
+				"Parisot",
+				"de",
+				"la",
+				"Valette"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˈi͡e a n",
+				"p a ɹ ˈɪ s o t",
+				"d ˈe e",
+				"l ˈa",
+				"v a l ˈe tː e"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bożnija",
+				"u",
+				"Ħerżegovina"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"b o z ˈə n ɪ ˌi a",
+				"ˈu",
+				"h ˌe r z e ɡ o v ˈɪ n a"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Paul",
+				"Van",
+				"Himst",
+				"(",
+				"20",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p ˈa͡u l",
+				"v ˈa n",
+				"ˈɪ m s t",
+				"(",
+				"t ˌe ˈe t ɹ e",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bejn",
+				"l-1908",
+				"u",
+				"l-1909",
+				"qatta",
+				"'",
+				"xi",
+				"żmien",
+				"idoqq",
+				"Ġermanja",
+				"qabel",
+				"irritorna",
+				"lejn",
+				"l-Italja",
+				"u",
+				"beda",
+				"jikkonċentra",
+				"b'mod",
+				"esklussiv",
+				"fuq",
+				"il-kompożizzjoni",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈe͡iː n",
+				"ˈe l l e t ˈe n o",
+				"ˈu",
+				"ˈe l l e t ˈe n o",
+				"ˈa tː a",
+				"'",
+				"ʃ ˈiː",
+				"z ˈə m iː n",
+				"ˌɪ d e o ˈə ˈə",
+				"d͡ʒ ˌe r m a n ˈi a",
+				"ˈa b e l",
+				"ˌɪ r ɹ ɪ t ˈo r n a",
+				"l ˈe͡i n n",
+				"l ˌɪ t a l ˈi a",
+				"ˈu",
+				"b ˈə d e ˌa",
+				"ˌi͡u ɪ k ˌe c o n t͡ʃ ə ˈe n t ɹ aː",
+				"b m ˈo d e",
+				"ˌe s k e l ˈu s s ɪ f",
+				"f u ˈə",
+				"ˌɪ l c o ˌi m p o z ˈə ɪ t s ˌe t s e ˌi o n ˌɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fl-2008",
+				"/",
+				"09",
+				"il-klabb",
+				"lesta",
+				"l-istess",
+				"punti",
+				"ma",
+				"'",
+				"Ħamrun",
+				"Spartans",
+				"and",
+				"Msida",
+				"St.",
+				"Joseph",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				3,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ˌe f f e ˈe l l e t ˈe ɪ k ˈə",
+				"/",
+				"ˈa k k a",
+				"ɪ l k ˈe l a pː",
+				"l ˈe s t a",
+				"l ˈɪ s t e s s",
+				"p ˈu n t ɪ",
+				"j ˈi s t a x",
+				"'",
+				"h a ˈi m ɹ u n",
+				"s p ˈa r t a n s",
+				"ˈa n d e",
+				"m s ɪ d ˈe a",
+				"ˌe s s e t ˈe e",
+				"i ˈo s e pː",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				3,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Dan",
+				"il-filmat",
+				"inġibed",
+				"ġewwa",
+				"Londra",
+				",",
+				"Ingilterra",
+				",",
+				"u",
+				"huwa",
+				"stmat",
+				"li",
+				"l-ispejjeż",
+				"għalih",
+				"laħqu",
+				"mas-€70,000",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d ˈa n",
+				"ɪ l f ˈɪ l m a t",
+				"ˌɪ n d͡ʒ ɪ b ˈə d e",
+				"d͡ʒ e͡u ˈu a",
+				"l o n d ˈe ɹ aː",
+				",",
+				"ˌɪ n ɡ iː l t ˈe r ɹ aː",
+				",",
+				"ˈu",
+				"ˈuː a",
+				"s t m ˈa t",
+				"l ˈɪ",
+				"l ˌɪ s p e ˌiː e z ˈə",
+				"ˈa l ɪː",
+				"l ˈa h",
+				"m ˌa s s e ˈo ɹ e t ˈe ɪ t s ˈe t ɹ ɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Premier",
+				"League",
+				"Bjelorussu",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p ɹ ˈe m iː r",
+				"l ˌe a ɡ ˈu e",
+				"b ˌi͡e l o ɹ ˈu s s u",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"L-istadju",
+				"kien",
+				"wieħed",
+				"mill-postijiet",
+				"Tazza",
+				"tad-Dinja",
+				"2006",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ˌe l ɪ s t ˌa d e ˈi͡u u",
+				"ç ˈiː n",
+				"ˌu iː h ˈe d e",
+				"m ˌɪ l l p o s t ɪ ˈi͡u iː t",
+				"t ˌa t s e t s ˈe a",
+				"t ˌa d e ˌa d e ɪ n ˈi a",
+				"t ˈe i͡u ˈə",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Huma",
+				"baqgħu",
+				"Ewwel",
+				"Diviżjoni",
+				"għall-ħames",
+				"staġuni",
+				",",
+				"sakemm",
+				"dawn",
+				"kienu",
+				"relegati",
+				"lura",
+				"Tieni",
+				"Diviżjoni",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ˈu m a",
+				"b a ˈəː u",
+				"e͡u ˈu e l",
+				"d ˌe ɪ v ɪ z ˈə i ˌo n ɪ",
+				"a l l h ˈa m e s",
+				"s t a d͡ʒ ˈu n ɪ",
+				",",
+				"s ˈa k e m m",
+				"d ˈa͡uː n",
+				"ç ˈi͡e n u",
+				"ɹ ˌe l e ɡ ˈa t ɪ",
+				"l ˈu ɹ aː",
+				"t ˈiː n ɪ",
+				"d ˌe ɪ v ɪ z ˈə i ˌo n ɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Impuls",
+				"FC",
+				"Dilijan"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ɪ ˈi m p u l s",
+				"ˌe f f e k ˈa",
+				"d ˌe ɪ l ɪ ˈi a n"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Harm",
+				"van",
+				"Veldhoven",
+				"(",
+				"Lul",
+				"2007–Nov",
+				"08",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈa r m",
+				"v ˈa n",
+				"v ˌe l d eː ˈo v e n",
+				"(",
+				"l ˈu l",
+				"t e j t ˈe n o f",
+				"ˌi͡e t ɹ e ˈa k k a",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Tim",
+				"nazzjonali",
+				"tal-futbol",
+				"tal-Ukrajna"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t a l f ˈu t b o l",
+				"t ˌa l u k ˌe ɹ aː ˈi͡u n a"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Jacky",
+				"Mathijssen",
+				"(",
+				"Lul",
+				"2007–Ġun",
+				"09",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌi a c k ˈe y",
+				"m ˌa tː ɪ ˈi͡u s s e n",
+				"(",
+				"l ˈu l",
+				"t ˌe i ˌi m m e d͡ʒ ˈi͡e u n",
+				"ˈa k k a",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Minn",
+				"dakinhar",
+				",",
+				"Malta",
+				"baqgħet",
+				"tibgħat",
+				"ir-rapreżentanti",
+				"tagħha",
+				"mingħajr",
+				"l-ebda",
+				"waqfien",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ˈi n n",
+				"d ˌe a k ˈiː n n a r",
+				",",
+				"m ˈa l t a",
+				"b a ˈəː e t",
+				"t ˈɪ bː a t",
+				"ˌɪ r ɹ aː p ɹ ˌe z e n t ˈa n t ɪ",
+				"t a h ˌə a",
+				"m ˈiː n a͡i r",
+				"l e b d ˈe a",
+				"ˌu a ˈə f iː n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fenek",
+				"ta",
+				"'",
+				"denbu",
+				"qotni",
+				"tal-muntanji"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"f e n ˈe k e",
+				"t ˈaː",
+				"'",
+				"d e ˈe n b u",
+				"ˈo t n ɪ",
+				"t ˌa l m u n t a n ˈi͡u ɪ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"KS",
+				"Vllaznia",
+				"Shkodër"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"k ˌiː ˈe s s e",
+				"v l l ˌa t s e n ˈɪ a",
+				"sː c o d ˈe ə r"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Paul",
+				"Van",
+				"Himst",
+				"(",
+				"16",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p ˈa͡u l",
+				"v ˈa n",
+				"ˈɪ m s t",
+				"(",
+				"d ˌe e k ˈə",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sal-2009",
+				",",
+				"il-pajjiż",
+				"li",
+				"l-aktar",
+				"ipparteċipa",
+				"mingħajr",
+				"ma",
+				"kiseb",
+				"ebda",
+				"rebħa",
+				"hu",
+				"Portugall",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"s ˈa l t ə ˈi m e",
+				",",
+				"ˌɪ l p a ˌiː ɪ z ˈə",
+				"l ˈɪ",
+				"l a k ˈe t a r",
+				"ˌɪ pː a r t ˌe t͡ʃ ə ˈi p a",
+				"m ˈiː n a͡i r",
+				"j ˈi s t a x",
+				"k ˈiː s e p",
+				"e b d ˈe a",
+				"ɹ ˈe b h a",
+				"ˈu",
+				"p o r t ˈu ɡ a l l",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Inħatar",
+				"Segretarju",
+				"President",
+				"ta",
+				"'",
+				"Malta",
+				"u",
+				"f'din",
+				"il-kariga",
+				"serva",
+				"taħt",
+				"l-E.T",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɪ n h ˈa t a r",
+				"s ˌe ɡ ɹ e t a ɹ ˈi͡u u",
+				"p ɹ ˌe s ɪ d ˈe e n t",
+				"t ˈaː",
+				"'",
+				"m ˈa l t a",
+				"ˈu",
+				"f d ˈe ɪ n",
+				"ˌɪ l k a ɹ ˈɪ ɡ a",
+				"s ˈe r v a",
+				"t ˈa h t",
+				"ˈe l l e t ˈe",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kien",
+				"hemm",
+				"oħra",
+				"Ħaż-Żebbuġ",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ç ˈiː n",
+				"ˈe m m",
+				"ˈo h ɹ aː",
+				"h a z ˈə z e bː ˌu t͡ʃ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"FC",
+				"Bayern",
+				"Munich"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌe f f e k ˈa",
+				"b a ˈy e r n",
+				"m ˈu n ɪ cː"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Michael",
+				"Mifsud",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"m ɪ cː ˈa e l",
+				"m ɪ f s ˈu d e",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mela",
+				"l-Ispirtu",
+				"s-Santu",
+				"huwa",
+				"persuna",
+				"bħal",
+				"Ġesù",
+				"Kristu",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ˈe l a",
+				"l ˈi s p ɪ r t ˌu",
+				"ˈe s s a n t ˌu",
+				"ˈuː a",
+				"p e r s ˈu n a",
+				"b h ˈa l",
+				"d͡ʒ ˈe s u",
+				"k e ɹ ˈɪ s t u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-kampjonat",
+				"kien",
+				"imwettaq",
+				"fi",
+				"8",
+				"timijiet",
+				",",
+				"u",
+				"Sliema",
+				"Wanderers",
+				"kienu",
+				"rebbieħa",
+				"tal-kampjonat",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l k a ˌi m p i ˈo n a t",
+				"ç ˈiː n",
+				"ˌɪ m u ˌe tː a ˈə",
+				"f ˈiː",
+				"k ˈə",
+				"t ˌɪ m ɪ ˈi͡u iː t",
+				",",
+				"ˈu",
+				"s l ˈiː m a",
+				"ˌu a n d e ˈe ɹ e r s",
+				"ç ˈi͡e n u",
+				"ɹ e bː ˈiː h a",
+				"t ˌa l k a ˌi m p i ˈo n a t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"ġurdien",
+				"sufi",
+				"ta",
+				"'",
+				"denbu",
+				"għarwien"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"d͡ʒ u r d ˈe iː n",
+				"s ˈu f ɪ",
+				"t ˈaː",
+				"'",
+				"d e ˈe n b u",
+				"a ɹ ˈu iː n"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Brażil",
+				"rebħu",
+				"l-grupp",
+				",",
+				"u",
+				"avvanzaw",
+				"għat-tieni",
+				"taqsima",
+				"tal-logħba",
+				",",
+				"flimkien",
+				"li",
+				"magħhom",
+				"ingħaqdu",
+				"Awstralja",
+				"."
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"b ɹ ˈə a z ˈə ɪ l",
+				"ɹ ˈe b h h uː",
+				"ˈe l ɡ ɹ u pː",
+				",",
+				"ˈu",
+				"ˌa v v a n t s e ˈa u",
+				"a tː ˈiː n ɪ",
+				"t a ˈə s ɪ m ˌa",
+				"t a l l ˈoː b a",
+				",",
+				"f l ˈi n k iː m",
+				"l ˈɪ",
+				"m ˈaː o m",
+				"ˌɪ n n a ˈə d e ˌu",
+				"ˌa u s t ɹ aː l ˈi a",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"2002",
+				"–",
+				"''Ma",
+				"kkwalifikatx",
+				"''"
+			],
+			"ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"t ˈe i m p",
+				"e t ɹ ˈaː",
+				"m ˈa",
+				"k ˌe k e ˌu a l ˌɪ f ɪ k ˈa t ʃ e",
+				""
+			],
+			"epi_ner_tags": [
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sliema",
+				"Wanderers",
+				"u",
+				"St.",
+				"Georges",
+				"tneħħew",
+				"mill-kompetizzjoni",
+				"."
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s l ˈiː m a",
+				"ˌu a n d e ˈe ɹ e r s",
+				"ˈu",
+				"ˌe s s e t ˈe e",
+				"ɡ i͡e ˈo r ɡ i͡e s",
+				"t n ˈe h h e͡u",
+				"m ˌɪ l l c o ˌi m p e t ˌɪ t s e t s ˌe i ˈo n ɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"train": [
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Ġwann",
+				"Marija",
+				"Vianney"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"d͡ʒ ˈu a n n",
+				"m ˌa ɹ ɪ ˈi a",
+				"v ˌɪ a n n ˈe y"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Rebbieħ",
+				"tal-premju",
+				"tal-Għarbi",
+				",",
+				"f’Lulju",
+				"jitla’",
+				"Ruma",
+				"jissokta",
+				"l-istudji",
+				"tiegħu",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɹ ˈe bː iː h",
+				"t ˌa l p ɹ e m ˈi͡u u",
+				"t a l l ˈa r b iː",
+				",",
+				"f l u l ˈi͡u u",
+				"i͡u ˈɪ t l a",
+				"ɹ ˈu m a",
+				"ˌi͡u ɪ s s o k ˈe t a",
+				"l ˌɪ s t u d e ˈi͡u ɪ",
+				"t ˌiː uː",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hu",
+				"ħaseb",
+				"li",
+				"kien",
+				"wasal",
+				"Asja",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ˈu",
+				"h ˈa s e p",
+				"l ˈɪ",
+				"ç ˈiː n",
+				"u ˈa s a l",
+				"a s ˈi a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Glen",
+				"De",
+				"Boeck",
+				"(",
+				"Nov",
+				"2012–",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ l ˈe n",
+				"d ˈe e",
+				"b o ˈe c k e",
+				"(",
+				"n ˈo f",
+				"t e : t ˌe iː e f ˈe",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Cercle",
+				"Brugge",
+				"KSV"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"c ˈe r c l e",
+				"b ɹ ˈə u ɡː ˌe",
+				"k ˌa ˌe s s e v ˈe"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Marjanu",
+				"Vella",
+				"(",
+				"1927–1988",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ˌa ɹ i ˈa n uː",
+				"v ˈe l l a",
+				"(",
+				"e d ˌe e ˈe f f e k ˈa",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"L-istadju",
+				"finalment",
+				"lesta",
+				"r-rinnovazzjoni",
+				"tiegħu",
+				"kmieni",
+				"fl-2012",
+				",",
+				"fejn",
+				"13,000",
+				"biljetti",
+				"marru",
+				"fuq",
+				"il-bejgħ",
+				"għall-ewwel",
+				"logħba",
+				"li",
+				"saret",
+				"hemmhekk",
+				"u",
+				"l-interess",
+				"kien",
+				"għoli",
+				"minħabba",
+				"l-fatt",
+				"li",
+				"l-aħħar",
+				"logħba",
+				"Superliga",
+				"Albaniża",
+				"li",
+				"saret",
+				"hemm",
+				"fl-2002",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌe l ɪ s t ˌa d e ˈi͡u u",
+				"f ɪ n ˈa l m e n t",
+				"l ˈe s t a",
+				"ɹ ɹ ˌɪ n n o v ˌa t s e t s ˌe i ˈo n ɪ",
+				"t ˌiː uː",
+				"k e m ˈiː n ɪ",
+				"ˌe f f e ˈe l l e u ˈə",
+				",",
+				"f ˈe i͡u n",
+				"ɹ ˈuː ˈə n n o",
+				"b iː l ˈi͡e tː ɪ",
+				"m ˈa r ɹ u",
+				"f u ˈə",
+				"ɪ l b ˈə i͡uː",
+				"ˌa l l e͡u ˈu e l",
+				"l ˈoː b a",
+				"l ˈɪ",
+				"s ˈaː ɹ e t",
+				"ˌe m m m e k ˈe k e",
+				"ˈu",
+				"l ˈi n t e ɹ ˌe s s",
+				"ç ˈiː n",
+				"ˈo l ɪ",
+				"m ɪ n h ˈa bː a",
+				"ˈe l f a tː",
+				"l ˈɪ",
+				"l ˈa h h a r",
+				"l ˈoː b a",
+				"s ˌu p e r l ˈɪ ɡ a",
+				"ˌa l b a n ˈɪ z a",
+				"l ˈɪ",
+				"s ˈaː ɹ e t",
+				"ˈe m m",
+				"ˌe f f e ˈe l l e͡iː t r e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Gowler",
+				"(",
+				"futbol",
+				")"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ɡ o ˈu l e r",
+				"(",
+				"f ˈu t b o l",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Kienu",
+				"l-Italja",
+				"li",
+				"żammew",
+				"it-titlu",
+				"għandhom",
+				"wara",
+				"li",
+				"fil-finali",
+				"għelbu",
+				"Ungerija",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"ç ˈi͡e n u",
+				"l ˌɪ t a l ˈi a",
+				"l ˈɪ",
+				"z ˈa m m e͡u",
+				"ɪ tː ˈɪ t l u",
+				"ˈa n d o m",
+				"u ˈa ɹ a",
+				"l ˈɪ",
+				"f ˌɪ l f ɪ n ˈa l ɪ",
+				"ˈe l b u",
+				"ˌu n ɡ i͡e ɹ ɪ ˈi a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"irqiq",
+				"ta",
+				"'",
+				"Pinheiro"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"ɪ ɹ ˈə ɪ ˈə",
+				"t ˈaː",
+				"'",
+				"p ˌɪ n n e ˈɪ ɹ oː"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Joseph",
+				"Calleia",
+				"(",
+				"1897–1975",
+				")",
+				"—",
+				"attur",
+				"li",
+				"qatta",
+				"'",
+				"l-karriera",
+				"tiegħu",
+				"ikanta",
+				"kullimkien"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"i ˈo s e pː",
+				"c ˌa l l e ˈɪ a",
+				"(",
+				"ˌe n n e t ˌe i ˈe f f e",
+				")",
+				"h ˈa k k a",
+				"ˈa tː u r",
+				"l ˈɪ",
+				"ˈa tː a",
+				"'",
+				"l k ˌa r ɹ iː ˈe ɹ aː",
+				"t ˌiː uː",
+				"ɪ k ˈa n t a",
+				"k ˌuː l l ɪ m k ˈiː e n"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"387",
+				"–",
+				"Bożnija",
+				"u",
+				"Ħerżegovina"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ˈe t s e ˌu ˈe m m e",
+				"e t ɹ ˈaː",
+				"b o z ˈə n ɪ ˌi a",
+				"ˈu",
+				"h ˌe r z e ɡ o v ˈɪ n a"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Polonja",
+				",",
+				"Renju",
+				"Unit",
+				"u",
+				"Ġermanja",
+				"rċevew",
+				"ilkoll",
+				"14-il",
+				"punt",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				5,
+				6,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"p ˌo l o n ˈi a",
+				",",
+				"ɹ e n ˈi͡u u",
+				"ˈu n ɪ t",
+				"ˈu",
+				"d͡ʒ ˌe r m a n ˈi a",
+				"r t͡ʃ ə ˈe v e͡u",
+				"ˈɪ l c o l l",
+				"ɹ ˈə ɹ ɪ l",
+				"p ˈu n t",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				5,
+				6,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"L-Ewwel",
+				"Diviżjoni",
+				"Maltija",
+				"''",
+				"'",
+				"''",
+				"(",
+				"it-tieni",
+				"livell[2]",
+				")",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ˌe l e͡u ˈu e l",
+				"d ˌe ɪ v ɪ z ˈə i ˌo n ɪ",
+				"m ˌa l t ɪ ˈi a",
+				"",
+				"'",
+				"",
+				"(",
+				"ɪ tː ˈiː n ɪ",
+				"l ˈɪ v e l l",
+				")",
+				""
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Opossum",
+				"ta",
+				"'",
+				"denbu",
+				"qasir",
+				"tal-ġnub",
+				"ħomor",
+				"ta",
+				"'",
+				"Nofsinhar"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"o p ˈo s s u m",
+				"t ˈaː",
+				"'",
+				"d e ˈe n b u",
+				"ˈa s ɪ r",
+				"t ˈa l d͡ʒ n uː p",
+				"h ˈo m o r",
+				"t ˈaː",
+				"'",
+				"n o f s ˈɪ n n a r"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Ludwig",
+				"van",
+				"Beethoven"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"l ˌu d e ˈu ɪ k",
+				"v ˈa n",
+				"b ˈə e tː ˌo v e n"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Ċampjins",
+				"Ewwel",
+				"Diviżjoni",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"t͡ʃ ə ˌa i m p ˈi͡u ɪ n s",
+				"e͡u ˈu e l",
+				"d ˌe ɪ v ɪ z ˈə i ˌo n ɪ",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"3",
+				"Il-Baħamas",
+				"għażlu",
+				"li",
+				"l-leg",
+				"li",
+				"kellhom",
+				"jilgħabu",
+				"ġewwa",
+				"darhom",
+				"tintlagħab",
+				"Ġamajka",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ˈe t ɹ e",
+				"ˌɪ l b a h ˈa m a s",
+				"a z ˈə l u",
+				"l ˈɪ",
+				"ˈe l l e k",
+				"l ˈɪ",
+				"k ˈe l l l o m",
+				"ˌi͡u ɪ l l ˈa b u",
+				"d͡ʒ e͡u ˈu a",
+				"d e ˈa r ɹ o m",
+				"t ɪ n t l ˈaː a p",
+				"d͡ʒ ˌa m a ˈi͡u k a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"KF",
+				"Skënderbeu",
+				"Korçë"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"k ˌa ˈe f f e",
+				"s k ˌə n d e e r b ˈə u",
+				"c ˈo r t͡ʃ ə"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Kaká",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"k ˈa k aː",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ħames",
+				"snin",
+				"wara",
+				",",
+				"huwa",
+				"ssieħeb",
+				"ma",
+				"Genk",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"h ˈa m e s",
+				"s n ˈɪ n",
+				"u ˈa ɹ a",
+				",",
+				"ˈuː a",
+				"s s iː ˈe h e p",
+				"j ˈi s t a x",
+				"ɡ ˈi͡e n k e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Wolverhampton",
+				"Wanderers",
+				"FC"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌu o l v ˌe r ɹ aː ˈi m p t o n",
+				"ˌu a n d e ˈe ɹ e r s",
+				"ˌe f f e k ˈa"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"******Ġeneru",
+				"Philander",
+				"''",
+				"(",
+				"Brisson",
+				",",
+				"1762",
+				")"
+			],
+			"ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d͡ʒ e n ˈe ɹ u",
+				"pː ˌɪ l a n d ˈe e r",
+				"",
+				"(",
+				"b ɹ ˈə ɪ s s ˌo n",
+				",",
+				"n n ˈuː",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"L-elezzjoni",
+				"tal-1955",
+				"intrebħet",
+				"Partit",
+				"Laburista",
+				"mmexxi",
+				"minn",
+				"Dom",
+				"Mintoff",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"l ˌe l e t s ˌe t s e i ˈo n ɪ",
+				"t ˈa l n e ʃ ˌe",
+				"ɪ n t ɹ ˈe b h e t",
+				"p ˈa r t ɪ t",
+				"l ˌa b u ɹ ˈɪ s t a",
+				"m m ˌe ʃ e ʃ ˈe ɪ",
+				"m ˈi n n",
+				"d ˈe o m",
+				"m ˈɪ n t o f f",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Mary",
+				"Meilak",
+				"(",
+				"1905-1975",
+				")",
+				"-",
+				"poetessa"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m ˈa ɹ y",
+				"m ˌe ɪ l ˈa k e",
+				"(",
+				"ɹ ˌe t s e ˈe n e f f e",
+				")",
+				"-",
+				"p ˌo e t ˈe s s a"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"irqiq",
+				"ta",
+				"'",
+				"Panama"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"ɪ ɹ ˈə ɪ ˈə",
+				"t ˈaː",
+				"'",
+				"p a n ˈa m a"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Serbja",
+				"rebħet",
+				"fl-ewwel",
+				"sena",
+				"li",
+				"daħlet",
+				"bħala",
+				"pajjiż",
+				"indipendenti",
+				"(",
+				"mhux",
+				"Montenegro",
+				")",
+				",",
+				"2007",
+				"."
+			],
+			"ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"s e r b ˈi a",
+				"ɹ ˈe b h e t",
+				"ˌe f l e͡u ˈu e l",
+				"s ˈe n a",
+				"l ˈɪ",
+				"d e ˈa h l e t",
+				"b h ˈa l a",
+				"p ˌa iː ɪ z ˈə",
+				"ˌɪ n d e ˌɪ p e n d e ˈe n t ɪ",
+				"(",
+				"m ˈuː ʃ",
+				"m ˌo n t e n ˈe ɡ ɹ oː",
+				")",
+				",",
+				"t ˈe iː ˈi m m e",
+				"."
+			],
+			"epi_ner_tags": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Baqgħu",
+				"jtellgħu",
+				"xogħlijiet",
+				"fis-sala",
+				"tal-Astoria",
+				"Rabat",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"b a ˈəː u",
+				"i͡u t ˈe l l l u",
+				"ʃ ˌe oː l ɪ ˈi͡u iː t",
+				"f ɪ s s ˈa l a",
+				"t ˌa l a s t o ɹ ˈɪ a",
+				"ɹ ˈaː b a t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Enriku",
+				"VIII",
+				"tal-Ingilterra"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"e n ɹ ˈɪ k uː",
+				"v ɪ ˈɪ ɪ",
+				"t ˌa l ɪ n ɡ iː l t ˈe r ɹ aː"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Il-partita",
+				"kienet",
+				"bejn",
+				"Ġermanja",
+				"u",
+				"Spanja",
+				",",
+				"u",
+				"dan",
+				"tal-aħħar",
+				"rebaħ",
+				"1–0",
+				",",
+				"b'gowl",
+				"skurjat",
+				"minn",
+				"Fernando",
+				"Torres",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l p a r t ˈɪ t a",
+				"k ˈiː n e t",
+				"b ˈe͡iː n",
+				"d͡ʒ ˌe r m a n ˈi a",
+				"ˈu",
+				"s p a n ˈi a",
+				",",
+				"ˈu",
+				"d ˈa n",
+				"t a l ˈa h h a r",
+				"ɹ ˈe b a h",
+				"d ˈe e t ɹ ˈe t ɹ ə",
+				",",
+				"b ɡ ˈo u l",
+				"s k uː ɹ ˈi a t",
+				"m ˈi n n",
+				"f ˌe r n a n d ˈe o",
+				"t ˈo r ɹ e s",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Liebru",
+				"ta",
+				"'",
+				"Yunnan"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"l iː b ɹ ˈə u",
+				"t ˈaː",
+				"'",
+				"y ˈu n n a n"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Libanu",
+				"fil-Festival",
+				"tal-Eurovision"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"l ɪ b ˈa n uː",
+				"f ˌɪ l f e s t ˈɪ v a l",
+				"t ˌa l e ˌu ɹ oː v ɪ s ˈɪ o n"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Saħansitra",
+				"kien",
+				"daħal",
+				"f’koalizzjoni",
+				"miegħu",
+				"iżda",
+				"kien",
+				"mgħoddi",
+				"biż-żmien",
+				"u",
+				",",
+				"għalhekk",
+				",",
+				"ittieħdet",
+				"deċiżjoni",
+				"li",
+				"jsir",
+				"ftehim",
+				"ma’",
+				"Gerald",
+				"Strickland",
+				"u",
+				"sħabu",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"s ˌa h a n s ˈɪ t ɹ aː",
+				"ç ˈiː n",
+				"d e ˈa h a l",
+				"f c ˌo a l ˌɪ t s e t s ˌe i ˈo n ɪ",
+				"m ˈiː u",
+				"iː z ˈə d a",
+				"ç ˈiː n",
+				"mː ˈo dː ɪ",
+				"b iː z ˈə z ˈə m iː n",
+				"ˈu",
+				",",
+				"ˌa l l e k ˈe k e",
+				",",
+				"ˌɪ tː iː h d ˈe e t",
+				"d ˌe e t͡ʃ ə i z ˈə i ˌo n ɪ",
+				"l ˈɪ",
+				"ˈi͡u s ɪ r",
+				"f t ˈeː ɪ m",
+				"m ˈa",
+				"ɡ i͡e ɹ ˈaː l d e",
+				"s t ɹ ˌɪ c k e l ˈa n d e",
+				"ˈu",
+				"s h ˈa b u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-ftit",
+				"drabi",
+				"li",
+				"deher",
+				",",
+				"ħafna",
+				"minnhom",
+				"għamilhom",
+				"fil-preżenza",
+				"tas-suċċessur",
+				"tiegħu",
+				",",
+				"Papa",
+				"Franġisku",
+				",",
+				"u",
+				"qatt",
+				"ma",
+				"esprima",
+				"ideat",
+				"kuntrarji",
+				"għal",
+				"tiegħu",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈɪ l f t ɪ t",
+				"d e ɹ ˈaː b iː",
+				"l ˈɪ",
+				"d e ˈeː e r",
+				",",
+				"h ˈa f n a",
+				"m ˈɪ n n n o m",
+				"a m ˈɪ l l o m",
+				"f ˌɪ l p ɹ e z e n t s ˈe a",
+				"t ˌa s s u t͡ʃ ə t͡ʃ ə ˈe s s u r",
+				"t ˌiː uː",
+				",",
+				"p ˈa p a",
+				"f ɹ aː n d͡ʒ ˈɪ s k uː",
+				",",
+				"ˈu",
+				"ˈa tː",
+				"j ˈi s t a x",
+				"e s p ɹ ˈɪ m a",
+				"ˌɪ d e ˈe a t",
+				"k ˌuː n t ɹ aː ɹ ˈi͡u ɪ",
+				"ˈa l l",
+				"t ˌiː uː",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Albert",
+				"Hyzler",
+				"(",
+				"aġent",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"a l b ˈə r t",
+				"y t s ˈe l e r",
+				"(",
+				"ˈa d͡ʒ e n t",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"Premier",
+				"League",
+				"Malti",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"p ɹ ˈe m iː r",
+				"l ˌe a ɡ ˈu e",
+				"m ˈa l t ɪ",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Bejn",
+				"l-1996",
+				"u",
+				"l-1998",
+				"kien",
+				"il-konsulent",
+				"tal-Prim",
+				"Ministru",
+				"(",
+				"Dr.",
+				"Alfred",
+				"Sant",
+				")",
+				"dwar",
+				"il-kultura",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈe͡iː n",
+				"ˈe l l e ˈu ɡ",
+				"ˈu",
+				"ˈe l l e t s ˈe i",
+				"ç ˈiː n",
+				"ˌɪ l c o n s ˈu l e n t",
+				"t ˈa l p ɹ ɪ m",
+				"m ɪ n ˈɪ s t ɹ u",
+				"(",
+				"d ˌe e ˈe r ɹ e",
+				"a l f ɹ ˈe d e",
+				"s ˈa n t",
+				")",
+				"d e ˈu a r",
+				"ˌɪ l k uː l t ˈu ɹ aː",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hemmhekk",
+				"hu",
+				"kien",
+				"ġie",
+				"skopert",
+				"minn",
+				"São",
+				"Paulo",
+				"li",
+				"offrielu",
+				"kuntratt",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌe m m m e k ˈe k e",
+				"ˈu",
+				"ç ˈiː n",
+				"d͡ʒ ˈiː",
+				"s c ˈo p e r t",
+				"m ˈi n n",
+				"s ˈa o",
+				"p ˈa͡u l o",
+				"l ˈɪ",
+				"ˌo f f ɹ iː ˈe l u",
+				"k ˈuː n t ɹ aː tː",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-kampjonat",
+				"kien",
+				"imwettaq",
+				"f'4",
+				"timijiet",
+				",",
+				"u",
+				"Floriana",
+				"kienu",
+				"rebbieħa",
+				"tal-kampjonat",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l k a ˌi m p i ˈo n a t",
+				"ç ˈiː n",
+				"ˌɪ m u ˌe tː a ˈə",
+				"ˈe f f e ˈo r ɹ e",
+				"t ˌɪ m ɪ ˈi͡u iː t",
+				",",
+				"ˈu",
+				"f l ˌo ɹ ɪ ˈa n a",
+				"ç ˈi͡e n u",
+				"ɹ e bː ˈiː h a",
+				"t ˌa l k a ˌi m p i ˈo n a t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Iż-",
+				"''",
+				"'Żambja",
+				"''",
+				"'",
+				"hi",
+				"nazzjon",
+				"Afrika",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ɪ z ˈə",
+				"",
+				"z a m b ˈi a",
+				"",
+				"'",
+				"ˈɪ",
+				"n ˌa t s e t s e ˈi o n",
+				"a f ɹ ˈɪ k a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Tim",
+				"nazzjonali",
+				"tal-futbol",
+				"ta",
+				"'",
+				"San",
+				"Marino"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t a l f ˈu t b o l",
+				"t ˈaː",
+				"'",
+				"s ˈa n",
+				"m a ɹ ˈɪ n o"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Ġużè",
+				"Aquilina",
+				"(",
+				"1911-1997",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d͡ʒ ˈu z e",
+				"ˌa ɪ l ˈɪ n a",
+				"(",
+				"ɹ ˌe t e ɹ ˈe y m",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"'",
+				"''",
+				"FC",
+				"Barcelona",
+				"''",
+				"'",
+				"''",
+				"'It-tielet",
+				"titlu",
+				"''",
+				"'"
+			],
+			"ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"'",
+				"",
+				"ˌe f f e k ˈa",
+				"b ˌa r c e l ˈo n a",
+				"",
+				"'",
+				"",
+				"ɪ tː ˈiː l e t",
+				"t ˈɪ t l u",
+				"",
+				"'"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-kampjonat",
+				"kien",
+				"imwettaq",
+				"f'4",
+				"timijiet",
+				",",
+				"u",
+				"Floriana",
+				"kienu",
+				"rebbieħa",
+				"tal-kampjonat",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l k a ˌi m p i ˈo n a t",
+				"ç ˈiː n",
+				"ˌɪ m u ˌe tː a ˈə",
+				"ˈe f f e ˈo r ɹ e",
+				"t ˌɪ m ɪ ˈi͡u iː t",
+				",",
+				"ˈu",
+				"f l ˌo ɹ ɪ ˈa n a",
+				"ç ˈi͡e n u",
+				"ɹ e bː ˈiː h a",
+				"t ˌa l k a ˌi m p i ˈo n a t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Carlos",
+				"Eugênio",
+				"Simon"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"c ˈa r l o s",
+				"ˌe͡uː ɡ eː n ˈɪ o",
+				"s ˈɪ m o n"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Opossum",
+				"ta",
+				"'",
+				"denbu",
+				"qasir",
+				"tal-Perù"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"o p ˈo s s u m",
+				"t ˈaː",
+				"'",
+				"d e ˈe n b u",
+				"ˈa s ɪ r",
+				"t ˈa l p e ɹ ˌu"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"''",
+				"It-Tnax-il",
+				"Lejl",
+				"''",
+				"(",
+				"William",
+				"Shakespeare",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"",
+				"ˌɪ t t n ˈa ʃ ɪ l",
+				"l ˈe i͡u l",
+				"",
+				"(",
+				"ˌu ɪ l l ˈɪ a m",
+				"sː ˌa k e s p e ˈa ɹ e",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"St.",
+				"Lawrence",
+				"Spurs",
+				"F.C",
+				"."
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ˌe s s e t ˈe e",
+				"l ˌa u ɹ ˈe n c e",
+				"s p ˈu r s",
+				"ˌe f f e k ˈa",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Gżejjer",
+				"ta",
+				"'",
+				"San",
+				"Pawl",
+				"/",
+				"Selmunett"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ɡ z e ˈiː e r",
+				"t ˈaː",
+				"'",
+				"s ˈa n",
+				"p ˈa u l",
+				"/",
+				"s e l m ˈu n e tː"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Edwin",
+				"van",
+				"der",
+				"Sar"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ˌe d e ˈu ɪ n",
+				"v ˈa n",
+				"d ˈe e r",
+				"s ˈa r"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Otto",
+				"von",
+				"Bismarck"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˈo tː o",
+				"v ˈo n",
+				"b iː s m ˈa r c k e"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Fenek",
+				"ta",
+				"'",
+				"Amami"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"f e n ˈe k e",
+				"t ˈaː",
+				"'",
+				"a m ˈa m ɪ"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Ilarju",
+				"ta",
+				"'",
+				"Poitiers"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌɪ l a ɹ ˈi͡u u",
+				"t ˈaː",
+				"'",
+				"p o ˈɪ t iː r s"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Bħalissa",
+				"huwa",
+				"jilgħab",
+				"tim",
+				"nazzjonali",
+				"Malti",
+				"tal-U19",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"b h a l ˈɪ s s a",
+				"ˈuː a",
+				"i͡u ˈɪ l l a p",
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"m ˈa l t ɪ",
+				"t ˈa l u n t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"UEFA",
+				"Champions",
+				"League",
+				"2007–08"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"u ˈe f a",
+				"cː ˌa i m p ˈɪ o n s",
+				"l ˌe a ɡ ˈu e",
+				"e s t ˌe i ˈi m e t a k ˈa"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"(",
+				"bejn",
+				"Afrika",
+				"t'Isfel",
+				"u",
+				"Możambik",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"(",
+				"b ˈe͡iː n",
+				"a f ɹ ˈɪ k a",
+				"t ˈɪ s f e l",
+				"ˈu",
+				"m ˌo z a m b ˈiː k e",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Isaac",
+				"Newton",
+				"ukoll",
+				"studja",
+				"l-kometi",
+				"."
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈɪ s aː c",
+				"n ˈe͡u t o n",
+				"ˈu c o l l",
+				"s t ˌu d e ˈi a",
+				"l c o m ˈe t ɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Pika",
+				"ta",
+				"'",
+				"Thomas"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"p ˈɪ k a",
+				"t ˈaː",
+				"'",
+				"tː ˈo m a s"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Billi",
+				"ħass",
+				"il-vokazzjoni",
+				"biex",
+				"isir",
+				"qassis",
+				"mar",
+				"Ruma",
+				"biex",
+				"ikompli",
+				"jistudja",
+				"fl-Università",
+				"Gregorjana",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈiː l l ɪ",
+				"h ˈa s s",
+				"ˌɪ l v o k ˌa t s e t s ˌe i ˈo n ɪ",
+				"b i ˈə ʃ e",
+				"ˈɪ s ɪ r",
+				"ˈa s s ɪ s",
+				"m ˈa r",
+				"ɹ ˈu m a",
+				"b i ˈə ʃ e",
+				"ˌɪ c o ˈi m p l ɪ",
+				"ˌi͡u ɪ s t ˌu d e ˈi a",
+				"ˌe f l u n ˌɪ v e r s ˈɪ t a",
+				"ɡ ɹ ˌe ɡ o ɹ i ˈa n a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Opossum",
+				"bugeddum",
+				"Peruvjan"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"o p ˈo s s u m",
+				"b u ɡ ˈi͡e dː u m",
+				"p ˌe ɹ u v ˈi a n"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"FC",
+				"Admira",
+				"Wacker",
+				"Mödling"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌe f f e k ˈa",
+				"ˌa d e m ˈɪ ɹ aː",
+				"u ˈa c k e r",
+				"m œ d ˈe l ɪ n k"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Huwa",
+				"kkowċja",
+				"bosta",
+				"timijiet",
+				"speċjalment",
+				"Tim",
+				"nazzjonali",
+				"tal-Eġittu",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ˈuː a",
+				"k ˌe c o ˌu t͡ʃ ə ˈi a",
+				"b ˈo s t a",
+				"t ˌɪ m ɪ ˈi͡u iː t",
+				"s p ˌe t͡ʃ ə i ˈa l m e n t",
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t ˌa l e d͡ʒ ˈɪ tː u",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Lorenzo",
+				"Staelens",
+				"''",
+				"(",
+				"provviżorju",
+				")",
+				"''",
+				"(",
+				"Ott",
+				"2012–",
+				"?",
+				"?",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"l ˌo ɹ e n t s ˈe o",
+				"s t a ˈe l e n s",
+				"",
+				"(",
+				"p ɹ ˌoː v v ɪ z ˈə o ɹ ˌi͡u u",
+				")",
+				"",
+				"(",
+				"ˈo tː",
+				"t e : t ˌe iː e f ˈe",
+				"?",
+				"?",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Kien",
+				"fl-1996",
+				"li",
+				"huwa",
+				"nħatar",
+				"Ministru",
+				"tat-Trasport",
+				"u",
+				"l-Portijiet",
+				"fil-gvern",
+				"immexxi",
+				"minn",
+				"Alfred",
+				"Sant",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"ç ˈiː n",
+				"ˌe f f e l l e ˈu ɡ i͡e",
+				"l ˈɪ",
+				"ˈuː a",
+				"n h ˈa t a r",
+				"m ɪ n ˈɪ s t ɹ u",
+				"t a t t ɹ ˈaː s p o r t",
+				"ˈu",
+				"l p ˌo r t ɪ ˈi͡u iː t",
+				"f ˈɪ l ɡ v e r n",
+				"ˌɪ m m e ʃ e ʃ ˈe ɪ",
+				"m ˈi n n",
+				"a l f ɹ ˈe d e",
+				"s ˈa n t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Tim",
+				"nazzjonali",
+				"tal-futbol",
+				"tar-Russja"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t a l f ˈu t b o l",
+				"t ˌa r ɹ u s s ˈi a"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Luqa",
+				"St.",
+				"Andrew",
+				"'s"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"l ˈu a",
+				"ˌe s s e t ˈe e",
+				"a n d ˈe ɹ e͡u",
+				"ˈe s s e"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"SV",
+				"Zulte",
+				"Waregem"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌe s s e v ˈe",
+				"t s e ˈu l t e",
+				"ˌu a ɹ ˈe ɡ i͡e m"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Dun",
+				"Karm",
+				"Psaila",
+				"(",
+				"1871–1961",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"d ˈe u n",
+				"k ˈa r m",
+				"p s a ˈɪ l a",
+				"(",
+				"ˌe m m e k ˌa ˈi m m e d ˌe e r",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"It-turnew",
+				"kien",
+				"ospitat",
+				"minn",
+				"Nouvelle",
+				"Fédération-Board",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"ɪ t t ˈu r n e͡u",
+				"ç ˈiː n",
+				"o s p ˈɪ t a t",
+				"m ˈi n n",
+				"n ˌo u v ˈe l l e",
+				"f ˌe d e ˌe ɹ aː t ˌɪ o n b o ˈa r d e",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wara",
+				"huwa",
+				"mar",
+				"ma",
+				"'",
+				"Melita",
+				",",
+				"fl-istaġun",
+				"2004-2005",
+				"huwa",
+				"ngħaqad",
+				"ma",
+				"'",
+				"Pietà",
+				"Hotspurs",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"u ˈa ɹ a",
+				"ˈuː a",
+				"m ˈa r",
+				"j ˈi s t a x",
+				"'",
+				"m e l ˈɪ t a",
+				",",
+				"ˌe f f e l ɪ s t ˈa d͡ʒ u n",
+				"e t ɹ ˈaː oː ˈi m m e",
+				"ˈuː a",
+				"nː a ˈa d e",
+				"j ˈi s t a x",
+				"'",
+				"p ˈiː t a",
+				"ˈo t s p u r s",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Wara",
+				"dan",
+				",",
+				"il-Kavallieri",
+				"setgħet",
+				"biss",
+				"tiġbor",
+				"punt",
+				"1",
+				"minn",
+				"żewg",
+				"logħbiet",
+				"suċċessivi",
+				"kontra",
+				"rivali",
+				"promossi",
+				"Għaxaq",
+				"u",
+				"St.",
+				"Lucia",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				3,
+				4,
+				0
+			],
+			"epi_tokens": [
+				"u ˈa ɹ a",
+				"d ˈa n",
+				",",
+				"ˌɪ l k a v a l l ˈiː ɹ ɪ",
+				"s ˈe tː e t",
+				"b ˈi s s",
+				"t ˈɪ d͡ʒ b o r",
+				"p ˈu n t",
+				"ˈe t ɹ e",
+				"m ˈi n n",
+				"z ˈe u k",
+				"l ˌoː b i ˈə t",
+				"s ˌu t͡ʃ ə t͡ʃ ə e s s ˈɪ v ɪ",
+				"c ˈo n t ɹ a",
+				"ɹ ɪ v ˈa l ɪ",
+				"p ɹ oː m ˈo s s ɪ",
+				"ˌa ʃ a ˈə",
+				"ˈu",
+				"ˌe s s e t ˈe e",
+				"l u c ˈɪ a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Sar",
+				"il-pavimentar",
+				"ta’",
+				"Triq",
+				"ir-Repubblika",
+				"Belt",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"s ˈa r",
+				"ˌɪ l p a v ɪ m ˈe n t a r",
+				"t ˈa",
+				"t ɹ ɪ ˈə",
+				"ˌɪ r ɹ e p u bː l ˈɪ k a",
+				"b ˈə l t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Fil-karriera",
+				"tiegħu",
+				"bħala",
+				"pedjatra",
+				",",
+				"Dr",
+				"Đokanović",
+				"jaħdem",
+				"fid-Dipartiment",
+				"tal-Ostetrika",
+				"fiċ-Ċentru",
+				"Kliniku",
+				"tal-Università",
+				"ta’",
+				"Sarajevo",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"f ˌɪ l k a r ɹ iː ˈe ɹ aː",
+				"t ˌiː uː",
+				"b h ˈa l a",
+				"p ˌe d e i ˈa t ɹ aː",
+				",",
+				"d ˌe e ˈe r ɹ e",
+				"d͡ʒ ˌo k a n ˈo v ɪ t͡ɕ",
+				"ˌi a h d ˈe e m",
+				"f ˌɪ d e ˌe d e ˌɪ p a r t ˈɪ m e n t",
+				"t ˌa l o s t e t ɹ ˈɪ k a",
+				"f ˌɪ t͡ʃ ə t͡ʃ ə ˈe n t ɹ u",
+				"k ˌe l ɪ n ˈɪ k uː",
+				"t ˌa l u n ˌɪ v e r s ˈɪ t a",
+				"t ˈa",
+				"s ˌa ɹ aː ˈi͡e v o",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Olivier",
+				"Deschacht",
+				"(",
+				"2009–11",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"o l ˈɪ v iː r",
+				"d e ˈe s cː a cː t",
+				"(",
+				"e s t ˌe iː e ˈe f f e ˈe n n e",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Iċ-ċampjins",
+				"minn",
+				"San",
+				"Marino",
+				"u",
+				"Andorra",
+				"jipparteċipaw",
+				"ukoll",
+				"minn",
+				"din",
+				"is-sena",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ t͡ʃ ə t͡ʃ ə ˌa i m p ˈi͡u ɪ n s",
+				"m ˈi n n",
+				"s ˈa n",
+				"m a ɹ ˈɪ n o",
+				"ˈu",
+				"ˌa n d e ˈo r ɹ aː",
+				"ˌi͡u ɪ pː ˌa r t e t͡ʃ ə i p ˈa u",
+				"ˈu c o l l",
+				"m ˈi n n",
+				"d ˈe ɪ n",
+				"ɪ s s ˈe n a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				6,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Jóhanna",
+				"Guðrún",
+				"Jónsdóttir"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"ˌi oː ˈa n n a",
+				"ɡ ˈu ð ɹ u n",
+				"ˌi oː n s d e ˈo tː ɪ r"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Pika",
+				"ta",
+				"'",
+				"Gaoligong"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"p ˈɪ k a",
+				"t ˈaː",
+				"'",
+				"ɡ ˌa o l ˈɪ ɡ o n k"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"il-pajjiż",
+				"ospitu",
+				"Serbja",
+				";"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l p a ˌiː ɪ z ˈə",
+				"o s p ˈɪ t u",
+				"s e r b ˈi a",
+				";"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Hemmhekk",
+				"kellu",
+				"konversazzjoni",
+				"ma’",
+				"Dr.",
+				"Alfred",
+				"Sant",
+				",",
+				"kollega",
+				"ta’",
+				"żmien",
+				"il-Liċeo",
+				"u",
+				"kittieb",
+				"ukoll",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌe m m m e k ˈe k e",
+				"k ˈe l l u",
+				"c ˌo n v e r s ˌa t s e t s ˌe i ˈo n ɪ",
+				"m ˈa",
+				"d ˌe e ˈe r ɹ e",
+				"a l f ɹ ˈe d e",
+				"s ˈa n t",
+				",",
+				"c o l l ˈe ɡ a",
+				"t ˈa",
+				"z ˈə m iː n",
+				"ˌɪ l l ɪ t͡ʃ ə ˈe o",
+				"ˈu",
+				"k ˈiː tː iː p",
+				"ˈu c o l l",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Opossum",
+				"bugeddum",
+				"Peruvjan"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"o p ˈo s s u m",
+				"b u ɡ ˈi͡e dː u m",
+				"p ˌe ɹ u v ˈi a n"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Tim",
+				"nazzjonali",
+				"tal-futbol",
+				"ta",
+				"'",
+				"Spanja"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t a l f ˈu t b o l",
+				"t ˈaː",
+				"'",
+				"s p a n ˈi a"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Opossum",
+				"irqiq",
+				"ta",
+				"'",
+				"Dorothy"
+			],
+			"ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"o p ˈo s s u m",
+				"ɪ ɹ ˈə ɪ ˈə",
+				"t ˈaː",
+				"'",
+				"d ˌe o ɹ ˈoː tː y"
+			],
+			"epi_ner_tags": [
+				5,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Il-kampjonat",
+				"kien",
+				"imwettaq",
+				"fi",
+				"8",
+				"timijiet",
+				",",
+				"u",
+				"Hibernians",
+				"kienu",
+				"rebbieħa",
+				"tal-kampjonat",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l k a ˌi m p i ˈo n a t",
+				"ç ˈiː n",
+				"ˌɪ m u ˌe tː a ˈə",
+				"f ˈiː",
+				"k ˈə",
+				"t ˌɪ m ɪ ˈi͡u iː t",
+				",",
+				"ˈu",
+				"ɪ b ˈə r n ɪ ˌa n s",
+				"ç ˈi͡e n u",
+				"ɹ e bː ˈiː h a",
+				"t ˌa l k a ˌi m p i ˈo n a t",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Papa",
+				"Benedittu",
+				"XVI"
+			],
+			"ner_tags": [
+				0,
+				1,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"p ˈa p a",
+				"b ˈə n e d ˌe ɪ tː ˌu",
+				"ʃ ˈe v ɪ"
+			],
+			"epi_ner_tags": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"Imma",
+				"allegatament",
+				"Monsinjur",
+				"Mikiel",
+				"Gonzi",
+				"kien",
+				"instema",
+				"'",
+				"jgħid",
+				"li",
+				"f'din",
+				"il-kariga",
+				"ried",
+				"jaħtar",
+				"qassis",
+				",",
+				"u",
+				"mhux",
+				"patri",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈɪ m m a",
+				"ˌa l l e ɡ a t ˈa m e n t",
+				"m ˌo n s ɪ n ˈi͡u u r",
+				"m ɪ k ˈiː e l",
+				"ɡ o n t s ˈe ɪ",
+				"ç ˈiː n",
+				"ɪ n s t ˈe m a",
+				"'",
+				"i͡uː ˈɪ d e",
+				"l ˈɪ",
+				"f d ˈe ɪ n",
+				"ˌɪ l k a ɹ ˈɪ ɡ a",
+				"ɹ iː ˈe d e",
+				"i ˈa h t a r",
+				"ˈa s s ɪ s",
+				",",
+				"ˈu",
+				"m ˈuː ʃ",
+				"p ˈa t ɹ ɪ",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Tim",
+				"nazzjonali",
+				"tal-futbol",
+				"tar-Repubblika",
+				"Ċeka"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"t ˈɪ m",
+				"n ˌa t s e t s ˌe i o n ˈa l ɪ",
+				"t a l f ˈu t b o l",
+				"t ˌa r ɹ e p u bː l ˈɪ k a",
+				"t͡ʃ ə ˈe k a"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"“Vassalli",
+				"ddakkar",
+				"mill-ispirtu",
+				"ta’",
+				"żminijietu”",
+				",",
+				"jgħid",
+				"Cremona",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			],
+			"epi_tokens": [
+				"v a s s ˈa l l ɪ",
+				"dː a k ˈe k a r",
+				"m ˌɪ l l ɪ s p ˈɪ r t u",
+				"t ˈa",
+				"z ˈə m ɪ n ˌɪ i͡u ˌiː t u",
+				",",
+				"i͡uː ˈɪ d e",
+				"c ɹ e m ˈo n a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"''Bejn",
+				"l-1978",
+				"u",
+				"l-1987",
+				",",
+				"Dom",
+				"Mintoff",
+				"issospenda",
+				"l-katedra",
+				".",
+				"''"
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"b ˈə i͡u n",
+				"ˈe l l e ˈə ˈə n e",
+				"ˈu",
+				"ˈe l l e t s ˌe e ˈi m m e",
+				",",
+				"d ˈe o m",
+				"m ˈɪ n t o f f",
+				"ˌɪ s s o s p e n d ˈe a",
+				"ˌe l k a t e d ˈe ɹ aː",
+				".",
+				""
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Ir-rebħ",
+				"tal-kampjonat",
+				"fisser",
+				"ukoll",
+				"it-tnax-il",
+				"titlu",
+				"għall-kowċ",
+				"Sir",
+				"Alex",
+				"Ferguson",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			],
+			"epi_tokens": [
+				"ˈɪ r ɹ e p h",
+				"t ˌa l k a ˌi m p i ˈo n a t",
+				"f ˈɪ s s e r",
+				"ˈu c o l l",
+				"ˌɪ tː n ˈa ʃ ɪ l",
+				"t ˈɪ t l u",
+				"a l l c ˈo u t͡ʃ ə",
+				"s ˈɪ r",
+				"a l ˈe ʃ e",
+				"f e r ɡ ˈu s o n",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Premier",
+				"League",
+				"2008–09"
+			],
+			"ner_tags": [
+				0,
+				5,
+				6,
+				6
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"p ɹ ˈe m iː r",
+				"l ˌe a ɡ ˈu e",
+				"e s t ˌe i f o r ˈe"
+			],
+			"epi_ner_tags": [
+				0,
+				5,
+				6,
+				6
+			]
+		},
+		{
+			"tokens": [
+				"Madanakollu",
+				",",
+				"il-United",
+				"irkupraw",
+				"u",
+				"bdew",
+				"il-ġlieda",
+				"għat-titlu",
+				"Arsenal",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			],
+			"epi_tokens": [
+				"m ˌa d e ˌa n a c ˈo l l u",
+				",",
+				"ˌɪ l u n ɪ t ˈe d e",
+				"ˌɪ r k uː p ɹ ˈaː u",
+				"ˈu",
+				"b d ˈe e͡u",
+				"ˌɪ l d͡ʒ l iː d ˈe a",
+				"a tː ˈɪ t l u",
+				"a r s ˈe n a l",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Il-protagonist",
+				",",
+				"Piscine",
+				"Molitor",
+				"``",
+				"Pi",
+				"''",
+				"Patel",
+				",",
+				"tifel",
+				"Indjan",
+				"minn",
+				"Pondicherry",
+				",",
+				"jesplora",
+				"t-temi",
+				"tal-ispiritwalità",
+				"u",
+				"tal-prattiċità",
+				"minn",
+				"età",
+				"bikrija",
+				"."
+			],
+			"ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˌɪ l p ɹ oː t a ɡ ˈo n ɪ s t",
+				",",
+				"p ɪ s c ˈɪ n e",
+				"m o l ˈɪ t o r",
+				"ˈə",
+				"p ˈɪ",
+				"",
+				"p ˈa t e l",
+				",",
+				"t ˈɪ f e l",
+				"ˌɪ n d e ˈi a n",
+				"m ˈi n n",
+				"p ˌo n d e ɪ cː ˈe r ɹ y",
+				",",
+				"i͡e s p l ˈo ɹ aː",
+				"t ˈe m ɪ",
+				"t ˌa l ɪ s p ˌɪ ɹ ɪ t ˌu a l ˈɪ t a",
+				"ˈu",
+				"t ˌa l p ɹ aː tː ˌɪ t͡ʃ ə ˈi t a",
+				"m ˈi n n",
+				"ˈe t a",
+				"b ˌiː k e ɹ ɪ ˈi a",
+				"."
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Edwin",
+				"van",
+				"der",
+				"Sar"
+			],
+			"ner_tags": [
+				1,
+				2,
+				2,
+				2
+			],
+			"epi_tokens": [
+				"ˌe d e ˈu ɪ n",
+				"v ˈa n",
+				"d ˈe e r",
+				"s ˈa r"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"tokens": [
+				"West",
+				"Asian",
+				"Football",
+				"Federation",
+				"(",
+				"WAFF",
+				")"
+			],
+			"ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"ˈu e s t",
+				"a s ˈɪ a n",
+				"f o ˈo t b a l l",
+				"f ˌe d e ˌe ɹ aː t ˈɪ o n",
+				"(",
+				"ˈu a f f",
+				")"
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				4,
+				4,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"RINDIRIZZA",
+				"Tarxien",
+				"Rainbows",
+				"FC"
+			],
+			"ner_tags": [
+				0,
+				3,
+				4,
+				4
+			],
+			"epi_tokens": [
+				"ɹ ˌɪ n d e ˌɪ ɹ ɪ t s e t s ˈe a",
+				"t ˈa r ʃ e͡iː n",
+				"ɹ ˌaː ɪ n b ˈo u s",
+				"ˌe f f e k ˈa"
+			],
+			"epi_ner_tags": [
+				0,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"tokens": [
+				"Mario",
+				"Notaro",
+				"(",
+				"Mar",
+				"2013–Apr",
+				"13",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"m a ɹ ˈɪ o",
+				"n o t ˈa ɹ oː",
+				"(",
+				"m ˈa r",
+				"t e s ˌe i m ˈa p ə r",
+				"ˌe m m e ˈu",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Francky",
+				"Dury",
+				"(",
+				"Diċ",
+				"2011–",
+				")"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"f ɹ aː n c k ˈe y",
+				"d e ˈu ɹ y",
+				"(",
+				"d e ˈɪ t͡ʃ ə",
+				"t e : t e r e",
+				")"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"Lino",
+				"Grech",
+				"(",
+				"1930–2013",
+				")",
+				"—",
+				"attur",
+				"u",
+				"direttur"
+			],
+			"ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"l ˈɪ n o",
+				"ɡ ɹ ˈe cː",
+				"(",
+				"e s t ˌe s s e u ˈe f f e",
+				")",
+				"h ˈa k k a",
+				"ˈa tː u r",
+				"ˈu",
+				"d ˌe ɪ ɹ ˈe tː u r"
+			],
+			"epi_ner_tags": [
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"kampjonat",
+				"tal-2008",
+				",",
+				"it-trofew",
+				"kien",
+				"daqxejn",
+				"mibdul",
+				",",
+				"hekk",
+				"kif",
+				"issa",
+				"sar",
+				"ikbar",
+				"."
+			],
+			"ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"epi_tokens": [
+				"k ˌa i m p i ˈo n a t",
+				"t ˈa l t ə ˈi k e",
+				",",
+				"ɪ tː ɹ ˈoː f e͡u",
+				"ç ˈiː n",
+				"d ˌe a ˈə ʃ e ˌe i͡u n",
+				"m ɪ b d ˈe u l",
+				",",
+				"e k ˈe k e",
+				"ç ˈiː f",
+				"ˈi s s a",
+				"s ˈa r",
+				"ɪ k ˈe b a r",
+				"."
+			],
+			"epi_ner_tags": [
+				3,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"tokens": [
+				"(",
+				"bejn",
+				"Franza",
+				"u",
+				"Spanja",
+				")"
+			],
+			"ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				5,
+				0
+			],
+			"epi_tokens": [
+				"(",
+				"b ˈe͡iː n",
+				"f ɹ aː n t s ˈe a",
+				"ˈu",
+				"s p a n ˈi a",
+				")"
+			],
+			"epi_ner_tags": [
+				0,
+				0,
+				5,
+				0,
+				5,
+				0
+			]
+		}
+	]
+}
